@@ -143,6 +143,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22 00:00:00,Saint Lucia,0,0,0
 2020-01-22 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-22 00:00:00,San Marino,0,0,0
+2020-01-22 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-22 00:00:00,Saudi Arabia,0,0,0
 2020-01-22 00:00:00,Senegal,0,0,0
 2020-01-22 00:00:00,Serbia,0,0,0
@@ -153,6 +154,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22 00:00:00,Slovenia,0,0,0
 2020-01-22 00:00:00,Somalia,0,0,0
 2020-01-22 00:00:00,South Africa,0,0,0
+2020-01-22 00:00:00,South Sudan,0,0,0
 2020-01-22 00:00:00,Spain,0,0,0
 2020-01-22 00:00:00,Sri Lanka,0,0,0
 2020-01-22 00:00:00,Sudan,0,0,0
@@ -178,6 +180,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22 00:00:00,Venezuela,0,0,0
 2020-01-22 00:00:00,Vietnam,0,0,0
 2020-01-22 00:00:00,West Bank and Gaza,0,0,0
+2020-01-22 00:00:00,Western Sahara,0,0,0
 2020-01-22 00:00:00,Zambia,0,0,0
 2020-01-22 00:00:00,Zimbabwe,0,0,0
 2020-01-23 00:00:00,Afghanistan,0,0,0
@@ -324,6 +327,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23 00:00:00,Saint Lucia,0,0,0
 2020-01-23 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-23 00:00:00,San Marino,0,0,0
+2020-01-23 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-23 00:00:00,Saudi Arabia,0,0,0
 2020-01-23 00:00:00,Senegal,0,0,0
 2020-01-23 00:00:00,Serbia,0,0,0
@@ -334,6 +338,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23 00:00:00,Slovenia,0,0,0
 2020-01-23 00:00:00,Somalia,0,0,0
 2020-01-23 00:00:00,South Africa,0,0,0
+2020-01-23 00:00:00,South Sudan,0,0,0
 2020-01-23 00:00:00,Spain,0,0,0
 2020-01-23 00:00:00,Sri Lanka,0,0,0
 2020-01-23 00:00:00,Sudan,0,0,0
@@ -359,6 +364,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23 00:00:00,Venezuela,0,0,0
 2020-01-23 00:00:00,Vietnam,2,0,0
 2020-01-23 00:00:00,West Bank and Gaza,0,0,0
+2020-01-23 00:00:00,Western Sahara,0,0,0
 2020-01-23 00:00:00,Zambia,0,0,0
 2020-01-23 00:00:00,Zimbabwe,0,0,0
 2020-01-24 00:00:00,Afghanistan,0,0,0
@@ -422,7 +428,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24 00:00:00,Ethiopia,0,0,0
 2020-01-24 00:00:00,Fiji,0,0,0
 2020-01-24 00:00:00,Finland,0,0,0
-2020-01-24 00:00:00,France,2,0,0
+2020-01-24 00:00:00,France,0,0,0
 2020-01-24 00:00:00,Gabon,0,0,0
 2020-01-24 00:00:00,Gambia,0,0,0
 2020-01-24 00:00:00,Georgia,0,0,0
@@ -505,6 +511,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24 00:00:00,Saint Lucia,0,0,0
 2020-01-24 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-24 00:00:00,San Marino,0,0,0
+2020-01-24 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-24 00:00:00,Saudi Arabia,0,0,0
 2020-01-24 00:00:00,Senegal,0,0,0
 2020-01-24 00:00:00,Serbia,0,0,0
@@ -515,6 +522,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24 00:00:00,Slovenia,0,0,0
 2020-01-24 00:00:00,Somalia,0,0,0
 2020-01-24 00:00:00,South Africa,0,0,0
+2020-01-24 00:00:00,South Sudan,0,0,0
 2020-01-24 00:00:00,Spain,0,0,0
 2020-01-24 00:00:00,Sri Lanka,0,0,0
 2020-01-24 00:00:00,Sudan,0,0,0
@@ -540,6 +548,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24 00:00:00,Venezuela,0,0,0
 2020-01-24 00:00:00,Vietnam,2,0,0
 2020-01-24 00:00:00,West Bank and Gaza,0,0,0
+2020-01-24 00:00:00,Western Sahara,0,0,0
 2020-01-24 00:00:00,Zambia,0,0,0
 2020-01-24 00:00:00,Zimbabwe,0,0,0
 2020-01-25 00:00:00,Afghanistan,0,0,0
@@ -603,7 +612,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25 00:00:00,Ethiopia,0,0,0
 2020-01-25 00:00:00,Fiji,0,0,0
 2020-01-25 00:00:00,Finland,0,0,0
-2020-01-25 00:00:00,France,3,0,0
+2020-01-25 00:00:00,France,0,0,0
 2020-01-25 00:00:00,Gabon,0,0,0
 2020-01-25 00:00:00,Gambia,0,0,0
 2020-01-25 00:00:00,Georgia,0,0,0
@@ -686,6 +695,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25 00:00:00,Saint Lucia,0,0,0
 2020-01-25 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-25 00:00:00,San Marino,0,0,0
+2020-01-25 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-25 00:00:00,Saudi Arabia,0,0,0
 2020-01-25 00:00:00,Senegal,0,0,0
 2020-01-25 00:00:00,Serbia,0,0,0
@@ -696,6 +706,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25 00:00:00,Slovenia,0,0,0
 2020-01-25 00:00:00,Somalia,0,0,0
 2020-01-25 00:00:00,South Africa,0,0,0
+2020-01-25 00:00:00,South Sudan,0,0,0
 2020-01-25 00:00:00,Spain,0,0,0
 2020-01-25 00:00:00,Sri Lanka,0,0,0
 2020-01-25 00:00:00,Sudan,0,0,0
@@ -721,6 +732,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25 00:00:00,Venezuela,0,0,0
 2020-01-25 00:00:00,Vietnam,2,0,0
 2020-01-25 00:00:00,West Bank and Gaza,0,0,0
+2020-01-25 00:00:00,Western Sahara,0,0,0
 2020-01-25 00:00:00,Zambia,0,0,0
 2020-01-25 00:00:00,Zimbabwe,0,0,0
 2020-01-26 00:00:00,Afghanistan,0,0,0
@@ -784,7 +796,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26 00:00:00,Ethiopia,0,0,0
 2020-01-26 00:00:00,Fiji,0,0,0
 2020-01-26 00:00:00,Finland,0,0,0
-2020-01-26 00:00:00,France,3,0,0
+2020-01-26 00:00:00,France,0,0,0
 2020-01-26 00:00:00,Gabon,0,0,0
 2020-01-26 00:00:00,Gambia,0,0,0
 2020-01-26 00:00:00,Georgia,0,0,0
@@ -867,6 +879,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26 00:00:00,Saint Lucia,0,0,0
 2020-01-26 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-26 00:00:00,San Marino,0,0,0
+2020-01-26 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-26 00:00:00,Saudi Arabia,0,0,0
 2020-01-26 00:00:00,Senegal,0,0,0
 2020-01-26 00:00:00,Serbia,0,0,0
@@ -877,6 +890,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26 00:00:00,Slovenia,0,0,0
 2020-01-26 00:00:00,Somalia,0,0,0
 2020-01-26 00:00:00,South Africa,0,0,0
+2020-01-26 00:00:00,South Sudan,0,0,0
 2020-01-26 00:00:00,Spain,0,0,0
 2020-01-26 00:00:00,Sri Lanka,0,0,0
 2020-01-26 00:00:00,Sudan,0,0,0
@@ -902,6 +916,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26 00:00:00,Venezuela,0,0,0
 2020-01-26 00:00:00,Vietnam,2,0,0
 2020-01-26 00:00:00,West Bank and Gaza,0,0,0
+2020-01-26 00:00:00,Western Sahara,0,0,0
 2020-01-26 00:00:00,Zambia,0,0,0
 2020-01-26 00:00:00,Zimbabwe,0,0,0
 2020-01-27 00:00:00,Afghanistan,0,0,0
@@ -965,7 +980,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27 00:00:00,Ethiopia,0,0,0
 2020-01-27 00:00:00,Fiji,0,0,0
 2020-01-27 00:00:00,Finland,0,0,0
-2020-01-27 00:00:00,France,3,0,0
+2020-01-27 00:00:00,France,0,0,0
 2020-01-27 00:00:00,Gabon,0,0,0
 2020-01-27 00:00:00,Gambia,0,0,0
 2020-01-27 00:00:00,Georgia,0,0,0
@@ -1048,6 +1063,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27 00:00:00,Saint Lucia,0,0,0
 2020-01-27 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-27 00:00:00,San Marino,0,0,0
+2020-01-27 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-27 00:00:00,Saudi Arabia,0,0,0
 2020-01-27 00:00:00,Senegal,0,0,0
 2020-01-27 00:00:00,Serbia,0,0,0
@@ -1058,6 +1074,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27 00:00:00,Slovenia,0,0,0
 2020-01-27 00:00:00,Somalia,0,0,0
 2020-01-27 00:00:00,South Africa,0,0,0
+2020-01-27 00:00:00,South Sudan,0,0,0
 2020-01-27 00:00:00,Spain,0,0,0
 2020-01-27 00:00:00,Sri Lanka,1,0,0
 2020-01-27 00:00:00,Sudan,0,0,0
@@ -1083,6 +1100,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27 00:00:00,Venezuela,0,0,0
 2020-01-27 00:00:00,Vietnam,2,0,0
 2020-01-27 00:00:00,West Bank and Gaza,0,0,0
+2020-01-27 00:00:00,Western Sahara,0,0,0
 2020-01-27 00:00:00,Zambia,0,0,0
 2020-01-27 00:00:00,Zimbabwe,0,0,0
 2020-01-28 00:00:00,Afghanistan,0,0,0
@@ -1146,7 +1164,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28 00:00:00,Ethiopia,0,0,0
 2020-01-28 00:00:00,Fiji,0,0,0
 2020-01-28 00:00:00,Finland,0,0,0
-2020-01-28 00:00:00,France,4,0,0
+2020-01-28 00:00:00,France,0,0,0
 2020-01-28 00:00:00,Gabon,0,0,0
 2020-01-28 00:00:00,Gambia,0,0,0
 2020-01-28 00:00:00,Georgia,0,0,0
@@ -1229,6 +1247,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28 00:00:00,Saint Lucia,0,0,0
 2020-01-28 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-28 00:00:00,San Marino,0,0,0
+2020-01-28 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-28 00:00:00,Saudi Arabia,0,0,0
 2020-01-28 00:00:00,Senegal,0,0,0
 2020-01-28 00:00:00,Serbia,0,0,0
@@ -1239,6 +1258,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28 00:00:00,Slovenia,0,0,0
 2020-01-28 00:00:00,Somalia,0,0,0
 2020-01-28 00:00:00,South Africa,0,0,0
+2020-01-28 00:00:00,South Sudan,0,0,0
 2020-01-28 00:00:00,Spain,0,0,0
 2020-01-28 00:00:00,Sri Lanka,1,0,0
 2020-01-28 00:00:00,Sudan,0,0,0
@@ -1264,6 +1284,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28 00:00:00,Venezuela,0,0,0
 2020-01-28 00:00:00,Vietnam,2,0,0
 2020-01-28 00:00:00,West Bank and Gaza,0,0,0
+2020-01-28 00:00:00,Western Sahara,0,0,0
 2020-01-28 00:00:00,Zambia,0,0,0
 2020-01-28 00:00:00,Zimbabwe,0,0,0
 2020-01-29 00:00:00,Afghanistan,0,0,0
@@ -1327,7 +1348,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29 00:00:00,Ethiopia,0,0,0
 2020-01-29 00:00:00,Fiji,0,0,0
 2020-01-29 00:00:00,Finland,1,0,0
-2020-01-29 00:00:00,France,5,0,0
+2020-01-29 00:00:00,France,0,0,0
 2020-01-29 00:00:00,Gabon,0,0,0
 2020-01-29 00:00:00,Gambia,0,0,0
 2020-01-29 00:00:00,Georgia,0,0,0
@@ -1410,6 +1431,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29 00:00:00,Saint Lucia,0,0,0
 2020-01-29 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-29 00:00:00,San Marino,0,0,0
+2020-01-29 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-29 00:00:00,Saudi Arabia,0,0,0
 2020-01-29 00:00:00,Senegal,0,0,0
 2020-01-29 00:00:00,Serbia,0,0,0
@@ -1420,6 +1442,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29 00:00:00,Slovenia,0,0,0
 2020-01-29 00:00:00,Somalia,0,0,0
 2020-01-29 00:00:00,South Africa,0,0,0
+2020-01-29 00:00:00,South Sudan,0,0,0
 2020-01-29 00:00:00,Spain,0,0,0
 2020-01-29 00:00:00,Sri Lanka,1,0,0
 2020-01-29 00:00:00,Sudan,0,0,0
@@ -1445,6 +1468,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29 00:00:00,Venezuela,0,0,0
 2020-01-29 00:00:00,Vietnam,2,0,0
 2020-01-29 00:00:00,West Bank and Gaza,0,0,0
+2020-01-29 00:00:00,Western Sahara,0,0,0
 2020-01-29 00:00:00,Zambia,0,0,0
 2020-01-29 00:00:00,Zimbabwe,0,0,0
 2020-01-30 00:00:00,Afghanistan,0,0,0
@@ -1508,7 +1532,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30 00:00:00,Ethiopia,0,0,0
 2020-01-30 00:00:00,Fiji,0,0,0
 2020-01-30 00:00:00,Finland,1,0,0
-2020-01-30 00:00:00,France,5,0,0
+2020-01-30 00:00:00,France,0,0,0
 2020-01-30 00:00:00,Gabon,0,0,0
 2020-01-30 00:00:00,Gambia,0,0,0
 2020-01-30 00:00:00,Georgia,0,0,0
@@ -1591,6 +1615,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30 00:00:00,Saint Lucia,0,0,0
 2020-01-30 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-30 00:00:00,San Marino,0,0,0
+2020-01-30 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-30 00:00:00,Saudi Arabia,0,0,0
 2020-01-30 00:00:00,Senegal,0,0,0
 2020-01-30 00:00:00,Serbia,0,0,0
@@ -1601,6 +1626,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30 00:00:00,Slovenia,0,0,0
 2020-01-30 00:00:00,Somalia,0,0,0
 2020-01-30 00:00:00,South Africa,0,0,0
+2020-01-30 00:00:00,South Sudan,0,0,0
 2020-01-30 00:00:00,Spain,0,0,0
 2020-01-30 00:00:00,Sri Lanka,1,0,0
 2020-01-30 00:00:00,Sudan,0,0,0
@@ -1626,6 +1652,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30 00:00:00,Venezuela,0,0,0
 2020-01-30 00:00:00,Vietnam,2,0,0
 2020-01-30 00:00:00,West Bank and Gaza,0,0,0
+2020-01-30 00:00:00,Western Sahara,0,0,0
 2020-01-30 00:00:00,Zambia,0,0,0
 2020-01-30 00:00:00,Zimbabwe,0,0,0
 2020-01-31 00:00:00,Afghanistan,0,0,0
@@ -1689,7 +1716,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31 00:00:00,Ethiopia,0,0,0
 2020-01-31 00:00:00,Fiji,0,0,0
 2020-01-31 00:00:00,Finland,1,0,0
-2020-01-31 00:00:00,France,5,0,0
+2020-01-31 00:00:00,France,0,0,0
 2020-01-31 00:00:00,Gabon,0,0,0
 2020-01-31 00:00:00,Gambia,0,0,0
 2020-01-31 00:00:00,Georgia,0,0,0
@@ -1772,6 +1799,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31 00:00:00,Saint Lucia,0,0,0
 2020-01-31 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-01-31 00:00:00,San Marino,0,0,0
+2020-01-31 00:00:00,Sao Tome and Principe,0,0,0
 2020-01-31 00:00:00,Saudi Arabia,0,0,0
 2020-01-31 00:00:00,Senegal,0,0,0
 2020-01-31 00:00:00,Serbia,0,0,0
@@ -1782,6 +1810,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31 00:00:00,Slovenia,0,0,0
 2020-01-31 00:00:00,Somalia,0,0,0
 2020-01-31 00:00:00,South Africa,0,0,0
+2020-01-31 00:00:00,South Sudan,0,0,0
 2020-01-31 00:00:00,Spain,0,0,0
 2020-01-31 00:00:00,Sri Lanka,1,0,0
 2020-01-31 00:00:00,Sudan,0,0,0
@@ -1807,6 +1836,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31 00:00:00,Venezuela,0,0,0
 2020-01-31 00:00:00,Vietnam,2,0,0
 2020-01-31 00:00:00,West Bank and Gaza,0,0,0
+2020-01-31 00:00:00,Western Sahara,0,0,0
 2020-01-31 00:00:00,Zambia,0,0,0
 2020-01-31 00:00:00,Zimbabwe,0,0,0
 2020-02-01 00:00:00,Afghanistan,0,0,0
@@ -1870,7 +1900,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01 00:00:00,Ethiopia,0,0,0
 2020-02-01 00:00:00,Fiji,0,0,0
 2020-02-01 00:00:00,Finland,1,0,0
-2020-02-01 00:00:00,France,6,0,0
+2020-02-01 00:00:00,France,0,0,0
 2020-02-01 00:00:00,Gabon,0,0,0
 2020-02-01 00:00:00,Gambia,0,0,0
 2020-02-01 00:00:00,Georgia,0,0,0
@@ -1953,6 +1983,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01 00:00:00,Saint Lucia,0,0,0
 2020-02-01 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-01 00:00:00,San Marino,0,0,0
+2020-02-01 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-01 00:00:00,Saudi Arabia,0,0,0
 2020-02-01 00:00:00,Senegal,0,0,0
 2020-02-01 00:00:00,Serbia,0,0,0
@@ -1963,6 +1994,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01 00:00:00,Slovenia,0,0,0
 2020-02-01 00:00:00,Somalia,0,0,0
 2020-02-01 00:00:00,South Africa,0,0,0
+2020-02-01 00:00:00,South Sudan,0,0,0
 2020-02-01 00:00:00,Spain,1,0,0
 2020-02-01 00:00:00,Sri Lanka,1,0,0
 2020-02-01 00:00:00,Sudan,0,0,0
@@ -1988,6 +2020,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01 00:00:00,Venezuela,0,0,0
 2020-02-01 00:00:00,Vietnam,6,0,1
 2020-02-01 00:00:00,West Bank and Gaza,0,0,0
+2020-02-01 00:00:00,Western Sahara,0,0,0
 2020-02-01 00:00:00,Zambia,0,0,0
 2020-02-01 00:00:00,Zimbabwe,0,0,0
 2020-02-02 00:00:00,Afghanistan,0,0,0
@@ -2051,7 +2084,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02 00:00:00,Ethiopia,0,0,0
 2020-02-02 00:00:00,Fiji,0,0,0
 2020-02-02 00:00:00,Finland,1,0,0
-2020-02-02 00:00:00,France,6,0,0
+2020-02-02 00:00:00,France,0,0,0
 2020-02-02 00:00:00,Gabon,0,0,0
 2020-02-02 00:00:00,Gambia,0,0,0
 2020-02-02 00:00:00,Georgia,0,0,0
@@ -2134,6 +2167,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02 00:00:00,Saint Lucia,0,0,0
 2020-02-02 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-02 00:00:00,San Marino,0,0,0
+2020-02-02 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-02 00:00:00,Saudi Arabia,0,0,0
 2020-02-02 00:00:00,Senegal,0,0,0
 2020-02-02 00:00:00,Serbia,0,0,0
@@ -2144,6 +2178,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02 00:00:00,Slovenia,0,0,0
 2020-02-02 00:00:00,Somalia,0,0,0
 2020-02-02 00:00:00,South Africa,0,0,0
+2020-02-02 00:00:00,South Sudan,0,0,0
 2020-02-02 00:00:00,Spain,1,0,0
 2020-02-02 00:00:00,Sri Lanka,1,0,0
 2020-02-02 00:00:00,Sudan,0,0,0
@@ -2169,6 +2204,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02 00:00:00,Venezuela,0,0,0
 2020-02-02 00:00:00,Vietnam,6,0,1
 2020-02-02 00:00:00,West Bank and Gaza,0,0,0
+2020-02-02 00:00:00,Western Sahara,0,0,0
 2020-02-02 00:00:00,Zambia,0,0,0
 2020-02-02 00:00:00,Zimbabwe,0,0,0
 2020-02-03 00:00:00,Afghanistan,0,0,0
@@ -2232,7 +2268,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03 00:00:00,Ethiopia,0,0,0
 2020-02-03 00:00:00,Fiji,0,0,0
 2020-02-03 00:00:00,Finland,1,0,0
-2020-02-03 00:00:00,France,6,0,0
+2020-02-03 00:00:00,France,0,0,0
 2020-02-03 00:00:00,Gabon,0,0,0
 2020-02-03 00:00:00,Gambia,0,0,0
 2020-02-03 00:00:00,Georgia,0,0,0
@@ -2315,6 +2351,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03 00:00:00,Saint Lucia,0,0,0
 2020-02-03 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-03 00:00:00,San Marino,0,0,0
+2020-02-03 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-03 00:00:00,Saudi Arabia,0,0,0
 2020-02-03 00:00:00,Senegal,0,0,0
 2020-02-03 00:00:00,Serbia,0,0,0
@@ -2325,6 +2362,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03 00:00:00,Slovenia,0,0,0
 2020-02-03 00:00:00,Somalia,0,0,0
 2020-02-03 00:00:00,South Africa,0,0,0
+2020-02-03 00:00:00,South Sudan,0,0,0
 2020-02-03 00:00:00,Spain,1,0,0
 2020-02-03 00:00:00,Sri Lanka,1,0,0
 2020-02-03 00:00:00,Sudan,0,0,0
@@ -2350,6 +2388,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03 00:00:00,Venezuela,0,0,0
 2020-02-03 00:00:00,Vietnam,8,0,1
 2020-02-03 00:00:00,West Bank and Gaza,0,0,0
+2020-02-03 00:00:00,Western Sahara,0,0,0
 2020-02-03 00:00:00,Zambia,0,0,0
 2020-02-03 00:00:00,Zimbabwe,0,0,0
 2020-02-04 00:00:00,Afghanistan,0,0,0
@@ -2413,7 +2452,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04 00:00:00,Ethiopia,0,0,0
 2020-02-04 00:00:00,Fiji,0,0,0
 2020-02-04 00:00:00,Finland,1,0,0
-2020-02-04 00:00:00,France,6,0,0
+2020-02-04 00:00:00,France,0,0,0
 2020-02-04 00:00:00,Gabon,0,0,0
 2020-02-04 00:00:00,Gambia,0,0,0
 2020-02-04 00:00:00,Georgia,0,0,0
@@ -2496,6 +2535,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04 00:00:00,Saint Lucia,0,0,0
 2020-02-04 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-04 00:00:00,San Marino,0,0,0
+2020-02-04 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-04 00:00:00,Saudi Arabia,0,0,0
 2020-02-04 00:00:00,Senegal,0,0,0
 2020-02-04 00:00:00,Serbia,0,0,0
@@ -2506,6 +2546,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04 00:00:00,Slovenia,0,0,0
 2020-02-04 00:00:00,Somalia,0,0,0
 2020-02-04 00:00:00,South Africa,0,0,0
+2020-02-04 00:00:00,South Sudan,0,0,0
 2020-02-04 00:00:00,Spain,1,0,0
 2020-02-04 00:00:00,Sri Lanka,1,0,0
 2020-02-04 00:00:00,Sudan,0,0,0
@@ -2531,6 +2572,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04 00:00:00,Venezuela,0,0,0
 2020-02-04 00:00:00,Vietnam,8,0,1
 2020-02-04 00:00:00,West Bank and Gaza,0,0,0
+2020-02-04 00:00:00,Western Sahara,0,0,0
 2020-02-04 00:00:00,Zambia,0,0,0
 2020-02-04 00:00:00,Zimbabwe,0,0,0
 2020-02-05 00:00:00,Afghanistan,0,0,0
@@ -2594,7 +2636,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05 00:00:00,Ethiopia,0,0,0
 2020-02-05 00:00:00,Fiji,0,0,0
 2020-02-05 00:00:00,Finland,1,0,0
-2020-02-05 00:00:00,France,6,0,0
+2020-02-05 00:00:00,France,0,0,0
 2020-02-05 00:00:00,Gabon,0,0,0
 2020-02-05 00:00:00,Gambia,0,0,0
 2020-02-05 00:00:00,Georgia,0,0,0
@@ -2677,6 +2719,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05 00:00:00,Saint Lucia,0,0,0
 2020-02-05 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-05 00:00:00,San Marino,0,0,0
+2020-02-05 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-05 00:00:00,Saudi Arabia,0,0,0
 2020-02-05 00:00:00,Senegal,0,0,0
 2020-02-05 00:00:00,Serbia,0,0,0
@@ -2687,6 +2730,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05 00:00:00,Slovenia,0,0,0
 2020-02-05 00:00:00,Somalia,0,0,0
 2020-02-05 00:00:00,South Africa,0,0,0
+2020-02-05 00:00:00,South Sudan,0,0,0
 2020-02-05 00:00:00,Spain,1,0,0
 2020-02-05 00:00:00,Sri Lanka,1,0,0
 2020-02-05 00:00:00,Sudan,0,0,0
@@ -2712,6 +2756,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05 00:00:00,Venezuela,0,0,0
 2020-02-05 00:00:00,Vietnam,8,0,1
 2020-02-05 00:00:00,West Bank and Gaza,0,0,0
+2020-02-05 00:00:00,Western Sahara,0,0,0
 2020-02-05 00:00:00,Zambia,0,0,0
 2020-02-05 00:00:00,Zimbabwe,0,0,0
 2020-02-06 00:00:00,Afghanistan,0,0,0
@@ -2775,7 +2820,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06 00:00:00,Ethiopia,0,0,0
 2020-02-06 00:00:00,Fiji,0,0,0
 2020-02-06 00:00:00,Finland,1,0,0
-2020-02-06 00:00:00,France,6,0,0
+2020-02-06 00:00:00,France,0,0,0
 2020-02-06 00:00:00,Gabon,0,0,0
 2020-02-06 00:00:00,Gambia,0,0,0
 2020-02-06 00:00:00,Georgia,0,0,0
@@ -2858,6 +2903,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06 00:00:00,Saint Lucia,0,0,0
 2020-02-06 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-06 00:00:00,San Marino,0,0,0
+2020-02-06 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-06 00:00:00,Saudi Arabia,0,0,0
 2020-02-06 00:00:00,Senegal,0,0,0
 2020-02-06 00:00:00,Serbia,0,0,0
@@ -2868,6 +2914,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06 00:00:00,Slovenia,0,0,0
 2020-02-06 00:00:00,Somalia,0,0,0
 2020-02-06 00:00:00,South Africa,0,0,0
+2020-02-06 00:00:00,South Sudan,0,0,0
 2020-02-06 00:00:00,Spain,1,0,0
 2020-02-06 00:00:00,Sri Lanka,1,0,0
 2020-02-06 00:00:00,Sudan,0,0,0
@@ -2893,6 +2940,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06 00:00:00,Venezuela,0,0,0
 2020-02-06 00:00:00,Vietnam,10,0,1
 2020-02-06 00:00:00,West Bank and Gaza,0,0,0
+2020-02-06 00:00:00,Western Sahara,0,0,0
 2020-02-06 00:00:00,Zambia,0,0,0
 2020-02-06 00:00:00,Zimbabwe,0,0,0
 2020-02-07 00:00:00,Afghanistan,0,0,0
@@ -2956,7 +3004,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07 00:00:00,Ethiopia,0,0,0
 2020-02-07 00:00:00,Fiji,0,0,0
 2020-02-07 00:00:00,Finland,1,0,0
-2020-02-07 00:00:00,France,6,0,0
+2020-02-07 00:00:00,France,0,0,0
 2020-02-07 00:00:00,Gabon,0,0,0
 2020-02-07 00:00:00,Gambia,0,0,0
 2020-02-07 00:00:00,Georgia,0,0,0
@@ -3039,6 +3087,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07 00:00:00,Saint Lucia,0,0,0
 2020-02-07 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-07 00:00:00,San Marino,0,0,0
+2020-02-07 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-07 00:00:00,Saudi Arabia,0,0,0
 2020-02-07 00:00:00,Senegal,0,0,0
 2020-02-07 00:00:00,Serbia,0,0,0
@@ -3049,6 +3098,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07 00:00:00,Slovenia,0,0,0
 2020-02-07 00:00:00,Somalia,0,0,0
 2020-02-07 00:00:00,South Africa,0,0,0
+2020-02-07 00:00:00,South Sudan,0,0,0
 2020-02-07 00:00:00,Spain,1,0,0
 2020-02-07 00:00:00,Sri Lanka,1,0,0
 2020-02-07 00:00:00,Sudan,0,0,0
@@ -3074,6 +3124,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07 00:00:00,Venezuela,0,0,0
 2020-02-07 00:00:00,Vietnam,10,0,1
 2020-02-07 00:00:00,West Bank and Gaza,0,0,0
+2020-02-07 00:00:00,Western Sahara,0,0,0
 2020-02-07 00:00:00,Zambia,0,0,0
 2020-02-07 00:00:00,Zimbabwe,0,0,0
 2020-02-08 00:00:00,Afghanistan,0,0,0
@@ -3137,7 +3188,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08 00:00:00,Ethiopia,0,0,0
 2020-02-08 00:00:00,Fiji,0,0,0
 2020-02-08 00:00:00,Finland,1,0,0
-2020-02-08 00:00:00,France,11,0,0
+2020-02-08 00:00:00,France,0,0,0
 2020-02-08 00:00:00,Gabon,0,0,0
 2020-02-08 00:00:00,Gambia,0,0,0
 2020-02-08 00:00:00,Georgia,0,0,0
@@ -3220,6 +3271,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08 00:00:00,Saint Lucia,0,0,0
 2020-02-08 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-08 00:00:00,San Marino,0,0,0
+2020-02-08 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-08 00:00:00,Saudi Arabia,0,0,0
 2020-02-08 00:00:00,Senegal,0,0,0
 2020-02-08 00:00:00,Serbia,0,0,0
@@ -3230,6 +3282,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08 00:00:00,Slovenia,0,0,0
 2020-02-08 00:00:00,Somalia,0,0,0
 2020-02-08 00:00:00,South Africa,0,0,0
+2020-02-08 00:00:00,South Sudan,0,0,0
 2020-02-08 00:00:00,Spain,1,0,0
 2020-02-08 00:00:00,Sri Lanka,1,0,1
 2020-02-08 00:00:00,Sudan,0,0,0
@@ -3255,6 +3308,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08 00:00:00,Venezuela,0,0,0
 2020-02-08 00:00:00,Vietnam,13,0,1
 2020-02-08 00:00:00,West Bank and Gaza,0,0,0
+2020-02-08 00:00:00,Western Sahara,0,0,0
 2020-02-08 00:00:00,Zambia,0,0,0
 2020-02-08 00:00:00,Zimbabwe,0,0,0
 2020-02-09 00:00:00,Afghanistan,0,0,0
@@ -3318,7 +3372,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09 00:00:00,Ethiopia,0,0,0
 2020-02-09 00:00:00,Fiji,0,0,0
 2020-02-09 00:00:00,Finland,1,0,0
-2020-02-09 00:00:00,France,11,0,0
+2020-02-09 00:00:00,France,0,0,0
 2020-02-09 00:00:00,Gabon,0,0,0
 2020-02-09 00:00:00,Gambia,0,0,0
 2020-02-09 00:00:00,Georgia,0,0,0
@@ -3401,6 +3455,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09 00:00:00,Saint Lucia,0,0,0
 2020-02-09 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-09 00:00:00,San Marino,0,0,0
+2020-02-09 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-09 00:00:00,Saudi Arabia,0,0,0
 2020-02-09 00:00:00,Senegal,0,0,0
 2020-02-09 00:00:00,Serbia,0,0,0
@@ -3411,6 +3466,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09 00:00:00,Slovenia,0,0,0
 2020-02-09 00:00:00,Somalia,0,0,0
 2020-02-09 00:00:00,South Africa,0,0,0
+2020-02-09 00:00:00,South Sudan,0,0,0
 2020-02-09 00:00:00,Spain,2,0,0
 2020-02-09 00:00:00,Sri Lanka,1,0,1
 2020-02-09 00:00:00,Sudan,0,0,0
@@ -3436,6 +3492,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09 00:00:00,Venezuela,0,0,0
 2020-02-09 00:00:00,Vietnam,13,0,1
 2020-02-09 00:00:00,West Bank and Gaza,0,0,0
+2020-02-09 00:00:00,Western Sahara,0,0,0
 2020-02-09 00:00:00,Zambia,0,0,0
 2020-02-09 00:00:00,Zimbabwe,0,0,0
 2020-02-10 00:00:00,Afghanistan,0,0,0
@@ -3499,7 +3556,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10 00:00:00,Ethiopia,0,0,0
 2020-02-10 00:00:00,Fiji,0,0,0
 2020-02-10 00:00:00,Finland,1,0,0
-2020-02-10 00:00:00,France,11,0,0
+2020-02-10 00:00:00,France,0,0,0
 2020-02-10 00:00:00,Gabon,0,0,0
 2020-02-10 00:00:00,Gambia,0,0,0
 2020-02-10 00:00:00,Georgia,0,0,0
@@ -3582,6 +3639,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10 00:00:00,Saint Lucia,0,0,0
 2020-02-10 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-10 00:00:00,San Marino,0,0,0
+2020-02-10 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-10 00:00:00,Saudi Arabia,0,0,0
 2020-02-10 00:00:00,Senegal,0,0,0
 2020-02-10 00:00:00,Serbia,0,0,0
@@ -3592,6 +3650,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10 00:00:00,Slovenia,0,0,0
 2020-02-10 00:00:00,Somalia,0,0,0
 2020-02-10 00:00:00,South Africa,0,0,0
+2020-02-10 00:00:00,South Sudan,0,0,0
 2020-02-10 00:00:00,Spain,2,0,0
 2020-02-10 00:00:00,Sri Lanka,1,0,1
 2020-02-10 00:00:00,Sudan,0,0,0
@@ -3617,6 +3676,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10 00:00:00,Venezuela,0,0,0
 2020-02-10 00:00:00,Vietnam,14,0,1
 2020-02-10 00:00:00,West Bank and Gaza,0,0,0
+2020-02-10 00:00:00,Western Sahara,0,0,0
 2020-02-10 00:00:00,Zambia,0,0,0
 2020-02-10 00:00:00,Zimbabwe,0,0,0
 2020-02-11 00:00:00,Afghanistan,0,0,0
@@ -3680,7 +3740,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11 00:00:00,Ethiopia,0,0,0
 2020-02-11 00:00:00,Fiji,0,0,0
 2020-02-11 00:00:00,Finland,1,0,0
-2020-02-11 00:00:00,France,11,0,0
+2020-02-11 00:00:00,France,0,0,0
 2020-02-11 00:00:00,Gabon,0,0,0
 2020-02-11 00:00:00,Gambia,0,0,0
 2020-02-11 00:00:00,Georgia,0,0,0
@@ -3763,6 +3823,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11 00:00:00,Saint Lucia,0,0,0
 2020-02-11 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-11 00:00:00,San Marino,0,0,0
+2020-02-11 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-11 00:00:00,Saudi Arabia,0,0,0
 2020-02-11 00:00:00,Senegal,0,0,0
 2020-02-11 00:00:00,Serbia,0,0,0
@@ -3773,6 +3834,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11 00:00:00,Slovenia,0,0,0
 2020-02-11 00:00:00,Somalia,0,0,0
 2020-02-11 00:00:00,South Africa,0,0,0
+2020-02-11 00:00:00,South Sudan,0,0,0
 2020-02-11 00:00:00,Spain,2,0,0
 2020-02-11 00:00:00,Sri Lanka,1,0,1
 2020-02-11 00:00:00,Sudan,0,0,0
@@ -3798,6 +3860,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11 00:00:00,Venezuela,0,0,0
 2020-02-11 00:00:00,Vietnam,15,0,6
 2020-02-11 00:00:00,West Bank and Gaza,0,0,0
+2020-02-11 00:00:00,Western Sahara,0,0,0
 2020-02-11 00:00:00,Zambia,0,0,0
 2020-02-11 00:00:00,Zimbabwe,0,0,0
 2020-02-12 00:00:00,Afghanistan,0,0,0
@@ -3861,7 +3924,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12 00:00:00,Ethiopia,0,0,0
 2020-02-12 00:00:00,Fiji,0,0,0
 2020-02-12 00:00:00,Finland,1,0,1
-2020-02-12 00:00:00,France,11,0,2
+2020-02-12 00:00:00,France,0,0,0
 2020-02-12 00:00:00,Gabon,0,0,0
 2020-02-12 00:00:00,Gambia,0,0,0
 2020-02-12 00:00:00,Georgia,0,0,0
@@ -3944,6 +4007,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12 00:00:00,Saint Lucia,0,0,0
 2020-02-12 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-12 00:00:00,San Marino,0,0,0
+2020-02-12 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-12 00:00:00,Saudi Arabia,0,0,0
 2020-02-12 00:00:00,Senegal,0,0,0
 2020-02-12 00:00:00,Serbia,0,0,0
@@ -3954,6 +4018,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12 00:00:00,Slovenia,0,0,0
 2020-02-12 00:00:00,Somalia,0,0,0
 2020-02-12 00:00:00,South Africa,0,0,0
+2020-02-12 00:00:00,South Sudan,0,0,0
 2020-02-12 00:00:00,Spain,2,0,0
 2020-02-12 00:00:00,Sri Lanka,1,0,1
 2020-02-12 00:00:00,Sudan,0,0,0
@@ -3979,6 +4044,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12 00:00:00,Venezuela,0,0,0
 2020-02-12 00:00:00,Vietnam,15,0,6
 2020-02-12 00:00:00,West Bank and Gaza,0,0,0
+2020-02-12 00:00:00,Western Sahara,0,0,0
 2020-02-12 00:00:00,Zambia,0,0,0
 2020-02-12 00:00:00,Zimbabwe,0,0,0
 2020-02-13 00:00:00,Afghanistan,0,0,0
@@ -4042,7 +4108,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13 00:00:00,Ethiopia,0,0,0
 2020-02-13 00:00:00,Fiji,0,0,0
 2020-02-13 00:00:00,Finland,1,0,1
-2020-02-13 00:00:00,France,11,0,2
+2020-02-13 00:00:00,France,0,0,0
 2020-02-13 00:00:00,Gabon,0,0,0
 2020-02-13 00:00:00,Gambia,0,0,0
 2020-02-13 00:00:00,Georgia,0,0,0
@@ -4125,6 +4191,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13 00:00:00,Saint Lucia,0,0,0
 2020-02-13 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-13 00:00:00,San Marino,0,0,0
+2020-02-13 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-13 00:00:00,Saudi Arabia,0,0,0
 2020-02-13 00:00:00,Senegal,0,0,0
 2020-02-13 00:00:00,Serbia,0,0,0
@@ -4135,6 +4202,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13 00:00:00,Slovenia,0,0,0
 2020-02-13 00:00:00,Somalia,0,0,0
 2020-02-13 00:00:00,South Africa,0,0,0
+2020-02-13 00:00:00,South Sudan,0,0,0
 2020-02-13 00:00:00,Spain,2,0,0
 2020-02-13 00:00:00,Sri Lanka,1,0,1
 2020-02-13 00:00:00,Sudan,0,0,0
@@ -4160,6 +4228,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13 00:00:00,Venezuela,0,0,0
 2020-02-13 00:00:00,Vietnam,16,0,7
 2020-02-13 00:00:00,West Bank and Gaza,0,0,0
+2020-02-13 00:00:00,Western Sahara,0,0,0
 2020-02-13 00:00:00,Zambia,0,0,0
 2020-02-13 00:00:00,Zimbabwe,0,0,0
 2020-02-14 00:00:00,Afghanistan,0,0,0
@@ -4223,7 +4292,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14 00:00:00,Ethiopia,0,0,0
 2020-02-14 00:00:00,Fiji,0,0,0
 2020-02-14 00:00:00,Finland,1,0,1
-2020-02-14 00:00:00,France,11,0,2
+2020-02-14 00:00:00,France,0,0,0
 2020-02-14 00:00:00,Gabon,0,0,0
 2020-02-14 00:00:00,Gambia,0,0,0
 2020-02-14 00:00:00,Georgia,0,0,0
@@ -4306,6 +4375,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14 00:00:00,Saint Lucia,0,0,0
 2020-02-14 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-14 00:00:00,San Marino,0,0,0
+2020-02-14 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-14 00:00:00,Saudi Arabia,0,0,0
 2020-02-14 00:00:00,Senegal,0,0,0
 2020-02-14 00:00:00,Serbia,0,0,0
@@ -4316,6 +4386,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14 00:00:00,Slovenia,0,0,0
 2020-02-14 00:00:00,Somalia,0,0,0
 2020-02-14 00:00:00,South Africa,0,0,0
+2020-02-14 00:00:00,South Sudan,0,0,0
 2020-02-14 00:00:00,Spain,2,0,0
 2020-02-14 00:00:00,Sri Lanka,1,0,1
 2020-02-14 00:00:00,Sudan,0,0,0
@@ -4341,6 +4412,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14 00:00:00,Venezuela,0,0,0
 2020-02-14 00:00:00,Vietnam,16,0,7
 2020-02-14 00:00:00,West Bank and Gaza,0,0,0
+2020-02-14 00:00:00,Western Sahara,0,0,0
 2020-02-14 00:00:00,Zambia,0,0,0
 2020-02-14 00:00:00,Zimbabwe,0,0,0
 2020-02-15 00:00:00,Afghanistan,0,0,0
@@ -4404,7 +4476,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15 00:00:00,Ethiopia,0,0,0
 2020-02-15 00:00:00,Fiji,0,0,0
 2020-02-15 00:00:00,Finland,1,0,1
-2020-02-15 00:00:00,France,12,1,4
+2020-02-15 00:00:00,France,0,0,0
 2020-02-15 00:00:00,Gabon,0,0,0
 2020-02-15 00:00:00,Gambia,0,0,0
 2020-02-15 00:00:00,Georgia,0,0,0
@@ -4487,6 +4559,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15 00:00:00,Saint Lucia,0,0,0
 2020-02-15 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-15 00:00:00,San Marino,0,0,0
+2020-02-15 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-15 00:00:00,Saudi Arabia,0,0,0
 2020-02-15 00:00:00,Senegal,0,0,0
 2020-02-15 00:00:00,Serbia,0,0,0
@@ -4497,6 +4570,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15 00:00:00,Slovenia,0,0,0
 2020-02-15 00:00:00,Somalia,0,0,0
 2020-02-15 00:00:00,South Africa,0,0,0
+2020-02-15 00:00:00,South Sudan,0,0,0
 2020-02-15 00:00:00,Spain,2,0,2
 2020-02-15 00:00:00,Sri Lanka,1,0,1
 2020-02-15 00:00:00,Sudan,0,0,0
@@ -4522,6 +4596,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15 00:00:00,Venezuela,0,0,0
 2020-02-15 00:00:00,Vietnam,16,0,7
 2020-02-15 00:00:00,West Bank and Gaza,0,0,0
+2020-02-15 00:00:00,Western Sahara,0,0,0
 2020-02-15 00:00:00,Zambia,0,0,0
 2020-02-15 00:00:00,Zimbabwe,0,0,0
 2020-02-16 00:00:00,Afghanistan,0,0,0
@@ -4585,7 +4660,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16 00:00:00,Ethiopia,0,0,0
 2020-02-16 00:00:00,Fiji,0,0,0
 2020-02-16 00:00:00,Finland,1,0,1
-2020-02-16 00:00:00,France,12,1,4
+2020-02-16 00:00:00,France,0,0,0
 2020-02-16 00:00:00,Gabon,0,0,0
 2020-02-16 00:00:00,Gambia,0,0,0
 2020-02-16 00:00:00,Georgia,0,0,0
@@ -4668,6 +4743,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16 00:00:00,Saint Lucia,0,0,0
 2020-02-16 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-16 00:00:00,San Marino,0,0,0
+2020-02-16 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-16 00:00:00,Saudi Arabia,0,0,0
 2020-02-16 00:00:00,Senegal,0,0,0
 2020-02-16 00:00:00,Serbia,0,0,0
@@ -4678,6 +4754,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16 00:00:00,Slovenia,0,0,0
 2020-02-16 00:00:00,Somalia,0,0,0
 2020-02-16 00:00:00,South Africa,0,0,0
+2020-02-16 00:00:00,South Sudan,0,0,0
 2020-02-16 00:00:00,Spain,2,0,2
 2020-02-16 00:00:00,Sri Lanka,1,0,1
 2020-02-16 00:00:00,Sudan,0,0,0
@@ -4703,6 +4780,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16 00:00:00,Venezuela,0,0,0
 2020-02-16 00:00:00,Vietnam,16,0,7
 2020-02-16 00:00:00,West Bank and Gaza,0,0,0
+2020-02-16 00:00:00,Western Sahara,0,0,0
 2020-02-16 00:00:00,Zambia,0,0,0
 2020-02-16 00:00:00,Zimbabwe,0,0,0
 2020-02-17 00:00:00,Afghanistan,0,0,0
@@ -4766,7 +4844,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17 00:00:00,Ethiopia,0,0,0
 2020-02-17 00:00:00,Fiji,0,0,0
 2020-02-17 00:00:00,Finland,1,0,1
-2020-02-17 00:00:00,France,12,1,4
+2020-02-17 00:00:00,France,0,0,0
 2020-02-17 00:00:00,Gabon,0,0,0
 2020-02-17 00:00:00,Gambia,0,0,0
 2020-02-17 00:00:00,Georgia,0,0,0
@@ -4849,6 +4927,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17 00:00:00,Saint Lucia,0,0,0
 2020-02-17 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-17 00:00:00,San Marino,0,0,0
+2020-02-17 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-17 00:00:00,Saudi Arabia,0,0,0
 2020-02-17 00:00:00,Senegal,0,0,0
 2020-02-17 00:00:00,Serbia,0,0,0
@@ -4859,6 +4938,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17 00:00:00,Slovenia,0,0,0
 2020-02-17 00:00:00,Somalia,0,0,0
 2020-02-17 00:00:00,South Africa,0,0,0
+2020-02-17 00:00:00,South Sudan,0,0,0
 2020-02-17 00:00:00,Spain,2,0,2
 2020-02-17 00:00:00,Sri Lanka,1,0,1
 2020-02-17 00:00:00,Sudan,0,0,0
@@ -4884,6 +4964,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17 00:00:00,Venezuela,0,0,0
 2020-02-17 00:00:00,Vietnam,16,0,7
 2020-02-17 00:00:00,West Bank and Gaza,0,0,0
+2020-02-17 00:00:00,Western Sahara,0,0,0
 2020-02-17 00:00:00,Zambia,0,0,0
 2020-02-17 00:00:00,Zimbabwe,0,0,0
 2020-02-18 00:00:00,Afghanistan,0,0,0
@@ -4947,7 +5028,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18 00:00:00,Ethiopia,0,0,0
 2020-02-18 00:00:00,Fiji,0,0,0
 2020-02-18 00:00:00,Finland,1,0,1
-2020-02-18 00:00:00,France,12,1,4
+2020-02-18 00:00:00,France,0,0,0
 2020-02-18 00:00:00,Gabon,0,0,0
 2020-02-18 00:00:00,Gambia,0,0,0
 2020-02-18 00:00:00,Georgia,0,0,0
@@ -5030,6 +5111,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18 00:00:00,Saint Lucia,0,0,0
 2020-02-18 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-18 00:00:00,San Marino,0,0,0
+2020-02-18 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-18 00:00:00,Saudi Arabia,0,0,0
 2020-02-18 00:00:00,Senegal,0,0,0
 2020-02-18 00:00:00,Serbia,0,0,0
@@ -5040,6 +5122,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18 00:00:00,Slovenia,0,0,0
 2020-02-18 00:00:00,Somalia,0,0,0
 2020-02-18 00:00:00,South Africa,0,0,0
+2020-02-18 00:00:00,South Sudan,0,0,0
 2020-02-18 00:00:00,Spain,2,0,2
 2020-02-18 00:00:00,Sri Lanka,1,0,1
 2020-02-18 00:00:00,Sudan,0,0,0
@@ -5065,6 +5148,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18 00:00:00,Venezuela,0,0,0
 2020-02-18 00:00:00,Vietnam,16,0,7
 2020-02-18 00:00:00,West Bank and Gaza,0,0,0
+2020-02-18 00:00:00,Western Sahara,0,0,0
 2020-02-18 00:00:00,Zambia,0,0,0
 2020-02-18 00:00:00,Zimbabwe,0,0,0
 2020-02-19 00:00:00,Afghanistan,0,0,0
@@ -5128,7 +5212,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19 00:00:00,Ethiopia,0,0,0
 2020-02-19 00:00:00,Fiji,0,0,0
 2020-02-19 00:00:00,Finland,1,0,1
-2020-02-19 00:00:00,France,12,1,4
+2020-02-19 00:00:00,France,0,0,0
 2020-02-19 00:00:00,Gabon,0,0,0
 2020-02-19 00:00:00,Gambia,0,0,0
 2020-02-19 00:00:00,Georgia,0,0,0
@@ -5211,6 +5295,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19 00:00:00,Saint Lucia,0,0,0
 2020-02-19 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-19 00:00:00,San Marino,0,0,0
+2020-02-19 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-19 00:00:00,Saudi Arabia,0,0,0
 2020-02-19 00:00:00,Senegal,0,0,0
 2020-02-19 00:00:00,Serbia,0,0,0
@@ -5221,6 +5306,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19 00:00:00,Slovenia,0,0,0
 2020-02-19 00:00:00,Somalia,0,0,0
 2020-02-19 00:00:00,South Africa,0,0,0
+2020-02-19 00:00:00,South Sudan,0,0,0
 2020-02-19 00:00:00,Spain,2,0,2
 2020-02-19 00:00:00,Sri Lanka,1,0,1
 2020-02-19 00:00:00,Sudan,0,0,0
@@ -5246,6 +5332,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19 00:00:00,Venezuela,0,0,0
 2020-02-19 00:00:00,Vietnam,16,0,7
 2020-02-19 00:00:00,West Bank and Gaza,0,0,0
+2020-02-19 00:00:00,Western Sahara,0,0,0
 2020-02-19 00:00:00,Zambia,0,0,0
 2020-02-19 00:00:00,Zimbabwe,0,0,0
 2020-02-20 00:00:00,Afghanistan,0,0,0
@@ -5309,7 +5396,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20 00:00:00,Ethiopia,0,0,0
 2020-02-20 00:00:00,Fiji,0,0,0
 2020-02-20 00:00:00,Finland,1,0,1
-2020-02-20 00:00:00,France,12,1,4
+2020-02-20 00:00:00,France,0,0,0
 2020-02-20 00:00:00,Gabon,0,0,0
 2020-02-20 00:00:00,Gambia,0,0,0
 2020-02-20 00:00:00,Georgia,0,0,0
@@ -5392,6 +5479,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20 00:00:00,Saint Lucia,0,0,0
 2020-02-20 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-20 00:00:00,San Marino,0,0,0
+2020-02-20 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-20 00:00:00,Saudi Arabia,0,0,0
 2020-02-20 00:00:00,Senegal,0,0,0
 2020-02-20 00:00:00,Serbia,0,0,0
@@ -5402,6 +5490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20 00:00:00,Slovenia,0,0,0
 2020-02-20 00:00:00,Somalia,0,0,0
 2020-02-20 00:00:00,South Africa,0,0,0
+2020-02-20 00:00:00,South Sudan,0,0,0
 2020-02-20 00:00:00,Spain,2,0,2
 2020-02-20 00:00:00,Sri Lanka,1,0,1
 2020-02-20 00:00:00,Sudan,0,0,0
@@ -5427,6 +5516,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20 00:00:00,Venezuela,0,0,0
 2020-02-20 00:00:00,Vietnam,16,0,7
 2020-02-20 00:00:00,West Bank and Gaza,0,0,0
+2020-02-20 00:00:00,Western Sahara,0,0,0
 2020-02-20 00:00:00,Zambia,0,0,0
 2020-02-20 00:00:00,Zimbabwe,0,0,0
 2020-02-21 00:00:00,Afghanistan,0,0,0
@@ -5490,7 +5580,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21 00:00:00,Ethiopia,0,0,0
 2020-02-21 00:00:00,Fiji,0,0,0
 2020-02-21 00:00:00,Finland,1,0,1
-2020-02-21 00:00:00,France,12,1,4
+2020-02-21 00:00:00,France,0,0,0
 2020-02-21 00:00:00,Gabon,0,0,0
 2020-02-21 00:00:00,Gambia,0,0,0
 2020-02-21 00:00:00,Georgia,0,0,0
@@ -5573,6 +5663,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21 00:00:00,Saint Lucia,0,0,0
 2020-02-21 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-21 00:00:00,San Marino,0,0,0
+2020-02-21 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-21 00:00:00,Saudi Arabia,0,0,0
 2020-02-21 00:00:00,Senegal,0,0,0
 2020-02-21 00:00:00,Serbia,0,0,0
@@ -5583,6 +5674,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21 00:00:00,Slovenia,0,0,0
 2020-02-21 00:00:00,Somalia,0,0,0
 2020-02-21 00:00:00,South Africa,0,0,0
+2020-02-21 00:00:00,South Sudan,0,0,0
 2020-02-21 00:00:00,Spain,2,0,2
 2020-02-21 00:00:00,Sri Lanka,1,0,1
 2020-02-21 00:00:00,Sudan,0,0,0
@@ -5608,6 +5700,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21 00:00:00,Venezuela,0,0,0
 2020-02-21 00:00:00,Vietnam,16,0,14
 2020-02-21 00:00:00,West Bank and Gaza,0,0,0
+2020-02-21 00:00:00,Western Sahara,0,0,0
 2020-02-21 00:00:00,Zambia,0,0,0
 2020-02-21 00:00:00,Zimbabwe,0,0,0
 2020-02-22 00:00:00,Afghanistan,0,0,0
@@ -5671,7 +5764,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22 00:00:00,Ethiopia,0,0,0
 2020-02-22 00:00:00,Fiji,0,0,0
 2020-02-22 00:00:00,Finland,1,0,1
-2020-02-22 00:00:00,France,12,1,4
+2020-02-22 00:00:00,France,0,0,0
 2020-02-22 00:00:00,Gabon,0,0,0
 2020-02-22 00:00:00,Gambia,0,0,0
 2020-02-22 00:00:00,Georgia,0,0,0
@@ -5754,6 +5847,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22 00:00:00,Saint Lucia,0,0,0
 2020-02-22 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-22 00:00:00,San Marino,0,0,0
+2020-02-22 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-22 00:00:00,Saudi Arabia,0,0,0
 2020-02-22 00:00:00,Senegal,0,0,0
 2020-02-22 00:00:00,Serbia,0,0,0
@@ -5764,6 +5858,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22 00:00:00,Slovenia,0,0,0
 2020-02-22 00:00:00,Somalia,0,0,0
 2020-02-22 00:00:00,South Africa,0,0,0
+2020-02-22 00:00:00,South Sudan,0,0,0
 2020-02-22 00:00:00,Spain,2,0,2
 2020-02-22 00:00:00,Sri Lanka,1,0,1
 2020-02-22 00:00:00,Sudan,0,0,0
@@ -5789,6 +5884,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22 00:00:00,Venezuela,0,0,0
 2020-02-22 00:00:00,Vietnam,16,0,14
 2020-02-22 00:00:00,West Bank and Gaza,0,0,0
+2020-02-22 00:00:00,Western Sahara,0,0,0
 2020-02-22 00:00:00,Zambia,0,0,0
 2020-02-22 00:00:00,Zimbabwe,0,0,0
 2020-02-23 00:00:00,Afghanistan,0,0,0
@@ -5852,7 +5948,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23 00:00:00,Ethiopia,0,0,0
 2020-02-23 00:00:00,Fiji,0,0,0
 2020-02-23 00:00:00,Finland,1,0,1
-2020-02-23 00:00:00,France,12,1,4
+2020-02-23 00:00:00,France,0,0,0
 2020-02-23 00:00:00,Gabon,0,0,0
 2020-02-23 00:00:00,Gambia,0,0,0
 2020-02-23 00:00:00,Georgia,0,0,0
@@ -5935,6 +6031,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23 00:00:00,Saint Lucia,0,0,0
 2020-02-23 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-23 00:00:00,San Marino,0,0,0
+2020-02-23 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-23 00:00:00,Saudi Arabia,0,0,0
 2020-02-23 00:00:00,Senegal,0,0,0
 2020-02-23 00:00:00,Serbia,0,0,0
@@ -5945,6 +6042,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23 00:00:00,Slovenia,0,0,0
 2020-02-23 00:00:00,Somalia,0,0,0
 2020-02-23 00:00:00,South Africa,0,0,0
+2020-02-23 00:00:00,South Sudan,0,0,0
 2020-02-23 00:00:00,Spain,2,0,2
 2020-02-23 00:00:00,Sri Lanka,1,0,1
 2020-02-23 00:00:00,Sudan,0,0,0
@@ -5970,6 +6068,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23 00:00:00,Venezuela,0,0,0
 2020-02-23 00:00:00,Vietnam,16,0,14
 2020-02-23 00:00:00,West Bank and Gaza,0,0,0
+2020-02-23 00:00:00,Western Sahara,0,0,0
 2020-02-23 00:00:00,Zambia,0,0,0
 2020-02-23 00:00:00,Zimbabwe,0,0,0
 2020-02-24 00:00:00,Afghanistan,1,0,0
@@ -6033,7 +6132,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24 00:00:00,Ethiopia,0,0,0
 2020-02-24 00:00:00,Fiji,0,0,0
 2020-02-24 00:00:00,Finland,1,0,1
-2020-02-24 00:00:00,France,12,1,4
+2020-02-24 00:00:00,France,0,0,0
 2020-02-24 00:00:00,Gabon,0,0,0
 2020-02-24 00:00:00,Gambia,0,0,0
 2020-02-24 00:00:00,Georgia,0,0,0
@@ -6116,6 +6215,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24 00:00:00,Saint Lucia,0,0,0
 2020-02-24 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-24 00:00:00,San Marino,0,0,0
+2020-02-24 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-24 00:00:00,Saudi Arabia,0,0,0
 2020-02-24 00:00:00,Senegal,0,0,0
 2020-02-24 00:00:00,Serbia,0,0,0
@@ -6126,6 +6226,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24 00:00:00,Slovenia,0,0,0
 2020-02-24 00:00:00,Somalia,0,0,0
 2020-02-24 00:00:00,South Africa,0,0,0
+2020-02-24 00:00:00,South Sudan,0,0,0
 2020-02-24 00:00:00,Spain,2,0,2
 2020-02-24 00:00:00,Sri Lanka,1,0,1
 2020-02-24 00:00:00,Sudan,0,0,0
@@ -6151,6 +6252,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24 00:00:00,Venezuela,0,0,0
 2020-02-24 00:00:00,Vietnam,16,0,14
 2020-02-24 00:00:00,West Bank and Gaza,0,0,0
+2020-02-24 00:00:00,Western Sahara,0,0,0
 2020-02-24 00:00:00,Zambia,0,0,0
 2020-02-24 00:00:00,Zimbabwe,0,0,0
 2020-02-25 00:00:00,Afghanistan,1,0,0
@@ -6214,7 +6316,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25 00:00:00,Ethiopia,0,0,0
 2020-02-25 00:00:00,Fiji,0,0,0
 2020-02-25 00:00:00,Finland,1,0,1
-2020-02-25 00:00:00,France,14,1,11
+2020-02-25 00:00:00,France,0,0,0
 2020-02-25 00:00:00,Gabon,0,0,0
 2020-02-25 00:00:00,Gambia,0,0,0
 2020-02-25 00:00:00,Georgia,0,0,0
@@ -6297,6 +6399,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25 00:00:00,Saint Lucia,0,0,0
 2020-02-25 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-25 00:00:00,San Marino,0,0,0
+2020-02-25 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-25 00:00:00,Saudi Arabia,0,0,0
 2020-02-25 00:00:00,Senegal,0,0,0
 2020-02-25 00:00:00,Serbia,0,0,0
@@ -6307,6 +6410,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25 00:00:00,Slovenia,0,0,0
 2020-02-25 00:00:00,Somalia,0,0,0
 2020-02-25 00:00:00,South Africa,0,0,0
+2020-02-25 00:00:00,South Sudan,0,0,0
 2020-02-25 00:00:00,Spain,6,0,2
 2020-02-25 00:00:00,Sri Lanka,1,0,1
 2020-02-25 00:00:00,Sudan,0,0,0
@@ -6332,6 +6436,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25 00:00:00,Venezuela,0,0,0
 2020-02-25 00:00:00,Vietnam,16,0,16
 2020-02-25 00:00:00,West Bank and Gaza,0,0,0
+2020-02-25 00:00:00,Western Sahara,0,0,0
 2020-02-25 00:00:00,Zambia,0,0,0
 2020-02-25 00:00:00,Zimbabwe,0,0,0
 2020-02-26 00:00:00,Afghanistan,1,0,0
@@ -6395,7 +6500,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26 00:00:00,Ethiopia,0,0,0
 2020-02-26 00:00:00,Fiji,0,0,0
 2020-02-26 00:00:00,Finland,2,0,1
-2020-02-26 00:00:00,France,18,2,11
+2020-02-26 00:00:00,France,0,0,0
 2020-02-26 00:00:00,Gabon,0,0,0
 2020-02-26 00:00:00,Gambia,0,0,0
 2020-02-26 00:00:00,Georgia,1,0,0
@@ -6478,6 +6583,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26 00:00:00,Saint Lucia,0,0,0
 2020-02-26 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-26 00:00:00,San Marino,0,0,0
+2020-02-26 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-26 00:00:00,Saudi Arabia,0,0,0
 2020-02-26 00:00:00,Senegal,0,0,0
 2020-02-26 00:00:00,Serbia,0,0,0
@@ -6488,6 +6594,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26 00:00:00,Slovenia,0,0,0
 2020-02-26 00:00:00,Somalia,0,0,0
 2020-02-26 00:00:00,South Africa,0,0,0
+2020-02-26 00:00:00,South Sudan,0,0,0
 2020-02-26 00:00:00,Spain,13,0,2
 2020-02-26 00:00:00,Sri Lanka,1,0,1
 2020-02-26 00:00:00,Sudan,0,0,0
@@ -6513,6 +6620,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26 00:00:00,Venezuela,0,0,0
 2020-02-26 00:00:00,Vietnam,16,0,16
 2020-02-26 00:00:00,West Bank and Gaza,0,0,0
+2020-02-26 00:00:00,Western Sahara,0,0,0
 2020-02-26 00:00:00,Zambia,0,0,0
 2020-02-26 00:00:00,Zimbabwe,0,0,0
 2020-02-27 00:00:00,Afghanistan,1,0,0
@@ -6576,7 +6684,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27 00:00:00,Ethiopia,0,0,0
 2020-02-27 00:00:00,Fiji,0,0,0
 2020-02-27 00:00:00,Finland,2,0,1
-2020-02-27 00:00:00,France,38,2,11
+2020-02-27 00:00:00,France,0,0,0
 2020-02-27 00:00:00,Gabon,0,0,0
 2020-02-27 00:00:00,Gambia,0,0,0
 2020-02-27 00:00:00,Georgia,1,0,0
@@ -6659,6 +6767,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27 00:00:00,Saint Lucia,0,0,0
 2020-02-27 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-27 00:00:00,San Marino,1,0,0
+2020-02-27 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-27 00:00:00,Saudi Arabia,0,0,0
 2020-02-27 00:00:00,Senegal,0,0,0
 2020-02-27 00:00:00,Serbia,0,0,0
@@ -6669,6 +6778,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27 00:00:00,Slovenia,0,0,0
 2020-02-27 00:00:00,Somalia,0,0,0
 2020-02-27 00:00:00,South Africa,0,0,0
+2020-02-27 00:00:00,South Sudan,0,0,0
 2020-02-27 00:00:00,Spain,15,0,2
 2020-02-27 00:00:00,Sri Lanka,1,0,1
 2020-02-27 00:00:00,Sudan,0,0,0
@@ -6694,6 +6804,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27 00:00:00,Venezuela,0,0,0
 2020-02-27 00:00:00,Vietnam,16,0,16
 2020-02-27 00:00:00,West Bank and Gaza,0,0,0
+2020-02-27 00:00:00,Western Sahara,0,0,0
 2020-02-27 00:00:00,Zambia,0,0,0
 2020-02-27 00:00:00,Zimbabwe,0,0,0
 2020-02-28 00:00:00,Afghanistan,1,0,0
@@ -6757,7 +6868,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28 00:00:00,Ethiopia,0,0,0
 2020-02-28 00:00:00,Fiji,0,0,0
 2020-02-28 00:00:00,Finland,2,0,1
-2020-02-28 00:00:00,France,57,2,11
+2020-02-28 00:00:00,France,0,0,0
 2020-02-28 00:00:00,Gabon,0,0,0
 2020-02-28 00:00:00,Gambia,0,0,0
 2020-02-28 00:00:00,Georgia,1,0,0
@@ -6840,6 +6951,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28 00:00:00,Saint Lucia,0,0,0
 2020-02-28 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-28 00:00:00,San Marino,1,0,0
+2020-02-28 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-28 00:00:00,Saudi Arabia,0,0,0
 2020-02-28 00:00:00,Senegal,0,0,0
 2020-02-28 00:00:00,Serbia,0,0,0
@@ -6850,6 +6962,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28 00:00:00,Slovenia,0,0,0
 2020-02-28 00:00:00,Somalia,0,0,0
 2020-02-28 00:00:00,South Africa,0,0,0
+2020-02-28 00:00:00,South Sudan,0,0,0
 2020-02-28 00:00:00,Spain,32,0,2
 2020-02-28 00:00:00,Sri Lanka,1,0,1
 2020-02-28 00:00:00,Sudan,0,0,0
@@ -6875,6 +6988,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28 00:00:00,Venezuela,0,0,0
 2020-02-28 00:00:00,Vietnam,16,0,16
 2020-02-28 00:00:00,West Bank and Gaza,0,0,0
+2020-02-28 00:00:00,Western Sahara,0,0,0
 2020-02-28 00:00:00,Zambia,0,0,0
 2020-02-28 00:00:00,Zimbabwe,0,0,0
 2020-02-29 00:00:00,Afghanistan,1,0,0
@@ -6938,7 +7052,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29 00:00:00,Ethiopia,0,0,0
 2020-02-29 00:00:00,Fiji,0,0,0
 2020-02-29 00:00:00,Finland,3,0,1
-2020-02-29 00:00:00,France,100,2,12
+2020-02-29 00:00:00,France,0,0,0
 2020-02-29 00:00:00,Gabon,0,0,0
 2020-02-29 00:00:00,Gambia,0,0,0
 2020-02-29 00:00:00,Georgia,1,0,0
@@ -7021,6 +7135,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29 00:00:00,Saint Lucia,0,0,0
 2020-02-29 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-02-29 00:00:00,San Marino,1,0,0
+2020-02-29 00:00:00,Sao Tome and Principe,0,0,0
 2020-02-29 00:00:00,Saudi Arabia,0,0,0
 2020-02-29 00:00:00,Senegal,0,0,0
 2020-02-29 00:00:00,Serbia,0,0,0
@@ -7031,6 +7146,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29 00:00:00,Slovenia,0,0,0
 2020-02-29 00:00:00,Somalia,0,0,0
 2020-02-29 00:00:00,South Africa,0,0,0
+2020-02-29 00:00:00,South Sudan,0,0,0
 2020-02-29 00:00:00,Spain,45,0,2
 2020-02-29 00:00:00,Sri Lanka,1,0,1
 2020-02-29 00:00:00,Sudan,0,0,0
@@ -7056,6 +7172,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29 00:00:00,Venezuela,0,0,0
 2020-02-29 00:00:00,Vietnam,16,0,16
 2020-02-29 00:00:00,West Bank and Gaza,0,0,0
+2020-02-29 00:00:00,Western Sahara,0,0,0
 2020-02-29 00:00:00,Zambia,0,0,0
 2020-02-29 00:00:00,Zimbabwe,0,0,0
 2020-03-01 00:00:00,Afghanistan,1,0,0
@@ -7119,7 +7236,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01 00:00:00,Ethiopia,0,0,0
 2020-03-01 00:00:00,Fiji,0,0,0
 2020-03-01 00:00:00,Finland,6,0,1
-2020-03-01 00:00:00,France,130,2,12
+2020-03-01 00:00:00,France,0,0,0
 2020-03-01 00:00:00,Gabon,0,0,0
 2020-03-01 00:00:00,Gambia,0,0,0
 2020-03-01 00:00:00,Georgia,3,0,0
@@ -7202,6 +7319,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01 00:00:00,Saint Lucia,0,0,0
 2020-03-01 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-01 00:00:00,San Marino,1,0,0
+2020-03-01 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-01 00:00:00,Saudi Arabia,0,0,0
 2020-03-01 00:00:00,Senegal,0,0,0
 2020-03-01 00:00:00,Serbia,0,0,0
@@ -7212,6 +7330,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01 00:00:00,Slovenia,0,0,0
 2020-03-01 00:00:00,Somalia,0,0,0
 2020-03-01 00:00:00,South Africa,0,0,0
+2020-03-01 00:00:00,South Sudan,0,0,0
 2020-03-01 00:00:00,Spain,84,0,2
 2020-03-01 00:00:00,Sri Lanka,1,0,1
 2020-03-01 00:00:00,Sudan,0,0,0
@@ -7237,6 +7356,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01 00:00:00,Venezuela,0,0,0
 2020-03-01 00:00:00,Vietnam,16,0,16
 2020-03-01 00:00:00,West Bank and Gaza,0,0,0
+2020-03-01 00:00:00,Western Sahara,0,0,0
 2020-03-01 00:00:00,Zambia,0,0,0
 2020-03-01 00:00:00,Zimbabwe,0,0,0
 2020-03-02 00:00:00,Afghanistan,1,0,0
@@ -7300,7 +7420,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02 00:00:00,Ethiopia,0,0,0
 2020-03-02 00:00:00,Fiji,0,0,0
 2020-03-02 00:00:00,Finland,6,0,1
-2020-03-02 00:00:00,France,191,3,12
+2020-03-02 00:00:00,France,0,0,0
 2020-03-02 00:00:00,Gabon,0,0,0
 2020-03-02 00:00:00,Gambia,0,0,0
 2020-03-02 00:00:00,Georgia,3,0,0
@@ -7383,6 +7503,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02 00:00:00,Saint Lucia,0,0,0
 2020-03-02 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-02 00:00:00,San Marino,8,0,0
+2020-03-02 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-02 00:00:00,Saudi Arabia,1,0,0
 2020-03-02 00:00:00,Senegal,1,0,0
 2020-03-02 00:00:00,Serbia,0,0,0
@@ -7393,6 +7514,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02 00:00:00,Slovenia,0,0,0
 2020-03-02 00:00:00,Somalia,0,0,0
 2020-03-02 00:00:00,South Africa,0,0,0
+2020-03-02 00:00:00,South Sudan,0,0,0
 2020-03-02 00:00:00,Spain,120,0,2
 2020-03-02 00:00:00,Sri Lanka,1,0,1
 2020-03-02 00:00:00,Sudan,0,0,0
@@ -7418,6 +7540,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02 00:00:00,Venezuela,0,0,0
 2020-03-02 00:00:00,Vietnam,16,0,16
 2020-03-02 00:00:00,West Bank and Gaza,0,0,0
+2020-03-02 00:00:00,Western Sahara,0,0,0
 2020-03-02 00:00:00,Zambia,0,0,0
 2020-03-02 00:00:00,Zimbabwe,0,0,0
 2020-03-03 00:00:00,Afghanistan,1,0,0
@@ -7481,7 +7604,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03 00:00:00,Ethiopia,0,0,0
 2020-03-03 00:00:00,Fiji,0,0,0
 2020-03-03 00:00:00,Finland,6,0,1
-2020-03-03 00:00:00,France,204,4,12
+2020-03-03 00:00:00,France,0,0,0
 2020-03-03 00:00:00,Gabon,0,0,0
 2020-03-03 00:00:00,Gambia,0,0,0
 2020-03-03 00:00:00,Georgia,3,0,0
@@ -7564,6 +7687,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03 00:00:00,Saint Lucia,0,0,0
 2020-03-03 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-03 00:00:00,San Marino,10,1,0
+2020-03-03 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-03 00:00:00,Saudi Arabia,1,0,0
 2020-03-03 00:00:00,Senegal,2,0,0
 2020-03-03 00:00:00,Serbia,0,0,0
@@ -7574,6 +7698,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03 00:00:00,Slovenia,0,0,0
 2020-03-03 00:00:00,Somalia,0,0,0
 2020-03-03 00:00:00,South Africa,0,0,0
+2020-03-03 00:00:00,South Sudan,0,0,0
 2020-03-03 00:00:00,Spain,165,1,2
 2020-03-03 00:00:00,Sri Lanka,1,0,1
 2020-03-03 00:00:00,Sudan,0,0,0
@@ -7599,6 +7724,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03 00:00:00,Venezuela,0,0,0
 2020-03-03 00:00:00,Vietnam,16,0,16
 2020-03-03 00:00:00,West Bank and Gaza,0,0,0
+2020-03-03 00:00:00,Western Sahara,0,0,0
 2020-03-03 00:00:00,Zambia,0,0,0
 2020-03-03 00:00:00,Zimbabwe,0,0,0
 2020-03-04 00:00:00,Afghanistan,1,0,0
@@ -7662,7 +7788,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04 00:00:00,Ethiopia,0,0,0
 2020-03-04 00:00:00,Fiji,0,0,0
 2020-03-04 00:00:00,Finland,6,0,1
-2020-03-04 00:00:00,France,285,4,12
+2020-03-04 00:00:00,France,0,0,0
 2020-03-04 00:00:00,Gabon,0,0,0
 2020-03-04 00:00:00,Gambia,0,0,0
 2020-03-04 00:00:00,Georgia,3,0,0
@@ -7745,6 +7871,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04 00:00:00,Saint Lucia,0,0,0
 2020-03-04 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-04 00:00:00,San Marino,16,1,0
+2020-03-04 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-04 00:00:00,Saudi Arabia,1,0,0
 2020-03-04 00:00:00,Senegal,4,0,0
 2020-03-04 00:00:00,Serbia,0,0,0
@@ -7755,6 +7882,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04 00:00:00,Slovenia,0,0,0
 2020-03-04 00:00:00,Somalia,0,0,0
 2020-03-04 00:00:00,South Africa,0,0,0
+2020-03-04 00:00:00,South Sudan,0,0,0
 2020-03-04 00:00:00,Spain,222,2,2
 2020-03-04 00:00:00,Sri Lanka,1,0,1
 2020-03-04 00:00:00,Sudan,0,0,0
@@ -7780,6 +7908,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04 00:00:00,Venezuela,0,0,0
 2020-03-04 00:00:00,Vietnam,16,0,16
 2020-03-04 00:00:00,West Bank and Gaza,0,0,0
+2020-03-04 00:00:00,Western Sahara,0,0,0
 2020-03-04 00:00:00,Zambia,0,0,0
 2020-03-04 00:00:00,Zimbabwe,0,0,0
 2020-03-05 00:00:00,Afghanistan,1,0,0
@@ -7843,7 +7972,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05 00:00:00,Ethiopia,0,0,0
 2020-03-05 00:00:00,Fiji,0,0,0
 2020-03-05 00:00:00,Finland,12,0,1
-2020-03-05 00:00:00,France,377,6,12
+2020-03-05 00:00:00,France,0,0,0
 2020-03-05 00:00:00,Gabon,0,0,0
 2020-03-05 00:00:00,Gambia,0,0,0
 2020-03-05 00:00:00,Georgia,4,0,0
@@ -7926,6 +8055,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05 00:00:00,Saint Lucia,0,0,0
 2020-03-05 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-05 00:00:00,San Marino,21,1,0
+2020-03-05 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-05 00:00:00,Saudi Arabia,5,0,0
 2020-03-05 00:00:00,Senegal,4,0,0
 2020-03-05 00:00:00,Serbia,0,0,0
@@ -7936,6 +8066,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05 00:00:00,Slovenia,2,0,0
 2020-03-05 00:00:00,Somalia,0,0,0
 2020-03-05 00:00:00,South Africa,1,0,0
+2020-03-05 00:00:00,South Sudan,0,0,0
 2020-03-05 00:00:00,Spain,259,3,2
 2020-03-05 00:00:00,Sri Lanka,1,0,1
 2020-03-05 00:00:00,Sudan,0,0,0
@@ -7961,6 +8092,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05 00:00:00,Venezuela,0,0,0
 2020-03-05 00:00:00,Vietnam,16,0,16
 2020-03-05 00:00:00,West Bank and Gaza,4,0,0
+2020-03-05 00:00:00,Western Sahara,0,0,0
 2020-03-05 00:00:00,Zambia,0,0,0
 2020-03-05 00:00:00,Zimbabwe,0,0,0
 2020-03-06 00:00:00,Afghanistan,1,0,0
@@ -8024,7 +8156,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06 00:00:00,Ethiopia,0,0,0
 2020-03-06 00:00:00,Fiji,0,0,0
 2020-03-06 00:00:00,Finland,15,0,1
-2020-03-06 00:00:00,France,653,9,12
+2020-03-06 00:00:00,France,0,0,0
 2020-03-06 00:00:00,Gabon,0,0,0
 2020-03-06 00:00:00,Gambia,0,0,0
 2020-03-06 00:00:00,Georgia,4,0,0
@@ -8107,6 +8239,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06 00:00:00,Saint Lucia,0,0,0
 2020-03-06 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-06 00:00:00,San Marino,21,1,0
+2020-03-06 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-06 00:00:00,Saudi Arabia,5,0,0
 2020-03-06 00:00:00,Senegal,4,0,0
 2020-03-06 00:00:00,Serbia,1,0,0
@@ -8117,6 +8250,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06 00:00:00,Slovenia,7,0,0
 2020-03-06 00:00:00,Somalia,0,0,0
 2020-03-06 00:00:00,South Africa,1,0,0
+2020-03-06 00:00:00,South Sudan,0,0,0
 2020-03-06 00:00:00,Spain,400,5,2
 2020-03-06 00:00:00,Sri Lanka,1,0,1
 2020-03-06 00:00:00,Sudan,0,0,0
@@ -8142,6 +8276,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06 00:00:00,Venezuela,0,0,0
 2020-03-06 00:00:00,Vietnam,16,0,16
 2020-03-06 00:00:00,West Bank and Gaza,7,0,0
+2020-03-06 00:00:00,Western Sahara,0,0,0
 2020-03-06 00:00:00,Zambia,0,0,0
 2020-03-06 00:00:00,Zimbabwe,0,0,0
 2020-03-07 00:00:00,Afghanistan,1,0,0
@@ -8205,7 +8340,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07 00:00:00,Ethiopia,0,0,0
 2020-03-07 00:00:00,Fiji,0,0,0
 2020-03-07 00:00:00,Finland,15,0,1
-2020-03-07 00:00:00,France,949,11,12
+2020-03-07 00:00:00,France,0,0,0
 2020-03-07 00:00:00,Gabon,0,0,0
 2020-03-07 00:00:00,Gambia,0,0,0
 2020-03-07 00:00:00,Georgia,4,0,0
@@ -8288,6 +8423,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07 00:00:00,Saint Lucia,0,0,0
 2020-03-07 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-07 00:00:00,San Marino,23,1,0
+2020-03-07 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-07 00:00:00,Saudi Arabia,5,0,0
 2020-03-07 00:00:00,Senegal,4,0,0
 2020-03-07 00:00:00,Serbia,1,0,0
@@ -8298,6 +8434,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07 00:00:00,Slovenia,7,0,0
 2020-03-07 00:00:00,Somalia,0,0,0
 2020-03-07 00:00:00,South Africa,1,0,0
+2020-03-07 00:00:00,South Sudan,0,0,0
 2020-03-07 00:00:00,Spain,500,10,30
 2020-03-07 00:00:00,Sri Lanka,1,0,1
 2020-03-07 00:00:00,Sudan,0,0,0
@@ -8323,6 +8460,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07 00:00:00,Venezuela,0,0,0
 2020-03-07 00:00:00,Vietnam,18,0,16
 2020-03-07 00:00:00,West Bank and Gaza,16,0,0
+2020-03-07 00:00:00,Western Sahara,0,0,0
 2020-03-07 00:00:00,Zambia,0,0,0
 2020-03-07 00:00:00,Zimbabwe,0,0,0
 2020-03-08 00:00:00,Afghanistan,4,0,0
@@ -8386,7 +8524,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08 00:00:00,Ethiopia,0,0,0
 2020-03-08 00:00:00,Fiji,0,0,0
 2020-03-08 00:00:00,Finland,23,0,1
-2020-03-08 00:00:00,France,1126,19,12
+2020-03-08 00:00:00,France,0,0,0
 2020-03-08 00:00:00,Gabon,0,0,0
 2020-03-08 00:00:00,Gambia,0,0,0
 2020-03-08 00:00:00,Georgia,13,0,0
@@ -8469,6 +8607,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08 00:00:00,Saint Lucia,0,0,0
 2020-03-08 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-08 00:00:00,San Marino,36,1,0
+2020-03-08 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-08 00:00:00,Saudi Arabia,11,0,0
 2020-03-08 00:00:00,Senegal,4,0,1
 2020-03-08 00:00:00,Serbia,1,0,0
@@ -8479,6 +8618,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08 00:00:00,Slovenia,16,0,0
 2020-03-08 00:00:00,Somalia,0,0,0
 2020-03-08 00:00:00,South Africa,3,0,0
+2020-03-08 00:00:00,South Sudan,0,0,0
 2020-03-08 00:00:00,Spain,673,17,30
 2020-03-08 00:00:00,Sri Lanka,1,0,1
 2020-03-08 00:00:00,Sudan,0,0,0
@@ -8504,6 +8644,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08 00:00:00,Venezuela,0,0,0
 2020-03-08 00:00:00,Vietnam,30,0,16
 2020-03-08 00:00:00,West Bank and Gaza,16,0,0
+2020-03-08 00:00:00,Western Sahara,0,0,0
 2020-03-08 00:00:00,Zambia,0,0,0
 2020-03-08 00:00:00,Zimbabwe,0,0,0
 2020-03-09 00:00:00,Afghanistan,4,0,0
@@ -8567,7 +8708,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09 00:00:00,Ethiopia,0,0,0
 2020-03-09 00:00:00,Fiji,0,0,0
 2020-03-09 00:00:00,Finland,30,0,1
-2020-03-09 00:00:00,France,1209,19,12
+2020-03-09 00:00:00,France,0,0,0
 2020-03-09 00:00:00,Gabon,0,0,0
 2020-03-09 00:00:00,Gambia,0,0,0
 2020-03-09 00:00:00,Georgia,15,0,0
@@ -8650,6 +8791,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09 00:00:00,Saint Lucia,0,0,0
 2020-03-09 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-09 00:00:00,San Marino,36,1,0
+2020-03-09 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-09 00:00:00,Saudi Arabia,15,0,0
 2020-03-09 00:00:00,Senegal,4,0,1
 2020-03-09 00:00:00,Serbia,1,0,0
@@ -8660,6 +8802,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09 00:00:00,Slovenia,16,0,0
 2020-03-09 00:00:00,Somalia,0,0,0
 2020-03-09 00:00:00,South Africa,3,0,0
+2020-03-09 00:00:00,South Sudan,0,0,0
 2020-03-09 00:00:00,Spain,1073,28,32
 2020-03-09 00:00:00,Sri Lanka,1,0,1
 2020-03-09 00:00:00,Sudan,0,0,0
@@ -8685,6 +8828,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09 00:00:00,Venezuela,0,0,0
 2020-03-09 00:00:00,Vietnam,30,0,16
 2020-03-09 00:00:00,West Bank and Gaza,19,0,0
+2020-03-09 00:00:00,Western Sahara,0,0,0
 2020-03-09 00:00:00,Zambia,0,0,0
 2020-03-09 00:00:00,Zimbabwe,0,0,0
 2020-03-10 00:00:00,Afghanistan,5,0,0
@@ -8748,7 +8892,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10 00:00:00,Ethiopia,0,0,0
 2020-03-10 00:00:00,Fiji,0,0,0
 2020-03-10 00:00:00,Finland,40,0,1
-2020-03-10 00:00:00,France,1784,33,12
+2020-03-10 00:00:00,France,0,0,0
 2020-03-10 00:00:00,Gabon,0,0,0
 2020-03-10 00:00:00,Gambia,0,0,0
 2020-03-10 00:00:00,Georgia,15,0,0
@@ -8831,6 +8975,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10 00:00:00,Saint Lucia,0,0,0
 2020-03-10 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-10 00:00:00,San Marino,51,2,0
+2020-03-10 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-10 00:00:00,Saudi Arabia,20,0,1
 2020-03-10 00:00:00,Senegal,4,0,1
 2020-03-10 00:00:00,Serbia,5,0,0
@@ -8841,6 +8986,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10 00:00:00,Slovenia,31,0,0
 2020-03-10 00:00:00,Somalia,0,0,0
 2020-03-10 00:00:00,South Africa,7,0,0
+2020-03-10 00:00:00,South Sudan,0,0,0
 2020-03-10 00:00:00,Spain,1695,35,32
 2020-03-10 00:00:00,Sri Lanka,1,0,1
 2020-03-10 00:00:00,Sudan,0,0,0
@@ -8866,6 +9012,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10 00:00:00,Venezuela,0,0,0
 2020-03-10 00:00:00,Vietnam,31,0,16
 2020-03-10 00:00:00,West Bank and Gaza,26,0,0
+2020-03-10 00:00:00,Western Sahara,0,0,0
 2020-03-10 00:00:00,Zambia,0,0,0
 2020-03-10 00:00:00,Zimbabwe,0,0,0
 2020-03-11 00:00:00,Afghanistan,7,0,0
@@ -8929,7 +9076,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11 00:00:00,Ethiopia,0,0,0
 2020-03-11 00:00:00,Fiji,0,0,0
 2020-03-11 00:00:00,Finland,59,0,1
-2020-03-11 00:00:00,France,2281,48,12
+2020-03-11 00:00:00,France,0,0,0
 2020-03-11 00:00:00,Gabon,0,0,0
 2020-03-11 00:00:00,Gambia,0,0,0
 2020-03-11 00:00:00,Georgia,24,0,0
@@ -9012,6 +9159,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11 00:00:00,Saint Lucia,0,0,0
 2020-03-11 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-11 00:00:00,San Marino,62,2,0
+2020-03-11 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-11 00:00:00,Saudi Arabia,21,0,1
 2020-03-11 00:00:00,Senegal,4,0,1
 2020-03-11 00:00:00,Serbia,12,0,0
@@ -9022,6 +9170,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11 00:00:00,Slovenia,57,0,0
 2020-03-11 00:00:00,Somalia,0,0,0
 2020-03-11 00:00:00,South Africa,13,0,0
+2020-03-11 00:00:00,South Sudan,0,0,0
 2020-03-11 00:00:00,Spain,2277,54,183
 2020-03-11 00:00:00,Sri Lanka,2,0,1
 2020-03-11 00:00:00,Sudan,0,0,0
@@ -9047,6 +9196,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11 00:00:00,Venezuela,0,0,0
 2020-03-11 00:00:00,Vietnam,38,0,16
 2020-03-11 00:00:00,West Bank and Gaza,30,0,0
+2020-03-11 00:00:00,Western Sahara,0,0,0
 2020-03-11 00:00:00,Zambia,0,0,0
 2020-03-11 00:00:00,Zimbabwe,0,0,0
 2020-03-12 00:00:00,Afghanistan,7,0,0
@@ -9110,7 +9260,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12 00:00:00,Ethiopia,0,0,0
 2020-03-12 00:00:00,Fiji,0,0,0
 2020-03-12 00:00:00,Finland,59,0,1
-2020-03-12 00:00:00,France,2281,48,12
+2020-03-12 00:00:00,France,0,0,0
 2020-03-12 00:00:00,Gabon,0,0,0
 2020-03-12 00:00:00,Gambia,0,0,0
 2020-03-12 00:00:00,Georgia,24,0,0
@@ -9193,6 +9343,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12 00:00:00,Saint Lucia,0,0,0
 2020-03-12 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-12 00:00:00,San Marino,69,3,0
+2020-03-12 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-12 00:00:00,Saudi Arabia,45,0,1
 2020-03-12 00:00:00,Senegal,4,0,1
 2020-03-12 00:00:00,Serbia,19,0,0
@@ -9203,6 +9354,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12 00:00:00,Slovenia,89,0,0
 2020-03-12 00:00:00,Somalia,0,0,0
 2020-03-12 00:00:00,South Africa,17,0,0
+2020-03-12 00:00:00,South Sudan,0,0,0
 2020-03-12 00:00:00,Spain,2277,55,183
 2020-03-12 00:00:00,Sri Lanka,2,0,1
 2020-03-12 00:00:00,Sudan,0,0,0
@@ -9228,6 +9380,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12 00:00:00,Venezuela,0,0,0
 2020-03-12 00:00:00,Vietnam,39,0,16
 2020-03-12 00:00:00,West Bank and Gaza,30,0,0
+2020-03-12 00:00:00,Western Sahara,0,0,0
 2020-03-12 00:00:00,Zambia,0,0,0
 2020-03-12 00:00:00,Zimbabwe,0,0,0
 2020-03-13 00:00:00,Afghanistan,7,0,0
@@ -9291,7 +9444,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13 00:00:00,Ethiopia,1,0,0
 2020-03-13 00:00:00,Fiji,0,0,0
 2020-03-13 00:00:00,Finland,155,0,1
-2020-03-13 00:00:00,France,3661,79,12
+2020-03-13 00:00:00,France,0,0,0
 2020-03-13 00:00:00,Gabon,0,0,0
 2020-03-13 00:00:00,Gambia,0,0,0
 2020-03-13 00:00:00,Georgia,25,0,0
@@ -9374,6 +9527,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13 00:00:00,Saint Lucia,0,0,0
 2020-03-13 00:00:00,Saint Vincent and the Grenadines,0,0,0
 2020-03-13 00:00:00,San Marino,80,5,0
+2020-03-13 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-13 00:00:00,Saudi Arabia,86,0,1
 2020-03-13 00:00:00,Senegal,10,0,1
 2020-03-13 00:00:00,Serbia,35,0,0
@@ -9384,6 +9538,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13 00:00:00,Slovenia,141,0,0
 2020-03-13 00:00:00,Somalia,0,0,0
 2020-03-13 00:00:00,South Africa,24,0,0
+2020-03-13 00:00:00,South Sudan,0,0,0
 2020-03-13 00:00:00,Spain,5232,133,193
 2020-03-13 00:00:00,Sri Lanka,6,0,1
 2020-03-13 00:00:00,Sudan,1,1,0
@@ -9409,6 +9564,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13 00:00:00,Venezuela,0,0,0
 2020-03-13 00:00:00,Vietnam,47,0,16
 2020-03-13 00:00:00,West Bank and Gaza,31,0,0
+2020-03-13 00:00:00,Western Sahara,0,0,0
 2020-03-13 00:00:00,Zambia,0,0,0
 2020-03-13 00:00:00,Zimbabwe,0,0,0
 2020-03-14 00:00:00,Afghanistan,11,0,0
@@ -9472,7 +9628,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14 00:00:00,Ethiopia,1,0,0
 2020-03-14 00:00:00,Fiji,0,0,0
 2020-03-14 00:00:00,Finland,225,0,1
-2020-03-14 00:00:00,France,4469,91,12
+2020-03-14 00:00:00,France,0,0,0
 2020-03-14 00:00:00,Gabon,1,0,0
 2020-03-14 00:00:00,Gambia,0,0,0
 2020-03-14 00:00:00,Georgia,30,0,0
@@ -9555,6 +9711,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14 00:00:00,Saint Lucia,1,0,0
 2020-03-14 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-14 00:00:00,San Marino,80,5,4
+2020-03-14 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-14 00:00:00,Saudi Arabia,103,0,1
 2020-03-14 00:00:00,Senegal,10,0,1
 2020-03-14 00:00:00,Serbia,46,0,0
@@ -9565,6 +9722,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14 00:00:00,Slovenia,181,1,0
 2020-03-14 00:00:00,Somalia,0,0,0
 2020-03-14 00:00:00,South Africa,38,0,0
+2020-03-14 00:00:00,South Sudan,0,0,0
 2020-03-14 00:00:00,Spain,6391,195,517
 2020-03-14 00:00:00,Sri Lanka,10,0,1
 2020-03-14 00:00:00,Sudan,1,1,0
@@ -9590,6 +9748,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14 00:00:00,Venezuela,2,0,0
 2020-03-14 00:00:00,Vietnam,53,0,16
 2020-03-14 00:00:00,West Bank and Gaza,35,0,0
+2020-03-14 00:00:00,Western Sahara,0,0,0
 2020-03-14 00:00:00,Zambia,0,0,0
 2020-03-14 00:00:00,Zimbabwe,0,0,0
 2020-03-15 00:00:00,Afghanistan,16,0,0
@@ -9653,7 +9812,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15 00:00:00,Ethiopia,1,0,0
 2020-03-15 00:00:00,Fiji,0,0,0
 2020-03-15 00:00:00,Finland,244,0,10
-2020-03-15 00:00:00,France,4499,91,12
+2020-03-15 00:00:00,France,0,0,0
 2020-03-15 00:00:00,Gabon,1,0,0
 2020-03-15 00:00:00,Gambia,0,0,0
 2020-03-15 00:00:00,Georgia,33,0,0
@@ -9736,6 +9895,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15 00:00:00,Saint Lucia,2,0,0
 2020-03-15 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-15 00:00:00,San Marino,101,5,4
+2020-03-15 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-15 00:00:00,Saudi Arabia,103,0,1
 2020-03-15 00:00:00,Senegal,24,0,1
 2020-03-15 00:00:00,Serbia,48,0,0
@@ -9746,6 +9906,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15 00:00:00,Slovenia,219,1,0
 2020-03-15 00:00:00,Somalia,0,0,0
 2020-03-15 00:00:00,South Africa,51,0,0
+2020-03-15 00:00:00,South Sudan,0,0,0
 2020-03-15 00:00:00,Spain,7798,289,517
 2020-03-15 00:00:00,Sri Lanka,18,0,1
 2020-03-15 00:00:00,Sudan,1,1,0
@@ -9771,6 +9932,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15 00:00:00,Venezuela,10,0,0
 2020-03-15 00:00:00,Vietnam,56,0,16
 2020-03-15 00:00:00,West Bank and Gaza,38,0,0
+2020-03-15 00:00:00,Western Sahara,0,0,0
 2020-03-15 00:00:00,Zambia,0,0,0
 2020-03-15 00:00:00,Zimbabwe,0,0,0
 2020-03-16 00:00:00,Afghanistan,21,0,1
@@ -9834,7 +9996,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16 00:00:00,Ethiopia,5,0,0
 2020-03-16 00:00:00,Fiji,0,0,0
 2020-03-16 00:00:00,Finland,277,0,10
-2020-03-16 00:00:00,France,6633,148,12
+2020-03-16 00:00:00,France,0,0,0
 2020-03-16 00:00:00,Gabon,1,0,0
 2020-03-16 00:00:00,Gambia,0,0,0
 2020-03-16 00:00:00,Georgia,33,0,1
@@ -9917,6 +10079,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16 00:00:00,Saint Lucia,2,0,0
 2020-03-16 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-16 00:00:00,San Marino,109,7,4
+2020-03-16 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-16 00:00:00,Saudi Arabia,118,0,2
 2020-03-16 00:00:00,Senegal,24,0,2
 2020-03-16 00:00:00,Serbia,55,0,1
@@ -9927,6 +10090,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16 00:00:00,Slovenia,253,1,0
 2020-03-16 00:00:00,Somalia,1,0,0
 2020-03-16 00:00:00,South Africa,62,0,0
+2020-03-16 00:00:00,South Sudan,0,0,0
 2020-03-16 00:00:00,Spain,9942,342,530
 2020-03-16 00:00:00,Sri Lanka,28,0,1
 2020-03-16 00:00:00,Sudan,1,1,0
@@ -9952,6 +10116,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16 00:00:00,Venezuela,17,0,0
 2020-03-16 00:00:00,Vietnam,61,0,16
 2020-03-16 00:00:00,West Bank and Gaza,38,0,0
+2020-03-16 00:00:00,Western Sahara,0,0,0
 2020-03-16 00:00:00,Zambia,0,0,0
 2020-03-16 00:00:00,Zimbabwe,0,0,0
 2020-03-17 00:00:00,Afghanistan,22,0,1
@@ -10015,7 +10180,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17 00:00:00,Ethiopia,5,0,0
 2020-03-17 00:00:00,Fiji,0,0,0
 2020-03-17 00:00:00,Finland,321,0,10
-2020-03-17 00:00:00,France,7652,148,12
+2020-03-17 00:00:00,France,0,0,0
 2020-03-17 00:00:00,Gabon,1,0,0
 2020-03-17 00:00:00,Gambia,1,0,0
 2020-03-17 00:00:00,Georgia,34,0,1
@@ -10098,6 +10263,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17 00:00:00,Saint Lucia,2,0,0
 2020-03-17 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-17 00:00:00,San Marino,109,7,4
+2020-03-17 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-17 00:00:00,Saudi Arabia,171,0,6
 2020-03-17 00:00:00,Senegal,26,0,2
 2020-03-17 00:00:00,Serbia,65,0,1
@@ -10108,6 +10274,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17 00:00:00,Slovenia,275,1,0
 2020-03-17 00:00:00,Somalia,1,0,0
 2020-03-17 00:00:00,South Africa,62,0,0
+2020-03-17 00:00:00,South Sudan,0,0,0
 2020-03-17 00:00:00,Spain,11748,533,1028
 2020-03-17 00:00:00,Sri Lanka,44,0,1
 2020-03-17 00:00:00,Sudan,1,1,0
@@ -10133,6 +10300,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17 00:00:00,Venezuela,33,0,0
 2020-03-17 00:00:00,Vietnam,66,0,16
 2020-03-17 00:00:00,West Bank and Gaza,39,0,0
+2020-03-17 00:00:00,Western Sahara,0,0,0
 2020-03-17 00:00:00,Zambia,0,0,0
 2020-03-17 00:00:00,Zimbabwe,0,0,0
 2020-03-18 00:00:00,Afghanistan,22,0,1
@@ -10196,7 +10364,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18 00:00:00,Ethiopia,6,0,0
 2020-03-18 00:00:00,Fiji,0,0,0
 2020-03-18 00:00:00,Finland,336,0,10
-2020-03-18 00:00:00,France,9043,148,12
+2020-03-18 00:00:00,France,0,0,0
 2020-03-18 00:00:00,Gabon,1,0,0
 2020-03-18 00:00:00,Gambia,1,0,0
 2020-03-18 00:00:00,Georgia,38,0,1
@@ -10279,6 +10447,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18 00:00:00,Saint Lucia,2,0,0
 2020-03-18 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-18 00:00:00,San Marino,119,11,4
+2020-03-18 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-18 00:00:00,Saudi Arabia,171,0,6
 2020-03-18 00:00:00,Senegal,31,0,2
 2020-03-18 00:00:00,Serbia,83,0,1
@@ -10289,6 +10458,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18 00:00:00,Slovenia,275,1,0
 2020-03-18 00:00:00,Somalia,1,0,0
 2020-03-18 00:00:00,South Africa,116,0,0
+2020-03-18 00:00:00,South Sudan,0,0,0
 2020-03-18 00:00:00,Spain,13910,623,1081
 2020-03-18 00:00:00,Sri Lanka,51,0,1
 2020-03-18 00:00:00,Sudan,2,1,0
@@ -10314,6 +10484,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18 00:00:00,Venezuela,36,0,0
 2020-03-18 00:00:00,Vietnam,75,0,16
 2020-03-18 00:00:00,West Bank and Gaza,41,0,0
+2020-03-18 00:00:00,Western Sahara,0,0,0
 2020-03-18 00:00:00,Zambia,2,0,0
 2020-03-18 00:00:00,Zimbabwe,0,0,0
 2020-03-19 00:00:00,Afghanistan,22,0,1
@@ -10377,7 +10548,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19 00:00:00,Ethiopia,6,0,0
 2020-03-19 00:00:00,Fiji,1,0,0
 2020-03-19 00:00:00,Finland,400,0,10
-2020-03-19 00:00:00,France,10871,243,12
+2020-03-19 00:00:00,France,0,0,0
 2020-03-19 00:00:00,Gabon,1,0,0
 2020-03-19 00:00:00,Gambia,1,0,0
 2020-03-19 00:00:00,Georgia,40,0,1
@@ -10460,6 +10631,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19 00:00:00,Saint Lucia,2,0,0
 2020-03-19 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-19 00:00:00,San Marino,119,11,4
+2020-03-19 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-19 00:00:00,Saudi Arabia,274,0,6
 2020-03-19 00:00:00,Senegal,31,0,2
 2020-03-19 00:00:00,Serbia,103,0,1
@@ -10470,6 +10642,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19 00:00:00,Slovenia,286,1,0
 2020-03-19 00:00:00,Somalia,1,0,0
 2020-03-19 00:00:00,South Africa,150,0,0
+2020-03-19 00:00:00,South Sudan,0,0,0
 2020-03-19 00:00:00,Spain,17963,830,1107
 2020-03-19 00:00:00,Sri Lanka,60,0,3
 2020-03-19 00:00:00,Sudan,2,1,0
@@ -10485,7 +10658,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19 00:00:00,Trinidad and Tobago,9,0,0
 2020-03-19 00:00:00,Tunisia,39,1,0
 2020-03-19 00:00:00,Turkey,192,3,0
-2020-03-19 00:00:00,US,13677,200,121
+2020-03-19 00:00:00,US,13747,200,121
 2020-03-19 00:00:00,Uganda,0,0,0
 2020-03-19 00:00:00,Ukraine,16,2,0
 2020-03-19 00:00:00,United Arab Emirates,140,0,31
@@ -10495,6 +10668,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19 00:00:00,Venezuela,42,0,0
 2020-03-19 00:00:00,Vietnam,85,0,16
 2020-03-19 00:00:00,West Bank and Gaza,44,0,0
+2020-03-19 00:00:00,Western Sahara,0,0,0
 2020-03-19 00:00:00,Zambia,2,0,0
 2020-03-19 00:00:00,Zimbabwe,0,0,0
 2020-03-20 00:00:00,Afghanistan,24,0,1
@@ -10558,7 +10732,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20 00:00:00,Ethiopia,9,0,0
 2020-03-20 00:00:00,Fiji,1,0,0
 2020-03-20 00:00:00,Finland,450,0,10
-2020-03-20 00:00:00,France,12612,450,12
+2020-03-20 00:00:00,France,0,0,0
 2020-03-20 00:00:00,Gabon,3,1,0
 2020-03-20 00:00:00,Gambia,1,0,0
 2020-03-20 00:00:00,Georgia,43,0,1
@@ -10641,6 +10815,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20 00:00:00,Saint Lucia,2,0,0
 2020-03-20 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-20 00:00:00,San Marino,144,14,4
+2020-03-20 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-20 00:00:00,Saudi Arabia,344,0,8
 2020-03-20 00:00:00,Senegal,38,0,2
 2020-03-20 00:00:00,Serbia,135,1,1
@@ -10651,6 +10826,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20 00:00:00,Slovenia,341,1,0
 2020-03-20 00:00:00,Somalia,1,0,0
 2020-03-20 00:00:00,South Africa,202,0,0
+2020-03-20 00:00:00,South Sudan,0,0,0
 2020-03-20 00:00:00,Spain,20410,1043,1588
 2020-03-20 00:00:00,Sri Lanka,73,0,3
 2020-03-20 00:00:00,Sudan,2,1,0
@@ -10666,7 +10842,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20 00:00:00,Trinidad and Tobago,9,0,0
 2020-03-20 00:00:00,Tunisia,54,1,0
 2020-03-20 00:00:00,Turkey,359,4,0
-2020-03-20 00:00:00,US,19100,244,147
+2020-03-20 00:00:00,US,19273,244,147
 2020-03-20 00:00:00,Uganda,0,0,0
 2020-03-20 00:00:00,Ukraine,29,3,0
 2020-03-20 00:00:00,United Arab Emirates,140,2,31
@@ -10676,6 +10852,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20 00:00:00,Venezuela,42,0,0
 2020-03-20 00:00:00,Vietnam,91,0,16
 2020-03-20 00:00:00,West Bank and Gaza,47,0,17
+2020-03-20 00:00:00,Western Sahara,0,0,0
 2020-03-20 00:00:00,Zambia,2,0,0
 2020-03-20 00:00:00,Zimbabwe,1,0,0
 2020-03-21 00:00:00,Afghanistan,24,0,1
@@ -10739,7 +10916,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21 00:00:00,Ethiopia,9,0,0
 2020-03-21 00:00:00,Fiji,1,0,0
 2020-03-21 00:00:00,Finland,523,1,10
-2020-03-21 00:00:00,France,14282,562,12
+2020-03-21 00:00:00,France,0,0,0
 2020-03-21 00:00:00,Gabon,4,1,0
 2020-03-21 00:00:00,Gambia,1,0,0
 2020-03-21 00:00:00,Georgia,49,0,1
@@ -10822,6 +10999,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21 00:00:00,Saint Lucia,2,0,0
 2020-03-21 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-21 00:00:00,San Marino,144,20,4
+2020-03-21 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-21 00:00:00,Saudi Arabia,392,0,16
 2020-03-21 00:00:00,Senegal,47,0,5
 2020-03-21 00:00:00,Serbia,171,1,1
@@ -10832,6 +11010,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21 00:00:00,Slovenia,383,1,0
 2020-03-21 00:00:00,Somalia,1,0,0
 2020-03-21 00:00:00,South Africa,240,0,0
+2020-03-21 00:00:00,South Sudan,0,0,0
 2020-03-21 00:00:00,Spain,25374,1375,2125
 2020-03-21 00:00:00,Sri Lanka,77,0,1
 2020-03-21 00:00:00,Sudan,2,1,0
@@ -10847,7 +11026,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21 00:00:00,Trinidad and Tobago,49,0,1
 2020-03-21 00:00:00,Tunisia,60,1,0
 2020-03-21 00:00:00,Turkey,670,9,0
-2020-03-21 00:00:00,US,25489,307,176
+2020-03-21 00:00:00,US,25600,307,176
 2020-03-21 00:00:00,Uganda,1,0,0
 2020-03-21 00:00:00,Ukraine,47,3,1
 2020-03-21 00:00:00,United Arab Emirates,153,2,38
@@ -10857,6 +11036,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21 00:00:00,Venezuela,70,0,0
 2020-03-21 00:00:00,Vietnam,94,0,17
 2020-03-21 00:00:00,West Bank and Gaza,48,0,17
+2020-03-21 00:00:00,Western Sahara,0,0,0
 2020-03-21 00:00:00,Zambia,2,0,0
 2020-03-21 00:00:00,Zimbabwe,3,0,0
 2020-03-22 00:00:00,Afghanistan,40,1,1
@@ -10920,7 +11100,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22 00:00:00,Ethiopia,11,0,4
 2020-03-22 00:00:00,Fiji,2,0,0
 2020-03-22 00:00:00,Finland,626,1,10
-2020-03-22 00:00:00,France,16018,674,2200
+2020-03-22 00:00:00,France,0,0,0
 2020-03-22 00:00:00,Gabon,5,1,0
 2020-03-22 00:00:00,Gambia,1,0,0
 2020-03-22 00:00:00,Georgia,54,0,3
@@ -11003,6 +11183,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22 00:00:00,Saint Lucia,2,0,0
 2020-03-22 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-22 00:00:00,San Marino,175,20,4
+2020-03-22 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-22 00:00:00,Saudi Arabia,511,0,16
 2020-03-22 00:00:00,Senegal,67,0,5
 2020-03-22 00:00:00,Serbia,222,2,1
@@ -11013,6 +11194,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22 00:00:00,Slovenia,414,2,0
 2020-03-22 00:00:00,Somalia,1,0,0
 2020-03-22 00:00:00,South Africa,274,0,0
+2020-03-22 00:00:00,South Sudan,0,0,0
 2020-03-22 00:00:00,Spain,28768,1772,2575
 2020-03-22 00:00:00,Sri Lanka,82,0,3
 2020-03-22 00:00:00,Sudan,2,1,0
@@ -11038,6 +11220,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22 00:00:00,Venezuela,70,0,15
 2020-03-22 00:00:00,Vietnam,113,0,17
 2020-03-22 00:00:00,West Bank and Gaza,52,0,17
+2020-03-22 00:00:00,Western Sahara,0,0,0
 2020-03-22 00:00:00,Zambia,3,0,0
 2020-03-22 00:00:00,Zimbabwe,3,0,0
 2020-03-23 00:00:00,Afghanistan,40,1,1
@@ -11101,7 +11284,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23 00:00:00,Ethiopia,11,0,4
 2020-03-23 00:00:00,Fiji,3,0,0
 2020-03-23 00:00:00,Finland,700,1,10
-2020-03-23 00:00:00,France,19856,860,2200
+2020-03-23 00:00:00,France,0,0,0
 2020-03-23 00:00:00,Gabon,5,1,0
 2020-03-23 00:00:00,Gambia,2,1,0
 2020-03-23 00:00:00,Georgia,61,0,3
@@ -11184,6 +11367,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23 00:00:00,Saint Lucia,3,0,0
 2020-03-23 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-23 00:00:00,San Marino,187,20,4
+2020-03-23 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-23 00:00:00,Saudi Arabia,562,0,16
 2020-03-23 00:00:00,Senegal,79,0,5
 2020-03-23 00:00:00,Serbia,249,3,1
@@ -11194,6 +11378,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23 00:00:00,Slovenia,442,3,0
 2020-03-23 00:00:00,Somalia,1,0,0
 2020-03-23 00:00:00,South Africa,402,0,0
+2020-03-23 00:00:00,South Sudan,0,0,0
 2020-03-23 00:00:00,Spain,35136,2311,2575
 2020-03-23 00:00:00,Sri Lanka,97,0,3
 2020-03-23 00:00:00,Sudan,2,1,0
@@ -11219,6 +11404,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23 00:00:00,Venezuela,77,0,15
 2020-03-23 00:00:00,Vietnam,123,0,17
 2020-03-23 00:00:00,West Bank and Gaza,59,0,17
+2020-03-23 00:00:00,Western Sahara,0,0,0
 2020-03-23 00:00:00,Zambia,3,0,0
 2020-03-23 00:00:00,Zimbabwe,3,1,0
 2020-03-24 00:00:00,Afghanistan,74,1,1
@@ -11282,7 +11468,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24 00:00:00,Ethiopia,12,0,0
 2020-03-24 00:00:00,Fiji,4,0,0
 2020-03-24 00:00:00,Finland,792,1,10
-2020-03-24 00:00:00,France,22304,1100,3243
+2020-03-24 00:00:00,France,0,0,0
 2020-03-24 00:00:00,Gabon,6,1,0
 2020-03-24 00:00:00,Gambia,3,1,0
 2020-03-24 00:00:00,Georgia,70,0,9
@@ -11365,6 +11551,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24 00:00:00,Saint Lucia,3,0,0
 2020-03-24 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-24 00:00:00,San Marino,187,21,4
+2020-03-24 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-24 00:00:00,Saudi Arabia,767,1,28
 2020-03-24 00:00:00,Senegal,86,0,8
 2020-03-24 00:00:00,Serbia,303,3,15
@@ -11375,6 +11562,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24 00:00:00,Slovenia,480,4,0
 2020-03-24 00:00:00,Somalia,1,0,0
 2020-03-24 00:00:00,South Africa,554,0,4
+2020-03-24 00:00:00,South Sudan,0,0,0
 2020-03-24 00:00:00,Spain,39885,2808,3794
 2020-03-24 00:00:00,Sri Lanka,102,0,2
 2020-03-24 00:00:00,Sudan,3,1,0
@@ -11400,6 +11588,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24 00:00:00,Venezuela,84,0,15
 2020-03-24 00:00:00,Vietnam,134,0,17
 2020-03-24 00:00:00,West Bank and Gaza,59,0,17
+2020-03-24 00:00:00,Western Sahara,0,0,0
 2020-03-24 00:00:00,Zambia,3,0,0
 2020-03-24 00:00:00,Zimbabwe,3,1,0
 2020-03-25 00:00:00,Afghanistan,84,2,2
@@ -11463,7 +11652,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25 00:00:00,Ethiopia,12,0,0
 2020-03-25 00:00:00,Fiji,5,0,0
 2020-03-25 00:00:00,Finland,880,3,10
-2020-03-25 00:00:00,France,25233,1331,3900
+2020-03-25 00:00:00,France,0,0,0
 2020-03-25 00:00:00,Gabon,6,1,0
 2020-03-25 00:00:00,Gambia,3,1,0
 2020-03-25 00:00:00,Georgia,75,0,10
@@ -11546,6 +11735,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25 00:00:00,Saint Lucia,3,0,0
 2020-03-25 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-25 00:00:00,San Marino,208,21,4
+2020-03-25 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-25 00:00:00,Saudi Arabia,900,2,29
 2020-03-25 00:00:00,Senegal,99,0,9
 2020-03-25 00:00:00,Serbia,384,4,15
@@ -11556,6 +11746,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25 00:00:00,Slovenia,528,5,10
 2020-03-25 00:00:00,Somalia,1,0,0
 2020-03-25 00:00:00,South Africa,709,0,12
+2020-03-25 00:00:00,South Sudan,0,0,0
 2020-03-25 00:00:00,Spain,49515,3647,5367
 2020-03-25 00:00:00,Sri Lanka,102,0,3
 2020-03-25 00:00:00,Sudan,3,1,0
@@ -11581,6 +11772,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25 00:00:00,Venezuela,91,0,15
 2020-03-25 00:00:00,Vietnam,141,0,17
 2020-03-25 00:00:00,West Bank and Gaza,59,0,17
+2020-03-25 00:00:00,Western Sahara,0,0,0
 2020-03-25 00:00:00,Zambia,12,0,0
 2020-03-25 00:00:00,Zimbabwe,3,1,0
 2020-03-26 00:00:00,Afghanistan,94,4,2
@@ -11644,7 +11836,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26 00:00:00,Ethiopia,12,0,0
 2020-03-26 00:00:00,Fiji,5,0,0
 2020-03-26 00:00:00,Finland,958,5,10
-2020-03-26 00:00:00,France,29155,1696,4948
+2020-03-26 00:00:00,France,0,0,0
 2020-03-26 00:00:00,Gabon,7,1,0
 2020-03-26 00:00:00,Gambia,3,1,0
 2020-03-26 00:00:00,Georgia,79,0,11
@@ -11727,6 +11919,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26 00:00:00,Saint Lucia,3,0,0
 2020-03-26 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-26 00:00:00,San Marino,208,21,4
+2020-03-26 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-26 00:00:00,Saudi Arabia,1012,3,33
 2020-03-26 00:00:00,Senegal,105,0,9
 2020-03-26 00:00:00,Serbia,384,1,0
@@ -11737,6 +11930,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26 00:00:00,Slovenia,562,6,10
 2020-03-26 00:00:00,Somalia,2,0,0
 2020-03-26 00:00:00,South Africa,927,0,12
+2020-03-26 00:00:00,South Sudan,0,0,0
 2020-03-26 00:00:00,Spain,57786,4365,7015
 2020-03-26 00:00:00,Sri Lanka,106,0,7
 2020-03-26 00:00:00,Sudan,3,1,0
@@ -11762,6 +11956,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26 00:00:00,Venezuela,107,0,15
 2020-03-26 00:00:00,Vietnam,153,0,20
 2020-03-26 00:00:00,West Bank and Gaza,84,1,17
+2020-03-26 00:00:00,Western Sahara,0,0,0
 2020-03-26 00:00:00,Zambia,16,0,0
 2020-03-26 00:00:00,Zimbabwe,3,1,0
 2020-03-27 00:00:00,Afghanistan,110,4,2
@@ -11825,7 +12020,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27 00:00:00,Ethiopia,16,0,0
 2020-03-27 00:00:00,Fiji,5,0,0
 2020-03-27 00:00:00,Finland,1041,7,10
-2020-03-27 00:00:00,France,32964,1995,5700
+2020-03-27 00:00:00,France,0,0,0
 2020-03-27 00:00:00,Gabon,7,1,0
 2020-03-27 00:00:00,Gambia,3,1,0
 2020-03-27 00:00:00,Georgia,83,0,14
@@ -11908,6 +12103,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27 00:00:00,Saint Lucia,3,0,1
 2020-03-27 00:00:00,Saint Vincent and the Grenadines,1,0,0
 2020-03-27 00:00:00,San Marino,223,21,4
+2020-03-27 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-27 00:00:00,Saudi Arabia,1104,3,35
 2020-03-27 00:00:00,Senegal,119,0,11
 2020-03-27 00:00:00,Serbia,457,1,0
@@ -11918,6 +12114,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27 00:00:00,Slovenia,632,9,10
 2020-03-27 00:00:00,Somalia,3,0,0
 2020-03-27 00:00:00,South Africa,1170,1,31
+2020-03-27 00:00:00,South Sudan,0,0,0
 2020-03-27 00:00:00,Spain,65719,5138,9357
 2020-03-27 00:00:00,Sri Lanka,106,0,7
 2020-03-27 00:00:00,Sudan,3,1,0
@@ -11943,6 +12140,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27 00:00:00,Venezuela,107,1,31
 2020-03-27 00:00:00,Vietnam,163,0,20
 2020-03-27 00:00:00,West Bank and Gaza,91,1,17
+2020-03-27 00:00:00,Western Sahara,0,0,0
 2020-03-27 00:00:00,Zambia,22,0,0
 2020-03-27 00:00:00,Zimbabwe,5,1,0
 2020-03-28 00:00:00,Afghanistan,110,4,2
@@ -12006,7 +12204,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28 00:00:00,Ethiopia,16,0,1
 2020-03-28 00:00:00,Fiji,5,0,0
 2020-03-28 00:00:00,Finland,1167,9,10
-2020-03-28 00:00:00,France,37575,2314,5700
+2020-03-28 00:00:00,France,0,0,0
 2020-03-28 00:00:00,Gabon,7,1,0
 2020-03-28 00:00:00,Gambia,3,1,0
 2020-03-28 00:00:00,Georgia,90,0,14
@@ -12089,6 +12287,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28 00:00:00,Saint Lucia,3,0,1
 2020-03-28 00:00:00,Saint Vincent and the Grenadines,1,0,1
 2020-03-28 00:00:00,San Marino,224,22,6
+2020-03-28 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-28 00:00:00,Saudi Arabia,1203,4,37
 2020-03-28 00:00:00,Senegal,130,0,18
 2020-03-28 00:00:00,Serbia,659,10,0
@@ -12099,6 +12298,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28 00:00:00,Slovenia,684,9,10
 2020-03-28 00:00:00,Somalia,3,0,0
 2020-03-28 00:00:00,South Africa,1187,1,31
+2020-03-28 00:00:00,South Sudan,0,0,0
 2020-03-28 00:00:00,Spain,73235,5982,12285
 2020-03-28 00:00:00,Sri Lanka,113,1,9
 2020-03-28 00:00:00,Sudan,5,1,0
@@ -12118,12 +12318,13 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28 00:00:00,Uganda,30,0,0
 2020-03-28 00:00:00,Ukraine,356,9,5
 2020-03-28 00:00:00,United Arab Emirates,468,2,52
-2020-03-28 00:00:00,United Kingdom,4,0,0
+2020-03-28 00:00:00,United Kingdom,0,0,0
 2020-03-28 00:00:00,Uruguay,274,0,0
 2020-03-28 00:00:00,Uzbekistan,104,2,5
 2020-03-28 00:00:00,Venezuela,119,2,39
 2020-03-28 00:00:00,Vietnam,174,0,21
 2020-03-28 00:00:00,West Bank and Gaza,98,1,18
+2020-03-28 00:00:00,Western Sahara,0,0,0
 2020-03-28 00:00:00,Zambia,28,0,0
 2020-03-28 00:00:00,Zimbabwe,7,1,0
 2020-03-29 00:00:00,Afghanistan,120,4,2
@@ -12187,7 +12388,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29 00:00:00,Ethiopia,21,0,1
 2020-03-29 00:00:00,Fiji,5,0,0
 2020-03-29 00:00:00,Finland,1240,11,10
-2020-03-29 00:00:00,France,40174,2606,7202
+2020-03-29 00:00:00,France,0,0,0
 2020-03-29 00:00:00,Gabon,7,1,0
 2020-03-29 00:00:00,Gambia,4,1,0
 2020-03-29 00:00:00,Georgia,91,0,18
@@ -12270,6 +12471,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29 00:00:00,Saint Lucia,9,0,1
 2020-03-29 00:00:00,Saint Vincent and the Grenadines,1,0,1
 2020-03-29 00:00:00,San Marino,224,22,6
+2020-03-29 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-29 00:00:00,Saudi Arabia,1299,8,66
 2020-03-29 00:00:00,Senegal,142,0,27
 2020-03-29 00:00:00,Serbia,741,13,0
@@ -12280,6 +12482,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29 00:00:00,Slovenia,730,11,10
 2020-03-29 00:00:00,Somalia,3,0,0
 2020-03-29 00:00:00,South Africa,1280,2,31
+2020-03-29 00:00:00,South Sudan,0,0,0
 2020-03-29 00:00:00,Spain,80110,6803,14709
 2020-03-29 00:00:00,Sri Lanka,117,1,11
 2020-03-29 00:00:00,Sudan,6,1,0
@@ -12295,16 +12498,17 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29 00:00:00,Trinidad and Tobago,78,3,1
 2020-03-29 00:00:00,Tunisia,312,8,2
 2020-03-29 00:00:00,Turkey,9217,131,105
-2020-03-29 00:00:00,US,140886,2467,2665
+2020-03-29 00:00:00,US,140909,2467,2665
 2020-03-29 00:00:00,Uganda,33,0,0
 2020-03-29 00:00:00,Ukraine,475,10,6
 2020-03-29 00:00:00,United Arab Emirates,570,3,58
-2020-03-29 00:00:00,United Kingdom,4,0,0
+2020-03-29 00:00:00,United Kingdom,0,0,0
 2020-03-29 00:00:00,Uruguay,304,1,0
 2020-03-29 00:00:00,Uzbekistan,144,2,7
 2020-03-29 00:00:00,Venezuela,119,2,39
 2020-03-29 00:00:00,Vietnam,188,0,25
 2020-03-29 00:00:00,West Bank and Gaza,109,1,18
+2020-03-29 00:00:00,Western Sahara,0,0,0
 2020-03-29 00:00:00,Zambia,29,0,0
 2020-03-29 00:00:00,Zimbabwe,7,1,0
 2020-03-30 00:00:00,Afghanistan,170,4,2
@@ -12368,7 +12572,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30 00:00:00,Ethiopia,23,0,4
 2020-03-30 00:00:00,Fiji,5,0,0
 2020-03-30 00:00:00,Finland,1352,13,10
-2020-03-30 00:00:00,France,44550,3024,7927
+2020-03-30 00:00:00,France,0,0,0
 2020-03-30 00:00:00,Gabon,7,1,0
 2020-03-30 00:00:00,Gambia,4,1,0
 2020-03-30 00:00:00,Georgia,103,0,20
@@ -12451,6 +12655,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30 00:00:00,Saint Lucia,9,0,1
 2020-03-30 00:00:00,Saint Vincent and the Grenadines,1,0,1
 2020-03-30 00:00:00,San Marino,230,25,13
+2020-03-30 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-30 00:00:00,Saudi Arabia,1453,8,115
 2020-03-30 00:00:00,Senegal,162,0,27
 2020-03-30 00:00:00,Serbia,785,16,0
@@ -12461,6 +12666,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30 00:00:00,Slovenia,756,11,10
 2020-03-30 00:00:00,Somalia,3,0,0
 2020-03-30 00:00:00,South Africa,1326,3,31
+2020-03-30 00:00:00,South Sudan,0,0,0
 2020-03-30 00:00:00,Spain,87956,7716,16780
 2020-03-30 00:00:00,Sri Lanka,122,2,15
 2020-03-30 00:00:00,Sudan,6,2,0
@@ -12476,16 +12682,17 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30 00:00:00,Trinidad and Tobago,82,3,1
 2020-03-30 00:00:00,Tunisia,312,8,3
 2020-03-30 00:00:00,Turkey,10827,168,162
-2020-03-30 00:00:00,US,161807,2978,5644
+2020-03-30 00:00:00,US,161837,2978,5644
 2020-03-30 00:00:00,Uganda,33,0,0
 2020-03-30 00:00:00,Ukraine,548,13,8
 2020-03-30 00:00:00,United Arab Emirates,611,5,61
-2020-03-30 00:00:00,United Kingdom,5,0,0
+2020-03-30 00:00:00,United Kingdom,0,0,0
 2020-03-30 00:00:00,Uruguay,310,1,0
 2020-03-30 00:00:00,Uzbekistan,149,2,7
 2020-03-30 00:00:00,Venezuela,135,3,39
 2020-03-30 00:00:00,Vietnam,203,0,55
 2020-03-30 00:00:00,West Bank and Gaza,116,1,18
+2020-03-30 00:00:00,Western Sahara,0,0,0
 2020-03-30 00:00:00,Zambia,35,0,0
 2020-03-30 00:00:00,Zimbabwe,7,1,0
 2020-03-31 00:00:00,Afghanistan,174,4,5
@@ -12549,7 +12756,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31 00:00:00,Ethiopia,26,0,2
 2020-03-31 00:00:00,Fiji,5,0,0
 2020-03-31 00:00:00,Finland,1418,17,10
-2020-03-31 00:00:00,France,52128,3523,9444
+2020-03-31 00:00:00,France,0,0,0
 2020-03-31 00:00:00,Gabon,16,1,0
 2020-03-31 00:00:00,Gambia,4,1,0
 2020-03-31 00:00:00,Georgia,110,0,21
@@ -12632,6 +12839,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31 00:00:00,Saint Lucia,13,0,1
 2020-03-31 00:00:00,Saint Vincent and the Grenadines,1,0,1
 2020-03-31 00:00:00,San Marino,236,26,13
+2020-03-31 00:00:00,Sao Tome and Principe,0,0,0
 2020-03-31 00:00:00,Saudi Arabia,1563,10,165
 2020-03-31 00:00:00,Senegal,175,0,40
 2020-03-31 00:00:00,Serbia,900,16,0
@@ -12642,6 +12850,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31 00:00:00,Slovenia,802,15,10
 2020-03-31 00:00:00,Somalia,5,0,1
 2020-03-31 00:00:00,South Africa,1353,5,31
+2020-03-31 00:00:00,South Sudan,0,0,0
 2020-03-31 00:00:00,Spain,95923,8464,19259
 2020-03-31 00:00:00,Sri Lanka,143,2,17
 2020-03-31 00:00:00,Sudan,7,2,1
@@ -12661,12 +12870,13 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31 00:00:00,Uganda,44,0,0
 2020-03-31 00:00:00,Ukraine,645,17,10
 2020-03-31 00:00:00,United Arab Emirates,664,6,61
-2020-03-31 00:00:00,United Kingdom,5,0,0
+2020-03-31 00:00:00,United Kingdom,0,0,0
 2020-03-31 00:00:00,Uruguay,338,1,41
 2020-03-31 00:00:00,Uzbekistan,172,2,7
 2020-03-31 00:00:00,Venezuela,135,3,39
 2020-03-31 00:00:00,Vietnam,212,0,58
 2020-03-31 00:00:00,West Bank and Gaza,119,1,18
+2020-03-31 00:00:00,Western Sahara,0,0,0
 2020-03-31 00:00:00,Zambia,35,0,0
 2020-03-31 00:00:00,Zimbabwe,8,1,0
 2020-04-01 00:00:00,Afghanistan,237,4,5
@@ -12730,7 +12940,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01 00:00:00,Ethiopia,29,0,2
 2020-04-01 00:00:00,Fiji,5,0,0
 2020-04-01 00:00:00,Finland,1446,17,10
-2020-04-01 00:00:00,France,56989,4032,10934
+2020-04-01 00:00:00,France,0,0,0
 2020-04-01 00:00:00,Gabon,18,1,0
 2020-04-01 00:00:00,Gambia,4,1,2
 2020-04-01 00:00:00,Georgia,117,0,23
@@ -12813,6 +13023,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01 00:00:00,Saint Lucia,13,0,1
 2020-04-01 00:00:00,Saint Vincent and the Grenadines,1,0,1
 2020-04-01 00:00:00,San Marino,236,26,13
+2020-04-01 00:00:00,Sao Tome and Principe,0,0,0
 2020-04-01 00:00:00,Saudi Arabia,1720,16,264
 2020-04-01 00:00:00,Senegal,190,1,45
 2020-04-01 00:00:00,Serbia,1060,28,0
@@ -12823,6 +13034,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01 00:00:00,Slovenia,841,15,10
 2020-04-01 00:00:00,Somalia,5,0,1
 2020-04-01 00:00:00,South Africa,1380,5,50
+2020-04-01 00:00:00,South Sudan,0,0,0
 2020-04-01 00:00:00,Spain,104118,9387,22647
 2020-04-01 00:00:00,Sri Lanka,146,3,21
 2020-04-01 00:00:00,Sudan,7,2,2
@@ -12842,12 +13054,13 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01 00:00:00,Uganda,44,0,0
 2020-04-01 00:00:00,Ukraine,794,20,13
 2020-04-01 00:00:00,United Arab Emirates,814,8,61
-2020-04-01 00:00:00,United Kingdom,6,0,0
+2020-04-01 00:00:00,United Kingdom,0,0,0
 2020-04-01 00:00:00,Uruguay,338,2,41
 2020-04-01 00:00:00,Uzbekistan,181,2,12
 2020-04-01 00:00:00,Venezuela,143,3,41
 2020-04-01 00:00:00,Vietnam,218,0,63
 2020-04-01 00:00:00,West Bank and Gaza,134,1,18
+2020-04-01 00:00:00,Western Sahara,0,0,0
 2020-04-01 00:00:00,Zambia,36,0,0
 2020-04-01 00:00:00,Zimbabwe,8,1,0
 2020-04-02 00:00:00,Afghanistan,273,6,10
@@ -12911,7 +13124,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02 00:00:00,Ethiopia,29,0,3
 2020-04-02 00:00:00,Fiji,7,0,0
 2020-04-02 00:00:00,Finland,1518,19,300
-2020-04-02 00:00:00,France,59105,5387,12428
+2020-04-02 00:00:00,France,0,0,0
 2020-04-02 00:00:00,Gabon,21,1,0
 2020-04-02 00:00:00,Gambia,4,1,2
 2020-04-02 00:00:00,Georgia,134,0,26
@@ -12994,6 +13207,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02 00:00:00,Saint Lucia,13,0,1
 2020-04-02 00:00:00,Saint Vincent and the Grenadines,2,0,1
 2020-04-02 00:00:00,San Marino,245,30,21
+2020-04-02 00:00:00,Sao Tome and Principe,0,0,0
 2020-04-02 00:00:00,Saudi Arabia,1885,21,328
 2020-04-02 00:00:00,Senegal,195,1,55
 2020-04-02 00:00:00,Serbia,1171,31,0
@@ -13004,6 +13218,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02 00:00:00,Slovenia,897,17,70
 2020-04-02 00:00:00,Somalia,5,0,1
 2020-04-02 00:00:00,South Africa,1462,5,50
+2020-04-02 00:00:00,South Sudan,0,0,0
 2020-04-02 00:00:00,Spain,112065,10348,26743
 2020-04-02 00:00:00,Sri Lanka,151,4,21
 2020-04-02 00:00:00,Sudan,8,2,2
@@ -13019,15 +13234,936 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02 00:00:00,Trinidad and Tobago,94,5,1
 2020-04-02 00:00:00,Tunisia,455,14,5
 2020-04-02 00:00:00,Turkey,18135,356,415
-2020-04-02 00:00:00,US,243453,5926,9001
+2020-04-02 00:00:00,US,243616,5926,9001
 2020-04-02 00:00:00,Uganda,45,0,0
 2020-04-02 00:00:00,Ukraine,897,22,19
 2020-04-02 00:00:00,United Arab Emirates,1024,8,96
-2020-04-02 00:00:00,United Kingdom,5,0,0
+2020-04-02 00:00:00,United Kingdom,0,0,0
 2020-04-02 00:00:00,Uruguay,350,4,62
 2020-04-02 00:00:00,Uzbekistan,205,2,25
 2020-04-02 00:00:00,Venezuela,146,5,43
 2020-04-02 00:00:00,Vietnam,233,0,75
 2020-04-02 00:00:00,West Bank and Gaza,161,1,18
+2020-04-02 00:00:00,Western Sahara,0,0,0
 2020-04-02 00:00:00,Zambia,39,1,0
 2020-04-02 00:00:00,Zimbabwe,9,1,0
+2020-04-03 00:00:00,Afghanistan,281,6,10
+2020-04-03 00:00:00,Albania,304,17,89
+2020-04-03 00:00:00,Algeria,1171,105,62
+2020-04-03 00:00:00,Andorra,439,16,16
+2020-04-03 00:00:00,Angola,8,2,1
+2020-04-03 00:00:00,Antigua and Barbuda,15,0,0
+2020-04-03 00:00:00,Argentina,1265,39,266
+2020-04-03 00:00:00,Armenia,736,7,43
+2020-04-03 00:00:00,Australia,400,2,92
+2020-04-03 00:00:00,Austria,11524,168,2022
+2020-04-03 00:00:00,Azerbaijan,443,5,32
+2020-04-03 00:00:00,Bahamas,24,1,1
+2020-04-03 00:00:00,Bahrain,672,4,382
+2020-04-03 00:00:00,Bangladesh,61,6,26
+2020-04-03 00:00:00,Barbados,51,0,0
+2020-04-03 00:00:00,Belarus,351,4,53
+2020-04-03 00:00:00,Belgium,16770,1143,2872
+2020-04-03 00:00:00,Belize,4,0,0
+2020-04-03 00:00:00,Benin,16,0,2
+2020-04-03 00:00:00,Bhutan,5,0,2
+2020-04-03 00:00:00,Bolivia,132,9,1
+2020-04-03 00:00:00,Bosnia and Herzegovina,579,17,27
+2020-04-03 00:00:00,Botswana,4,1,0
+2020-04-03 00:00:00,Brazil,9056,359,127
+2020-04-03 00:00:00,Brunei,134,1,65
+2020-04-03 00:00:00,Bulgaria,485,14,30
+2020-04-03 00:00:00,Burkina Faso,302,16,50
+2020-04-03 00:00:00,Burma,20,1,0
+2020-04-03 00:00:00,Burundi,3,0,0
+2020-04-03 00:00:00,Cabo Verde,6,1,0
+2020-04-03 00:00:00,Cambodia,114,0,35
+2020-04-03 00:00:00,Cameroon,509,8,17
+2020-04-03 00:00:00,Canada,6,0,2175
+2020-04-03 00:00:00,Central African Republic,8,0,0
+2020-04-03 00:00:00,Chad,8,0,0
+2020-04-03 00:00:00,Chile,3737,22,427
+2020-04-03 00:00:00,China,1260,1,1228
+2020-04-03 00:00:00,Colombia,1267,25,55
+2020-04-03 00:00:00,Congo (Brazzaville),22,2,2
+2020-04-03 00:00:00,Congo (Kinshasa),134,13,3
+2020-04-03 00:00:00,Costa Rica,416,2,11
+2020-04-03 00:00:00,Cote d'Ivoire,218,1,19
+2020-04-03 00:00:00,Croatia,1079,8,92
+2020-04-03 00:00:00,Cuba,269,6,15
+2020-04-03 00:00:00,Cyprus,396,11,28
+2020-04-03 00:00:00,Czechia,4091,53,72
+2020-04-03 00:00:00,Denmark,3757,139,1193
+2020-04-03 00:00:00,Diamond Princess,712,11,619
+2020-04-03 00:00:00,Djibouti,49,0,8
+2020-04-03 00:00:00,Dominica,12,0,0
+2020-04-03 00:00:00,Dominican Republic,1488,68,16
+2020-04-03 00:00:00,Ecuador,3368,145,65
+2020-04-03 00:00:00,Egypt,985,66,216
+2020-04-03 00:00:00,El Salvador,46,2,0
+2020-04-03 00:00:00,Equatorial Guinea,16,0,1
+2020-04-03 00:00:00,Eritrea,22,0,0
+2020-04-03 00:00:00,Estonia,961,12,48
+2020-04-03 00:00:00,Eswatini,9,0,0
+2020-04-03 00:00:00,Ethiopia,35,0,3
+2020-04-03 00:00:00,Fiji,7,0,0
+2020-04-03 00:00:00,Finland,1615,20,300
+2020-04-03 00:00:00,France,0,0,0
+2020-04-03 00:00:00,Gabon,21,1,1
+2020-04-03 00:00:00,Gambia,4,1,2
+2020-04-03 00:00:00,Georgia,155,0,28
+2020-04-03 00:00:00,Germany,91159,1275,24575
+2020-04-03 00:00:00,Ghana,205,5,31
+2020-04-03 00:00:00,Greece,1613,63,78
+2020-04-03 00:00:00,Grenada,12,0,0
+2020-04-03 00:00:00,Guatemala,50,1,12
+2020-04-03 00:00:00,Guinea,73,0,2
+2020-04-03 00:00:00,Guinea-Bissau,15,0,0
+2020-04-03 00:00:00,Guyana,23,4,0
+2020-04-03 00:00:00,Haiti,18,0,1
+2020-04-03 00:00:00,Holy See,7,0,0
+2020-04-03 00:00:00,Honduras,222,15,3
+2020-04-03 00:00:00,Hungary,623,26,43
+2020-04-03 00:00:00,Iceland,1364,4,309
+2020-04-03 00:00:00,India,2567,72,192
+2020-04-03 00:00:00,Indonesia,1986,181,134
+2020-04-03 00:00:00,Iran,53183,3294,17935
+2020-04-03 00:00:00,Iraq,820,54,226
+2020-04-03 00:00:00,Ireland,4273,120,5
+2020-04-03 00:00:00,Israel,7428,40,403
+2020-04-03 00:00:00,Italy,119827,14681,19758
+2020-04-03 00:00:00,Jamaica,47,3,2
+2020-04-03 00:00:00,Japan,2617,63,514
+2020-04-03 00:00:00,Jordan,310,5,58
+2020-04-03 00:00:00,Kazakhstan,464,6,29
+2020-04-03 00:00:00,Kenya,122,4,4
+2020-04-03 00:00:00,"Korea, South",10062,174,6021
+2020-04-03 00:00:00,Kosovo,126,1,10
+2020-04-03 00:00:00,Kuwait,417,0,82
+2020-04-03 00:00:00,Kyrgyzstan,130,1,6
+2020-04-03 00:00:00,Laos,10,0,0
+2020-04-03 00:00:00,Latvia,493,1,1
+2020-04-03 00:00:00,Lebanon,508,17,50
+2020-04-03 00:00:00,Liberia,7,0,0
+2020-04-03 00:00:00,Libya,11,1,0
+2020-04-03 00:00:00,Liechtenstein,75,0,0
+2020-04-03 00:00:00,Lithuania,696,9,7
+2020-04-03 00:00:00,Luxembourg,2612,31,500
+2020-04-03 00:00:00,MS Zaandam,9,2,0
+2020-04-03 00:00:00,Madagascar,70,0,0
+2020-04-03 00:00:00,Malawi,3,0,0
+2020-04-03 00:00:00,Malaysia,3333,53,827
+2020-04-03 00:00:00,Maldives,19,0,13
+2020-04-03 00:00:00,Mali,39,3,0
+2020-04-03 00:00:00,Malta,202,0,2
+2020-04-03 00:00:00,Mauritania,6,1,2
+2020-04-03 00:00:00,Mauritius,186,7,0
+2020-04-03 00:00:00,Mexico,1510,50,633
+2020-04-03 00:00:00,Moldova,591,8,26
+2020-04-03 00:00:00,Monaco,64,1,3
+2020-04-03 00:00:00,Mongolia,14,0,2
+2020-04-03 00:00:00,Montenegro,174,2,1
+2020-04-03 00:00:00,Morocco,791,48,57
+2020-04-03 00:00:00,Mozambique,10,0,0
+2020-04-03 00:00:00,Namibia,14,0,3
+2020-04-03 00:00:00,Nepal,6,0,1
+2020-04-03 00:00:00,Netherlands,2,0,0
+2020-04-03 00:00:00,New Zealand,868,1,103
+2020-04-03 00:00:00,Nicaragua,5,1,0
+2020-04-03 00:00:00,Niger,120,5,0
+2020-04-03 00:00:00,Nigeria,210,4,25
+2020-04-03 00:00:00,North Macedonia,430,12,20
+2020-04-03 00:00:00,Norway,5370,59,32
+2020-04-03 00:00:00,Oman,252,1,57
+2020-04-03 00:00:00,Pakistan,2686,40,126
+2020-04-03 00:00:00,Panama,1475,37,10
+2020-04-03 00:00:00,Papua New Guinea,1,0,0
+2020-04-03 00:00:00,Paraguay,92,3,6
+2020-04-03 00:00:00,Peru,1595,61,537
+2020-04-03 00:00:00,Philippines,3018,136,52
+2020-04-03 00:00:00,Poland,3383,71,56
+2020-04-03 00:00:00,Portugal,9886,246,68
+2020-04-03 00:00:00,Qatar,1075,3,93
+2020-04-03 00:00:00,Romania,3183,133,283
+2020-04-03 00:00:00,Russia,4149,34,281
+2020-04-03 00:00:00,Rwanda,89,0,0
+2020-04-03 00:00:00,Saint Kitts and Nevis,9,0,0
+2020-04-03 00:00:00,Saint Lucia,13,0,1
+2020-04-03 00:00:00,Saint Vincent and the Grenadines,3,0,1
+2020-04-03 00:00:00,San Marino,245,30,21
+2020-04-03 00:00:00,Sao Tome and Principe,0,0,0
+2020-04-03 00:00:00,Saudi Arabia,2039,25,351
+2020-04-03 00:00:00,Senegal,207,1,66
+2020-04-03 00:00:00,Serbia,1476,39,0
+2020-04-03 00:00:00,Seychelles,10,0,0
+2020-04-03 00:00:00,Sierra Leone,2,0,0
+2020-04-03 00:00:00,Singapore,1114,5,282
+2020-04-03 00:00:00,Slovakia,450,1,10
+2020-04-03 00:00:00,Slovenia,934,20,70
+2020-04-03 00:00:00,Somalia,7,0,1
+2020-04-03 00:00:00,South Africa,1505,9,95
+2020-04-03 00:00:00,South Sudan,0,0,0
+2020-04-03 00:00:00,Spain,119199,11198,30513
+2020-04-03 00:00:00,Sri Lanka,159,4,24
+2020-04-03 00:00:00,Sudan,10,2,2
+2020-04-03 00:00:00,Suriname,10,1,0
+2020-04-03 00:00:00,Sweden,6131,358,205
+2020-04-03 00:00:00,Switzerland,19606,591,4846
+2020-04-03 00:00:00,Syria,16,2,0
+2020-04-03 00:00:00,Taiwan*,348,5,50
+2020-04-03 00:00:00,Tanzania,20,1,3
+2020-04-03 00:00:00,Thailand,1978,19,612
+2020-04-03 00:00:00,Timor-Leste,1,0,0
+2020-04-03 00:00:00,Togo,40,3,17
+2020-04-03 00:00:00,Trinidad and Tobago,98,6,1
+2020-04-03 00:00:00,Tunisia,495,18,5
+2020-04-03 00:00:00,Turkey,20921,425,484
+2020-04-03 00:00:00,US,275586,7087,9707
+2020-04-03 00:00:00,Uganda,48,0,0
+2020-04-03 00:00:00,Ukraine,1072,27,22
+2020-04-03 00:00:00,United Arab Emirates,1264,9,108
+2020-04-03 00:00:00,United Kingdom,0,0,0
+2020-04-03 00:00:00,Uruguay,369,4,68
+2020-04-03 00:00:00,Uzbekistan,227,2,25
+2020-04-03 00:00:00,Venezuela,153,7,52
+2020-04-03 00:00:00,Vietnam,237,0,85
+2020-04-03 00:00:00,West Bank and Gaza,194,1,21
+2020-04-03 00:00:00,Western Sahara,0,0,0
+2020-04-03 00:00:00,Zambia,39,1,2
+2020-04-03 00:00:00,Zimbabwe,9,1,0
+2020-04-04 00:00:00,Afghanistan,299,7,10
+2020-04-04 00:00:00,Albania,333,20,99
+2020-04-04 00:00:00,Algeria,1251,130,90
+2020-04-04 00:00:00,Andorra,466,17,21
+2020-04-04 00:00:00,Angola,10,2,2
+2020-04-04 00:00:00,Antigua and Barbuda,15,0,0
+2020-04-04 00:00:00,Argentina,1451,43,279
+2020-04-04 00:00:00,Armenia,770,7,43
+2020-04-04 00:00:00,Australia,436,2,92
+2020-04-04 00:00:00,Austria,11781,186,2507
+2020-04-04 00:00:00,Azerbaijan,521,5,32
+2020-04-04 00:00:00,Bahamas,28,4,0
+2020-04-04 00:00:00,Bahrain,688,4,423
+2020-04-04 00:00:00,Bangladesh,70,8,30
+2020-04-04 00:00:00,Barbados,52,0,0
+2020-04-04 00:00:00,Belarus,440,5,53
+2020-04-04 00:00:00,Belgium,18431,1283,3247
+2020-04-04 00:00:00,Belize,4,0,0
+2020-04-04 00:00:00,Benin,16,0,2
+2020-04-04 00:00:00,Bhutan,5,0,2
+2020-04-04 00:00:00,Bolivia,139,10,1
+2020-04-04 00:00:00,Bosnia and Herzegovina,624,21,30
+2020-04-04 00:00:00,Botswana,4,1,0
+2020-04-04 00:00:00,Brazil,10360,445,127
+2020-04-04 00:00:00,Brunei,135,1,66
+2020-04-04 00:00:00,Bulgaria,503,17,34
+2020-04-04 00:00:00,Burkina Faso,318,16,66
+2020-04-04 00:00:00,Burma,21,1,0
+2020-04-04 00:00:00,Burundi,3,0,0
+2020-04-04 00:00:00,Cabo Verde,7,1,0
+2020-04-04 00:00:00,Cambodia,114,0,50
+2020-04-04 00:00:00,Cameroon,555,9,17
+2020-04-04 00:00:00,Canada,6,0,2577
+2020-04-04 00:00:00,Central African Republic,8,0,0
+2020-04-04 00:00:00,Chad,9,0,0
+2020-04-04 00:00:00,Chile,4161,27,528
+2020-04-04 00:00:00,China,1262,1,1229
+2020-04-04 00:00:00,Colombia,1406,32,85
+2020-04-04 00:00:00,Congo (Brazzaville),22,2,2
+2020-04-04 00:00:00,Congo (Kinshasa),154,18,3
+2020-04-04 00:00:00,Costa Rica,435,2,13
+2020-04-04 00:00:00,Cote d'Ivoire,245,1,25
+2020-04-04 00:00:00,Croatia,1126,12,119
+2020-04-04 00:00:00,Cuba,288,6,15
+2020-04-04 00:00:00,Cyprus,426,11,33
+2020-04-04 00:00:00,Czechia,4472,59,78
+2020-04-04 00:00:00,Denmark,4077,161,1283
+2020-04-04 00:00:00,Diamond Princess,712,11,619
+2020-04-04 00:00:00,Djibouti,50,0,8
+2020-04-04 00:00:00,Dominica,14,0,0
+2020-04-04 00:00:00,Dominican Republic,1488,68,16
+2020-04-04 00:00:00,Ecuador,3465,172,100
+2020-04-04 00:00:00,Egypt,1070,71,241
+2020-04-04 00:00:00,El Salvador,56,3,2
+2020-04-04 00:00:00,Equatorial Guinea,16,0,1
+2020-04-04 00:00:00,Eritrea,29,0,0
+2020-04-04 00:00:00,Estonia,1039,13,59
+2020-04-04 00:00:00,Eswatini,9,0,0
+2020-04-04 00:00:00,Ethiopia,38,0,4
+2020-04-04 00:00:00,Fiji,12,0,0
+2020-04-04 00:00:00,Finland,1882,25,300
+2020-04-04 00:00:00,France,0,0,0
+2020-04-04 00:00:00,Gabon,21,1,1
+2020-04-04 00:00:00,Gambia,4,1,2
+2020-04-04 00:00:00,Georgia,162,1,36
+2020-04-04 00:00:00,Germany,96092,1444,26400
+2020-04-04 00:00:00,Ghana,205,5,31
+2020-04-04 00:00:00,Greece,1673,68,78
+2020-04-04 00:00:00,Grenada,12,0,0
+2020-04-04 00:00:00,Guatemala,61,2,15
+2020-04-04 00:00:00,Guinea,111,0,5
+2020-04-04 00:00:00,Guinea-Bissau,18,0,0
+2020-04-04 00:00:00,Guyana,23,4,0
+2020-04-04 00:00:00,Haiti,20,0,1
+2020-04-04 00:00:00,Holy See,7,0,0
+2020-04-04 00:00:00,Honduras,264,15,3
+2020-04-04 00:00:00,Hungary,678,32,58
+2020-04-04 00:00:00,Iceland,1417,4,396
+2020-04-04 00:00:00,India,3082,86,229
+2020-04-04 00:00:00,Indonesia,2092,191,150
+2020-04-04 00:00:00,Iran,55743,3452,19736
+2020-04-04 00:00:00,Iraq,878,56,259
+2020-04-04 00:00:00,Ireland,4604,137,25
+2020-04-04 00:00:00,Israel,7851,44,427
+2020-04-04 00:00:00,Italy,124632,15362,20996
+2020-04-04 00:00:00,Jamaica,53,3,7
+2020-04-04 00:00:00,Japan,3139,77,514
+2020-04-04 00:00:00,Jordan,323,5,74
+2020-04-04 00:00:00,Kazakhstan,531,5,36
+2020-04-04 00:00:00,Kenya,126,4,4
+2020-04-04 00:00:00,"Korea, South",10156,177,6325
+2020-04-04 00:00:00,Kosovo,135,1,16
+2020-04-04 00:00:00,Kuwait,479,1,93
+2020-04-04 00:00:00,Kyrgyzstan,144,1,9
+2020-04-04 00:00:00,Laos,10,0,0
+2020-04-04 00:00:00,Latvia,509,1,1
+2020-04-04 00:00:00,Lebanon,520,17,54
+2020-04-04 00:00:00,Liberia,10,1,3
+2020-04-04 00:00:00,Libya,18,1,0
+2020-04-04 00:00:00,Liechtenstein,77,1,0
+2020-04-04 00:00:00,Lithuania,771,11,7
+2020-04-04 00:00:00,Luxembourg,2729,31,500
+2020-04-04 00:00:00,MS Zaandam,9,2,0
+2020-04-04 00:00:00,Madagascar,70,0,0
+2020-04-04 00:00:00,Malawi,4,0,0
+2020-04-04 00:00:00,Malaysia,3483,57,915
+2020-04-04 00:00:00,Maldives,19,0,13
+2020-04-04 00:00:00,Mali,41,3,1
+2020-04-04 00:00:00,Malta,213,0,2
+2020-04-04 00:00:00,Mauritania,6,1,2
+2020-04-04 00:00:00,Mauritius,196,7,7
+2020-04-04 00:00:00,Mexico,1688,60,633
+2020-04-04 00:00:00,Moldova,752,12,29
+2020-04-04 00:00:00,Monaco,66,1,3
+2020-04-04 00:00:00,Mongolia,14,0,2
+2020-04-04 00:00:00,Montenegro,201,2,1
+2020-04-04 00:00:00,Morocco,919,59,66
+2020-04-04 00:00:00,Mozambique,10,0,1
+2020-04-04 00:00:00,Namibia,14,0,3
+2020-04-04 00:00:00,Nepal,9,0,1
+2020-04-04 00:00:00,Netherlands,2,0,0
+2020-04-04 00:00:00,New Zealand,950,1,127
+2020-04-04 00:00:00,Nicaragua,5,1,0
+2020-04-04 00:00:00,Niger,144,8,0
+2020-04-04 00:00:00,Nigeria,214,4,25
+2020-04-04 00:00:00,North Macedonia,483,17,20
+2020-04-04 00:00:00,Norway,5550,62,32
+2020-04-04 00:00:00,Oman,277,2,61
+2020-04-04 00:00:00,Pakistan,2818,41,131
+2020-04-04 00:00:00,Panama,1673,41,13
+2020-04-04 00:00:00,Papua New Guinea,1,0,0
+2020-04-04 00:00:00,Paraguay,96,3,12
+2020-04-04 00:00:00,Peru,1746,73,914
+2020-04-04 00:00:00,Philippines,3094,144,57
+2020-04-04 00:00:00,Poland,3627,79,116
+2020-04-04 00:00:00,Portugal,10524,266,75
+2020-04-04 00:00:00,Qatar,1325,3,109
+2020-04-04 00:00:00,Romania,3613,146,329
+2020-04-04 00:00:00,Russia,4731,43,333
+2020-04-04 00:00:00,Rwanda,102,0,0
+2020-04-04 00:00:00,Saint Kitts and Nevis,9,0,0
+2020-04-04 00:00:00,Saint Lucia,14,0,1
+2020-04-04 00:00:00,Saint Vincent and the Grenadines,7,0,1
+2020-04-04 00:00:00,San Marino,259,32,27
+2020-04-04 00:00:00,Sao Tome and Principe,0,0,0
+2020-04-04 00:00:00,Saudi Arabia,2179,29,420
+2020-04-04 00:00:00,Senegal,219,2,72
+2020-04-04 00:00:00,Serbia,1624,44,0
+2020-04-04 00:00:00,Seychelles,10,0,0
+2020-04-04 00:00:00,Sierra Leone,4,0,0
+2020-04-04 00:00:00,Singapore,1189,6,297
+2020-04-04 00:00:00,Slovakia,471,1,10
+2020-04-04 00:00:00,Slovenia,977,22,79
+2020-04-04 00:00:00,Somalia,7,0,1
+2020-04-04 00:00:00,South Africa,1585,9,95
+2020-04-04 00:00:00,South Sudan,0,0,0
+2020-04-04 00:00:00,Spain,126168,11947,34219
+2020-04-04 00:00:00,Sri Lanka,166,5,27
+2020-04-04 00:00:00,Sudan,10,2,2
+2020-04-04 00:00:00,Suriname,10,1,0
+2020-04-04 00:00:00,Sweden,6443,373,205
+2020-04-04 00:00:00,Switzerland,20505,666,6415
+2020-04-04 00:00:00,Syria,16,2,2
+2020-04-04 00:00:00,Taiwan*,355,5,50
+2020-04-04 00:00:00,Tanzania,20,1,3
+2020-04-04 00:00:00,Thailand,2067,20,674
+2020-04-04 00:00:00,Timor-Leste,1,0,0
+2020-04-04 00:00:00,Togo,41,3,17
+2020-04-04 00:00:00,Trinidad and Tobago,103,6,1
+2020-04-04 00:00:00,Tunisia,553,18,5
+2020-04-04 00:00:00,Turkey,23934,501,786
+2020-04-04 00:00:00,US,308850,8407,14652
+2020-04-04 00:00:00,Uganda,48,0,0
+2020-04-04 00:00:00,Ukraine,1225,32,25
+2020-04-04 00:00:00,United Arab Emirates,1505,10,125
+2020-04-04 00:00:00,United Kingdom,1,0,0
+2020-04-04 00:00:00,Uruguay,400,5,93
+2020-04-04 00:00:00,Uzbekistan,266,2,25
+2020-04-04 00:00:00,Venezuela,155,7,52
+2020-04-04 00:00:00,Vietnam,240,0,90
+2020-04-04 00:00:00,West Bank and Gaza,217,1,21
+2020-04-04 00:00:00,Western Sahara,0,0,0
+2020-04-04 00:00:00,Zambia,39,1,2
+2020-04-04 00:00:00,Zimbabwe,9,1,0
+2020-04-05 00:00:00,Afghanistan,349,7,15
+2020-04-05 00:00:00,Albania,361,20,104
+2020-04-05 00:00:00,Algeria,1320,152,90
+2020-04-05 00:00:00,Andorra,501,18,26
+2020-04-05 00:00:00,Angola,14,2,2
+2020-04-05 00:00:00,Antigua and Barbuda,15,0,0
+2020-04-05 00:00:00,Argentina,1451,44,280
+2020-04-05 00:00:00,Armenia,822,7,57
+2020-04-05 00:00:00,Australia,453,3,92
+2020-04-05 00:00:00,Austria,12051,204,2998
+2020-04-05 00:00:00,Azerbaijan,584,7,32
+2020-04-05 00:00:00,Bahamas,28,4,0
+2020-04-05 00:00:00,Bahrain,700,4,431
+2020-04-05 00:00:00,Bangladesh,88,9,33
+2020-04-05 00:00:00,Barbados,56,1,6
+2020-04-05 00:00:00,Belarus,562,8,52
+2020-04-05 00:00:00,Belgium,19691,1447,3751
+2020-04-05 00:00:00,Belize,5,0,0
+2020-04-05 00:00:00,Benin,22,0,5
+2020-04-05 00:00:00,Bhutan,5,0,2
+2020-04-05 00:00:00,Bolivia,157,10,2
+2020-04-05 00:00:00,Bosnia and Herzegovina,654,23,30
+2020-04-05 00:00:00,Botswana,6,1,0
+2020-04-05 00:00:00,Brazil,11130,486,127
+2020-04-05 00:00:00,Brunei,135,1,73
+2020-04-05 00:00:00,Bulgaria,531,20,37
+2020-04-05 00:00:00,Burkina Faso,345,17,90
+2020-04-05 00:00:00,Burma,21,1,0
+2020-04-05 00:00:00,Burundi,3,0,0
+2020-04-05 00:00:00,Cabo Verde,7,1,0
+2020-04-05 00:00:00,Cambodia,114,0,50
+2020-04-05 00:00:00,Cameroon,650,9,17
+2020-04-05 00:00:00,Canada,6,0,3012
+2020-04-05 00:00:00,Central African Republic,8,0,0
+2020-04-05 00:00:00,Chad,9,0,0
+2020-04-05 00:00:00,Chile,4471,34,618
+2020-04-05 00:00:00,China,1263,1,1230
+2020-04-05 00:00:00,Colombia,1485,35,88
+2020-04-05 00:00:00,Congo (Brazzaville),45,5,2
+2020-04-05 00:00:00,Congo (Kinshasa),154,18,3
+2020-04-05 00:00:00,Costa Rica,454,2,16
+2020-04-05 00:00:00,Cote d'Ivoire,261,3,37
+2020-04-05 00:00:00,Croatia,1182,15,125
+2020-04-05 00:00:00,Cuba,320,8,15
+2020-04-05 00:00:00,Cyprus,446,9,37
+2020-04-05 00:00:00,Czechia,4587,67,96
+2020-04-05 00:00:00,Denmark,4369,179,1327
+2020-04-05 00:00:00,Diamond Princess,712,11,619
+2020-04-05 00:00:00,Djibouti,59,0,9
+2020-04-05 00:00:00,Dominica,14,0,0
+2020-04-05 00:00:00,Dominican Republic,1745,82,17
+2020-04-05 00:00:00,Ecuador,3646,180,100
+2020-04-05 00:00:00,Egypt,1173,78,247
+2020-04-05 00:00:00,El Salvador,62,3,2
+2020-04-05 00:00:00,Equatorial Guinea,16,0,1
+2020-04-05 00:00:00,Eritrea,29,0,0
+2020-04-05 00:00:00,Estonia,1097,15,62
+2020-04-05 00:00:00,Eswatini,9,0,0
+2020-04-05 00:00:00,Ethiopia,43,2,4
+2020-04-05 00:00:00,Fiji,12,0,0
+2020-04-05 00:00:00,Finland,1927,28,300
+2020-04-05 00:00:00,France,1,0,0
+2020-04-05 00:00:00,Gabon,21,1,1
+2020-04-05 00:00:00,Gambia,4,1,2
+2020-04-05 00:00:00,Georgia,174,2,36
+2020-04-05 00:00:00,Germany,100123,1584,28700
+2020-04-05 00:00:00,Ghana,214,5,31
+2020-04-05 00:00:00,Greece,1735,73,78
+2020-04-05 00:00:00,Grenada,12,0,0
+2020-04-05 00:00:00,Guatemala,61,2,15
+2020-04-05 00:00:00,Guinea,121,0,5
+2020-04-05 00:00:00,Guinea-Bissau,18,0,0
+2020-04-05 00:00:00,Guyana,24,4,0
+2020-04-05 00:00:00,Haiti,21,1,1
+2020-04-05 00:00:00,Holy See,7,0,0
+2020-04-05 00:00:00,Honduras,268,22,6
+2020-04-05 00:00:00,Hungary,733,34,66
+2020-04-05 00:00:00,Iceland,1486,4,428
+2020-04-05 00:00:00,India,3588,99,229
+2020-04-05 00:00:00,Indonesia,2273,198,164
+2020-04-05 00:00:00,Iran,58226,3603,19736
+2020-04-05 00:00:00,Iraq,961,61,279
+2020-04-05 00:00:00,Ireland,4994,158,25
+2020-04-05 00:00:00,Israel,8430,49,477
+2020-04-05 00:00:00,Italy,128948,15887,21815
+2020-04-05 00:00:00,Jamaica,58,3,8
+2020-04-05 00:00:00,Japan,3139,77,514
+2020-04-05 00:00:00,Jordan,345,5,110
+2020-04-05 00:00:00,Kazakhstan,584,6,42
+2020-04-05 00:00:00,Kenya,142,4,4
+2020-04-05 00:00:00,"Korea, South",10237,183,6463
+2020-04-05 00:00:00,Kosovo,145,1,23
+2020-04-05 00:00:00,Kuwait,556,1,99
+2020-04-05 00:00:00,Kyrgyzstan,147,1,9
+2020-04-05 00:00:00,Laos,11,0,0
+2020-04-05 00:00:00,Latvia,533,1,1
+2020-04-05 00:00:00,Lebanon,527,18,54
+2020-04-05 00:00:00,Liberia,13,3,3
+2020-04-05 00:00:00,Libya,18,1,0
+2020-04-05 00:00:00,Liechtenstein,77,1,0
+2020-04-05 00:00:00,Lithuania,811,13,7
+2020-04-05 00:00:00,Luxembourg,2804,36,500
+2020-04-05 00:00:00,MS Zaandam,9,2,0
+2020-04-05 00:00:00,Madagascar,72,0,2
+2020-04-05 00:00:00,Malawi,4,0,0
+2020-04-05 00:00:00,Malaysia,3662,61,1005
+2020-04-05 00:00:00,Maldives,19,0,13
+2020-04-05 00:00:00,Mali,45,5,1
+2020-04-05 00:00:00,Malta,227,0,5
+2020-04-05 00:00:00,Mauritania,6,1,2
+2020-04-05 00:00:00,Mauritius,227,7,7
+2020-04-05 00:00:00,Mexico,1890,79,633
+2020-04-05 00:00:00,Moldova,864,15,30
+2020-04-05 00:00:00,Monaco,73,1,3
+2020-04-05 00:00:00,Mongolia,14,0,2
+2020-04-05 00:00:00,Montenegro,214,2,1
+2020-04-05 00:00:00,Morocco,1021,70,76
+2020-04-05 00:00:00,Mozambique,10,0,1
+2020-04-05 00:00:00,Namibia,16,0,3
+2020-04-05 00:00:00,Nepal,9,0,1
+2020-04-05 00:00:00,Netherlands,2,0,0
+2020-04-05 00:00:00,New Zealand,1039,1,156
+2020-04-05 00:00:00,Nicaragua,6,1,0
+2020-04-05 00:00:00,Niger,184,10,13
+2020-04-05 00:00:00,Nigeria,232,5,33
+2020-04-05 00:00:00,North Macedonia,555,18,23
+2020-04-05 00:00:00,Norway,5687,71,32
+2020-04-05 00:00:00,Oman,298,2,61
+2020-04-05 00:00:00,Pakistan,3157,47,211
+2020-04-05 00:00:00,Panama,1801,46,13
+2020-04-05 00:00:00,Papua New Guinea,1,0,0
+2020-04-05 00:00:00,Paraguay,104,3,12
+2020-04-05 00:00:00,Peru,2281,83,989
+2020-04-05 00:00:00,Philippines,3246,152,64
+2020-04-05 00:00:00,Poland,4102,94,134
+2020-04-05 00:00:00,Portugal,11278,295,75
+2020-04-05 00:00:00,Qatar,1604,4,123
+2020-04-05 00:00:00,Romania,3864,151,374
+2020-04-05 00:00:00,Russia,5389,45,355
+2020-04-05 00:00:00,Rwanda,104,0,4
+2020-04-05 00:00:00,Saint Kitts and Nevis,10,0,0
+2020-04-05 00:00:00,Saint Lucia,14,0,1
+2020-04-05 00:00:00,Saint Vincent and the Grenadines,7,0,1
+2020-04-05 00:00:00,San Marino,266,32,35
+2020-04-05 00:00:00,Sao Tome and Principe,0,0,0
+2020-04-05 00:00:00,Saudi Arabia,2402,34,488
+2020-04-05 00:00:00,Senegal,222,2,82
+2020-04-05 00:00:00,Serbia,1908,51,0
+2020-04-05 00:00:00,Seychelles,10,0,0
+2020-04-05 00:00:00,Sierra Leone,6,0,0
+2020-04-05 00:00:00,Singapore,1309,6,320
+2020-04-05 00:00:00,Slovakia,485,1,10
+2020-04-05 00:00:00,Slovenia,997,28,79
+2020-04-05 00:00:00,Somalia,7,0,1
+2020-04-05 00:00:00,South Africa,1655,11,95
+2020-04-05 00:00:00,South Sudan,1,0,0
+2020-04-05 00:00:00,Spain,131646,12641,38080
+2020-04-05 00:00:00,Sri Lanka,176,5,33
+2020-04-05 00:00:00,Sudan,12,2,2
+2020-04-05 00:00:00,Suriname,10,1,0
+2020-04-05 00:00:00,Sweden,6830,401,205
+2020-04-05 00:00:00,Switzerland,21100,715,6415
+2020-04-05 00:00:00,Syria,19,2,2
+2020-04-05 00:00:00,Taiwan*,363,5,50
+2020-04-05 00:00:00,Tanzania,22,1,3
+2020-04-05 00:00:00,Thailand,2169,23,793
+2020-04-05 00:00:00,Timor-Leste,1,0,0
+2020-04-05 00:00:00,Togo,44,3,20
+2020-04-05 00:00:00,Trinidad and Tobago,104,7,1
+2020-04-05 00:00:00,Tunisia,574,22,5
+2020-04-05 00:00:00,Turkey,27069,574,1042
+2020-04-05 00:00:00,US,337072,9619,17448
+2020-04-05 00:00:00,Uganda,52,0,0
+2020-04-05 00:00:00,Ukraine,1308,37,28
+2020-04-05 00:00:00,United Arab Emirates,1799,10,144
+2020-04-05 00:00:00,United Kingdom,2,0,0
+2020-04-05 00:00:00,Uruguay,400,5,93
+2020-04-05 00:00:00,Uzbekistan,342,2,30
+2020-04-05 00:00:00,Venezuela,159,7,52
+2020-04-05 00:00:00,Vietnam,241,0,90
+2020-04-05 00:00:00,West Bank and Gaza,237,1,25
+2020-04-05 00:00:00,Western Sahara,4,0,0
+2020-04-05 00:00:00,Zambia,39,1,3
+2020-04-05 00:00:00,Zimbabwe,9,1,0
+2020-04-06 00:00:00,Afghanistan,367,11,18
+2020-04-06 00:00:00,Albania,377,21,116
+2020-04-06 00:00:00,Algeria,1423,173,90
+2020-04-06 00:00:00,Andorra,525,21,31
+2020-04-06 00:00:00,Angola,16,2,2
+2020-04-06 00:00:00,Antigua and Barbuda,15,0,0
+2020-04-06 00:00:00,Argentina,1554,48,325
+2020-04-06 00:00:00,Armenia,833,8,62
+2020-04-06 00:00:00,Australia,460,4,162
+2020-04-06 00:00:00,Austria,12297,220,3463
+2020-04-06 00:00:00,Azerbaijan,641,7,44
+2020-04-06 00:00:00,Bahamas,29,5,4
+2020-04-06 00:00:00,Bahrain,756,4,458
+2020-04-06 00:00:00,Bangladesh,123,12,33
+2020-04-06 00:00:00,Barbados,60,2,6
+2020-04-06 00:00:00,Belarus,700,13,53
+2020-04-06 00:00:00,Belgium,20814,1632,3986
+2020-04-06 00:00:00,Belize,7,1,0
+2020-04-06 00:00:00,Benin,26,1,5
+2020-04-06 00:00:00,Bhutan,5,0,2
+2020-04-06 00:00:00,Bolivia,183,11,2
+2020-04-06 00:00:00,Bosnia and Herzegovina,674,29,47
+2020-04-06 00:00:00,Botswana,6,1,0
+2020-04-06 00:00:00,Brazil,12161,564,127
+2020-04-06 00:00:00,Brunei,135,1,82
+2020-04-06 00:00:00,Bulgaria,549,22,39
+2020-04-06 00:00:00,Burkina Faso,364,18,108
+2020-04-06 00:00:00,Burma,22,1,0
+2020-04-06 00:00:00,Burundi,3,0,0
+2020-04-06 00:00:00,Cabo Verde,7,1,1
+2020-04-06 00:00:00,Cambodia,114,0,53
+2020-04-06 00:00:00,Cameroon,658,9,17
+2020-04-06 00:00:00,Canada,6,0,3256
+2020-04-06 00:00:00,Central African Republic,8,0,0
+2020-04-06 00:00:00,Chad,9,0,0
+2020-04-06 00:00:00,Chile,4815,37,728
+2020-04-06 00:00:00,China,1264,1,1230
+2020-04-06 00:00:00,Colombia,1579,46,88
+2020-04-06 00:00:00,Congo (Brazzaville),45,5,2
+2020-04-06 00:00:00,Congo (Kinshasa),161,18,5
+2020-04-06 00:00:00,Costa Rica,467,2,18
+2020-04-06 00:00:00,Cote d'Ivoire,323,3,41
+2020-04-06 00:00:00,Croatia,1222,16,130
+2020-04-06 00:00:00,Cuba,350,9,18
+2020-04-06 00:00:00,Cyprus,465,9,45
+2020-04-06 00:00:00,Czechia,4822,78,121
+2020-04-06 00:00:00,Denmark,4681,187,1378
+2020-04-06 00:00:00,Diamond Princess,712,11,619
+2020-04-06 00:00:00,Djibouti,90,0,9
+2020-04-06 00:00:00,Dominica,15,0,1
+2020-04-06 00:00:00,Dominican Republic,1828,86,33
+2020-04-06 00:00:00,Ecuador,3747,191,100
+2020-04-06 00:00:00,Egypt,1322,85,259
+2020-04-06 00:00:00,El Salvador,69,4,5
+2020-04-06 00:00:00,Equatorial Guinea,16,0,3
+2020-04-06 00:00:00,Eritrea,31,0,0
+2020-04-06 00:00:00,Estonia,1108,19,62
+2020-04-06 00:00:00,Eswatini,10,0,4
+2020-04-06 00:00:00,Ethiopia,44,2,4
+2020-04-06 00:00:00,Fiji,14,0,0
+2020-04-06 00:00:00,Finland,2176,27,300
+2020-04-06 00:00:00,France,1,0,0
+2020-04-06 00:00:00,Gabon,24,1,1
+2020-04-06 00:00:00,Gambia,4,1,2
+2020-04-06 00:00:00,Georgia,188,2,39
+2020-04-06 00:00:00,Germany,103374,1810,28700
+2020-04-06 00:00:00,Ghana,214,5,31
+2020-04-06 00:00:00,Greece,1755,79,269
+2020-04-06 00:00:00,Grenada,12,0,0
+2020-04-06 00:00:00,Guatemala,70,3,15
+2020-04-06 00:00:00,Guinea,128,0,5
+2020-04-06 00:00:00,Guinea-Bissau,18,0,0
+2020-04-06 00:00:00,Guyana,31,4,8
+2020-04-06 00:00:00,Haiti,24,1,0
+2020-04-06 00:00:00,Holy See,7,0,0
+2020-04-06 00:00:00,Honduras,298,22,6
+2020-04-06 00:00:00,Hungary,744,38,67
+2020-04-06 00:00:00,Iceland,1562,6,460
+2020-04-06 00:00:00,India,4778,136,375
+2020-04-06 00:00:00,Indonesia,2491,209,192
+2020-04-06 00:00:00,Iran,60500,3739,24236
+2020-04-06 00:00:00,Iraq,1031,64,344
+2020-04-06 00:00:00,Ireland,5364,174,25
+2020-04-06 00:00:00,Israel,8904,57,585
+2020-04-06 00:00:00,Italy,132547,16523,22837
+2020-04-06 00:00:00,Jamaica,58,3,8
+2020-04-06 00:00:00,Japan,3654,85,575
+2020-04-06 00:00:00,Jordan,349,6,126
+2020-04-06 00:00:00,Kazakhstan,662,6,46
+2020-04-06 00:00:00,Kenya,158,6,4
+2020-04-06 00:00:00,"Korea, South",10284,186,6598
+2020-04-06 00:00:00,Kosovo,145,1,23
+2020-04-06 00:00:00,Kuwait,665,1,103
+2020-04-06 00:00:00,Kyrgyzstan,216,4,33
+2020-04-06 00:00:00,Laos,12,0,0
+2020-04-06 00:00:00,Latvia,542,1,16
+2020-04-06 00:00:00,Lebanon,541,19,60
+2020-04-06 00:00:00,Liberia,14,3,3
+2020-04-06 00:00:00,Libya,19,1,1
+2020-04-06 00:00:00,Liechtenstein,77,1,55
+2020-04-06 00:00:00,Lithuania,843,15,8
+2020-04-06 00:00:00,Luxembourg,2843,41,500
+2020-04-06 00:00:00,MS Zaandam,9,2,0
+2020-04-06 00:00:00,Madagascar,82,0,2
+2020-04-06 00:00:00,Malawi,5,0,0
+2020-04-06 00:00:00,Malaysia,3793,62,1241
+2020-04-06 00:00:00,Maldives,19,0,13
+2020-04-06 00:00:00,Mali,47,5,9
+2020-04-06 00:00:00,Malta,241,0,5
+2020-04-06 00:00:00,Mauritania,6,1,2
+2020-04-06 00:00:00,Mauritius,244,7,7
+2020-04-06 00:00:00,Mexico,2143,94,633
+2020-04-06 00:00:00,Moldova,965,19,37
+2020-04-06 00:00:00,Monaco,77,1,4
+2020-04-06 00:00:00,Mongolia,15,0,2
+2020-04-06 00:00:00,Montenegro,233,2,1
+2020-04-06 00:00:00,Morocco,1120,80,81
+2020-04-06 00:00:00,Mozambique,10,0,1
+2020-04-06 00:00:00,Namibia,16,0,3
+2020-04-06 00:00:00,Nepal,9,0,1
+2020-04-06 00:00:00,Netherlands,2,0,0
+2020-04-06 00:00:00,New Zealand,1106,1,176
+2020-04-06 00:00:00,Nicaragua,6,1,0
+2020-04-06 00:00:00,Niger,253,10,26
+2020-04-06 00:00:00,Nigeria,238,5,35
+2020-04-06 00:00:00,North Macedonia,570,23,30
+2020-04-06 00:00:00,Norway,5865,76,32
+2020-04-06 00:00:00,Oman,331,2,61
+2020-04-06 00:00:00,Pakistan,3766,53,259
+2020-04-06 00:00:00,Panama,1988,54,13
+2020-04-06 00:00:00,Papua New Guinea,2,0,0
+2020-04-06 00:00:00,Paraguay,113,5,12
+2020-04-06 00:00:00,Peru,2561,92,997
+2020-04-06 00:00:00,Philippines,3660,163,73
+2020-04-06 00:00:00,Poland,4413,107,162
+2020-04-06 00:00:00,Portugal,11730,311,140
+2020-04-06 00:00:00,Qatar,1832,4,131
+2020-04-06 00:00:00,Romania,4057,176,406
+2020-04-06 00:00:00,Russia,6343,47,406
+2020-04-06 00:00:00,Rwanda,105,0,4
+2020-04-06 00:00:00,Saint Kitts and Nevis,10,0,0
+2020-04-06 00:00:00,Saint Lucia,14,0,1
+2020-04-06 00:00:00,Saint Vincent and the Grenadines,7,0,1
+2020-04-06 00:00:00,San Marino,266,32,35
+2020-04-06 00:00:00,Sao Tome and Principe,4,0,0
+2020-04-06 00:00:00,Saudi Arabia,2605,38,551
+2020-04-06 00:00:00,Senegal,226,2,92
+2020-04-06 00:00:00,Serbia,2200,58,0
+2020-04-06 00:00:00,Seychelles,11,0,0
+2020-04-06 00:00:00,Sierra Leone,6,0,0
+2020-04-06 00:00:00,Singapore,1375,6,344
+2020-04-06 00:00:00,Slovakia,534,2,8
+2020-04-06 00:00:00,Slovenia,1021,30,102
+2020-04-06 00:00:00,Somalia,7,0,1
+2020-04-06 00:00:00,South Africa,1686,12,95
+2020-04-06 00:00:00,South Sudan,1,0,0
+2020-04-06 00:00:00,Spain,136675,13341,40437
+2020-04-06 00:00:00,Sri Lanka,178,5,38
+2020-04-06 00:00:00,Sudan,12,2,2
+2020-04-06 00:00:00,Suriname,10,1,0
+2020-04-06 00:00:00,Sweden,7206,477,205
+2020-04-06 00:00:00,Switzerland,21657,765,8056
+2020-04-06 00:00:00,Syria,19,2,2
+2020-04-06 00:00:00,Taiwan*,373,5,57
+2020-04-06 00:00:00,Tanzania,24,1,3
+2020-04-06 00:00:00,Thailand,2220,26,793
+2020-04-06 00:00:00,Timor-Leste,1,0,0
+2020-04-06 00:00:00,Togo,58,3,23
+2020-04-06 00:00:00,Trinidad and Tobago,105,8,1
+2020-04-06 00:00:00,Tunisia,596,22,5
+2020-04-06 00:00:00,Turkey,30217,649,1326
+2020-04-06 00:00:00,US,366667,10783,19581
+2020-04-06 00:00:00,Uganda,52,0,0
+2020-04-06 00:00:00,Ukraine,1319,38,28
+2020-04-06 00:00:00,United Arab Emirates,2076,11,167
+2020-04-06 00:00:00,United Kingdom,2,0,0
+2020-04-06 00:00:00,Uruguay,406,6,104
+2020-04-06 00:00:00,Uzbekistan,457,2,30
+2020-04-06 00:00:00,Venezuela,165,7,65
+2020-04-06 00:00:00,Vietnam,245,0,95
+2020-04-06 00:00:00,West Bank and Gaza,254,1,24
+2020-04-06 00:00:00,Western Sahara,4,0,0
+2020-04-06 00:00:00,Zambia,39,1,5
+2020-04-06 00:00:00,Zimbabwe,10,1,0
+2020-04-07 00:00:00,Afghanistan,423,14,18
+2020-04-07 00:00:00,Albania,383,22,131
+2020-04-07 00:00:00,Algeria,1468,193,113
+2020-04-07 00:00:00,Andorra,545,22,39
+2020-04-07 00:00:00,Angola,17,2,2
+2020-04-07 00:00:00,Antigua and Barbuda,19,1,0
+2020-04-07 00:00:00,Argentina,1628,56,338
+2020-04-07 00:00:00,Armenia,853,8,87
+2020-04-07 00:00:00,Australia,460,4,162
+2020-04-07 00:00:00,Austria,12639,243,4046
+2020-04-07 00:00:00,Azerbaijan,717,8,44
+2020-04-07 00:00:00,Bahamas,33,6,5
+2020-04-07 00:00:00,Bahrain,811,5,458
+2020-04-07 00:00:00,Bangladesh,164,17,33
+2020-04-07 00:00:00,Barbados,63,3,6
+2020-04-07 00:00:00,Belarus,861,13,54
+2020-04-07 00:00:00,Belgium,22194,2035,4157
+2020-04-07 00:00:00,Belize,7,1,0
+2020-04-07 00:00:00,Benin,26,1,5
+2020-04-07 00:00:00,Bhutan,5,0,2
+2020-04-07 00:00:00,Bolivia,194,14,2
+2020-04-07 00:00:00,Bosnia and Herzegovina,764,33,68
+2020-04-07 00:00:00,Botswana,6,1,0
+2020-04-07 00:00:00,Brazil,14034,686,127
+2020-04-07 00:00:00,Brunei,135,1,85
+2020-04-07 00:00:00,Bulgaria,577,23,42
+2020-04-07 00:00:00,Burkina Faso,384,19,127
+2020-04-07 00:00:00,Burma,22,1,0
+2020-04-07 00:00:00,Burundi,3,0,0
+2020-04-07 00:00:00,Cabo Verde,7,1,1
+2020-04-07 00:00:00,Cambodia,115,0,58
+2020-04-07 00:00:00,Cameroon,658,9,43
+2020-04-07 00:00:00,Canada,7,0,3791
+2020-04-07 00:00:00,Central African Republic,8,0,0
+2020-04-07 00:00:00,Chad,10,0,2
+2020-04-07 00:00:00,Chile,5116,43,898
+2020-04-07 00:00:00,China,1265,1,1230
+2020-04-07 00:00:00,Colombia,1780,50,100
+2020-04-07 00:00:00,Congo (Brazzaville),45,5,2
+2020-04-07 00:00:00,Congo (Kinshasa),180,18,9
+2020-04-07 00:00:00,Costa Rica,483,2,24
+2020-04-07 00:00:00,Cote d'Ivoire,349,3,41
+2020-04-07 00:00:00,Croatia,1282,18,167
+2020-04-07 00:00:00,Cuba,396,11,27
+2020-04-07 00:00:00,Cyprus,494,9,47
+2020-04-07 00:00:00,Czechia,5017,88,172
+2020-04-07 00:00:00,Denmark,5071,203,1491
+2020-04-07 00:00:00,Diamond Princess,712,11,619
+2020-04-07 00:00:00,Djibouti,90,0,9
+2020-04-07 00:00:00,Dominica,15,0,1
+2020-04-07 00:00:00,Dominican Republic,1956,98,36
+2020-04-07 00:00:00,Ecuador,3747,191,100
+2020-04-07 00:00:00,Egypt,1450,94,276
+2020-04-07 00:00:00,El Salvador,78,4,5
+2020-04-07 00:00:00,Equatorial Guinea,16,0,3
+2020-04-07 00:00:00,Eritrea,31,0,0
+2020-04-07 00:00:00,Estonia,1149,21,69
+2020-04-07 00:00:00,Eswatini,10,0,4
+2020-04-07 00:00:00,Ethiopia,52,2,4
+2020-04-07 00:00:00,Fiji,15,0,0
+2020-04-07 00:00:00,Finland,2308,34,300
+2020-04-07 00:00:00,France,1,0,0
+2020-04-07 00:00:00,Gabon,30,1,1
+2020-04-07 00:00:00,Gambia,4,1,2
+2020-04-07 00:00:00,Georgia,196,3,46
+2020-04-07 00:00:00,Germany,107663,2016,36081
+2020-04-07 00:00:00,Ghana,287,5,31
+2020-04-07 00:00:00,Greece,1832,81,269
+2020-04-07 00:00:00,Grenada,12,0,0
+2020-04-07 00:00:00,Guatemala,77,3,17
+2020-04-07 00:00:00,Guinea,144,0,5
+2020-04-07 00:00:00,Guinea-Bissau,33,0,0
+2020-04-07 00:00:00,Guyana,33,5,8
+2020-04-07 00:00:00,Haiti,25,1,0
+2020-04-07 00:00:00,Holy See,7,0,0
+2020-04-07 00:00:00,Honduras,305,22,6
+2020-04-07 00:00:00,Hungary,817,47,71
+2020-04-07 00:00:00,Iceland,1586,6,559
+2020-04-07 00:00:00,India,5311,150,421
+2020-04-07 00:00:00,Indonesia,2738,221,204
+2020-04-07 00:00:00,Iran,62589,3872,27039
+2020-04-07 00:00:00,Iraq,1122,65,373
+2020-04-07 00:00:00,Ireland,5709,210,25
+2020-04-07 00:00:00,Israel,9248,65,770
+2020-04-07 00:00:00,Italy,135586,17127,24392
+2020-04-07 00:00:00,Jamaica,63,3,8
+2020-04-07 00:00:00,Japan,3906,92,592
+2020-04-07 00:00:00,Jordan,353,6,138
+2020-04-07 00:00:00,Kazakhstan,697,6,51
+2020-04-07 00:00:00,Kenya,172,6,7
+2020-04-07 00:00:00,"Korea, South",10331,192,6694
+2020-04-07 00:00:00,Kosovo,170,4,24
+2020-04-07 00:00:00,Kuwait,743,1,105
+2020-04-07 00:00:00,Kyrgyzstan,228,4,33
+2020-04-07 00:00:00,Laos,14,0,0
+2020-04-07 00:00:00,Latvia,548,2,16
+2020-04-07 00:00:00,Lebanon,548,19,62
+2020-04-07 00:00:00,Liberia,14,3,3
+2020-04-07 00:00:00,Libya,20,1,1
+2020-04-07 00:00:00,Liechtenstein,78,1,55
+2020-04-07 00:00:00,Lithuania,880,15,8
+2020-04-07 00:00:00,Luxembourg,2970,44,500
+2020-04-07 00:00:00,MS Zaandam,9,2,0
+2020-04-07 00:00:00,Madagascar,88,0,7
+2020-04-07 00:00:00,Malawi,8,1,0
+2020-04-07 00:00:00,Malaysia,3963,63,1321
+2020-04-07 00:00:00,Maldives,19,0,13
+2020-04-07 00:00:00,Mali,56,5,12
+2020-04-07 00:00:00,Malta,293,0,5
+2020-04-07 00:00:00,Mauritania,6,1,2
+2020-04-07 00:00:00,Mauritius,268,7,8
+2020-04-07 00:00:00,Mexico,2439,125,633
+2020-04-07 00:00:00,Moldova,1056,22,40
+2020-04-07 00:00:00,Monaco,79,1,4
+2020-04-07 00:00:00,Mongolia,15,0,4
+2020-04-07 00:00:00,Montenegro,241,2,4
+2020-04-07 00:00:00,Morocco,1184,90,93
+2020-04-07 00:00:00,Mozambique,10,0,1
+2020-04-07 00:00:00,Namibia,16,0,3
+2020-04-07 00:00:00,Nepal,9,0,1
+2020-04-07 00:00:00,Netherlands,2,0,0
+2020-04-07 00:00:00,New Zealand,1160,1,241
+2020-04-07 00:00:00,Nicaragua,6,1,0
+2020-04-07 00:00:00,Niger,278,11,26
+2020-04-07 00:00:00,Nigeria,254,6,44
+2020-04-07 00:00:00,North Macedonia,599,26,30
+2020-04-07 00:00:00,Norway,6086,89,32
+2020-04-07 00:00:00,Oman,371,2,67
+2020-04-07 00:00:00,Pakistan,4035,57,429
+2020-04-07 00:00:00,Panama,2100,55,14
+2020-04-07 00:00:00,Papua New Guinea,2,0,0
+2020-04-07 00:00:00,Paraguay,115,5,15
+2020-04-07 00:00:00,Peru,2954,107,1301
+2020-04-07 00:00:00,Philippines,3764,177,84
+2020-04-07 00:00:00,Poland,4848,129,191
+2020-04-07 00:00:00,Portugal,12442,345,184
+2020-04-07 00:00:00,Qatar,2057,6,150
+2020-04-07 00:00:00,Romania,4417,197,460
+2020-04-07 00:00:00,Russia,7497,58,494
+2020-04-07 00:00:00,Rwanda,105,0,7
+2020-04-07 00:00:00,Saint Kitts and Nevis,11,0,0
+2020-04-07 00:00:00,Saint Lucia,14,0,1
+2020-04-07 00:00:00,Saint Vincent and the Grenadines,8,0,1
+2020-04-07 00:00:00,San Marino,279,34,40
+2020-04-07 00:00:00,Sao Tome and Principe,4,0,0
+2020-04-07 00:00:00,Saudi Arabia,2795,41,615
+2020-04-07 00:00:00,Senegal,237,2,105
+2020-04-07 00:00:00,Serbia,2447,61,0
+2020-04-07 00:00:00,Seychelles,11,0,0
+2020-04-07 00:00:00,Sierra Leone,6,0,0
+2020-04-07 00:00:00,Singapore,1481,6,377
+2020-04-07 00:00:00,Slovakia,581,2,13
+2020-04-07 00:00:00,Slovenia,1059,36,102
+2020-04-07 00:00:00,Somalia,8,0,1
+2020-04-07 00:00:00,South Africa,1749,13,95
+2020-04-07 00:00:00,South Sudan,2,0,0
+2020-04-07 00:00:00,Spain,141942,14045,43208
+2020-04-07 00:00:00,Sri Lanka,185,6,42
+2020-04-07 00:00:00,Sudan,14,2,2
+2020-04-07 00:00:00,Suriname,10,1,0
+2020-04-07 00:00:00,Sweden,7693,591,205
+2020-04-07 00:00:00,Switzerland,22253,821,8704
+2020-04-07 00:00:00,Syria,19,2,3
+2020-04-07 00:00:00,Taiwan*,376,5,57
+2020-04-07 00:00:00,Tanzania,24,1,5
+2020-04-07 00:00:00,Thailand,2258,27,888
+2020-04-07 00:00:00,Timor-Leste,1,0,0
+2020-04-07 00:00:00,Togo,65,3,23
+2020-04-07 00:00:00,Trinidad and Tobago,107,8,1
+2020-04-07 00:00:00,Tunisia,623,23,25
+2020-04-07 00:00:00,Turkey,34109,725,1582
+2020-04-07 00:00:00,US,396223,12722,21763
+2020-04-07 00:00:00,Uganda,52,0,0
+2020-04-07 00:00:00,Ukraine,1462,45,28
+2020-04-07 00:00:00,United Arab Emirates,2359,12,186
+2020-04-07 00:00:00,United Kingdom,2,0,0
+2020-04-07 00:00:00,Uruguay,424,7,150
+2020-04-07 00:00:00,Uzbekistan,520,2,30
+2020-04-07 00:00:00,Venezuela,165,7,65
+2020-04-07 00:00:00,Vietnam,249,0,123
+2020-04-07 00:00:00,West Bank and Gaza,261,1,42
+2020-04-07 00:00:00,Western Sahara,4,0,0
+2020-04-07 00:00:00,Zambia,39,1,7
+2020-04-07 00:00:00,Zimbabwe,11,2,0

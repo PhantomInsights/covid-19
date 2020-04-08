@@ -3,6 +3,7 @@ This script downloads and converts the confirmed cases PDF data into a CSV file.
 """
 
 import csv
+from datetime import datetime, timedelta
 
 import PyPDF2
 import requests
@@ -11,6 +12,7 @@ from bs4 import BeautifulSoup
 FIX_STRINGS = [
     ["CIUDAD DE\n \nMÉXICO", "CIUDAD DE MÉXICO"],
     ["CIUDAD\n \nDE MÉXICO", "CIUDAD DE MÉXICO"],
+    ["BAJA\n \nCALIFORNIA", "BAJA CALIFORNIA"],
     ["Estados\n \nUnidos", "Estados Unidos"]
 ]
 
@@ -54,12 +56,14 @@ def extract_pdf():
     It then saves it into a CSV file.
     """
 
+    start_time = datetime(1900, 1, 1)
+
     # Initialize the PDF reader.
     reader = PyPDF2.PdfFileReader(open("./casos_confirmados.pdf", "rb"))
 
     # Initialize our data list with a header row (8 columns).
     data_list = [["numero_caso", "estado", "sexo", "edad",
-                  "fecha_inicio_sintomas", "estatus", "procedencia", "fecha_llegada_mexico"]]
+                  "fecha_inicio_sintomas", "estatus", "procedencia"]]
 
     # Iterate over each page.
     for i in range(reader.numPages):
@@ -76,20 +80,28 @@ def extract_pdf():
         page_data = [item.replace("\n", "")
                      for item in page_data.split("\n ") if item != " "]
 
+        page_data = [item for item in page_data if item != ""]
+
         # Only on the first page the starting chunk is the 10th one.
         if i == 0:
-            start_index = 9
+            start_index = 8
         else:
             start_index = 0
 
-        # Iterate over our chunks, 8 at a time (8 columns).
-        for j in range(start_index, len(page_data), 8):
+        # Iterate over our chunks, 7 at a time (7 columns).
+        for j in range(start_index, len(page_data), 7):
 
-            # Create a list with the current chunk plus the next seven.
-            temp_list = page_data[j:j+8]
+            # Create a list with the current chunk plus the next six.
+            temp_list = page_data[j:j+7]
 
-            # Add the previous list to the data list if it's not empty.
-            if len(temp_list) == 8 and temp_list[0] != "":
+            # Add the previous list to the data list if it's not incomplete.
+            if len(temp_list) == 7:
+
+                # Fix for bad formatted dates.
+                if len(temp_list[4]) == 5:
+                    temp_date = start_time + timedelta(days=int(temp_list[4]))
+                    temp_list[4] = "{:%d/%m/%Y}".format(temp_date)
+
                 data_list.append(temp_list)
 
     # Finally, save the data list to CSV.
@@ -101,4 +113,3 @@ def extract_pdf():
 if __name__ == "__main__":
 
     main()
-""
