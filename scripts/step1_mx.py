@@ -13,6 +13,8 @@ FIX_STRINGS = [
     ["CIUDAD DE\n \nMÉXICO", "CIUDAD DE MÉXICO"],
     ["CIUDAD\n \nDE MÉXICO", "CIUDAD DE MÉXICO"],
     ["BAJA\n \nCALIFORNIA", "BAJA CALIFORNIA"],
+    ["SAN LUIS\n \nPOTOSÍ", "SAN LUIS POTOSÍ"],
+    ["QUINTANA\n \nROO", "QUINTANA ROO"],
     ["Estados\n \nUnidos", "Estados Unidos"]
 ]
 
@@ -62,8 +64,8 @@ def extract_pdf():
     reader = PyPDF2.PdfFileReader(open("./casos_confirmados.pdf", "rb"))
 
     # Initialize our data list with a header row (8 columns).
-    data_list = [["numero_caso", "estado", "sexo", "edad",
-                  "fecha_inicio_sintomas", "estatus", "procedencia"]]
+    data_list = [["numero_caso", "estado", "sexo",
+                  "edad", "fecha_inicio_sintomas", "estatus"]]
 
     # Iterate over each page.
     for i in range(reader.numPages):
@@ -84,18 +86,18 @@ def extract_pdf():
 
         # Only on the first page the starting chunk is the 10th one.
         if i == 0:
-            start_index = 8
+            start_index = 7
         else:
             start_index = 0
 
         # Iterate over our chunks, 7 at a time (7 columns).
-        for j in range(start_index, len(page_data), 7):
+        for j in range(start_index, len(page_data), 6):
 
-            # Create a list with the current chunk plus the next six.
-            temp_list = page_data[j:j+7]
+            # Create a list with the current chunk plus the next five.
+            temp_list = page_data[j:j+6]
 
             # Add the previous list to the data list if it's not incomplete.
-            if len(temp_list) == 7:
+            if len(temp_list) == 6:
 
                 # Fix for bad formatted dates.
                 if len(temp_list[4]) == 5:
@@ -105,7 +107,7 @@ def extract_pdf():
                 data_list.append(temp_list)
 
     # Finally, save the data list to CSV.
-    with open("casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_file:
+    with open("./casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_file:
         csv.writer(csv_file).writerows(data_list)
         print("PDF converted.")
 
