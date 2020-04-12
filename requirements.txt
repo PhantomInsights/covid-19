@@ -1,3 +1,7 @@
 bs4
+matplotlib
+numpy
+pandas
 PyPDF2
 requests
+seaborn
