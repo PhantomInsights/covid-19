@@ -80,13 +80,13 @@ def extract_pdf():
 
         # Split the text into chunks and remove empty ones.
         page_data = [item.replace("\n", "")
-                     for item in page_data.split("\n ") if item != " "]
+                     for item in page_data.split("\n") if item != " "]
 
         page_data = [item for item in page_data if item != ""]
 
         # Only on the first page the starting chunk is the 10th one.
         if i == 0:
-            start_index = 7
+            start_index = 9
         else:
             start_index = 0
 
