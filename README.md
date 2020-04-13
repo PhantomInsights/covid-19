@@ -8,6 +8,8 @@ The following are the summaries of the included scripts:
 
 * step1_mx.py - A Python script that downloads a mexican government PDF file, cleans it and converts it to CSV.
 
+* step2_mx.py - A Python script containing several functions to create plots and get insights from the Mexican dataset.
+
 ## Requirements
 
 This project uses the following Python libraries
@@ -146,19 +148,41 @@ This can be done more efficiently with other libraries but I wanted to provide a
 
 ## Mexican Data
 
-The Mexican government provides a tabular PDF file contaning the information of the confirmed cases of COVID-19.
+The Mexican government provides a tabular PDF file containing the information of the confirmed cases of COVID-19.
 
 The goal is to convert that PDF to CSV. There's a library named `tabula-py` that does this really quickly but I found out I needed to install Java to use it.
 
 Instead of that we will use `PyPDF2` and a custom algorithm to identify patterns.
 
-Let's start by loading up the PDF file and initializing our data list.
+We will start by creating a function that will locate this PDF file and download it to our computer.
+
+We will do a bit web scraping, using the `Requests` and `BeautifulSoup` duo.
 
 ```python
-# Initialize the PDF reader.
+with requests.get(URL) as response:
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # Iterate over all the anchor tags.
+    for link in soup.find_all("a"):
+
+        # Once we find the one we are interested in, we download it and break the loop.
+        if "casos_positivos" in link["href"]:
+            print("Downloading PDF file...")
+
+            with requests.get("https://www.gob.mx" + link["href"]) as pdf_response:
+
+                with open("./casos_confirmados.pdf", "wb") as pdf_file:
+                    pdf_file.write(pdf_response.content)
+                    print("PDF file downloaded.")
+
+```
+
+With our PDF downloaded we now load it using `PyPDF2` and initialize our data list with a header row.
+
+```python
 reader = PyPDF2.PdfFileReader(open("./casos_confirmados.pdf", "rb"))
 
-# Initialize our data list with a header row (8 columns).
 data_list = [["numero_caso", "estado", "sexo",
                   "edad", "fecha_inicio_sintomas", "estatus"]]
 
@@ -170,7 +194,7 @@ for i in range(reader.numPages):
     page_data = reader.getPage(i).extractText()
 ```
 
-We then iterate over each page and extract the text. For the most part this PDF file is well formatted but I noticed the resulting CSV file kept having errors.
+We then start iterating over each page and extract the text. For the most part this PDF file is well formatted but I noticed the resulting CSV file kept having errors.
 
 I found out that CIUDAD DE MEXICO was written in 3 different ways. It has a new line character where it shouldn't be.
 
@@ -527,7 +551,7 @@ Feel free to try this with other country names, such as Italy, Spain or Iran.
 We start by loading our dataset and specifying the fifth column (`fecha_inicio_sintomas`) as datetime.
 
 ```python
-main_df = pd.read_csv("casos_confirmados.csv", index_col=0, parse_dates=[
+df = pd.read_csv("casos_confirmados.csv", index_col=0, parse_dates=[
                           "fecha_inicio_sintomas"], dayfirst=True)
 ```
 
@@ -638,7 +662,7 @@ pivoted_df = df.pivot_table(
     index="estado", columns="sexo", aggfunc="count")
 ```
 
-From this MultiIndex DataFrame we will add two columns to the age column. These columns will have the total percentage of each state and gender.
+From this MultiIndex `DataFrame` we will add two columns to the age column. These columns will have the total percentage of each state and gender.
 
 ```python
 pivoted_df["edad", "female_percentage"] = np.round(
@@ -746,7 +770,7 @@ plt.show()
 
 ![Age Mexico Growth](./figs/mexico_growth.png)
 
-It does resemble the confirmed cases curve.
+For what it's worth it resembles the confirmed cases curve. Thankfully we have the data to plot the daily confirmed cases on the global dataset.
 
 ### Age and Sex Distribution
 
@@ -844,7 +868,7 @@ We can observe that most cases fall within the 30-60 age range and men have most
 
 And that's it for this dataset. We got as much information as we could from the four usable fields we had (state, age, gender and initial symptoms date).
 
-Thir dataset used to have 2 other fields; country of procedence and arrival date but they were removed for no reason.
+This dataset used to have 2 other fields; country of procedence and arrival date but they were removed for no reason.
 
 ## Conclusion
 
