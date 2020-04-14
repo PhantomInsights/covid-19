@@ -79,16 +79,17 @@ def generate_list():
     file = list(CSV_FILES.values())[0]
 
     with requests.get(file) as response:
-        
+
         # Pass the response text into a csv.DictReader object.
         reader = csv.DictReader(response.text.splitlines())
-        
+
         # Extract the header row and select from the fifth column onwards.
         fields = reader.fieldnames[4:]
 
         # Convert the header row dates to datetime objects.
         for field in fields:
-            dates_dict[field] = datetime.strptime(field, "%m/%d/%y")
+            dates_dict[field] = "{:%Y-%m-%d}".format(
+                datetime.strptime(field, "%m/%d/%y"))
 
         # Extract the countries/regions by iterating over all rows.
         for row in reader:
@@ -96,7 +97,7 @@ def generate_list():
 
         # Convert the countries set to a list and sort it.
         countries = sorted(list(countries))
-        
+
         # Combine every date with every country and fill it with zero values.
         for date in dates_dict.values():
 
