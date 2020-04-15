@@ -297,7 +297,7 @@ Let's start with the global dataset.
 
 ## Global Data
 
-We start by loading our dataset and specifying the first column as our index, this will turn it into a `datetimeindex` which is very handy when managing time series data.
+We start by loading our dataset and specifying the first column as our index, this will turn it into a `datetimeindex` which is very handy when working with time series data.
 
 ```python
 df = pd.read_csv("global_data.csv", parse_dates=["isodate"], index_col=0)
@@ -546,6 +546,106 @@ print(filtered_df[[field, "difference", "change"]][-10:])
 
 Feel free to try this with other country names, such as Italy, Spain or Iran.
 
+## Days from 100 to 3200 Confirmed Cases
+
+This one is quite interesting. We will know how many days it took to reach from 100 to 3,200 confirmed cases.
+
+For this exercise we will use custom bins for the exponential growth (100-199, 200-399, and so on).
+
+We start by removing all rows lower than 100.
+
+```python
+df = df[df["confirmed"] >= 100]
+```
+
+We define our bins and their labels.
+
+```python
+bins = [(100, 199), (200, 399), (400, 799), (800, 1599), (1600, 3200)]
+labels = ["100-199", "200-399", "400-799", "800-1599", "1600-3200"]
+```
+
+We extract all the available countries in the dataset.
+
+```python
+all_countries = sorted(df["country"].unique().tolist())
+```
+
+These lists will be filled with values in the next step.
+
+```python
+valid_countries = list()
+data_list = list()
+```
+
+We iterate over all the countries we have and create temporary DataFrames with them.
+
+```python
+for country in all_countries:
+
+    temp_df = df[df["country"] == country]
+
+    # Only process countries if their confirmed cases are equal or greater than 3,200.
+    if temp_df["confirmed"].max() >= 3200:
+        temp_list = list()
+
+        # We iterate over our bins and count hoy many days each one has.
+        for item in bins:
+            temp_list.append(temp_df[(temp_df["confirmed"] >= item[0]) & (
+                temp_df["confirmed"] <= item[1])]["confirmed"].count())
+
+        data_list.append(temp_list)
+        valid_countries.append(country)
+```
+
+We create a final `DataFrame` with the results and a new column with the total days from 100 to 3,200 confirmed cases.
+
+```python
+final_df = pd.DataFrame(data_list, index=valid_countries, columns=labels)
+final_df["total"] = final_df.sum(axis=1)
+print(final_df)
+```
+
+|                      |   100-199 |   200-399 |   400-799 |   800-1599 |   1600-3200 |   total |
+|:---------------------|----------:|----------:|----------:|-----------:|------------:|--------:|
+| Austria              |         3 |         2 |         2 |          3 |           4 |      14 |
+| Belgium              |         2 |         5 |         2 |          4 |           3 |      16 |
+| Brazil               |         3 |         3 |         2 |          2 |           4 |      14 |
+| Chile                |         1 |         3 |         4 |          3 |           6 |      17 |
+| Czechia              |         2 |         3 |         2 |          5 |           6 |      18 |
+| Denmark              |         0 |         1 |         2 |         12 |           8 |      23 |
+| Ecuador              |         2 |         1 |         2 |          5 |           6 |      16 |
+| Germany              |         3 |         1 |         3 |          3 |           2 |      12 |
+| India                |         6 |         3 |         4 |          5 |           4 |      22 |
+| Indonesia            |         3 |         3 |         5 |          6 |           8 |      25 |
+| Iran                 |         1 |         2 |         1 |          2 |           2 |       8 |
+| Ireland              |         3 |         2 |         3 |          4 |           5 |      17 |
+| Israel               |         3 |         4 |         3 |          3 |           3 |      16 |
+| Italy                |         1 |         2 |         2 |          2 |           4 |      11 |
+| Japan                |         6 |         8 |         9 |         13 |           9 |      45 |
+| Korea, South         |         1 |         1 |         2 |          3 |           3 |      10 |
+| Luxembourg           |         1 |         2 |         3 |          4 |          14 |      24 |
+| Malaysia             |         5 |         1 |         4 |          5 |          10 |      25 |
+| Mexico               |         2 |         4 |         4 |          6 |           6 |      22 |
+| Norway               |         3 |         1 |         3 |          6 |           7 |      20 |
+| Pakistan             |         1 |         2 |         4 |          7 |           7 |      21 |
+| Panama               |         2 |         4 |         4 |          6 |           8 |      24 |
+| Peru                 |         2 |         5 |         5 |          6 |           4 |      22 |
+| Philippines          |         4 |         5 |         4 |          4 |           5 |      22 |
+| Poland               |         3 |         3 |         4 |          4 |           6 |      20 |
+| Portugal             |         2 |         2 |         3 |          2 |           4 |      13 |
+| Qatar                |         0 |         4 |        17 |          4 |           8 |      33 |
+| Romania              |         4 |         4 |         3 |          4 |           6 |      21 |
+| Russia               |         3 |         3 |         3 |          4 |           3 |      16 |
+| Saudi Arabia         |         5 |         3 |         3 |          7 |           8 |      26 |
+| Serbia               |         3 |         5 |         4 |          4 |           7 |      23 |
+| Spain                |         2 |         2 |         3 |          1 |           3 |      11 |
+| Sweden               |         2 |         3 |         2 |          7 |           8 |      22 |
+| Switzerland          |         1 |         4 |         3 |          2 |           4 |      14 |
+| Turkey               |         1 |         1 |         1 |          2 |           2 |       7 |
+| US                   |         2 |         2 |         3 |          2 |           3 |      12 |
+| United Arab Emirates |         6 |         3 |         5 |          4 |           5 |      23 |
+
 ## Mexican Data
 
 We start by loading our dataset and specifying the fifth column (`fecha_inicio_sintomas`) as datetime.
@@ -770,7 +870,7 @@ plt.show()
 
 ![Age Mexico Growth](./figs/mexico_growth.png)
 
-For what it's worth it resembles the confirmed cases curve. Thankfully we have the data to plot the daily confirmed cases on the global dataset.
+For what it's worth it resembles the confirmed cases curve. Thankfully we have the data to plot the daily confirmed cases in the global dataset.
 
 ### Age and Sex Distribution
 
