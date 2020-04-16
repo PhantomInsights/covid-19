@@ -35,7 +35,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22,Central African Republic,0,0,0
 2020-01-22,Chad,0,0,0
 2020-01-22,Chile,0,0,0
-2020-01-22,China,10,0,0
+2020-01-22,China,548,17,28
 2020-01-22,Colombia,0,0,0
 2020-01-22,Congo (Brazzaville),0,0,0
 2020-01-22,Congo (Kinshasa),0,0,0
@@ -220,7 +220,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23,Central African Republic,0,0,0
 2020-01-23,Chad,0,0,0
 2020-01-23,Chile,0,0,0
-2020-01-23,China,27,0,0
+2020-01-23,China,643,18,30
 2020-01-23,Colombia,0,0,0
 2020-01-23,Congo (Brazzaville),0,0,0
 2020-01-23,Congo (Kinshasa),0,0,0
@@ -405,7 +405,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24,Central African Republic,0,0,0
 2020-01-24,Chad,0,0,0
 2020-01-24,Chile,0,0,0
-2020-01-24,China,43,0,1
+2020-01-24,China,920,26,36
 2020-01-24,Colombia,0,0,0
 2020-01-24,Congo (Brazzaville),0,0,0
 2020-01-24,Congo (Kinshasa),0,0,0
@@ -430,7 +430,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24,Ethiopia,0,0,0
 2020-01-24,Fiji,0,0,0
 2020-01-24,Finland,0,0,0
-2020-01-24,France,0,0,0
+2020-01-24,France,2,0,0
 2020-01-24,Gabon,0,0,0
 2020-01-24,Gambia,0,0,0
 2020-01-24,Georgia,0,0,0
@@ -590,7 +590,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25,Central African Republic,0,0,0
 2020-01-25,Chad,0,0,0
 2020-01-25,Chile,0,0,0
-2020-01-25,China,62,0,1
+2020-01-25,China,1406,42,39
 2020-01-25,Colombia,0,0,0
 2020-01-25,Congo (Brazzaville),0,0,0
 2020-01-25,Congo (Kinshasa),0,0,0
@@ -615,7 +615,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25,Ethiopia,0,0,0
 2020-01-25,Fiji,0,0,0
 2020-01-25,Finland,0,0,0
-2020-01-25,France,0,0,0
+2020-01-25,France,3,0,0
 2020-01-25,Gabon,0,0,0
 2020-01-25,Gambia,0,0,0
 2020-01-25,Georgia,0,0,0
@@ -747,7 +747,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26,Antigua and Barbuda,0,0,0
 2020-01-26,Argentina,0,0,0
 2020-01-26,Armenia,0,0,0
-2020-01-26,Australia,0,0,0
+2020-01-26,Australia,4,0,0
 2020-01-26,Austria,0,0,0
 2020-01-26,Azerbaijan,0,0,0
 2020-01-26,Bahamas,0,0,0
@@ -771,11 +771,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26,Cabo Verde,0,0,0
 2020-01-26,Cambodia,0,0,0
 2020-01-26,Cameroon,0,0,0
-2020-01-26,Canada,0,0,0
+2020-01-26,Canada,1,0,0
 2020-01-26,Central African Republic,0,0,0
 2020-01-26,Chad,0,0,0
 2020-01-26,Chile,0,0,0
-2020-01-26,China,104,0,1
+2020-01-26,China,2075,56,49
 2020-01-26,Colombia,0,0,0
 2020-01-26,Congo (Brazzaville),0,0,0
 2020-01-26,Congo (Kinshasa),0,0,0
@@ -800,7 +800,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26,Ethiopia,0,0,0
 2020-01-26,Fiji,0,0,0
 2020-01-26,Finland,0,0,0
-2020-01-26,France,0,0,0
+2020-01-26,France,3,0,0
 2020-01-26,Gabon,0,0,0
 2020-01-26,Gambia,0,0,0
 2020-01-26,Georgia,0,0,0
@@ -932,7 +932,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27,Antigua and Barbuda,0,0,0
 2020-01-27,Argentina,0,0,0
 2020-01-27,Armenia,0,0,0
-2020-01-27,Australia,0,0,0
+2020-01-27,Australia,5,0,0
 2020-01-27,Austria,0,0,0
 2020-01-27,Azerbaijan,0,0,0
 2020-01-27,Bahamas,0,0,0
@@ -956,11 +956,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27,Cabo Verde,0,0,0
 2020-01-27,Cambodia,1,0,0
 2020-01-27,Cameroon,0,0,0
-2020-01-27,Canada,0,0,0
+2020-01-27,Canada,1,0,0
 2020-01-27,Central African Republic,0,0,0
 2020-01-27,Chad,0,0,0
 2020-01-27,Chile,0,0,0
-2020-01-27,China,128,0,1
+2020-01-27,China,2877,82,58
 2020-01-27,Colombia,0,0,0
 2020-01-27,Congo (Brazzaville),0,0,0
 2020-01-27,Congo (Kinshasa),0,0,0
@@ -985,7 +985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27,Ethiopia,0,0,0
 2020-01-27,Fiji,0,0,0
 2020-01-27,Finland,0,0,0
-2020-01-27,France,0,0,0
+2020-01-27,France,3,0,0
 2020-01-27,Gabon,0,0,0
 2020-01-27,Gambia,0,0,0
 2020-01-27,Georgia,0,0,0
@@ -1117,7 +1117,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28,Antigua and Barbuda,0,0,0
 2020-01-28,Argentina,0,0,0
 2020-01-28,Armenia,0,0,0
-2020-01-28,Australia,0,0,0
+2020-01-28,Australia,5,0,0
 2020-01-28,Austria,0,0,0
 2020-01-28,Azerbaijan,0,0,0
 2020-01-28,Bahamas,0,0,0
@@ -1141,11 +1141,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28,Cabo Verde,0,0,0
 2020-01-28,Cambodia,1,0,0
 2020-01-28,Cameroon,0,0,0
-2020-01-28,Canada,0,0,0
+2020-01-28,Canada,2,0,0
 2020-01-28,Central African Republic,0,0,0
 2020-01-28,Chad,0,0,0
 2020-01-28,Chile,0,0,0
-2020-01-28,China,173,0,3
+2020-01-28,China,5509,131,101
 2020-01-28,Colombia,0,0,0
 2020-01-28,Congo (Brazzaville),0,0,0
 2020-01-28,Congo (Kinshasa),0,0,0
@@ -1170,7 +1170,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28,Ethiopia,0,0,0
 2020-01-28,Fiji,0,0,0
 2020-01-28,Finland,0,0,0
-2020-01-28,France,0,0,0
+2020-01-28,France,4,0,0
 2020-01-28,Gabon,0,0,0
 2020-01-28,Gambia,0,0,0
 2020-01-28,Georgia,0,0,0
@@ -1302,7 +1302,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29,Antigua and Barbuda,0,0,0
 2020-01-29,Argentina,0,0,0
 2020-01-29,Armenia,0,0,0
-2020-01-29,Australia,0,0,0
+2020-01-29,Australia,6,0,0
 2020-01-29,Austria,0,0,0
 2020-01-29,Azerbaijan,0,0,0
 2020-01-29,Bahamas,0,0,0
@@ -1326,11 +1326,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29,Cabo Verde,0,0,0
 2020-01-29,Cambodia,1,0,0
 2020-01-29,Cameroon,0,0,0
-2020-01-29,Canada,0,0,0
+2020-01-29,Canada,2,0,0
 2020-01-29,Central African Republic,0,0,0
 2020-01-29,Chad,0,0,0
 2020-01-29,Chile,0,0,0
-2020-01-29,China,296,0,3
+2020-01-29,China,6087,133,120
 2020-01-29,Colombia,0,0,0
 2020-01-29,Congo (Brazzaville),0,0,0
 2020-01-29,Congo (Kinshasa),0,0,0
@@ -1355,7 +1355,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29,Ethiopia,0,0,0
 2020-01-29,Fiji,0,0,0
 2020-01-29,Finland,1,0,0
-2020-01-29,France,0,0,0
+2020-01-29,France,5,0,0
 2020-01-29,Gabon,0,0,0
 2020-01-29,Gambia,0,0,0
 2020-01-29,Georgia,0,0,0
@@ -1487,7 +1487,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30,Antigua and Barbuda,0,0,0
 2020-01-30,Argentina,0,0,0
 2020-01-30,Armenia,0,0,0
-2020-01-30,Australia,0,0,0
+2020-01-30,Australia,9,0,2
 2020-01-30,Austria,0,0,0
 2020-01-30,Azerbaijan,0,0,0
 2020-01-30,Bahamas,0,0,0
@@ -1511,11 +1511,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30,Cabo Verde,0,0,0
 2020-01-30,Cambodia,1,0,0
 2020-01-30,Cameroon,0,0,0
-2020-01-30,Canada,0,0,0
+2020-01-30,Canada,2,0,0
 2020-01-30,Central African Republic,0,0,0
 2020-01-30,Chad,0,0,0
 2020-01-30,Chile,0,0,0
-2020-01-30,China,428,0,4
+2020-01-30,China,8141,171,135
 2020-01-30,Colombia,0,0,0
 2020-01-30,Congo (Brazzaville),0,0,0
 2020-01-30,Congo (Kinshasa),0,0,0
@@ -1540,7 +1540,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30,Ethiopia,0,0,0
 2020-01-30,Fiji,0,0,0
 2020-01-30,Finland,1,0,0
-2020-01-30,France,0,0,0
+2020-01-30,France,5,0,0
 2020-01-30,Gabon,0,0,0
 2020-01-30,Gambia,0,0,0
 2020-01-30,Georgia,0,0,0
@@ -1672,7 +1672,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Antigua and Barbuda,0,0,0
 2020-01-31,Argentina,0,0,0
 2020-01-31,Armenia,0,0,0
-2020-01-31,Australia,0,0,0
+2020-01-31,Australia,9,0,2
 2020-01-31,Austria,0,0,0
 2020-01-31,Azerbaijan,0,0,0
 2020-01-31,Bahamas,0,0,0
@@ -1696,11 +1696,11 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Cabo Verde,0,0,0
 2020-01-31,Cambodia,1,0,0
 2020-01-31,Cameroon,0,0,0
-2020-01-31,Canada,0,0,0
+2020-01-31,Canada,4,0,0
 2020-01-31,Central African Republic,0,0,0
 2020-01-31,Chad,0,0,0
 2020-01-31,Chile,0,0,0
-2020-01-31,China,538,0,14
+2020-01-31,China,9802,213,214
 2020-01-31,Colombia,0,0,0
 2020-01-31,Congo (Brazzaville),0,0,0
 2020-01-31,Congo (Kinshasa),0,0,0
@@ -1725,7 +1725,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Ethiopia,0,0,0
 2020-01-31,Fiji,0,0,0
 2020-01-31,Finland,1,0,0
-2020-01-31,France,0,0,0
+2020-01-31,France,5,0,0
 2020-01-31,Gabon,0,0,0
 2020-01-31,Gambia,0,0,0
 2020-01-31,Georgia,0,0,0
@@ -1839,7 +1839,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Uganda,0,0,0
 2020-01-31,Ukraine,0,0,0
 2020-01-31,United Arab Emirates,4,0,0
-2020-01-31,United Kingdom,0,0,0
+2020-01-31,United Kingdom,2,0,0
 2020-01-31,Uruguay,0,0,0
 2020-01-31,Uzbekistan,0,0,0
 2020-01-31,Venezuela,0,0,0
@@ -1857,7 +1857,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,Antigua and Barbuda,0,0,0
 2020-02-01,Argentina,0,0,0
 2020-02-01,Armenia,0,0,0
-2020-02-01,Australia,0,0,0
+2020-02-01,Australia,12,0,2
 2020-02-01,Austria,0,0,0
 2020-02-01,Azerbaijan,0,0,0
 2020-02-01,Bahamas,0,0,0
@@ -1881,11 +1881,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,Cabo Verde,0,0,0
 2020-02-01,Cambodia,1,0,0
 2020-02-01,Cameroon,0,0,0
-2020-02-01,Canada,0,0,0
+2020-02-01,Canada,4,0,0
 2020-02-01,Central African Republic,0,0,0
 2020-02-01,Chad,0,0,0
 2020-02-01,Chile,0,0,0
-2020-02-01,China,599,0,21
+2020-02-01,China,11891,259,275
 2020-02-01,Colombia,0,0,0
 2020-02-01,Congo (Brazzaville),0,0,0
 2020-02-01,Congo (Kinshasa),0,0,0
@@ -1910,7 +1910,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,Ethiopia,0,0,0
 2020-02-01,Fiji,0,0,0
 2020-02-01,Finland,1,0,0
-2020-02-01,France,0,0,0
+2020-02-01,France,6,0,0
 2020-02-01,Gabon,0,0,0
 2020-02-01,Gambia,0,0,0
 2020-02-01,Georgia,0,0,0
@@ -2024,7 +2024,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,Uganda,0,0,0
 2020-02-01,Ukraine,0,0,0
 2020-02-01,United Arab Emirates,4,0,0
-2020-02-01,United Kingdom,0,0,0
+2020-02-01,United Kingdom,2,0,0
 2020-02-01,Uruguay,0,0,0
 2020-02-01,Uzbekistan,0,0,0
 2020-02-01,Venezuela,0,0,0
@@ -2042,7 +2042,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,Antigua and Barbuda,0,0,0
 2020-02-02,Argentina,0,0,0
 2020-02-02,Armenia,0,0,0
-2020-02-02,Australia,0,0,0
+2020-02-02,Australia,12,0,2
 2020-02-02,Austria,0,0,0
 2020-02-02,Azerbaijan,0,0,0
 2020-02-02,Bahamas,0,0,0
@@ -2066,11 +2066,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,Cabo Verde,0,0,0
 2020-02-02,Cambodia,1,0,0
 2020-02-02,Cameroon,0,0,0
-2020-02-02,Canada,0,0,0
+2020-02-02,Canada,4,0,0
 2020-02-02,Central African Republic,0,0,0
 2020-02-02,Chad,0,0,0
 2020-02-02,Chile,0,0,0
-2020-02-02,China,661,0,32
+2020-02-02,China,16630,361,463
 2020-02-02,Colombia,0,0,0
 2020-02-02,Congo (Brazzaville),0,0,0
 2020-02-02,Congo (Kinshasa),0,0,0
@@ -2095,7 +2095,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,Ethiopia,0,0,0
 2020-02-02,Fiji,0,0,0
 2020-02-02,Finland,1,0,0
-2020-02-02,France,0,0,0
+2020-02-02,France,6,0,0
 2020-02-02,Gabon,0,0,0
 2020-02-02,Gambia,0,0,0
 2020-02-02,Georgia,0,0,0
@@ -2209,7 +2209,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,Uganda,0,0,0
 2020-02-02,Ukraine,0,0,0
 2020-02-02,United Arab Emirates,5,0,0
-2020-02-02,United Kingdom,0,0,0
+2020-02-02,United Kingdom,2,0,0
 2020-02-02,Uruguay,0,0,0
 2020-02-02,Uzbekistan,0,0,0
 2020-02-02,Venezuela,0,0,0
@@ -2227,7 +2227,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,Antigua and Barbuda,0,0,0
 2020-02-03,Argentina,0,0,0
 2020-02-03,Armenia,0,0,0
-2020-02-03,Australia,0,0,0
+2020-02-03,Australia,12,0,2
 2020-02-03,Austria,0,0,0
 2020-02-03,Azerbaijan,0,0,0
 2020-02-03,Bahamas,0,0,0
@@ -2251,11 +2251,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,Cabo Verde,0,0,0
 2020-02-03,Cambodia,1,0,0
 2020-02-03,Cameroon,0,0,0
-2020-02-03,Canada,0,0,0
+2020-02-03,Canada,4,0,0
 2020-02-03,Central African Republic,0,0,0
 2020-02-03,Chad,0,0,0
 2020-02-03,Chile,0,0,0
-2020-02-03,China,724,0,43
+2020-02-03,China,19716,425,614
 2020-02-03,Colombia,0,0,0
 2020-02-03,Congo (Brazzaville),0,0,0
 2020-02-03,Congo (Kinshasa),0,0,0
@@ -2280,7 +2280,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,Ethiopia,0,0,0
 2020-02-03,Fiji,0,0,0
 2020-02-03,Finland,1,0,0
-2020-02-03,France,0,0,0
+2020-02-03,France,6,0,0
 2020-02-03,Gabon,0,0,0
 2020-02-03,Gambia,0,0,0
 2020-02-03,Georgia,0,0,0
@@ -2394,7 +2394,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,Uganda,0,0,0
 2020-02-03,Ukraine,0,0,0
 2020-02-03,United Arab Emirates,5,0,0
-2020-02-03,United Kingdom,0,0,0
+2020-02-03,United Kingdom,2,0,0
 2020-02-03,Uruguay,0,0,0
 2020-02-03,Uzbekistan,0,0,0
 2020-02-03,Venezuela,0,0,0
@@ -2412,7 +2412,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,Antigua and Barbuda,0,0,0
 2020-02-04,Argentina,0,0,0
 2020-02-04,Armenia,0,0,0
-2020-02-04,Australia,0,0,0
+2020-02-04,Australia,13,0,2
 2020-02-04,Austria,0,0,0
 2020-02-04,Azerbaijan,0,0,0
 2020-02-04,Bahamas,0,0,0
@@ -2436,11 +2436,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,Cabo Verde,0,0,0
 2020-02-04,Cambodia,1,0,0
 2020-02-04,Cameroon,0,0,0
-2020-02-04,Canada,0,0,0
+2020-02-04,Canada,4,0,0
 2020-02-04,Central African Republic,0,0,0
 2020-02-04,Chad,0,0,0
 2020-02-04,Chile,0,0,0
-2020-02-04,China,829,0,62
+2020-02-04,China,23707,491,843
 2020-02-04,Colombia,0,0,0
 2020-02-04,Congo (Brazzaville),0,0,0
 2020-02-04,Congo (Kinshasa),0,0,0
@@ -2465,7 +2465,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,Ethiopia,0,0,0
 2020-02-04,Fiji,0,0,0
 2020-02-04,Finland,1,0,0
-2020-02-04,France,0,0,0
+2020-02-04,France,6,0,0
 2020-02-04,Gabon,0,0,0
 2020-02-04,Gambia,0,0,0
 2020-02-04,Georgia,0,0,0
@@ -2579,7 +2579,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,Uganda,0,0,0
 2020-02-04,Ukraine,0,0,0
 2020-02-04,United Arab Emirates,5,0,0
-2020-02-04,United Kingdom,0,0,0
+2020-02-04,United Kingdom,2,0,0
 2020-02-04,Uruguay,0,0,0
 2020-02-04,Uzbekistan,0,0,0
 2020-02-04,Venezuela,0,0,0
@@ -2597,7 +2597,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,Antigua and Barbuda,0,0,0
 2020-02-05,Argentina,0,0,0
 2020-02-05,Armenia,0,0,0
-2020-02-05,Australia,0,0,0
+2020-02-05,Australia,13,0,2
 2020-02-05,Austria,0,0,0
 2020-02-05,Azerbaijan,0,0,0
 2020-02-05,Bahamas,0,0,0
@@ -2621,11 +2621,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,Cabo Verde,0,0,0
 2020-02-05,Cambodia,1,0,0
 2020-02-05,Cameroon,0,0,0
-2020-02-05,Canada,0,0,0
+2020-02-05,Canada,5,0,0
 2020-02-05,Central African Republic,0,0,0
 2020-02-05,Chad,0,0,0
 2020-02-05,Chile,0,0,0
-2020-02-05,China,895,0,78
+2020-02-05,China,27440,563,1115
 2020-02-05,Colombia,0,0,0
 2020-02-05,Congo (Brazzaville),0,0,0
 2020-02-05,Congo (Kinshasa),0,0,0
@@ -2650,7 +2650,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,Ethiopia,0,0,0
 2020-02-05,Fiji,0,0,0
 2020-02-05,Finland,1,0,0
-2020-02-05,France,0,0,0
+2020-02-05,France,6,0,0
 2020-02-05,Gabon,0,0,0
 2020-02-05,Gambia,0,0,0
 2020-02-05,Georgia,0,0,0
@@ -2764,7 +2764,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,Uganda,0,0,0
 2020-02-05,Ukraine,0,0,0
 2020-02-05,United Arab Emirates,5,0,0
-2020-02-05,United Kingdom,0,0,0
+2020-02-05,United Kingdom,2,0,0
 2020-02-05,Uruguay,0,0,0
 2020-02-05,Uzbekistan,0,0,0
 2020-02-05,Venezuela,0,0,0
@@ -2782,7 +2782,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,Antigua and Barbuda,0,0,0
 2020-02-06,Argentina,0,0,0
 2020-02-06,Armenia,0,0,0
-2020-02-06,Australia,0,0,0
+2020-02-06,Australia,14,0,2
 2020-02-06,Austria,0,0,0
 2020-02-06,Azerbaijan,0,0,0
 2020-02-06,Bahamas,0,0,0
@@ -2806,11 +2806,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,Cabo Verde,0,0,0
 2020-02-06,Cambodia,1,0,0
 2020-02-06,Cameroon,0,0,0
-2020-02-06,Canada,0,0,0
+2020-02-06,Canada,5,0,0
 2020-02-06,Central African Republic,0,0,0
 2020-02-06,Chad,0,0,0
 2020-02-06,Chile,0,0,0
-2020-02-06,China,954,0,94
+2020-02-06,China,30587,633,1477
 2020-02-06,Colombia,0,0,0
 2020-02-06,Congo (Brazzaville),0,0,0
 2020-02-06,Congo (Kinshasa),0,0,0
@@ -2835,7 +2835,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,Ethiopia,0,0,0
 2020-02-06,Fiji,0,0,0
 2020-02-06,Finland,1,0,0
-2020-02-06,France,0,0,0
+2020-02-06,France,6,0,0
 2020-02-06,Gabon,0,0,0
 2020-02-06,Gambia,0,0,0
 2020-02-06,Georgia,0,0,0
@@ -2949,7 +2949,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,Uganda,0,0,0
 2020-02-06,Ukraine,0,0,0
 2020-02-06,United Arab Emirates,5,0,0
-2020-02-06,United Kingdom,0,0,0
+2020-02-06,United Kingdom,2,0,0
 2020-02-06,Uruguay,0,0,0
 2020-02-06,Uzbekistan,0,0,0
 2020-02-06,Venezuela,0,0,0
@@ -2967,7 +2967,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,Antigua and Barbuda,0,0,0
 2020-02-07,Argentina,0,0,0
 2020-02-07,Armenia,0,0,0
-2020-02-07,Australia,0,0,0
+2020-02-07,Australia,15,0,2
 2020-02-07,Austria,0,0,0
 2020-02-07,Azerbaijan,0,0,0
 2020-02-07,Bahamas,0,0,0
@@ -2991,11 +2991,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,Cabo Verde,0,0,0
 2020-02-07,Cambodia,1,0,0
 2020-02-07,Cameroon,0,0,0
-2020-02-07,Canada,0,0,0
+2020-02-07,Canada,7,0,0
 2020-02-07,Central African Republic,0,0,0
 2020-02-07,Chad,0,0,0
 2020-02-07,Chile,0,0,0
-2020-02-07,China,1006,0,123
+2020-02-07,China,34110,718,1999
 2020-02-07,Colombia,0,0,0
 2020-02-07,Congo (Brazzaville),0,0,0
 2020-02-07,Congo (Kinshasa),0,0,0
@@ -3020,7 +3020,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,Ethiopia,0,0,0
 2020-02-07,Fiji,0,0,0
 2020-02-07,Finland,1,0,0
-2020-02-07,France,0,0,0
+2020-02-07,France,6,0,0
 2020-02-07,Gabon,0,0,0
 2020-02-07,Gambia,0,0,0
 2020-02-07,Georgia,0,0,0
@@ -3134,7 +3134,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,Uganda,0,0,0
 2020-02-07,Ukraine,0,0,0
 2020-02-07,United Arab Emirates,5,0,0
-2020-02-07,United Kingdom,0,0,0
+2020-02-07,United Kingdom,3,0,0
 2020-02-07,Uruguay,0,0,0
 2020-02-07,Uzbekistan,0,0,0
 2020-02-07,Venezuela,0,0,0
@@ -3152,7 +3152,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,Antigua and Barbuda,0,0,0
 2020-02-08,Argentina,0,0,0
 2020-02-08,Armenia,0,0,0
-2020-02-08,Australia,0,0,0
+2020-02-08,Australia,15,0,2
 2020-02-08,Austria,0,0,0
 2020-02-08,Azerbaijan,0,0,0
 2020-02-08,Bahamas,0,0,0
@@ -3176,11 +3176,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,Cabo Verde,0,0,0
 2020-02-08,Cambodia,1,0,0
 2020-02-08,Cameroon,0,0,0
-2020-02-08,Canada,0,0,0
+2020-02-08,Canada,7,0,0
 2020-02-08,Central African Republic,0,0,0
 2020-02-08,Chad,0,0,0
 2020-02-08,Chile,0,0,0
-2020-02-08,China,1048,0,175
+2020-02-08,China,36814,805,2596
 2020-02-08,Colombia,0,0,0
 2020-02-08,Congo (Brazzaville),0,0,0
 2020-02-08,Congo (Kinshasa),0,0,0
@@ -3205,7 +3205,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,Ethiopia,0,0,0
 2020-02-08,Fiji,0,0,0
 2020-02-08,Finland,1,0,0
-2020-02-08,France,0,0,0
+2020-02-08,France,11,0,0
 2020-02-08,Gabon,0,0,0
 2020-02-08,Gambia,0,0,0
 2020-02-08,Georgia,0,0,0
@@ -3319,7 +3319,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,Uganda,0,0,0
 2020-02-08,Ukraine,0,0,0
 2020-02-08,United Arab Emirates,7,0,0
-2020-02-08,United Kingdom,0,0,0
+2020-02-08,United Kingdom,3,0,0
 2020-02-08,Uruguay,0,0,0
 2020-02-08,Uzbekistan,0,0,0
 2020-02-08,Venezuela,0,0,0
@@ -3337,7 +3337,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,Antigua and Barbuda,0,0,0
 2020-02-09,Argentina,0,0,0
 2020-02-09,Armenia,0,0,0
-2020-02-09,Australia,0,0,0
+2020-02-09,Australia,15,0,2
 2020-02-09,Austria,0,0,0
 2020-02-09,Azerbaijan,0,0,0
 2020-02-09,Bahamas,0,0,0
@@ -3361,11 +3361,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,Cabo Verde,0,0,0
 2020-02-09,Cambodia,1,0,0
 2020-02-09,Cameroon,0,0,0
-2020-02-09,Canada,0,0,0
+2020-02-09,Canada,7,0,0
 2020-02-09,Central African Republic,0,0,0
 2020-02-09,Chad,0,0,0
 2020-02-09,Chile,0,0,0
-2020-02-09,China,1075,0,201
+2020-02-09,China,39829,905,3219
 2020-02-09,Colombia,0,0,0
 2020-02-09,Congo (Brazzaville),0,0,0
 2020-02-09,Congo (Kinshasa),0,0,0
@@ -3390,7 +3390,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,Ethiopia,0,0,0
 2020-02-09,Fiji,0,0,0
 2020-02-09,Finland,1,0,0
-2020-02-09,France,0,0,0
+2020-02-09,France,11,0,0
 2020-02-09,Gabon,0,0,0
 2020-02-09,Gambia,0,0,0
 2020-02-09,Georgia,0,0,0
@@ -3504,7 +3504,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,Uganda,0,0,0
 2020-02-09,Ukraine,0,0,0
 2020-02-09,United Arab Emirates,7,0,0
-2020-02-09,United Kingdom,0,0,0
+2020-02-09,United Kingdom,3,0,0
 2020-02-09,Uruguay,0,0,0
 2020-02-09,Uzbekistan,0,0,0
 2020-02-09,Venezuela,0,0,0
@@ -3522,7 +3522,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,Antigua and Barbuda,0,0,0
 2020-02-10,Argentina,0,0,0
 2020-02-10,Armenia,0,0,0
-2020-02-10,Australia,0,0,0
+2020-02-10,Australia,15,0,2
 2020-02-10,Austria,0,0,0
 2020-02-10,Azerbaijan,0,0,0
 2020-02-10,Bahamas,0,0,0
@@ -3546,11 +3546,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,Cabo Verde,0,0,0
 2020-02-10,Cambodia,1,0,0
 2020-02-10,Cameroon,0,0,0
-2020-02-10,Canada,0,0,0
+2020-02-10,Canada,7,0,0
 2020-02-10,Central African Republic,0,0,0
 2020-02-10,Chad,0,0,0
 2020-02-10,Chile,0,0,0
-2020-02-10,China,1092,0,242
+2020-02-10,China,42354,1012,3918
 2020-02-10,Colombia,0,0,0
 2020-02-10,Congo (Brazzaville),0,0,0
 2020-02-10,Congo (Kinshasa),0,0,0
@@ -3575,7 +3575,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,Ethiopia,0,0,0
 2020-02-10,Fiji,0,0,0
 2020-02-10,Finland,1,0,0
-2020-02-10,France,0,0,0
+2020-02-10,France,11,0,0
 2020-02-10,Gabon,0,0,0
 2020-02-10,Gambia,0,0,0
 2020-02-10,Georgia,0,0,0
@@ -3689,7 +3689,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,Uganda,0,0,0
 2020-02-10,Ukraine,0,0,0
 2020-02-10,United Arab Emirates,8,0,0
-2020-02-10,United Kingdom,0,0,0
+2020-02-10,United Kingdom,8,0,0
 2020-02-10,Uruguay,0,0,0
 2020-02-10,Uzbekistan,0,0,0
 2020-02-10,Venezuela,0,0,0
@@ -3707,7 +3707,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,Antigua and Barbuda,0,0,0
 2020-02-11,Argentina,0,0,0
 2020-02-11,Armenia,0,0,0
-2020-02-11,Australia,0,0,0
+2020-02-11,Australia,15,0,2
 2020-02-11,Austria,0,0,0
 2020-02-11,Azerbaijan,0,0,0
 2020-02-11,Bahamas,0,0,0
@@ -3731,11 +3731,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,Cabo Verde,0,0,0
 2020-02-11,Cambodia,1,0,0
 2020-02-11,Cameroon,0,0,0
-2020-02-11,Canada,0,0,0
+2020-02-11,Canada,7,0,0
 2020-02-11,Central African Republic,0,0,0
 2020-02-11,Chad,0,0,0
 2020-02-11,Chile,0,0,0
-2020-02-11,China,1117,0,270
+2020-02-11,China,44386,1112,4636
 2020-02-11,Colombia,0,0,0
 2020-02-11,Congo (Brazzaville),0,0,0
 2020-02-11,Congo (Kinshasa),0,0,0
@@ -3760,7 +3760,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,Ethiopia,0,0,0
 2020-02-11,Fiji,0,0,0
 2020-02-11,Finland,1,0,0
-2020-02-11,France,0,0,0
+2020-02-11,France,11,0,0
 2020-02-11,Gabon,0,0,0
 2020-02-11,Gambia,0,0,0
 2020-02-11,Georgia,0,0,0
@@ -3874,7 +3874,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,Uganda,0,0,0
 2020-02-11,Ukraine,0,0,0
 2020-02-11,United Arab Emirates,8,0,0
-2020-02-11,United Kingdom,0,0,0
+2020-02-11,United Kingdom,8,0,0
 2020-02-11,Uruguay,0,0,0
 2020-02-11,Uzbekistan,0,0,0
 2020-02-11,Venezuela,0,0,0
@@ -3892,7 +3892,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,Antigua and Barbuda,0,0,0
 2020-02-12,Argentina,0,0,0
 2020-02-12,Armenia,0,0,0
-2020-02-12,Australia,0,0,0
+2020-02-12,Australia,15,0,2
 2020-02-12,Austria,0,0,0
 2020-02-12,Azerbaijan,0,0,0
 2020-02-12,Bahamas,0,0,0
@@ -3916,11 +3916,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,Cabo Verde,0,0,0
 2020-02-12,Cambodia,1,0,1
 2020-02-12,Cameroon,0,0,0
-2020-02-12,Canada,0,0,1
+2020-02-12,Canada,7,0,1
 2020-02-12,Central African Republic,0,0,0
 2020-02-12,Chad,0,0,0
 2020-02-12,Chile,0,0,0
-2020-02-12,China,1131,0,321
+2020-02-12,China,44759,1117,5082
 2020-02-12,Colombia,0,0,0
 2020-02-12,Congo (Brazzaville),0,0,0
 2020-02-12,Congo (Kinshasa),0,0,0
@@ -3945,7 +3945,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,Ethiopia,0,0,0
 2020-02-12,Fiji,0,0,0
 2020-02-12,Finland,1,0,1
-2020-02-12,France,0,0,0
+2020-02-12,France,11,0,2
 2020-02-12,Gabon,0,0,0
 2020-02-12,Gambia,0,0,0
 2020-02-12,Georgia,0,0,0
@@ -4059,7 +4059,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,Uganda,0,0,0
 2020-02-12,Ukraine,0,0,0
 2020-02-12,United Arab Emirates,8,0,1
-2020-02-12,United Kingdom,0,0,0
+2020-02-12,United Kingdom,9,0,1
 2020-02-12,Uruguay,0,0,0
 2020-02-12,Uzbekistan,0,0,0
 2020-02-12,Venezuela,0,0,0
@@ -4077,7 +4077,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,Antigua and Barbuda,0,0,0
 2020-02-13,Argentina,0,0,0
 2020-02-13,Armenia,0,0,0
-2020-02-13,Australia,0,0,0
+2020-02-13,Australia,15,0,8
 2020-02-13,Austria,0,0,0
 2020-02-13,Azerbaijan,0,0,0
 2020-02-13,Bahamas,0,0,0
@@ -4101,11 +4101,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,Cabo Verde,0,0,0
 2020-02-13,Cambodia,1,0,1
 2020-02-13,Cameroon,0,0,0
-2020-02-13,Canada,0,0,1
+2020-02-13,Canada,7,0,1
 2020-02-13,Central African Republic,0,0,0
 2020-02-13,Chad,0,0,0
 2020-02-13,Chile,0,0,0
-2020-02-13,China,1145,0,360
+2020-02-13,China,59895,1369,6217
 2020-02-13,Colombia,0,0,0
 2020-02-13,Congo (Brazzaville),0,0,0
 2020-02-13,Congo (Kinshasa),0,0,0
@@ -4130,7 +4130,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,Ethiopia,0,0,0
 2020-02-13,Fiji,0,0,0
 2020-02-13,Finland,1,0,1
-2020-02-13,France,0,0,0
+2020-02-13,France,11,0,2
 2020-02-13,Gabon,0,0,0
 2020-02-13,Gambia,0,0,0
 2020-02-13,Georgia,0,0,0
@@ -4244,7 +4244,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,Uganda,0,0,0
 2020-02-13,Ukraine,0,0,0
 2020-02-13,United Arab Emirates,8,0,1
-2020-02-13,United Kingdom,0,0,0
+2020-02-13,United Kingdom,9,0,1
 2020-02-13,Uruguay,0,0,0
 2020-02-13,Uzbekistan,0,0,0
 2020-02-13,Venezuela,0,0,0
@@ -4262,7 +4262,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,Antigua and Barbuda,0,0,0
 2020-02-14,Argentina,0,0,0
 2020-02-14,Armenia,0,0,0
-2020-02-14,Australia,0,0,0
+2020-02-14,Australia,15,0,8
 2020-02-14,Austria,0,0,0
 2020-02-14,Azerbaijan,0,0,0
 2020-02-14,Bahamas,0,0,0
@@ -4286,11 +4286,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,Cabo Verde,0,0,0
 2020-02-14,Cambodia,1,0,1
 2020-02-14,Cameroon,0,0,0
-2020-02-14,Canada,0,0,1
+2020-02-14,Canada,7,0,1
 2020-02-14,Central African Republic,0,0,0
 2020-02-14,Chad,0,0,0
 2020-02-14,Chile,0,0,0
-2020-02-14,China,1155,0,403
+2020-02-14,China,66358,1521,7977
 2020-02-14,Colombia,0,0,0
 2020-02-14,Congo (Brazzaville),0,0,0
 2020-02-14,Congo (Kinshasa),0,0,0
@@ -4315,7 +4315,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,Ethiopia,0,0,0
 2020-02-14,Fiji,0,0,0
 2020-02-14,Finland,1,0,1
-2020-02-14,France,0,0,0
+2020-02-14,France,11,0,2
 2020-02-14,Gabon,0,0,0
 2020-02-14,Gambia,0,0,0
 2020-02-14,Georgia,0,0,0
@@ -4429,7 +4429,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,Uganda,0,0,0
 2020-02-14,Ukraine,0,0,0
 2020-02-14,United Arab Emirates,8,0,1
-2020-02-14,United Kingdom,0,0,0
+2020-02-14,United Kingdom,9,0,1
 2020-02-14,Uruguay,0,0,0
 2020-02-14,Uzbekistan,0,0,0
 2020-02-14,Venezuela,0,0,0
@@ -4447,7 +4447,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,Antigua and Barbuda,0,0,0
 2020-02-15,Argentina,0,0,0
 2020-02-15,Armenia,0,0,0
-2020-02-15,Australia,0,0,0
+2020-02-15,Australia,15,0,8
 2020-02-15,Austria,0,0,0
 2020-02-15,Azerbaijan,0,0,0
 2020-02-15,Bahamas,0,0,0
@@ -4471,11 +4471,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,Cabo Verde,0,0,0
 2020-02-15,Cambodia,1,0,1
 2020-02-15,Cameroon,0,0,0
-2020-02-15,Canada,0,0,1
+2020-02-15,Canada,7,0,1
 2020-02-15,Central African Republic,0,0,0
 2020-02-15,Chad,0,0,0
 2020-02-15,Chile,0,0,0
-2020-02-15,China,1162,0,428
+2020-02-15,China,68413,1663,9298
 2020-02-15,Colombia,0,0,0
 2020-02-15,Congo (Brazzaville),0,0,0
 2020-02-15,Congo (Kinshasa),0,0,0
@@ -4500,7 +4500,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,Ethiopia,0,0,0
 2020-02-15,Fiji,0,0,0
 2020-02-15,Finland,1,0,1
-2020-02-15,France,0,0,0
+2020-02-15,France,12,1,4
 2020-02-15,Gabon,0,0,0
 2020-02-15,Gambia,0,0,0
 2020-02-15,Georgia,0,0,0
@@ -4614,7 +4614,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,Uganda,0,0,0
 2020-02-15,Ukraine,0,0,0
 2020-02-15,United Arab Emirates,8,0,3
-2020-02-15,United Kingdom,0,0,0
+2020-02-15,United Kingdom,9,0,1
 2020-02-15,Uruguay,0,0,0
 2020-02-15,Uzbekistan,0,0,0
 2020-02-15,Venezuela,0,0,0
@@ -4632,7 +4632,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,Antigua and Barbuda,0,0,0
 2020-02-16,Argentina,0,0,0
 2020-02-16,Armenia,0,0,0
-2020-02-16,Australia,0,0,0
+2020-02-16,Australia,15,0,8
 2020-02-16,Austria,0,0,0
 2020-02-16,Azerbaijan,0,0,0
 2020-02-16,Bahamas,0,0,0
@@ -4656,11 +4656,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,Cabo Verde,0,0,0
 2020-02-16,Cambodia,1,0,1
 2020-02-16,Cameroon,0,0,0
-2020-02-16,Canada,0,0,1
+2020-02-16,Canada,7,0,1
 2020-02-16,Central African Republic,0,0,0
 2020-02-16,Chad,0,0,0
 2020-02-16,Chile,0,0,0
-2020-02-16,China,1167,0,456
+2020-02-16,China,70513,1766,10755
 2020-02-16,Colombia,0,0,0
 2020-02-16,Congo (Brazzaville),0,0,0
 2020-02-16,Congo (Kinshasa),0,0,0
@@ -4685,7 +4685,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,Ethiopia,0,0,0
 2020-02-16,Fiji,0,0,0
 2020-02-16,Finland,1,0,1
-2020-02-16,France,0,0,0
+2020-02-16,France,12,1,4
 2020-02-16,Gabon,0,0,0
 2020-02-16,Gambia,0,0,0
 2020-02-16,Georgia,0,0,0
@@ -4799,7 +4799,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,Uganda,0,0,0
 2020-02-16,Ukraine,0,0,0
 2020-02-16,United Arab Emirates,9,0,4
-2020-02-16,United Kingdom,0,0,0
+2020-02-16,United Kingdom,9,0,8
 2020-02-16,Uruguay,0,0,0
 2020-02-16,Uzbekistan,0,0,0
 2020-02-16,Venezuela,0,0,0
@@ -4817,7 +4817,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,Antigua and Barbuda,0,0,0
 2020-02-17,Argentina,0,0,0
 2020-02-17,Armenia,0,0,0
-2020-02-17,Australia,0,0,0
+2020-02-17,Australia,15,0,10
 2020-02-17,Austria,0,0,0
 2020-02-17,Azerbaijan,0,0,0
 2020-02-17,Bahamas,0,0,0
@@ -4841,11 +4841,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,Cabo Verde,0,0,0
 2020-02-17,Cambodia,1,0,1
 2020-02-17,Cameroon,0,0,0
-2020-02-17,Canada,0,0,1
+2020-02-17,Canada,8,0,1
 2020-02-17,Central African Republic,0,0,0
 2020-02-17,Chad,0,0,0
 2020-02-17,Chile,0,0,0
-2020-02-17,China,1171,0,507
+2020-02-17,China,72434,1864,12462
 2020-02-17,Colombia,0,0,0
 2020-02-17,Congo (Brazzaville),0,0,0
 2020-02-17,Congo (Kinshasa),0,0,0
@@ -4870,7 +4870,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,Ethiopia,0,0,0
 2020-02-17,Fiji,0,0,0
 2020-02-17,Finland,1,0,1
-2020-02-17,France,0,0,0
+2020-02-17,France,12,1,4
 2020-02-17,Gabon,0,0,0
 2020-02-17,Gambia,0,0,0
 2020-02-17,Georgia,0,0,0
@@ -4984,7 +4984,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,Uganda,0,0,0
 2020-02-17,Ukraine,0,0,0
 2020-02-17,United Arab Emirates,9,0,4
-2020-02-17,United Kingdom,0,0,0
+2020-02-17,United Kingdom,9,0,8
 2020-02-17,Uruguay,0,0,0
 2020-02-17,Uzbekistan,0,0,0
 2020-02-17,Venezuela,0,0,0
@@ -5002,7 +5002,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,Antigua and Barbuda,0,0,0
 2020-02-18,Argentina,0,0,0
 2020-02-18,Armenia,0,0,0
-2020-02-18,Australia,0,0,0
+2020-02-18,Australia,15,0,10
 2020-02-18,Austria,0,0,0
 2020-02-18,Azerbaijan,0,0,0
 2020-02-18,Bahamas,0,0,0
@@ -5026,11 +5026,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,Cabo Verde,0,0,0
 2020-02-18,Cambodia,1,0,1
 2020-02-18,Cameroon,0,0,0
-2020-02-18,Canada,0,0,1
+2020-02-18,Canada,8,0,1
 2020-02-18,Central African Republic,0,0,0
 2020-02-18,Chad,0,0,0
 2020-02-18,Chile,0,0,0
-2020-02-18,China,1172,0,535
+2020-02-18,China,74211,2003,14206
 2020-02-18,Colombia,0,0,0
 2020-02-18,Congo (Brazzaville),0,0,0
 2020-02-18,Congo (Kinshasa),0,0,0
@@ -5055,7 +5055,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,Ethiopia,0,0,0
 2020-02-18,Fiji,0,0,0
 2020-02-18,Finland,1,0,1
-2020-02-18,France,0,0,0
+2020-02-18,France,12,1,4
 2020-02-18,Gabon,0,0,0
 2020-02-18,Gambia,0,0,0
 2020-02-18,Georgia,0,0,0
@@ -5169,7 +5169,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,Uganda,0,0,0
 2020-02-18,Ukraine,0,0,0
 2020-02-18,United Arab Emirates,9,0,4
-2020-02-18,United Kingdom,0,0,0
+2020-02-18,United Kingdom,9,0,8
 2020-02-18,Uruguay,0,0,0
 2020-02-18,Uzbekistan,0,0,0
 2020-02-18,Venezuela,0,0,0
@@ -5187,7 +5187,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,Antigua and Barbuda,0,0,0
 2020-02-19,Argentina,0,0,0
 2020-02-19,Armenia,0,0,0
-2020-02-19,Australia,0,0,0
+2020-02-19,Australia,15,0,10
 2020-02-19,Austria,0,0,0
 2020-02-19,Azerbaijan,0,0,0
 2020-02-19,Bahamas,0,0,0
@@ -5211,11 +5211,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,Cabo Verde,0,0,0
 2020-02-19,Cambodia,1,0,1
 2020-02-19,Cameroon,0,0,0
-2020-02-19,Canada,0,0,1
+2020-02-19,Canada,8,0,1
 2020-02-19,Central African Republic,0,0,0
 2020-02-19,Chad,0,0,0
 2020-02-19,Chile,0,0,0
-2020-02-19,China,1174,0,604
+2020-02-19,China,74619,2116,15962
 2020-02-19,Colombia,0,0,0
 2020-02-19,Congo (Brazzaville),0,0,0
 2020-02-19,Congo (Kinshasa),0,0,0
@@ -5240,7 +5240,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,Ethiopia,0,0,0
 2020-02-19,Fiji,0,0,0
 2020-02-19,Finland,1,0,1
-2020-02-19,France,0,0,0
+2020-02-19,France,12,1,4
 2020-02-19,Gabon,0,0,0
 2020-02-19,Gambia,0,0,0
 2020-02-19,Georgia,0,0,0
@@ -5354,7 +5354,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,Uganda,0,0,0
 2020-02-19,Ukraine,0,0,0
 2020-02-19,United Arab Emirates,9,0,4
-2020-02-19,United Kingdom,0,0,0
+2020-02-19,United Kingdom,9,0,8
 2020-02-19,Uruguay,0,0,0
 2020-02-19,Uzbekistan,0,0,0
 2020-02-19,Venezuela,0,0,0
@@ -5372,7 +5372,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,Antigua and Barbuda,0,0,0
 2020-02-20,Argentina,0,0,0
 2020-02-20,Armenia,0,0,0
-2020-02-20,Australia,0,0,0
+2020-02-20,Australia,15,0,10
 2020-02-20,Austria,0,0,0
 2020-02-20,Azerbaijan,0,0,0
 2020-02-20,Bahamas,0,0,0
@@ -5396,11 +5396,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,Cabo Verde,0,0,0
 2020-02-20,Cambodia,1,0,1
 2020-02-20,Cameroon,0,0,0
-2020-02-20,Canada,0,0,1
+2020-02-20,Canada,8,0,1
 2020-02-20,Central African Republic,0,0,0
 2020-02-20,Chad,0,0,0
 2020-02-20,Chile,0,0,0
-2020-02-20,China,1175,1,633
+2020-02-20,China,75077,2238,18014
 2020-02-20,Colombia,0,0,0
 2020-02-20,Congo (Brazzaville),0,0,0
 2020-02-20,Congo (Kinshasa),0,0,0
@@ -5425,7 +5425,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,Ethiopia,0,0,0
 2020-02-20,Fiji,0,0,0
 2020-02-20,Finland,1,0,1
-2020-02-20,France,0,0,0
+2020-02-20,France,12,1,4
 2020-02-20,Gabon,0,0,0
 2020-02-20,Gambia,0,0,0
 2020-02-20,Georgia,0,0,0
@@ -5539,7 +5539,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,Uganda,0,0,0
 2020-02-20,Ukraine,0,0,0
 2020-02-20,United Arab Emirates,9,0,4
-2020-02-20,United Kingdom,0,0,0
+2020-02-20,United Kingdom,9,0,8
 2020-02-20,Uruguay,0,0,0
 2020-02-20,Uzbekistan,0,0,0
 2020-02-20,Venezuela,0,0,0
@@ -5557,7 +5557,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,Antigua and Barbuda,0,0,0
 2020-02-21,Argentina,0,0,0
 2020-02-21,Armenia,0,0,0
-2020-02-21,Australia,0,0,0
+2020-02-21,Australia,15,0,11
 2020-02-21,Austria,0,0,0
 2020-02-21,Azerbaijan,0,0,0
 2020-02-21,Bahamas,0,0,0
@@ -5581,11 +5581,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,Cabo Verde,0,0,0
 2020-02-21,Cambodia,1,0,1
 2020-02-21,Cameroon,0,0,0
-2020-02-21,Canada,0,0,3
+2020-02-21,Canada,9,0,3
 2020-02-21,Central African Republic,0,0,0
 2020-02-21,Chad,0,0,0
 2020-02-21,Chile,0,0,0
-2020-02-21,China,1203,1,679
+2020-02-21,China,75550,2238,18704
 2020-02-21,Colombia,0,0,0
 2020-02-21,Congo (Brazzaville),0,0,0
 2020-02-21,Congo (Kinshasa),0,0,0
@@ -5610,7 +5610,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,Ethiopia,0,0,0
 2020-02-21,Fiji,0,0,0
 2020-02-21,Finland,1,0,1
-2020-02-21,France,0,0,0
+2020-02-21,France,12,1,4
 2020-02-21,Gabon,0,0,0
 2020-02-21,Gambia,0,0,0
 2020-02-21,Georgia,0,0,0
@@ -5724,7 +5724,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,Uganda,0,0,0
 2020-02-21,Ukraine,0,0,0
 2020-02-21,United Arab Emirates,9,0,4
-2020-02-21,United Kingdom,0,0,0
+2020-02-21,United Kingdom,9,0,8
 2020-02-21,Uruguay,0,0,0
 2020-02-21,Uzbekistan,0,0,0
 2020-02-21,Venezuela,0,0,0
@@ -5742,7 +5742,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,Antigua and Barbuda,0,0,0
 2020-02-22,Argentina,0,0,0
 2020-02-22,Armenia,0,0,0
-2020-02-22,Australia,0,0,0
+2020-02-22,Australia,15,0,11
 2020-02-22,Austria,0,0,0
 2020-02-22,Azerbaijan,0,0,0
 2020-02-22,Bahamas,0,0,0
@@ -5766,11 +5766,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,Cabo Verde,0,0,0
 2020-02-22,Cambodia,1,0,1
 2020-02-22,Cameroon,0,0,0
-2020-02-22,Canada,0,0,3
+2020-02-22,Canada,9,0,3
 2020-02-22,Central African Republic,0,0,0
 2020-02-22,Chad,0,0,0
 2020-02-22,Chile,0,0,0
-2020-02-22,China,1205,1,719
+2020-02-22,China,77001,2443,22699
 2020-02-22,Colombia,0,0,0
 2020-02-22,Congo (Brazzaville),0,0,0
 2020-02-22,Congo (Kinshasa),0,0,0
@@ -5795,7 +5795,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,Ethiopia,0,0,0
 2020-02-22,Fiji,0,0,0
 2020-02-22,Finland,1,0,1
-2020-02-22,France,0,0,0
+2020-02-22,France,12,1,4
 2020-02-22,Gabon,0,0,0
 2020-02-22,Gambia,0,0,0
 2020-02-22,Georgia,0,0,0
@@ -5909,7 +5909,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,Uganda,0,0,0
 2020-02-22,Ukraine,0,0,0
 2020-02-22,United Arab Emirates,13,0,4
-2020-02-22,United Kingdom,0,0,0
+2020-02-22,United Kingdom,9,0,8
 2020-02-22,Uruguay,0,0,0
 2020-02-22,Uzbekistan,0,0,0
 2020-02-22,Venezuela,0,0,0
@@ -5927,7 +5927,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,Antigua and Barbuda,0,0,0
 2020-02-23,Argentina,0,0,0
 2020-02-23,Armenia,0,0,0
-2020-02-23,Australia,0,0,0
+2020-02-23,Australia,15,0,11
 2020-02-23,Austria,0,0,0
 2020-02-23,Azerbaijan,0,0,0
 2020-02-23,Bahamas,0,0,0
@@ -5951,11 +5951,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,Cabo Verde,0,0,0
 2020-02-23,Cambodia,1,0,1
 2020-02-23,Cameroon,0,0,0
-2020-02-23,Canada,0,0,3
+2020-02-23,Canada,9,0,3
 2020-02-23,Central African Republic,0,0,0
 2020-02-23,Chad,0,0,0
 2020-02-23,Chile,0,0,0
-2020-02-23,China,1205,1,760
+2020-02-23,China,77022,2445,23187
 2020-02-23,Colombia,0,0,0
 2020-02-23,Congo (Brazzaville),0,0,0
 2020-02-23,Congo (Kinshasa),0,0,0
@@ -5980,7 +5980,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,Ethiopia,0,0,0
 2020-02-23,Fiji,0,0,0
 2020-02-23,Finland,1,0,1
-2020-02-23,France,0,0,0
+2020-02-23,France,12,1,4
 2020-02-23,Gabon,0,0,0
 2020-02-23,Gambia,0,0,0
 2020-02-23,Georgia,0,0,0
@@ -6094,7 +6094,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,Uganda,0,0,0
 2020-02-23,Ukraine,0,0,0
 2020-02-23,United Arab Emirates,13,0,4
-2020-02-23,United Kingdom,0,0,0
+2020-02-23,United Kingdom,9,0,8
 2020-02-23,Uruguay,0,0,0
 2020-02-23,Uzbekistan,0,0,0
 2020-02-23,Venezuela,0,0,0
@@ -6112,7 +6112,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,Antigua and Barbuda,0,0,0
 2020-02-24,Argentina,0,0,0
 2020-02-24,Armenia,0,0,0
-2020-02-24,Australia,0,0,0
+2020-02-24,Australia,15,0,11
 2020-02-24,Austria,0,0,0
 2020-02-24,Azerbaijan,0,0,0
 2020-02-24,Bahamas,0,0,0
@@ -6136,11 +6136,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,Cabo Verde,0,0,0
 2020-02-24,Cambodia,1,0,1
 2020-02-24,Cameroon,0,0,0
-2020-02-24,Canada,0,0,3
+2020-02-24,Canada,10,0,3
 2020-02-24,Central African Republic,0,0,0
 2020-02-24,Chad,0,0,0
 2020-02-24,Chile,0,0,0
-2020-02-24,China,1205,1,782
+2020-02-24,China,77241,2595,25015
 2020-02-24,Colombia,0,0,0
 2020-02-24,Congo (Brazzaville),0,0,0
 2020-02-24,Congo (Kinshasa),0,0,0
@@ -6165,7 +6165,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,Ethiopia,0,0,0
 2020-02-24,Fiji,0,0,0
 2020-02-24,Finland,1,0,1
-2020-02-24,France,0,0,0
+2020-02-24,France,12,1,4
 2020-02-24,Gabon,0,0,0
 2020-02-24,Gambia,0,0,0
 2020-02-24,Georgia,0,0,0
@@ -6279,7 +6279,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,Uganda,0,0,0
 2020-02-24,Ukraine,0,0,0
 2020-02-24,United Arab Emirates,13,0,4
-2020-02-24,United Kingdom,0,0,0
+2020-02-24,United Kingdom,13,0,8
 2020-02-24,Uruguay,0,0,0
 2020-02-24,Uzbekistan,0,0,0
 2020-02-24,Venezuela,0,0,0
@@ -6297,7 +6297,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,Antigua and Barbuda,0,0,0
 2020-02-25,Argentina,0,0,0
 2020-02-25,Armenia,0,0,0
-2020-02-25,Australia,0,0,0
+2020-02-25,Australia,15,0,11
 2020-02-25,Austria,2,0,0
 2020-02-25,Azerbaijan,0,0,0
 2020-02-25,Bahamas,0,0,0
@@ -6321,11 +6321,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,Cabo Verde,0,0,0
 2020-02-25,Cambodia,1,0,1
 2020-02-25,Cameroon,0,0,0
-2020-02-25,Canada,0,0,3
+2020-02-25,Canada,11,0,3
 2020-02-25,Central African Republic,0,0,0
 2020-02-25,Chad,0,0,0
 2020-02-25,Chile,0,0,0
-2020-02-25,China,1205,1,808
+2020-02-25,China,77754,2665,27676
 2020-02-25,Colombia,0,0,0
 2020-02-25,Congo (Brazzaville),0,0,0
 2020-02-25,Congo (Kinshasa),0,0,0
@@ -6350,7 +6350,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,Ethiopia,0,0,0
 2020-02-25,Fiji,0,0,0
 2020-02-25,Finland,1,0,1
-2020-02-25,France,0,0,0
+2020-02-25,France,14,1,11
 2020-02-25,Gabon,0,0,0
 2020-02-25,Gambia,0,0,0
 2020-02-25,Georgia,0,0,0
@@ -6464,7 +6464,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,Uganda,0,0,0
 2020-02-25,Ukraine,0,0,0
 2020-02-25,United Arab Emirates,13,0,4
-2020-02-25,United Kingdom,0,0,0
+2020-02-25,United Kingdom,13,0,8
 2020-02-25,Uruguay,0,0,0
 2020-02-25,Uzbekistan,0,0,0
 2020-02-25,Venezuela,0,0,0
@@ -6482,7 +6482,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,Antigua and Barbuda,0,0,0
 2020-02-26,Argentina,0,0,0
 2020-02-26,Armenia,0,0,0
-2020-02-26,Australia,0,0,0
+2020-02-26,Australia,15,0,11
 2020-02-26,Austria,2,0,0
 2020-02-26,Azerbaijan,0,0,0
 2020-02-26,Bahamas,0,0,0
@@ -6506,11 +6506,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,Cabo Verde,0,0,0
 2020-02-26,Cambodia,1,0,1
 2020-02-26,Cameroon,0,0,0
-2020-02-26,Canada,0,0,3
+2020-02-26,Canada,11,0,3
 2020-02-26,Central African Republic,0,0,0
 2020-02-26,Chad,0,0,0
 2020-02-26,Chile,0,0,0
-2020-02-26,China,1205,1,867
+2020-02-26,China,78166,2717,30084
 2020-02-26,Colombia,0,0,0
 2020-02-26,Congo (Brazzaville),0,0,0
 2020-02-26,Congo (Kinshasa),0,0,0
@@ -6535,7 +6535,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,Ethiopia,0,0,0
 2020-02-26,Fiji,0,0,0
 2020-02-26,Finland,2,0,1
-2020-02-26,France,0,0,0
+2020-02-26,France,18,2,11
 2020-02-26,Gabon,0,0,0
 2020-02-26,Gambia,0,0,0
 2020-02-26,Georgia,1,0,0
@@ -6649,7 +6649,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,Uganda,0,0,0
 2020-02-26,Ukraine,0,0,0
 2020-02-26,United Arab Emirates,13,0,4
-2020-02-26,United Kingdom,0,0,0
+2020-02-26,United Kingdom,13,0,8
 2020-02-26,Uruguay,0,0,0
 2020-02-26,Uzbekistan,0,0,0
 2020-02-26,Venezuela,0,0,0
@@ -6667,7 +6667,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Antigua and Barbuda,0,0,0
 2020-02-27,Argentina,0,0,0
 2020-02-27,Armenia,0,0,0
-2020-02-27,Australia,0,0,0
+2020-02-27,Australia,15,0,11
 2020-02-27,Austria,3,0,0
 2020-02-27,Azerbaijan,0,0,0
 2020-02-27,Bahamas,0,0,0
@@ -6691,11 +6691,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Cabo Verde,0,0,0
 2020-02-27,Cambodia,1,0,1
 2020-02-27,Cameroon,0,0,0
-2020-02-27,Canada,0,0,6
+2020-02-27,Canada,13,0,6
 2020-02-27,Central African Republic,0,0,0
 2020-02-27,Chad,0,0,0
 2020-02-27,Chile,0,0,0
-2020-02-27,China,1205,1,932
+2020-02-27,China,78600,2746,32930
 2020-02-27,Colombia,0,0,0
 2020-02-27,Congo (Brazzaville),0,0,0
 2020-02-27,Congo (Kinshasa),0,0,0
@@ -6720,7 +6720,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Ethiopia,0,0,0
 2020-02-27,Fiji,0,0,0
 2020-02-27,Finland,2,0,1
-2020-02-27,France,0,0,0
+2020-02-27,France,38,2,11
 2020-02-27,Gabon,0,0,0
 2020-02-27,Gambia,0,0,0
 2020-02-27,Georgia,1,0,0
@@ -6779,7 +6779,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Mozambique,0,0,0
 2020-02-27,Namibia,0,0,0
 2020-02-27,Nepal,1,0,1
-2020-02-27,Netherlands,0,0,0
+2020-02-27,Netherlands,1,0,0
 2020-02-27,New Zealand,0,0,0
 2020-02-27,Nicaragua,0,0,0
 2020-02-27,Niger,0,0,0
@@ -6834,7 +6834,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Uganda,0,0,0
 2020-02-27,Ukraine,0,0,0
 2020-02-27,United Arab Emirates,13,0,4
-2020-02-27,United Kingdom,0,0,0
+2020-02-27,United Kingdom,15,0,8
 2020-02-27,Uruguay,0,0,0
 2020-02-27,Uzbekistan,0,0,0
 2020-02-27,Venezuela,0,0,0
@@ -6852,7 +6852,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Antigua and Barbuda,0,0,0
 2020-02-28,Argentina,0,0,0
 2020-02-28,Armenia,0,0,0
-2020-02-28,Australia,0,0,0
+2020-02-28,Australia,15,0,11
 2020-02-28,Austria,3,0,0
 2020-02-28,Azerbaijan,0,0,0
 2020-02-28,Bahamas,0,0,0
@@ -6876,11 +6876,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Cabo Verde,0,0,0
 2020-02-28,Cambodia,1,0,1
 2020-02-28,Cameroon,0,0,0
-2020-02-28,Canada,0,0,6
+2020-02-28,Canada,14,0,6
 2020-02-28,Central African Republic,0,0,0
 2020-02-28,Chad,0,0,0
 2020-02-28,Chile,0,0,0
-2020-02-28,China,1205,1,975
+2020-02-28,China,78928,2790,36329
 2020-02-28,Colombia,0,0,0
 2020-02-28,Congo (Brazzaville),0,0,0
 2020-02-28,Congo (Kinshasa),0,0,0
@@ -6905,7 +6905,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Ethiopia,0,0,0
 2020-02-28,Fiji,0,0,0
 2020-02-28,Finland,2,0,1
-2020-02-28,France,0,0,0
+2020-02-28,France,57,2,11
 2020-02-28,Gabon,0,0,0
 2020-02-28,Gambia,0,0,0
 2020-02-28,Georgia,1,0,0
@@ -6964,7 +6964,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Mozambique,0,0,0
 2020-02-28,Namibia,0,0,0
 2020-02-28,Nepal,1,0,1
-2020-02-28,Netherlands,0,0,0
+2020-02-28,Netherlands,1,0,0
 2020-02-28,New Zealand,1,0,0
 2020-02-28,Nicaragua,0,0,0
 2020-02-28,Niger,0,0,0
@@ -7019,7 +7019,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Uganda,0,0,0
 2020-02-28,Ukraine,0,0,0
 2020-02-28,United Arab Emirates,19,0,5
-2020-02-28,United Kingdom,0,0,0
+2020-02-28,United Kingdom,20,0,8
 2020-02-28,Uruguay,0,0,0
 2020-02-28,Uzbekistan,0,0,0
 2020-02-28,Venezuela,0,0,0
@@ -7037,7 +7037,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Antigua and Barbuda,0,0,0
 2020-02-29,Argentina,0,0,0
 2020-02-29,Armenia,0,0,0
-2020-02-29,Australia,2,0,0
+2020-02-29,Australia,25,0,11
 2020-02-29,Austria,9,0,0
 2020-02-29,Azerbaijan,0,0,0
 2020-02-29,Bahamas,0,0,0
@@ -7061,11 +7061,11 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Cabo Verde,0,0,0
 2020-02-29,Cambodia,1,0,1
 2020-02-29,Cameroon,0,0,0
-2020-02-29,Canada,0,0,6
+2020-02-29,Canada,20,0,6
 2020-02-29,Central African Republic,0,0,0
 2020-02-29,Chad,0,0,0
 2020-02-29,Chile,0,0,0
-2020-02-29,China,1205,1,1016
+2020-02-29,China,79356,2837,39320
 2020-02-29,Colombia,0,0,0
 2020-02-29,Congo (Brazzaville),0,0,0
 2020-02-29,Congo (Kinshasa),0,0,0
@@ -7090,7 +7090,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Ethiopia,0,0,0
 2020-02-29,Fiji,0,0,0
 2020-02-29,Finland,3,0,1
-2020-02-29,France,0,0,0
+2020-02-29,France,100,2,12
 2020-02-29,Gabon,0,0,0
 2020-02-29,Gambia,0,0,0
 2020-02-29,Georgia,1,0,0
@@ -7149,7 +7149,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Mozambique,0,0,0
 2020-02-29,Namibia,0,0,0
 2020-02-29,Nepal,1,0,1
-2020-02-29,Netherlands,0,0,0
+2020-02-29,Netherlands,6,0,0
 2020-02-29,New Zealand,1,0,0
 2020-02-29,Nicaragua,0,0,0
 2020-02-29,Niger,0,0,0
@@ -7204,7 +7204,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Uganda,0,0,0
 2020-02-29,Ukraine,0,0,0
 2020-02-29,United Arab Emirates,21,0,5
-2020-02-29,United Kingdom,0,0,0
+2020-02-29,United Kingdom,23,0,8
 2020-02-29,Uruguay,0,0,0
 2020-02-29,Uzbekistan,0,0,0
 2020-02-29,Venezuela,0,0,0
@@ -7222,7 +7222,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Antigua and Barbuda,0,0,0
 2020-03-01,Argentina,0,0,0
 2020-03-01,Armenia,1,0,0
-2020-03-01,Australia,2,1,0
+2020-03-01,Australia,27,1,11
 2020-03-01,Austria,14,0,0
 2020-03-01,Azerbaijan,3,0,0
 2020-03-01,Bahamas,0,0,0
@@ -7246,11 +7246,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Cabo Verde,0,0,0
 2020-03-01,Cambodia,1,0,1
 2020-03-01,Cameroon,0,0,0
-2020-03-01,Canada,0,0,6
+2020-03-01,Canada,24,0,6
 2020-03-01,Central African Republic,0,0,0
 2020-03-01,Chad,0,0,0
 2020-03-01,Chile,0,0,0
-2020-03-01,China,1205,1,1046
+2020-03-01,China,79932,2872,42162
 2020-03-01,Colombia,0,0,0
 2020-03-01,Congo (Brazzaville),0,0,0
 2020-03-01,Congo (Kinshasa),0,0,0
@@ -7275,7 +7275,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Ethiopia,0,0,0
 2020-03-01,Fiji,0,0,0
 2020-03-01,Finland,6,0,1
-2020-03-01,France,0,0,0
+2020-03-01,France,130,2,12
 2020-03-01,Gabon,0,0,0
 2020-03-01,Gambia,0,0,0
 2020-03-01,Georgia,3,0,0
@@ -7334,7 +7334,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Mozambique,0,0,0
 2020-03-01,Namibia,0,0,0
 2020-03-01,Nepal,1,0,1
-2020-03-01,Netherlands,0,0,0
+2020-03-01,Netherlands,10,0,0
 2020-03-01,New Zealand,1,0,0
 2020-03-01,Nicaragua,0,0,0
 2020-03-01,Niger,0,0,0
@@ -7389,7 +7389,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Uganda,0,0,0
 2020-03-01,Ukraine,0,0,0
 2020-03-01,United Arab Emirates,21,0,5
-2020-03-01,United Kingdom,0,0,0
+2020-03-01,United Kingdom,36,0,8
 2020-03-01,Uruguay,0,0,0
 2020-03-01,Uzbekistan,0,0,0
 2020-03-01,Venezuela,0,0,0
@@ -7407,7 +7407,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Antigua and Barbuda,0,0,0
 2020-03-02,Argentina,0,0,0
 2020-03-02,Armenia,1,0,0
-2020-03-02,Australia,2,1,0
+2020-03-02,Australia,30,1,11
 2020-03-02,Austria,18,0,0
 2020-03-02,Azerbaijan,3,0,0
 2020-03-02,Bahamas,0,0,0
@@ -7431,11 +7431,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Cabo Verde,0,0,0
 2020-03-02,Cambodia,1,0,1
 2020-03-02,Cameroon,0,0,0
-2020-03-02,Canada,0,0,6
+2020-03-02,Canada,27,0,6
 2020-03-02,Central African Republic,0,0,0
 2020-03-02,Chad,0,0,0
 2020-03-02,Chile,0,0,0
-2020-03-02,China,1206,1,1069
+2020-03-02,China,80136,2914,44854
 2020-03-02,Colombia,0,0,0
 2020-03-02,Congo (Brazzaville),0,0,0
 2020-03-02,Congo (Kinshasa),0,0,0
@@ -7460,7 +7460,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Ethiopia,0,0,0
 2020-03-02,Fiji,0,0,0
 2020-03-02,Finland,6,0,1
-2020-03-02,France,0,0,0
+2020-03-02,France,191,3,12
 2020-03-02,Gabon,0,0,0
 2020-03-02,Gambia,0,0,0
 2020-03-02,Georgia,3,0,0
@@ -7519,7 +7519,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Mozambique,0,0,0
 2020-03-02,Namibia,0,0,0
 2020-03-02,Nepal,1,0,1
-2020-03-02,Netherlands,0,0,0
+2020-03-02,Netherlands,18,0,0
 2020-03-02,New Zealand,1,0,0
 2020-03-02,Nicaragua,0,0,0
 2020-03-02,Niger,0,0,0
@@ -7574,7 +7574,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Uganda,0,0,0
 2020-03-02,Ukraine,0,0,0
 2020-03-02,United Arab Emirates,21,0,5
-2020-03-02,United Kingdom,0,0,0
+2020-03-02,United Kingdom,40,0,8
 2020-03-02,Uruguay,0,0,0
 2020-03-02,Uzbekistan,0,0,0
 2020-03-02,Venezuela,0,0,0
@@ -7592,7 +7592,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Antigua and Barbuda,0,0,0
 2020-03-03,Argentina,1,0,0
 2020-03-03,Armenia,1,0,0
-2020-03-03,Australia,2,1,0
+2020-03-03,Australia,39,1,11
 2020-03-03,Austria,21,0,0
 2020-03-03,Azerbaijan,3,0,0
 2020-03-03,Bahamas,0,0,0
@@ -7616,11 +7616,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Cabo Verde,0,0,0
 2020-03-03,Cambodia,1,0,1
 2020-03-03,Cameroon,0,0,0
-2020-03-03,Canada,0,0,6
+2020-03-03,Canada,30,0,6
 2020-03-03,Central African Republic,0,0,0
 2020-03-03,Chad,0,0,0
 2020-03-03,Chile,1,0,0
-2020-03-03,China,1213,1,1093
+2020-03-03,China,80261,2947,47450
 2020-03-03,Colombia,0,0,0
 2020-03-03,Congo (Brazzaville),0,0,0
 2020-03-03,Congo (Kinshasa),0,0,0
@@ -7645,7 +7645,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Ethiopia,0,0,0
 2020-03-03,Fiji,0,0,0
 2020-03-03,Finland,6,0,1
-2020-03-03,France,0,0,0
+2020-03-03,France,204,4,12
 2020-03-03,Gabon,0,0,0
 2020-03-03,Gambia,0,0,0
 2020-03-03,Georgia,3,0,0
@@ -7704,7 +7704,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Mozambique,0,0,0
 2020-03-03,Namibia,0,0,0
 2020-03-03,Nepal,1,0,1
-2020-03-03,Netherlands,0,0,0
+2020-03-03,Netherlands,24,0,0
 2020-03-03,New Zealand,1,0,0
 2020-03-03,Nicaragua,0,0,0
 2020-03-03,Niger,0,0,0
@@ -7759,7 +7759,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Uganda,0,0,0
 2020-03-03,Ukraine,1,0,0
 2020-03-03,United Arab Emirates,27,0,5
-2020-03-03,United Kingdom,0,0,0
+2020-03-03,United Kingdom,51,0,8
 2020-03-03,Uruguay,0,0,0
 2020-03-03,Uzbekistan,0,0,0
 2020-03-03,Venezuela,0,0,0
@@ -7777,7 +7777,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Antigua and Barbuda,0,0,0
 2020-03-04,Argentina,1,0,0
 2020-03-04,Armenia,1,0,0
-2020-03-04,Australia,2,1,0
+2020-03-04,Australia,52,2,11
 2020-03-04,Austria,29,0,0
 2020-03-04,Azerbaijan,3,0,0
 2020-03-04,Bahamas,0,0,0
@@ -7801,11 +7801,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Cabo Verde,0,0,0
 2020-03-04,Cambodia,1,0,1
 2020-03-04,Cameroon,0,0,0
-2020-03-04,Canada,0,0,6
+2020-03-04,Canada,33,0,6
 2020-03-04,Central African Republic,0,0,0
 2020-03-04,Chad,0,0,0
 2020-03-04,Chile,1,0,0
-2020-03-04,China,1213,1,1114
+2020-03-04,China,80386,2983,50001
 2020-03-04,Colombia,0,0,0
 2020-03-04,Congo (Brazzaville),0,0,0
 2020-03-04,Congo (Kinshasa),0,0,0
@@ -7815,7 +7815,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Cuba,0,0,0
 2020-03-04,Cyprus,0,0,0
 2020-03-04,Czechia,8,0,0
-2020-03-04,Denmark,10,0,0
+2020-03-04,Denmark,11,0,0
 2020-03-04,Diamond Princess,706,6,10
 2020-03-04,Djibouti,0,0,0
 2020-03-04,Dominica,0,0,0
@@ -7830,7 +7830,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Ethiopia,0,0,0
 2020-03-04,Fiji,0,0,0
 2020-03-04,Finland,6,0,1
-2020-03-04,France,0,0,0
+2020-03-04,France,288,4,12
 2020-03-04,Gabon,0,0,0
 2020-03-04,Gambia,0,0,0
 2020-03-04,Georgia,3,0,0
@@ -7889,7 +7889,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Mozambique,0,0,0
 2020-03-04,Namibia,0,0,0
 2020-03-04,Nepal,1,0,1
-2020-03-04,Netherlands,0,0,0
+2020-03-04,Netherlands,38,0,0
 2020-03-04,New Zealand,3,0,0
 2020-03-04,Nicaragua,0,0,0
 2020-03-04,Niger,0,0,0
@@ -7944,7 +7944,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Uganda,0,0,0
 2020-03-04,Ukraine,1,0,0
 2020-03-04,United Arab Emirates,27,0,5
-2020-03-04,United Kingdom,0,0,0
+2020-03-04,United Kingdom,86,0,8
 2020-03-04,Uruguay,0,0,0
 2020-03-04,Uzbekistan,0,0,0
 2020-03-04,Venezuela,0,0,0
@@ -7962,7 +7962,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Antigua and Barbuda,0,0,0
 2020-03-05,Argentina,1,0,0
 2020-03-05,Armenia,1,0,0
-2020-03-05,Australia,3,1,0
+2020-03-05,Australia,55,2,21
 2020-03-05,Austria,41,0,0
 2020-03-05,Azerbaijan,6,0,0
 2020-03-05,Bahamas,0,0,0
@@ -7986,11 +7986,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Cabo Verde,0,0,0
 2020-03-05,Cambodia,1,0,1
 2020-03-05,Cameroon,0,0,0
-2020-03-05,Canada,0,0,6
+2020-03-05,Canada,37,0,6
 2020-03-05,Central African Republic,0,0,0
 2020-03-05,Chad,0,0,0
 2020-03-05,Chile,4,0,0
-2020-03-05,China,1215,1,1124
+2020-03-05,China,80537,3015,52292
 2020-03-05,Colombia,0,0,0
 2020-03-05,Congo (Brazzaville),0,0,0
 2020-03-05,Congo (Kinshasa),0,0,0
@@ -8000,7 +8000,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Cuba,0,0,0
 2020-03-05,Cyprus,0,0,0
 2020-03-05,Czechia,12,0,0
-2020-03-05,Denmark,10,0,0
+2020-03-05,Denmark,11,0,0
 2020-03-05,Diamond Princess,706,6,10
 2020-03-05,Djibouti,0,0,0
 2020-03-05,Dominica,0,0,0
@@ -8015,7 +8015,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Ethiopia,0,0,0
 2020-03-05,Fiji,0,0,0
 2020-03-05,Finland,12,0,1
-2020-03-05,France,0,0,0
+2020-03-05,France,380,6,12
 2020-03-05,Gabon,0,0,0
 2020-03-05,Gambia,0,0,0
 2020-03-05,Georgia,4,0,0
@@ -8074,7 +8074,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Mozambique,0,0,0
 2020-03-05,Namibia,0,0,0
 2020-03-05,Nepal,1,0,1
-2020-03-05,Netherlands,0,0,0
+2020-03-05,Netherlands,82,0,0
 2020-03-05,New Zealand,3,0,0
 2020-03-05,Nicaragua,0,0,0
 2020-03-05,Niger,0,0,0
@@ -8129,7 +8129,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Uganda,0,0,0
 2020-03-05,Ukraine,1,0,0
 2020-03-05,United Arab Emirates,29,0,5
-2020-03-05,United Kingdom,0,0,0
+2020-03-05,United Kingdom,116,1,8
 2020-03-05,Uruguay,0,0,0
 2020-03-05,Uzbekistan,0,0,0
 2020-03-05,Venezuela,0,0,0
@@ -8147,7 +8147,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Antigua and Barbuda,0,0,0
 2020-03-06,Argentina,2,0,0
 2020-03-06,Armenia,1,0,0
-2020-03-06,Australia,3,1,0
+2020-03-06,Australia,60,2,21
 2020-03-06,Austria,55,0,0
 2020-03-06,Azerbaijan,6,0,0
 2020-03-06,Bahamas,0,0,0
@@ -8171,11 +8171,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Cabo Verde,0,0,0
 2020-03-06,Cambodia,1,0,1
 2020-03-06,Cameroon,1,0,0
-2020-03-06,Canada,0,0,6
+2020-03-06,Canada,49,0,6
 2020-03-06,Central African Republic,0,0,0
 2020-03-06,Chad,0,0,0
 2020-03-06,Chile,4,0,0
-2020-03-06,China,1215,1,1147
+2020-03-06,China,80690,3044,53944
 2020-03-06,Colombia,1,0,0
 2020-03-06,Congo (Brazzaville),0,0,0
 2020-03-06,Congo (Kinshasa),0,0,0
@@ -8185,7 +8185,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Cuba,0,0,0
 2020-03-06,Cyprus,0,0,0
 2020-03-06,Czechia,18,0,0
-2020-03-06,Denmark,23,0,1
+2020-03-06,Denmark,24,0,1
 2020-03-06,Diamond Princess,706,6,40
 2020-03-06,Djibouti,0,0,0
 2020-03-06,Dominica,0,0,0
@@ -8200,7 +8200,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Ethiopia,0,0,0
 2020-03-06,Fiji,0,0,0
 2020-03-06,Finland,15,0,1
-2020-03-06,France,0,0,0
+2020-03-06,France,656,9,12
 2020-03-06,Gabon,0,0,0
 2020-03-06,Gambia,0,0,0
 2020-03-06,Georgia,4,0,0
@@ -8259,7 +8259,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Mozambique,0,0,0
 2020-03-06,Namibia,0,0,0
 2020-03-06,Nepal,1,0,1
-2020-03-06,Netherlands,0,0,0
+2020-03-06,Netherlands,128,1,0
 2020-03-06,New Zealand,4,0,0
 2020-03-06,Nicaragua,0,0,0
 2020-03-06,Niger,0,0,0
@@ -8314,7 +8314,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Uganda,0,0,0
 2020-03-06,Ukraine,1,0,0
 2020-03-06,United Arab Emirates,29,0,5
-2020-03-06,United Kingdom,0,0,0
+2020-03-06,United Kingdom,164,2,8
 2020-03-06,Uruguay,0,0,0
 2020-03-06,Uzbekistan,0,0,0
 2020-03-06,Venezuela,0,0,0
@@ -8332,7 +8332,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Antigua and Barbuda,0,0,0
 2020-03-07,Argentina,8,0,0
 2020-03-07,Armenia,1,0,0
-2020-03-07,Australia,3,1,0
+2020-03-07,Australia,63,2,21
 2020-03-07,Austria,79,0,0
 2020-03-07,Azerbaijan,9,0,0
 2020-03-07,Bahamas,0,0,0
@@ -8356,11 +8356,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Cabo Verde,0,0,0
 2020-03-07,Cambodia,1,0,1
 2020-03-07,Cameroon,1,0,0
-2020-03-07,Canada,0,0,8
+2020-03-07,Canada,54,0,8
 2020-03-07,Central African Republic,0,0,0
 2020-03-07,Chad,0,0,0
 2020-03-07,Chile,4,0,0
-2020-03-07,China,1215,1,1154
+2020-03-07,China,80770,3072,55539
 2020-03-07,Colombia,1,0,0
 2020-03-07,Congo (Brazzaville),0,0,0
 2020-03-07,Congo (Kinshasa),0,0,0
@@ -8370,7 +8370,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Cuba,0,0,0
 2020-03-07,Cyprus,0,0,0
 2020-03-07,Czechia,19,0,0
-2020-03-07,Denmark,23,0,1
+2020-03-07,Denmark,24,0,1
 2020-03-07,Diamond Princess,706,6,40
 2020-03-07,Djibouti,0,0,0
 2020-03-07,Dominica,0,0,0
@@ -8385,7 +8385,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Ethiopia,0,0,0
 2020-03-07,Fiji,0,0,0
 2020-03-07,Finland,15,0,1
-2020-03-07,France,0,0,0
+2020-03-07,France,959,11,12
 2020-03-07,Gabon,0,0,0
 2020-03-07,Gambia,0,0,0
 2020-03-07,Georgia,4,0,0
@@ -8444,7 +8444,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Mozambique,0,0,0
 2020-03-07,Namibia,0,0,0
 2020-03-07,Nepal,1,0,1
-2020-03-07,Netherlands,0,0,0
+2020-03-07,Netherlands,188,1,0
 2020-03-07,New Zealand,5,0,0
 2020-03-07,Nicaragua,0,0,0
 2020-03-07,Niger,0,0,0
@@ -8499,7 +8499,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Uganda,0,0,0
 2020-03-07,Ukraine,1,0,0
 2020-03-07,United Arab Emirates,45,0,7
-2020-03-07,United Kingdom,0,0,0
+2020-03-07,United Kingdom,207,2,18
 2020-03-07,Uruguay,0,0,0
 2020-03-07,Uzbekistan,0,0,0
 2020-03-07,Venezuela,0,0,0
@@ -8517,7 +8517,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Antigua and Barbuda,0,0,0
 2020-03-08,Argentina,12,1,0
 2020-03-08,Armenia,1,0,0
-2020-03-08,Australia,3,1,0
+2020-03-08,Australia,76,3,21
 2020-03-08,Austria,104,0,0
 2020-03-08,Azerbaijan,9,0,0
 2020-03-08,Bahamas,0,0,0
@@ -8541,11 +8541,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Cabo Verde,0,0,0
 2020-03-08,Cambodia,2,0,1
 2020-03-08,Cameroon,2,0,0
-2020-03-08,Canada,0,0,8
+2020-03-08,Canada,64,0,8
 2020-03-08,Central African Republic,0,0,0
 2020-03-08,Chad,0,0,0
 2020-03-08,Chile,8,0,0
-2020-03-08,China,1215,1,1161
+2020-03-08,China,80823,3100,57388
 2020-03-08,Colombia,1,0,0
 2020-03-08,Congo (Brazzaville),0,0,0
 2020-03-08,Congo (Kinshasa),0,0,0
@@ -8555,7 +8555,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Cuba,0,0,0
 2020-03-08,Cyprus,0,0,0
 2020-03-08,Czechia,31,0,0
-2020-03-08,Denmark,35,0,1
+2020-03-08,Denmark,37,0,1
 2020-03-08,Diamond Princess,706,6,40
 2020-03-08,Djibouti,0,0,0
 2020-03-08,Dominica,0,0,0
@@ -8570,7 +8570,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Ethiopia,0,0,0
 2020-03-08,Fiji,0,0,0
 2020-03-08,Finland,23,0,1
-2020-03-08,France,0,0,0
+2020-03-08,France,1136,19,12
 2020-03-08,Gabon,0,0,0
 2020-03-08,Gambia,0,0,0
 2020-03-08,Georgia,13,0,0
@@ -8629,7 +8629,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Mozambique,0,0,0
 2020-03-08,Namibia,0,0,0
 2020-03-08,Nepal,1,0,1
-2020-03-08,Netherlands,0,0,0
+2020-03-08,Netherlands,265,3,0
 2020-03-08,New Zealand,5,0,0
 2020-03-08,Nicaragua,0,0,0
 2020-03-08,Niger,0,0,0
@@ -8684,7 +8684,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Uganda,0,0,0
 2020-03-08,Ukraine,1,0,0
 2020-03-08,United Arab Emirates,45,0,7
-2020-03-08,United Kingdom,0,0,0
+2020-03-08,United Kingdom,274,3,18
 2020-03-08,Uruguay,0,0,0
 2020-03-08,Uzbekistan,0,0,0
 2020-03-08,Venezuela,0,0,0
@@ -8702,7 +8702,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Antigua and Barbuda,0,0,0
 2020-03-09,Argentina,12,1,0
 2020-03-09,Armenia,1,0,0
-2020-03-09,Australia,4,1,0
+2020-03-09,Australia,91,3,21
 2020-03-09,Austria,131,0,2
 2020-03-09,Azerbaijan,9,0,0
 2020-03-09,Bahamas,0,0,0
@@ -8726,11 +8726,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Cabo Verde,0,0,0
 2020-03-09,Cambodia,2,0,1
 2020-03-09,Cameroon,2,0,0
-2020-03-09,Canada,0,0,8
+2020-03-09,Canada,77,1,8
 2020-03-09,Central African Republic,0,0,0
 2020-03-09,Chad,0,0,0
 2020-03-09,Chile,8,0,0
-2020-03-09,China,1215,1,1176
+2020-03-09,China,80860,3123,58804
 2020-03-09,Colombia,1,0,0
 2020-03-09,Congo (Brazzaville),0,0,0
 2020-03-09,Congo (Kinshasa),0,0,0
@@ -8740,7 +8740,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Cuba,0,0,0
 2020-03-09,Cyprus,2,0,0
 2020-03-09,Czechia,31,0,0
-2020-03-09,Denmark,90,0,1
+2020-03-09,Denmark,92,0,1
 2020-03-09,Diamond Princess,706,6,40
 2020-03-09,Djibouti,0,0,0
 2020-03-09,Dominica,0,0,0
@@ -8755,7 +8755,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Ethiopia,0,0,0
 2020-03-09,Fiji,0,0,0
 2020-03-09,Finland,30,0,1
-2020-03-09,France,0,0,0
+2020-03-09,France,1219,19,12
 2020-03-09,Gabon,0,0,0
 2020-03-09,Gambia,0,0,0
 2020-03-09,Georgia,15,0,0
@@ -8814,7 +8814,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Mozambique,0,0,0
 2020-03-09,Namibia,0,0,0
 2020-03-09,Nepal,1,0,1
-2020-03-09,Netherlands,0,0,0
+2020-03-09,Netherlands,321,3,0
 2020-03-09,New Zealand,5,0,0
 2020-03-09,Nicaragua,0,0,0
 2020-03-09,Niger,0,0,0
@@ -8869,7 +8869,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Uganda,0,0,0
 2020-03-09,Ukraine,1,0,0
 2020-03-09,United Arab Emirates,45,0,7
-2020-03-09,United Kingdom,0,0,0
+2020-03-09,United Kingdom,322,4,18
 2020-03-09,Uruguay,0,0,0
 2020-03-09,Uzbekistan,0,0,0
 2020-03-09,Venezuela,0,0,0
@@ -8887,7 +8887,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Antigua and Barbuda,0,0,0
 2020-03-10,Argentina,17,1,0
 2020-03-10,Armenia,1,0,0
-2020-03-10,Australia,6,1,0
+2020-03-10,Australia,107,3,21
 2020-03-10,Austria,182,0,4
 2020-03-10,Azerbaijan,11,0,0
 2020-03-10,Bahamas,0,0,0
@@ -8911,11 +8911,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Cabo Verde,0,0,0
 2020-03-10,Cambodia,2,0,1
 2020-03-10,Cameroon,2,0,0
-2020-03-10,Canada,0,0,8
+2020-03-10,Canada,79,1,8
 2020-03-10,Central African Republic,0,0,0
 2020-03-10,Chad,0,0,0
 2020-03-10,Chile,13,0,0
-2020-03-10,China,1215,1,1191
+2020-03-10,China,80887,3139,60181
 2020-03-10,Colombia,3,0,0
 2020-03-10,Congo (Brazzaville),0,0,0
 2020-03-10,Congo (Kinshasa),0,0,0
@@ -8925,7 +8925,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Cuba,0,0,0
 2020-03-10,Cyprus,3,0,0
 2020-03-10,Czechia,41,0,0
-2020-03-10,Denmark,262,0,1
+2020-03-10,Denmark,264,0,1
 2020-03-10,Diamond Princess,706,6,40
 2020-03-10,Djibouti,0,0,0
 2020-03-10,Dominica,0,0,0
@@ -8940,7 +8940,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Ethiopia,0,0,0
 2020-03-10,Fiji,0,0,0
 2020-03-10,Finland,40,0,1
-2020-03-10,France,0,0,0
+2020-03-10,France,1794,33,12
 2020-03-10,Gabon,0,0,0
 2020-03-10,Gambia,0,0,0
 2020-03-10,Georgia,15,0,0
@@ -8999,7 +8999,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Mozambique,0,0,0
 2020-03-10,Namibia,0,0,0
 2020-03-10,Nepal,1,0,1
-2020-03-10,Netherlands,0,0,0
+2020-03-10,Netherlands,382,4,0
 2020-03-10,New Zealand,5,0,0
 2020-03-10,Nicaragua,0,0,0
 2020-03-10,Niger,0,0,0
@@ -9054,7 +9054,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Uganda,0,0,0
 2020-03-10,Ukraine,1,0,0
 2020-03-10,United Arab Emirates,74,0,12
-2020-03-10,United Kingdom,0,0,0
+2020-03-10,United Kingdom,384,6,19
 2020-03-10,Uruguay,0,0,0
 2020-03-10,Uzbekistan,0,0,0
 2020-03-10,Venezuela,0,0,0
@@ -9072,7 +9072,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Antigua and Barbuda,0,0,0
 2020-03-11,Argentina,19,1,0
 2020-03-11,Armenia,1,0,0
-2020-03-11,Australia,9,1,0
+2020-03-11,Australia,128,3,21
 2020-03-11,Austria,246,0,4
 2020-03-11,Azerbaijan,11,0,3
 2020-03-11,Bahamas,0,0,0
@@ -9096,11 +9096,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Cabo Verde,0,0,0
 2020-03-11,Cambodia,3,0,1
 2020-03-11,Cameroon,2,0,0
-2020-03-11,Canada,0,0,8
+2020-03-11,Canada,108,1,8
 2020-03-11,Central African Republic,0,0,0
 2020-03-11,Chad,0,0,0
 2020-03-11,Chile,23,0,0
-2020-03-11,China,1215,1,1195
+2020-03-11,China,80921,3161,61644
 2020-03-11,Colombia,9,0,0
 2020-03-11,Congo (Brazzaville),0,0,0
 2020-03-11,Congo (Kinshasa),1,0,0
@@ -9110,7 +9110,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Cuba,0,0,0
 2020-03-11,Cyprus,6,0,0
 2020-03-11,Czechia,91,0,0
-2020-03-11,Denmark,442,0,1
+2020-03-11,Denmark,444,0,1
 2020-03-11,Diamond Princess,706,7,325
 2020-03-11,Djibouti,0,0,0
 2020-03-11,Dominica,0,0,0
@@ -9125,7 +9125,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Ethiopia,0,0,0
 2020-03-11,Fiji,0,0,0
 2020-03-11,Finland,59,0,1
-2020-03-11,France,0,0,0
+2020-03-11,France,2293,48,12
 2020-03-11,Gabon,0,0,0
 2020-03-11,Gambia,0,0,0
 2020-03-11,Georgia,24,0,0
@@ -9184,7 +9184,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Mozambique,0,0,0
 2020-03-11,Namibia,0,0,0
 2020-03-11,Nepal,1,0,1
-2020-03-11,Netherlands,0,0,0
+2020-03-11,Netherlands,503,5,0
 2020-03-11,New Zealand,5,0,0
 2020-03-11,Nicaragua,0,0,0
 2020-03-11,Niger,0,0,0
@@ -9239,7 +9239,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Uganda,0,0,0
 2020-03-11,Ukraine,1,0,0
 2020-03-11,United Arab Emirates,74,0,17
-2020-03-11,United Kingdom,0,0,0
+2020-03-11,United Kingdom,459,8,19
 2020-03-11,Uruguay,0,0,0
 2020-03-11,Uzbekistan,0,0,0
 2020-03-11,Venezuela,0,0,0
@@ -9257,7 +9257,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Antigua and Barbuda,0,0,0
 2020-03-12,Argentina,19,1,0
 2020-03-12,Armenia,4,0,0
-2020-03-12,Australia,9,1,0
+2020-03-12,Australia,128,3,21
 2020-03-12,Austria,302,1,4
 2020-03-12,Azerbaijan,11,0,3
 2020-03-12,Bahamas,0,0,0
@@ -9281,11 +9281,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Cabo Verde,0,0,0
 2020-03-12,Cambodia,3,0,1
 2020-03-12,Cameroon,2,0,0
-2020-03-12,Canada,0,0,8
+2020-03-12,Canada,117,1,8
 2020-03-12,Central African Republic,0,0,0
 2020-03-12,Chad,0,0,0
 2020-03-12,Chile,23,0,0
-2020-03-12,China,1215,1,1197
+2020-03-12,China,80932,3172,62901
 2020-03-12,Colombia,9,0,0
 2020-03-12,Congo (Brazzaville),0,0,0
 2020-03-12,Congo (Kinshasa),1,0,0
@@ -9295,7 +9295,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Cuba,3,0,0
 2020-03-12,Cyprus,6,0,0
 2020-03-12,Czechia,94,0,0
-2020-03-12,Denmark,615,0,1
+2020-03-12,Denmark,617,0,1
 2020-03-12,Diamond Princess,706,7,325
 2020-03-12,Djibouti,0,0,0
 2020-03-12,Dominica,0,0,0
@@ -9310,7 +9310,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Ethiopia,0,0,0
 2020-03-12,Fiji,0,0,0
 2020-03-12,Finland,59,0,1
-2020-03-12,France,0,0,0
+2020-03-12,France,2293,48,12
 2020-03-12,Gabon,0,0,0
 2020-03-12,Gambia,0,0,0
 2020-03-12,Georgia,24,0,0
@@ -9369,7 +9369,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Mozambique,0,0,0
 2020-03-12,Namibia,0,0,0
 2020-03-12,Nepal,1,0,1
-2020-03-12,Netherlands,0,0,0
+2020-03-12,Netherlands,503,5,0
 2020-03-12,New Zealand,5,0,0
 2020-03-12,Nicaragua,0,0,0
 2020-03-12,Niger,0,0,0
@@ -9424,7 +9424,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Uganda,0,0,0
 2020-03-12,Ukraine,1,0,0
 2020-03-12,United Arab Emirates,85,0,17
-2020-03-12,United Kingdom,0,0,0
+2020-03-12,United Kingdom,459,8,19
 2020-03-12,Uruguay,0,0,0
 2020-03-12,Uzbekistan,0,0,0
 2020-03-12,Venezuela,0,0,0
@@ -9442,7 +9442,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Antigua and Barbuda,1,0,0
 2020-03-13,Argentina,31,2,0
 2020-03-13,Armenia,8,0,0
-2020-03-13,Australia,14,1,0
+2020-03-13,Australia,200,3,23
 2020-03-13,Austria,504,1,6
 2020-03-13,Azerbaijan,15,1,3
 2020-03-13,Bahamas,0,0,0
@@ -9466,11 +9466,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Cabo Verde,0,0,0
 2020-03-13,Cambodia,5,0,1
 2020-03-13,Cameroon,2,0,0
-2020-03-13,Canada,0,0,8
+2020-03-13,Canada,193,1,8
 2020-03-13,Central African Republic,0,0,0
 2020-03-13,Chad,0,0,0
 2020-03-13,Chile,43,0,0
-2020-03-13,China,1215,1,1197
+2020-03-13,China,80945,3180,64196
 2020-03-13,Colombia,13,0,0
 2020-03-13,Congo (Brazzaville),0,0,0
 2020-03-13,Congo (Kinshasa),2,0,0
@@ -9480,7 +9480,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Cuba,4,0,0
 2020-03-13,Cyprus,14,0,0
 2020-03-13,Czechia,141,0,0
-2020-03-13,Denmark,801,0,1
+2020-03-13,Denmark,804,0,1
 2020-03-13,Diamond Princess,706,7,325
 2020-03-13,Djibouti,0,0,0
 2020-03-13,Dominica,0,0,0
@@ -9495,7 +9495,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Ethiopia,1,0,0
 2020-03-13,Fiji,0,0,0
 2020-03-13,Finland,155,0,1
-2020-03-13,France,0,0,0
+2020-03-13,France,3681,79,12
 2020-03-13,Gabon,0,0,0
 2020-03-13,Gambia,0,0,0
 2020-03-13,Georgia,25,0,0
@@ -9554,7 +9554,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Mozambique,0,0,0
 2020-03-13,Namibia,0,0,0
 2020-03-13,Nepal,1,0,1
-2020-03-13,Netherlands,0,0,0
+2020-03-13,Netherlands,806,10,0
 2020-03-13,New Zealand,5,0,0
 2020-03-13,Nicaragua,0,0,0
 2020-03-13,Niger,0,0,0
@@ -9609,7 +9609,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Uganda,0,0,0
 2020-03-13,Ukraine,3,1,0
 2020-03-13,United Arab Emirates,85,0,17
-2020-03-13,United Kingdom,0,0,0
+2020-03-13,United Kingdom,802,8,19
 2020-03-13,Uruguay,0,0,0
 2020-03-13,Uzbekistan,0,0,0
 2020-03-13,Venezuela,0,0,0
@@ -9627,7 +9627,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Antigua and Barbuda,1,0,0
 2020-03-14,Argentina,34,2,1
 2020-03-14,Armenia,18,0,0
-2020-03-14,Australia,17,1,0
+2020-03-14,Australia,250,3,23
 2020-03-14,Austria,655,1,6
 2020-03-14,Azerbaijan,15,1,3
 2020-03-14,Bahamas,0,0,0
@@ -9651,11 +9651,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Cabo Verde,0,0,0
 2020-03-14,Cambodia,7,0,1
 2020-03-14,Cameroon,2,0,0
-2020-03-14,Canada,0,0,8
+2020-03-14,Canada,198,1,8
 2020-03-14,Central African Republic,0,0,0
 2020-03-14,Chad,0,0,0
 2020-03-14,Chile,61,0,0
-2020-03-14,China,1227,1,1211
+2020-03-14,China,80977,3193,65660
 2020-03-14,Colombia,22,0,0
 2020-03-14,Congo (Brazzaville),0,0,0
 2020-03-14,Congo (Kinshasa),2,0,0
@@ -9665,7 +9665,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Cuba,4,0,0
 2020-03-14,Cyprus,26,0,0
 2020-03-14,Czechia,189,0,0
-2020-03-14,Denmark,827,1,1
+2020-03-14,Denmark,836,1,1
 2020-03-14,Diamond Princess,706,7,325
 2020-03-14,Djibouti,0,0,0
 2020-03-14,Dominica,0,0,0
@@ -9680,7 +9680,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Ethiopia,1,0,0
 2020-03-14,Fiji,0,0,0
 2020-03-14,Finland,225,0,1
-2020-03-14,France,0,0,0
+2020-03-14,France,4496,91,12
 2020-03-14,Gabon,1,0,0
 2020-03-14,Gambia,0,0,0
 2020-03-14,Georgia,30,0,0
@@ -9739,7 +9739,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Mozambique,0,0,0
 2020-03-14,Namibia,2,0,0
 2020-03-14,Nepal,1,0,1
-2020-03-14,Netherlands,0,0,0
+2020-03-14,Netherlands,962,12,2
 2020-03-14,New Zealand,6,0,0
 2020-03-14,Nicaragua,0,0,0
 2020-03-14,Niger,0,0,0
@@ -9794,7 +9794,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Uganda,0,0,0
 2020-03-14,Ukraine,3,1,0
 2020-03-14,United Arab Emirates,85,0,17
-2020-03-14,United Kingdom,0,0,0
+2020-03-14,United Kingdom,1144,21,19
 2020-03-14,Uruguay,4,0,0
 2020-03-14,Uzbekistan,0,0,0
 2020-03-14,Venezuela,2,0,0
@@ -9812,7 +9812,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Antigua and Barbuda,1,0,0
 2020-03-15,Argentina,45,2,1
 2020-03-15,Armenia,26,0,0
-2020-03-15,Australia,17,1,0
+2020-03-15,Australia,297,3,23
 2020-03-15,Austria,860,1,6
 2020-03-15,Azerbaijan,23,1,6
 2020-03-15,Bahamas,0,0,0
@@ -9836,11 +9836,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Cabo Verde,0,0,0
 2020-03-15,Cambodia,7,0,1
 2020-03-15,Cameroon,2,0,0
-2020-03-15,Canada,0,0,8
+2020-03-15,Canada,252,1,8
 2020-03-15,Central African Republic,1,0,0
 2020-03-15,Chad,0,0,0
 2020-03-15,Chile,74,0,0
-2020-03-15,China,1231,1,1211
+2020-03-15,China,81003,3203,67017
 2020-03-15,Colombia,34,0,0
 2020-03-15,Congo (Brazzaville),1,0,0
 2020-03-15,Congo (Kinshasa),2,0,0
@@ -9850,7 +9850,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Cuba,4,0,0
 2020-03-15,Cyprus,26,0,0
 2020-03-15,Czechia,253,0,0
-2020-03-15,Denmark,864,2,1
+2020-03-15,Denmark,875,2,1
 2020-03-15,Diamond Princess,706,7,325
 2020-03-15,Djibouti,0,0,0
 2020-03-15,Dominica,0,0,0
@@ -9865,7 +9865,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Ethiopia,1,0,0
 2020-03-15,Fiji,0,0,0
 2020-03-15,Finland,244,0,10
-2020-03-15,France,0,0,0
+2020-03-15,France,4532,91,12
 2020-03-15,Gabon,1,0,0
 2020-03-15,Gambia,0,0,0
 2020-03-15,Georgia,33,0,0
@@ -9924,7 +9924,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Mozambique,0,0,0
 2020-03-15,Namibia,2,0,0
 2020-03-15,Nepal,1,0,1
-2020-03-15,Netherlands,0,0,0
+2020-03-15,Netherlands,1138,20,2
 2020-03-15,New Zealand,8,0,0
 2020-03-15,Nicaragua,0,0,0
 2020-03-15,Niger,0,0,0
@@ -9979,7 +9979,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Uganda,0,0,0
 2020-03-15,Ukraine,3,1,0
 2020-03-15,United Arab Emirates,98,0,23
-2020-03-15,United Kingdom,0,0,0
+2020-03-15,United Kingdom,1145,21,19
 2020-03-15,Uruguay,4,0,0
 2020-03-15,Uzbekistan,1,0,0
 2020-03-15,Venezuela,10,0,0
@@ -9997,7 +9997,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Antigua and Barbuda,1,0,0
 2020-03-16,Argentina,56,2,1
 2020-03-16,Armenia,52,0,0
-2020-03-16,Australia,28,1,0
+2020-03-16,Australia,377,3,23
 2020-03-16,Austria,1018,3,6
 2020-03-16,Azerbaijan,28,1,6
 2020-03-16,Bahamas,1,0,0
@@ -10021,11 +10021,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Cabo Verde,0,0,0
 2020-03-16,Cambodia,7,0,1
 2020-03-16,Cameroon,4,0,0
-2020-03-16,Canada,0,0,9
+2020-03-16,Canada,415,4,9
 2020-03-16,Central African Republic,1,0,0
 2020-03-16,Chad,0,0,0
 2020-03-16,Chile,155,0,0
-2020-03-16,China,1231,1,1216
+2020-03-16,China,81033,3217,67910
 2020-03-16,Colombia,54,0,0
 2020-03-16,Congo (Brazzaville),1,0,0
 2020-03-16,Congo (Kinshasa),2,0,0
@@ -10035,7 +10035,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Cuba,4,0,0
 2020-03-16,Cyprus,33,0,0
 2020-03-16,Czechia,298,0,3
-2020-03-16,Denmark,914,3,1
+2020-03-16,Denmark,933,3,1
 2020-03-16,Diamond Princess,706,7,325
 2020-03-16,Djibouti,0,0,0
 2020-03-16,Dominica,0,0,0
@@ -10050,7 +10050,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Ethiopia,5,0,0
 2020-03-16,Fiji,0,0,0
 2020-03-16,Finland,277,0,10
-2020-03-16,France,0,0,0
+2020-03-16,France,6683,149,12
 2020-03-16,Gabon,1,0,0
 2020-03-16,Gambia,0,0,0
 2020-03-16,Georgia,33,0,1
@@ -10109,7 +10109,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Mozambique,0,0,0
 2020-03-16,Namibia,2,0,0
 2020-03-16,Nepal,1,0,1
-2020-03-16,Netherlands,0,0,0
+2020-03-16,Netherlands,1416,24,2
 2020-03-16,New Zealand,8,0,0
 2020-03-16,Nicaragua,0,0,0
 2020-03-16,Niger,0,0,0
@@ -10164,7 +10164,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Uganda,0,0,0
 2020-03-16,Ukraine,7,1,0
 2020-03-16,United Arab Emirates,98,0,23
-2020-03-16,United Kingdom,0,0,0
+2020-03-16,United Kingdom,1551,56,21
 2020-03-16,Uruguay,8,0,0
 2020-03-16,Uzbekistan,6,0,0
 2020-03-16,Venezuela,17,0,0
@@ -10182,7 +10182,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Antigua and Barbuda,1,0,0
 2020-03-17,Argentina,68,2,3
 2020-03-17,Armenia,78,0,1
-2020-03-17,Australia,31,1,0
+2020-03-17,Australia,452,5,23
 2020-03-17,Austria,1332,3,1
 2020-03-17,Azerbaijan,28,1,6
 2020-03-17,Bahamas,1,0,0
@@ -10206,11 +10206,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Cabo Verde,0,0,0
 2020-03-17,Cambodia,33,0,1
 2020-03-17,Cameroon,10,0,0
-2020-03-17,Canada,0,0,9
+2020-03-17,Canada,478,5,9
 2020-03-17,Central African Republic,1,0,0
 2020-03-17,Chad,0,0,0
 2020-03-17,Chile,201,0,0
-2020-03-17,China,1232,1,1216
+2020-03-17,China,81058,3230,68798
 2020-03-17,Colombia,65,0,1
 2020-03-17,Congo (Brazzaville),1,0,0
 2020-03-17,Congo (Kinshasa),3,0,0
@@ -10220,7 +10220,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Cuba,5,0,0
 2020-03-17,Cyprus,46,0,0
 2020-03-17,Czechia,396,0,3
-2020-03-17,Denmark,977,4,1
+2020-03-17,Denmark,1025,4,1
 2020-03-17,Diamond Princess,706,7,325
 2020-03-17,Djibouti,0,0,0
 2020-03-17,Dominica,0,0,0
@@ -10235,7 +10235,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Ethiopia,5,0,0
 2020-03-17,Fiji,0,0,0
 2020-03-17,Finland,321,0,10
-2020-03-17,France,0,0,0
+2020-03-17,France,7715,149,12
 2020-03-17,Gabon,1,0,0
 2020-03-17,Gambia,1,0,0
 2020-03-17,Georgia,34,0,1
@@ -10294,7 +10294,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Mozambique,0,0,0
 2020-03-17,Namibia,2,0,0
 2020-03-17,Nepal,1,0,1
-2020-03-17,Netherlands,0,0,0
+2020-03-17,Netherlands,1711,43,2
 2020-03-17,New Zealand,12,0,0
 2020-03-17,Nicaragua,0,0,0
 2020-03-17,Niger,0,0,0
@@ -10349,7 +10349,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Uganda,0,0,0
 2020-03-17,Ukraine,14,2,0
 2020-03-17,United Arab Emirates,98,0,23
-2020-03-17,United Kingdom,0,0,0
+2020-03-17,United Kingdom,1960,56,53
 2020-03-17,Uruguay,29,0,0
 2020-03-17,Uzbekistan,10,0,0
 2020-03-17,Venezuela,33,0,0
@@ -10367,7 +10367,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Antigua and Barbuda,1,0,0
 2020-03-18,Argentina,79,2,3
 2020-03-18,Armenia,84,0,1
-2020-03-18,Australia,35,1,0
+2020-03-18,Australia,568,6,23
 2020-03-18,Austria,1646,4,9
 2020-03-18,Azerbaijan,28,1,6
 2020-03-18,Bahamas,1,0,0
@@ -10391,11 +10391,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Cabo Verde,0,0,0
 2020-03-18,Cambodia,35,0,1
 2020-03-18,Cameroon,10,0,0
-2020-03-18,Canada,0,0,9
+2020-03-18,Canada,657,8,9
 2020-03-18,Central African Republic,1,0,0
 2020-03-18,Chad,0,0,0
 2020-03-18,Chile,238,0,0
-2020-03-18,China,1232,1,1216
+2020-03-18,China,81102,3241,69755
 2020-03-18,Colombia,93,0,1
 2020-03-18,Congo (Brazzaville),1,0,0
 2020-03-18,Congo (Kinshasa),4,0,0
@@ -10405,7 +10405,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Cuba,7,1,0
 2020-03-18,Cyprus,49,0,0
 2020-03-18,Czechia,464,0,3
-2020-03-18,Denmark,1057,4,1
+2020-03-18,Denmark,1116,4,1
 2020-03-18,Diamond Princess,712,7,325
 2020-03-18,Djibouti,1,0,0
 2020-03-18,Dominica,0,0,0
@@ -10420,7 +10420,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Ethiopia,6,0,0
 2020-03-18,Fiji,0,0,0
 2020-03-18,Finland,336,0,10
-2020-03-18,France,0,0,0
+2020-03-18,France,9124,149,12
 2020-03-18,Gabon,1,0,0
 2020-03-18,Gambia,1,0,0
 2020-03-18,Georgia,38,0,1
@@ -10479,7 +10479,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Mozambique,0,0,0
 2020-03-18,Namibia,2,0,0
 2020-03-18,Nepal,1,0,1
-2020-03-18,Netherlands,0,0,0
+2020-03-18,Netherlands,2058,58,2
 2020-03-18,New Zealand,20,0,0
 2020-03-18,Nicaragua,0,0,0
 2020-03-18,Niger,0,0,0
@@ -10534,7 +10534,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Uganda,0,0,0
 2020-03-18,Ukraine,14,2,0
 2020-03-18,United Arab Emirates,113,0,26
-2020-03-18,United Kingdom,0,0,0
+2020-03-18,United Kingdom,2642,72,67
 2020-03-18,Uruguay,50,0,0
 2020-03-18,Uzbekistan,15,0,0
 2020-03-18,Venezuela,36,0,0
@@ -10552,7 +10552,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Antigua and Barbuda,1,0,0
 2020-03-19,Argentina,97,3,3
 2020-03-19,Armenia,115,0,1
-2020-03-19,Australia,52,1,0
+2020-03-19,Australia,681,6,26
 2020-03-19,Austria,2013,6,9
 2020-03-19,Azerbaijan,44,1,6
 2020-03-19,Bahamas,3,0,0
@@ -10576,11 +10576,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Cabo Verde,0,0,0
 2020-03-19,Cambodia,37,0,1
 2020-03-19,Cameroon,13,0,0
-2020-03-19,Canada,0,0,9
+2020-03-19,Canada,800,9,9
 2020-03-19,Central African Republic,1,0,0
 2020-03-19,Chad,1,0,0
 2020-03-19,Chile,238,0,0
-2020-03-19,China,1233,1,1217
+2020-03-19,China,81156,3249,70535
 2020-03-19,Colombia,102,0,1
 2020-03-19,Congo (Brazzaville),3,0,0
 2020-03-19,Congo (Kinshasa),14,0,0
@@ -10590,7 +10590,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Cuba,11,1,0
 2020-03-19,Cyprus,67,0,0
 2020-03-19,Czechia,694,0,3
-2020-03-19,Denmark,1151,6,1
+2020-03-19,Denmark,1225,6,1
 2020-03-19,Diamond Princess,712,7,325
 2020-03-19,Djibouti,1,0,0
 2020-03-19,Dominica,0,0,0
@@ -10605,7 +10605,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Ethiopia,6,0,0
 2020-03-19,Fiji,1,0,0
 2020-03-19,Finland,400,0,10
-2020-03-19,France,0,0,0
+2020-03-19,France,10970,244,12
 2020-03-19,Gabon,1,0,0
 2020-03-19,Gambia,1,0,0
 2020-03-19,Georgia,40,0,1
@@ -10664,7 +10664,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Mozambique,0,0,0
 2020-03-19,Namibia,3,0,0
 2020-03-19,Nepal,1,0,1
-2020-03-19,Netherlands,0,0,0
+2020-03-19,Netherlands,2467,77,2
 2020-03-19,New Zealand,28,0,0
 2020-03-19,Nicaragua,1,0,0
 2020-03-19,Niger,0,0,0
@@ -10719,7 +10719,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Uganda,0,0,0
 2020-03-19,Ukraine,16,2,0
 2020-03-19,United Arab Emirates,140,0,31
-2020-03-19,United Kingdom,0,0,0
+2020-03-19,United Kingdom,2716,138,67
 2020-03-19,Uruguay,79,0,0
 2020-03-19,Uzbekistan,23,0,0
 2020-03-19,Venezuela,42,0,0
@@ -10737,7 +10737,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Antigua and Barbuda,1,0,0
 2020-03-20,Argentina,128,3,3
 2020-03-20,Armenia,136,0,1
-2020-03-20,Australia,64,1,0
+2020-03-20,Australia,791,7,26
 2020-03-20,Austria,2388,6,9
 2020-03-20,Azerbaijan,44,1,6
 2020-03-20,Bahamas,3,0,0
@@ -10761,11 +10761,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Cabo Verde,1,0,0
 2020-03-20,Cambodia,51,0,1
 2020-03-20,Cameroon,20,0,0
-2020-03-20,Canada,0,0,9
+2020-03-20,Canada,943,12,9
 2020-03-20,Central African Republic,3,0,0
 2020-03-20,Chad,1,0,0
 2020-03-20,Chile,434,0,6
-2020-03-20,China,1234,1,1219
+2020-03-20,China,81250,3253,71266
 2020-03-20,Colombia,128,0,1
 2020-03-20,Congo (Brazzaville),3,0,0
 2020-03-20,Congo (Kinshasa),18,0,0
@@ -10775,7 +10775,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Cuba,16,1,0
 2020-03-20,Cyprus,67,0,0
 2020-03-20,Czechia,833,0,4
-2020-03-20,Denmark,1255,9,1
+2020-03-20,Denmark,1337,9,1
 2020-03-20,Diamond Princess,712,7,325
 2020-03-20,Djibouti,1,0,0
 2020-03-20,Dominica,0,0,0
@@ -10790,7 +10790,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Ethiopia,9,0,0
 2020-03-20,Fiji,1,0,0
 2020-03-20,Finland,450,0,10
-2020-03-20,France,0,0,0
+2020-03-20,France,12758,451,12
 2020-03-20,Gabon,3,1,0
 2020-03-20,Gambia,1,0,0
 2020-03-20,Georgia,43,0,1
@@ -10849,7 +10849,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Mozambique,0,0,0
 2020-03-20,Namibia,3,0,0
 2020-03-20,Nepal,1,0,1
-2020-03-20,Netherlands,0,0,0
+2020-03-20,Netherlands,3003,107,2
 2020-03-20,New Zealand,39,0,0
 2020-03-20,Nicaragua,1,0,0
 2020-03-20,Niger,1,0,0
@@ -10904,7 +10904,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Uganda,0,0,0
 2020-03-20,Ukraine,29,3,0
 2020-03-20,United Arab Emirates,140,2,31
-2020-03-20,United Kingdom,0,0,0
+2020-03-20,United Kingdom,4014,178,67
 2020-03-20,Uruguay,94,0,0
 2020-03-20,Uzbekistan,33,0,0
 2020-03-20,Venezuela,42,0,0
@@ -10922,7 +10922,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Antigua and Barbuda,1,0,0
 2020-03-21,Argentina,158,4,3
 2020-03-21,Armenia,160,0,1
-2020-03-21,Australia,90,1,0
+2020-03-21,Australia,1071,7,26
 2020-03-21,Austria,2814,8,9
 2020-03-21,Azerbaijan,53,1,11
 2020-03-21,Bahamas,4,0,0
@@ -10946,11 +10946,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Cabo Verde,3,0,0
 2020-03-21,Cambodia,53,0,1
 2020-03-21,Cameroon,27,0,0
-2020-03-21,Canada,0,0,10
+2020-03-21,Canada,1277,19,10
 2020-03-21,Central African Republic,3,0,0
 2020-03-21,Chad,1,0,0
 2020-03-21,Chile,537,0,6
-2020-03-21,China,1236,1,1219
+2020-03-21,China,81305,3259,71857
 2020-03-21,Colombia,196,0,1
 2020-03-21,Congo (Brazzaville),3,0,0
 2020-03-21,Congo (Kinshasa),23,1,0
@@ -10960,7 +10960,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Cuba,21,1,0
 2020-03-21,Cyprus,84,0,0
 2020-03-21,Czechia,995,0,6
-2020-03-21,Denmark,1326,13,1
+2020-03-21,Denmark,1420,13,1
 2020-03-21,Diamond Princess,712,8,325
 2020-03-21,Djibouti,1,0,0
 2020-03-21,Dominica,0,0,0
@@ -10975,7 +10975,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Ethiopia,9,0,0
 2020-03-21,Fiji,1,0,0
 2020-03-21,Finland,523,1,10
-2020-03-21,France,0,0,0
+2020-03-21,France,14463,563,12
 2020-03-21,Gabon,4,1,0
 2020-03-21,Gambia,1,0,0
 2020-03-21,Georgia,49,0,1
@@ -11034,7 +11034,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Mozambique,0,0,0
 2020-03-21,Namibia,3,0,0
 2020-03-21,Nepal,1,0,1
-2020-03-21,Netherlands,0,0,0
+2020-03-21,Netherlands,3640,137,2
 2020-03-21,New Zealand,52,0,0
 2020-03-21,Nicaragua,2,0,0
 2020-03-21,Niger,1,0,0
@@ -11089,7 +11089,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Uganda,1,0,0
 2020-03-21,Ukraine,47,3,1
 2020-03-21,United Arab Emirates,153,2,38
-2020-03-21,United Kingdom,0,0,0
+2020-03-21,United Kingdom,5067,234,67
 2020-03-21,Uruguay,110,0,0
 2020-03-21,Uzbekistan,43,0,0
 2020-03-21,Venezuela,70,0,0
@@ -11107,7 +11107,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Antigua and Barbuda,1,0,0
 2020-03-22,Argentina,266,4,3
 2020-03-22,Armenia,194,0,2
-2020-03-22,Australia,120,1,0
+2020-03-22,Australia,1549,7,88
 2020-03-22,Austria,3582,16,9
 2020-03-22,Azerbaijan,65,1,10
 2020-03-22,Bahamas,4,0,0
@@ -11131,11 +11131,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Cabo Verde,3,0,0
 2020-03-22,Cambodia,84,0,1
 2020-03-22,Cameroon,40,0,0
-2020-03-22,Canada,0,0,10
+2020-03-22,Canada,1469,21,10
 2020-03-22,Central African Republic,3,0,0
 2020-03-22,Chad,1,0,0
 2020-03-22,Chile,632,1,8
-2020-03-22,China,1238,1,1219
+2020-03-22,China,81435,3274,72362
 2020-03-22,Colombia,231,2,3
 2020-03-22,Congo (Brazzaville),3,0,0
 2020-03-22,Congo (Kinshasa),30,1,0
@@ -11145,7 +11145,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Cuba,35,1,0
 2020-03-22,Cyprus,95,1,3
 2020-03-22,Czechia,1120,1,6
-2020-03-22,Denmark,1395,13,1
+2020-03-22,Denmark,1514,13,1
 2020-03-22,Diamond Princess,712,8,325
 2020-03-22,Djibouti,1,0,0
 2020-03-22,Dominica,1,0,0
@@ -11160,7 +11160,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Ethiopia,11,0,4
 2020-03-22,Fiji,2,0,0
 2020-03-22,Finland,626,1,10
-2020-03-22,France,0,0,0
+2020-03-22,France,16243,676,2206
 2020-03-22,Gabon,5,1,0
 2020-03-22,Gambia,1,0,0
 2020-03-22,Georgia,54,0,3
@@ -11219,7 +11219,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Mozambique,1,0,0
 2020-03-22,Namibia,3,0,0
 2020-03-22,Nepal,1,0,1
-2020-03-22,Netherlands,0,0,0
+2020-03-22,Netherlands,4217,180,2
 2020-03-22,New Zealand,102,0,0
 2020-03-22,Nicaragua,2,0,0
 2020-03-22,Niger,2,0,0
@@ -11274,7 +11274,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Uganda,1,0,0
 2020-03-22,Ukraine,73,3,1
 2020-03-22,United Arab Emirates,153,2,38
-2020-03-22,United Kingdom,0,0,0
+2020-03-22,United Kingdom,5745,282,67
 2020-03-22,Uruguay,158,0,0
 2020-03-22,Uzbekistan,43,0,0
 2020-03-22,Venezuela,70,0,15
@@ -11292,7 +11292,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Antigua and Barbuda,3,0,0
 2020-03-23,Argentina,301,4,3
 2020-03-23,Armenia,235,0,2
-2020-03-23,Australia,140,1,0
+2020-03-23,Australia,1682,7,88
 2020-03-23,Austria,4474,21,9
 2020-03-23,Azerbaijan,72,1,10
 2020-03-23,Bahamas,4,0,0
@@ -11316,11 +11316,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Cabo Verde,3,0,0
 2020-03-23,Cambodia,87,0,1
 2020-03-23,Cameroon,56,0,0
-2020-03-23,Canada,0,0,10
+2020-03-23,Canada,2088,25,10
 2020-03-23,Central African Republic,3,0,0
 2020-03-23,Chad,1,0,0
 2020-03-23,Chile,746,2,8
-2020-03-23,China,1238,1,1221
+2020-03-23,China,81498,3274,72814
 2020-03-23,Colombia,277,3,3
 2020-03-23,Congo (Brazzaville),4,0,0
 2020-03-23,Congo (Kinshasa),36,1,0
@@ -11330,7 +11330,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Cuba,40,1,0
 2020-03-23,Cyprus,116,1,3
 2020-03-23,Czechia,1236,1,6
-2020-03-23,Denmark,1450,24,1
+2020-03-23,Denmark,1572,24,1
 2020-03-23,Diamond Princess,712,8,325
 2020-03-23,Djibouti,3,0,0
 2020-03-23,Dominica,2,0,0
@@ -11345,7 +11345,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Ethiopia,11,0,4
 2020-03-23,Fiji,3,0,0
 2020-03-23,Finland,700,1,10
-2020-03-23,France,0,0,0
+2020-03-23,France,20123,862,2206
 2020-03-23,Gabon,5,1,0
 2020-03-23,Gambia,2,1,0
 2020-03-23,Georgia,61,0,3
@@ -11404,7 +11404,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Mozambique,1,0,0
 2020-03-23,Namibia,4,0,0
 2020-03-23,Nepal,2,0,1
-2020-03-23,Netherlands,0,0,0
+2020-03-23,Netherlands,4764,214,2
 2020-03-23,New Zealand,102,0,0
 2020-03-23,Nicaragua,2,0,0
 2020-03-23,Niger,3,0,0
@@ -11459,7 +11459,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Uganda,9,0,0
 2020-03-23,Ukraine,73,3,1
 2020-03-23,United Arab Emirates,198,2,38
-2020-03-23,United Kingdom,0,0,0
+2020-03-23,United Kingdom,6726,336,67
 2020-03-23,Uruguay,162,0,0
 2020-03-23,Uzbekistan,46,0,0
 2020-03-23,Venezuela,77,0,15
@@ -11477,7 +11477,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Antigua and Barbuda,3,0,0
 2020-03-24,Argentina,387,6,52
 2020-03-24,Armenia,249,0,14
-2020-03-24,Australia,175,1,0
+2020-03-24,Australia,2044,8,115
 2020-03-24,Austria,5283,28,9
 2020-03-24,Azerbaijan,87,1,10
 2020-03-24,Bahamas,5,0,1
@@ -11501,11 +11501,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Cabo Verde,3,1,0
 2020-03-24,Cambodia,91,0,4
 2020-03-24,Cameroon,66,0,0
-2020-03-24,Canada,0,0,110
+2020-03-24,Canada,2790,26,110
 2020-03-24,Central African Republic,3,0,0
 2020-03-24,Chad,3,0,0
 2020-03-24,Chile,922,2,17
-2020-03-24,China,1240,1,1221
+2020-03-24,China,81591,3281,73280
 2020-03-24,Colombia,378,3,6
 2020-03-24,Congo (Brazzaville),4,0,0
 2020-03-24,Congo (Kinshasa),45,2,0
@@ -11515,7 +11515,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Cuba,48,1,1
 2020-03-24,Cyprus,124,3,3
 2020-03-24,Czechia,1394,3,10
-2020-03-24,Denmark,1591,32,1
+2020-03-24,Denmark,1718,32,36
 2020-03-24,Diamond Princess,712,10,325
 2020-03-24,Djibouti,3,0,0
 2020-03-24,Dominica,2,0,0
@@ -11530,7 +11530,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Ethiopia,12,0,0
 2020-03-24,Fiji,4,0,0
 2020-03-24,Finland,792,1,10
-2020-03-24,France,0,0,0
+2020-03-24,France,22622,1102,3250
 2020-03-24,Gabon,6,1,0
 2020-03-24,Gambia,3,1,0
 2020-03-24,Georgia,70,0,9
@@ -11589,7 +11589,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Mozambique,3,0,0
 2020-03-24,Namibia,7,0,2
 2020-03-24,Nepal,2,0,1
-2020-03-24,Netherlands,0,0,0
+2020-03-24,Netherlands,5580,277,3
 2020-03-24,New Zealand,155,0,12
 2020-03-24,Nicaragua,2,0,0
 2020-03-24,Niger,3,0,0
@@ -11644,7 +11644,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Uganda,9,0,0
 2020-03-24,Ukraine,97,3,1
 2020-03-24,United Arab Emirates,248,2,45
-2020-03-24,United Kingdom,0,0,0
+2020-03-24,United Kingdom,8164,423,140
 2020-03-24,Uruguay,162,0,0
 2020-03-24,Uzbekistan,50,0,0
 2020-03-24,Venezuela,84,0,15
@@ -11662,7 +11662,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Antigua and Barbuda,3,0,0
 2020-03-25,Argentina,387,8,52
 2020-03-25,Armenia,265,0,16
-2020-03-25,Australia,175,1,1
+2020-03-25,Australia,2364,8,119
 2020-03-25,Austria,5588,30,9
 2020-03-25,Azerbaijan,93,2,10
 2020-03-25,Bahamas,5,0,1
@@ -11686,11 +11686,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Cabo Verde,4,1,0
 2020-03-25,Cambodia,96,0,10
 2020-03-25,Cameroon,75,1,2
-2020-03-25,Canada,0,0,183
+2020-03-25,Canada,3251,30,183
 2020-03-25,Central African Republic,3,0,0
 2020-03-25,Chad,3,0,0
 2020-03-25,Chile,1142,3,22
-2020-03-25,China,1241,1,1221
+2020-03-25,China,81661,3285,73773
 2020-03-25,Colombia,470,4,8
 2020-03-25,Congo (Brazzaville),4,0,0
 2020-03-25,Congo (Kinshasa),48,2,0
@@ -11700,7 +11700,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Cuba,57,1,1
 2020-03-25,Cyprus,132,3,3
 2020-03-25,Czechia,1654,6,10
-2020-03-25,Denmark,1724,34,1
+2020-03-25,Denmark,1862,34,41
 2020-03-25,Diamond Princess,712,10,587
 2020-03-25,Djibouti,11,0,0
 2020-03-25,Dominica,7,0,0
@@ -11715,7 +11715,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Ethiopia,12,0,0
 2020-03-25,Fiji,5,0,0
 2020-03-25,Finland,880,3,10
-2020-03-25,France,0,0,0
+2020-03-25,France,25600,1333,3907
 2020-03-25,Gabon,6,1,0
 2020-03-25,Gambia,3,1,0
 2020-03-25,Georgia,75,0,10
@@ -11774,7 +11774,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Mozambique,5,0,0
 2020-03-25,Namibia,7,0,2
 2020-03-25,Nepal,3,0,1
-2020-03-25,Netherlands,0,0,0
+2020-03-25,Netherlands,6438,357,4
 2020-03-25,New Zealand,205,0,22
 2020-03-25,Nicaragua,2,0,0
 2020-03-25,Niger,7,1,0
@@ -11829,7 +11829,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Uganda,14,0,0
 2020-03-25,Ukraine,145,5,1
 2020-03-25,United Arab Emirates,333,2,52
-2020-03-25,United Kingdom,0,0,0
+2020-03-25,United Kingdom,9640,466,140
 2020-03-25,Uruguay,189,0,0
 2020-03-25,Uzbekistan,60,0,0
 2020-03-25,Venezuela,91,0,15
@@ -11847,7 +11847,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Antigua and Barbuda,7,0,0
 2020-03-26,Argentina,502,9,63
 2020-03-26,Armenia,290,1,18
-2020-03-26,Australia,231,2,1
+2020-03-26,Australia,2810,13,172
 2020-03-26,Austria,6909,49,112
 2020-03-26,Azerbaijan,122,3,15
 2020-03-26,Bahamas,9,0,1
@@ -11871,11 +11871,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Cabo Verde,4,1,0
 2020-03-26,Cambodia,96,0,10
 2020-03-26,Cameroon,75,1,2
-2020-03-26,Canada,3,0,184
+2020-03-26,Canada,4042,38,184
 2020-03-26,Central African Republic,3,0,0
 2020-03-26,Chad,3,0,0
 2020-03-26,Chile,1306,4,22
-2020-03-26,China,1243,1,1222
+2020-03-26,China,81782,3291,74181
 2020-03-26,Colombia,491,6,8
 2020-03-26,Congo (Brazzaville),4,0,0
 2020-03-26,Congo (Kinshasa),51,3,0
@@ -11885,7 +11885,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Cuba,67,2,1
 2020-03-26,Cyprus,146,3,4
 2020-03-26,Czechia,1925,9,10
-2020-03-26,Denmark,1877,41,1
+2020-03-26,Denmark,2023,41,50
 2020-03-26,Diamond Princess,712,10,597
 2020-03-26,Djibouti,11,0,0
 2020-03-26,Dominica,11,0,0
@@ -11900,7 +11900,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Ethiopia,12,0,0
 2020-03-26,Fiji,5,0,0
 2020-03-26,Finland,958,5,10
-2020-03-26,France,0,0,0
+2020-03-26,France,29551,1698,4955
 2020-03-26,Gabon,7,1,0
 2020-03-26,Gambia,3,1,0
 2020-03-26,Georgia,79,0,11
@@ -11959,7 +11959,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Mozambique,7,0,0
 2020-03-26,Namibia,8,0,2
 2020-03-26,Nepal,3,0,1
-2020-03-26,Netherlands,0,0,0
+2020-03-26,Netherlands,7468,435,6
 2020-03-26,New Zealand,283,0,27
 2020-03-26,Nicaragua,2,0,0
 2020-03-26,Niger,10,1,0
@@ -12014,7 +12014,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Uganda,14,0,0
 2020-03-26,Ukraine,196,5,1
 2020-03-26,United Arab Emirates,333,2,52
-2020-03-26,United Kingdom,0,0,0
+2020-03-26,United Kingdom,11812,580,150
 2020-03-26,Uruguay,217,0,0
 2020-03-26,Uzbekistan,75,0,0
 2020-03-26,Venezuela,107,0,15
@@ -12032,7 +12032,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Antigua and Barbuda,7,0,0
 2020-03-27,Argentina,589,13,72
 2020-03-27,Armenia,329,1,28
-2020-03-27,Australia,231,2,1
+2020-03-27,Australia,3143,13,194
 2020-03-27,Austria,7657,58,225
 2020-03-27,Azerbaijan,165,3,15
 2020-03-27,Bahamas,10,0,1
@@ -12056,11 +12056,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Cabo Verde,5,1,0
 2020-03-27,Cambodia,99,0,11
 2020-03-27,Cameroon,91,2,2
-2020-03-27,Canada,3,0,256
+2020-03-27,Canada,4682,54,256
 2020-03-27,Central African Republic,3,0,0
 2020-03-27,Chad,3,0,0
 2020-03-27,Chile,1610,5,43
-2020-03-27,China,1247,1,1222
+2020-03-27,China,81897,3296,74720
 2020-03-27,Colombia,539,6,10
 2020-03-27,Congo (Brazzaville),4,0,0
 2020-03-27,Congo (Kinshasa),51,3,2
@@ -12070,7 +12070,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Cuba,80,2,4
 2020-03-27,Cyprus,162,5,15
 2020-03-27,Czechia,2279,9,11
-2020-03-27,Denmark,2046,52,1
+2020-03-27,Denmark,2200,52,57
 2020-03-27,Diamond Princess,712,10,597
 2020-03-27,Djibouti,12,0,0
 2020-03-27,Dominica,11,0,0
@@ -12085,7 +12085,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Ethiopia,16,0,0
 2020-03-27,Fiji,5,0,0
 2020-03-27,Finland,1041,7,10
-2020-03-27,France,0,0,0
+2020-03-27,France,33402,1997,5707
 2020-03-27,Gabon,7,1,0
 2020-03-27,Gambia,3,1,0
 2020-03-27,Georgia,83,0,14
@@ -12144,7 +12144,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Mozambique,7,0,0
 2020-03-27,Namibia,8,0,2
 2020-03-27,Nepal,4,0,1
-2020-03-27,Netherlands,0,0,0
+2020-03-27,Netherlands,8647,547,6
 2020-03-27,New Zealand,368,0,37
 2020-03-27,Nicaragua,2,1,0
 2020-03-27,Niger,10,1,0
@@ -12199,7 +12199,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Uganda,23,0,0
 2020-03-27,Ukraine,310,5,5
 2020-03-27,United Arab Emirates,405,2,52
-2020-03-27,United Kingdom,0,0,0
+2020-03-27,United Kingdom,14745,761,151
 2020-03-27,Uruguay,238,0,0
 2020-03-27,Uzbekistan,88,1,5
 2020-03-27,Venezuela,107,1,31
@@ -12217,7 +12217,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Antigua and Barbuda,7,0,0
 2020-03-28,Argentina,690,18,72
 2020-03-28,Armenia,407,1,30
-2020-03-28,Australia,278,2,28
+2020-03-28,Australia,3640,14,244
 2020-03-28,Austria,8271,68,225
 2020-03-28,Azerbaijan,182,4,15
 2020-03-28,Bahamas,10,0,1
@@ -12241,11 +12241,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Cabo Verde,5,1,0
 2020-03-28,Cambodia,99,0,13
 2020-03-28,Cameroon,91,2,2
-2020-03-28,Canada,4,0,466
+2020-03-28,Canada,5576,61,466
 2020-03-28,Central African Republic,3,0,0
 2020-03-28,Chad,3,0,0
 2020-03-28,Chile,1909,6,61
-2020-03-28,China,1251,1,1225
+2020-03-28,China,81999,3299,75100
 2020-03-28,Colombia,608,6,10
 2020-03-28,Congo (Brazzaville),4,0,0
 2020-03-28,Congo (Kinshasa),65,6,2
@@ -12255,7 +12255,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Cuba,119,3,4
 2020-03-28,Cyprus,179,5,15
 2020-03-28,Czechia,2631,11,11
-2020-03-28,Denmark,2201,65,1
+2020-03-28,Denmark,2366,65,57
 2020-03-28,Diamond Princess,712,10,597
 2020-03-28,Djibouti,14,0,0
 2020-03-28,Dominica,11,0,0
@@ -12270,7 +12270,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Ethiopia,16,0,1
 2020-03-28,Fiji,5,0,0
 2020-03-28,Finland,1167,9,10
-2020-03-28,France,0,0,0
+2020-03-28,France,38105,2317,5724
 2020-03-28,Gabon,7,1,0
 2020-03-28,Gambia,3,1,0
 2020-03-28,Georgia,90,0,14
@@ -12329,7 +12329,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Mozambique,8,0,0
 2020-03-28,Namibia,8,0,2
 2020-03-28,Nepal,5,0,1
-2020-03-28,Netherlands,0,0,0
+2020-03-28,Netherlands,9819,640,6
 2020-03-28,New Zealand,451,0,50
 2020-03-28,Nicaragua,4,1,0
 2020-03-28,Niger,10,1,0
@@ -12384,7 +12384,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Uganda,30,0,0
 2020-03-28,Ukraine,356,9,5
 2020-03-28,United Arab Emirates,468,2,52
-2020-03-28,United Kingdom,0,0,0
+2020-03-28,United Kingdom,17312,1021,151
 2020-03-28,Uruguay,274,0,0
 2020-03-28,Uzbekistan,104,2,5
 2020-03-28,Venezuela,119,2,39
@@ -12402,7 +12402,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Antigua and Barbuda,7,0,0
 2020-03-29,Argentina,745,19,72
 2020-03-29,Armenia,424,3,30
-2020-03-29,Australia,311,2,28
+2020-03-29,Australia,3984,16,244
 2020-03-29,Austria,8788,86,479
 2020-03-29,Azerbaijan,209,4,15
 2020-03-29,Bahamas,11,0,1
@@ -12426,11 +12426,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Cabo Verde,6,1,0
 2020-03-29,Cambodia,103,0,21
 2020-03-29,Cameroon,139,6,5
-2020-03-29,Canada,4,0,466
+2020-03-29,Canada,6280,64,466
 2020-03-29,Central African Republic,3,0,0
 2020-03-29,Chad,3,0,0
 2020-03-29,Chile,2139,7,75
-2020-03-29,China,1254,1,1225
+2020-03-29,China,82122,3304,75582
 2020-03-29,Colombia,702,10,10
 2020-03-29,Congo (Brazzaville),19,0,0
 2020-03-29,Congo (Kinshasa),65,6,2
@@ -12440,7 +12440,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Cuba,139,3,4
 2020-03-29,Cyprus,214,5,15
 2020-03-29,Czechia,2817,16,11
-2020-03-29,Denmark,2395,72,1
+2020-03-29,Denmark,2564,72,73
 2020-03-29,Diamond Princess,712,10,603
 2020-03-29,Djibouti,18,0,0
 2020-03-29,Dominica,11,0,0
@@ -12455,7 +12455,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Ethiopia,21,0,1
 2020-03-29,Fiji,5,0,0
 2020-03-29,Finland,1240,11,10
-2020-03-29,France,0,0,0
+2020-03-29,France,40708,2611,7226
 2020-03-29,Gabon,7,1,0
 2020-03-29,Gambia,4,1,0
 2020-03-29,Georgia,91,0,18
@@ -12514,7 +12514,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Mozambique,8,0,0
 2020-03-29,Namibia,11,0,2
 2020-03-29,Nepal,5,0,1
-2020-03-29,Netherlands,0,0,0
+2020-03-29,Netherlands,10930,772,253
 2020-03-29,New Zealand,514,1,56
 2020-03-29,Nicaragua,4,1,0
 2020-03-29,Niger,18,1,0
@@ -12569,7 +12569,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Uganda,33,0,0
 2020-03-29,Ukraine,475,10,6
 2020-03-29,United Arab Emirates,570,3,58
-2020-03-29,United Kingdom,0,0,0
+2020-03-29,United Kingdom,19780,1231,151
 2020-03-29,Uruguay,304,1,0
 2020-03-29,Uzbekistan,144,2,7
 2020-03-29,Venezuela,119,2,39
@@ -12587,7 +12587,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Antigua and Barbuda,7,0,0
 2020-03-30,Argentina,820,23,228
 2020-03-30,Armenia,482,3,30
-2020-03-30,Australia,355,2,41
+2020-03-30,Australia,4361,17,257
 2020-03-30,Austria,9618,108,636
 2020-03-30,Azerbaijan,273,4,26
 2020-03-30,Bahamas,14,0,1
@@ -12611,11 +12611,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Cabo Verde,6,1,0
 2020-03-30,Cambodia,107,0,21
 2020-03-30,Cameroon,139,6,5
-2020-03-30,Canada,4,0,466
+2020-03-30,Canada,7398,80,466
 2020-03-30,Central African Republic,3,0,0
 2020-03-30,Chad,5,0,0
 2020-03-30,Chile,2449,8,156
-2020-03-30,China,1255,1,1225
+2020-03-30,China,82198,3308,75923
 2020-03-30,Colombia,798,12,15
 2020-03-30,Congo (Brazzaville),19,0,0
 2020-03-30,Congo (Kinshasa),81,8,2
@@ -12625,7 +12625,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Cuba,170,4,4
 2020-03-30,Cyprus,230,7,22
 2020-03-30,Czechia,3001,23,25
-2020-03-30,Denmark,2577,77,1
+2020-03-30,Denmark,2755,77,73
 2020-03-30,Diamond Princess,712,10,603
 2020-03-30,Djibouti,18,0,0
 2020-03-30,Dominica,11,0,0
@@ -12640,7 +12640,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Ethiopia,23,0,4
 2020-03-30,Fiji,5,0,0
 2020-03-30,Finland,1352,13,10
-2020-03-30,France,0,0,0
+2020-03-30,France,45170,3030,7964
 2020-03-30,Gabon,7,1,0
 2020-03-30,Gambia,4,1,0
 2020-03-30,Georgia,103,0,20
@@ -12699,7 +12699,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Mozambique,8,0,0
 2020-03-30,Namibia,11,0,2
 2020-03-30,Nepal,5,0,1
-2020-03-30,Netherlands,0,0,0
+2020-03-30,Netherlands,11817,865,253
 2020-03-30,New Zealand,589,1,63
 2020-03-30,Nicaragua,4,1,0
 2020-03-30,Niger,27,3,0
@@ -12754,7 +12754,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Uganda,33,0,0
 2020-03-30,Ukraine,548,13,8
 2020-03-30,United Arab Emirates,611,5,61
-2020-03-30,United Kingdom,0,0,0
+2020-03-30,United Kingdom,22453,1411,171
 2020-03-30,Uruguay,310,1,0
 2020-03-30,Uzbekistan,149,2,7
 2020-03-30,Venezuela,135,3,39
@@ -12772,7 +12772,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Antigua and Barbuda,7,0,0
 2020-03-31,Argentina,1054,27,240
 2020-03-31,Armenia,532,3,30
-2020-03-31,Australia,364,2,41
+2020-03-31,Australia,4559,18,358
 2020-03-31,Austria,10180,128,1095
 2020-03-31,Azerbaijan,298,5,26
 2020-03-31,Bahamas,14,0,1
@@ -12796,11 +12796,11 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Cabo Verde,6,1,0
 2020-03-31,Cambodia,109,0,23
 2020-03-31,Cameroon,193,6,5
-2020-03-31,Canada,5,0,1592
+2020-03-31,Canada,8527,101,1592
 2020-03-31,Central African Republic,3,0,0
 2020-03-31,Chad,7,0,0
 2020-03-31,Chile,2738,12,156
-2020-03-31,China,1257,1,1226
+2020-03-31,China,82279,3309,76206
 2020-03-31,Colombia,906,16,31
 2020-03-31,Congo (Brazzaville),19,0,0
 2020-03-31,Congo (Kinshasa),98,8,2
@@ -12810,7 +12810,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Cuba,186,6,8
 2020-03-31,Cyprus,262,8,23
 2020-03-31,Czechia,3308,31,45
-2020-03-31,Denmark,2860,90,1
+2020-03-31,Denmark,3039,90,77
 2020-03-31,Diamond Princess,712,10,603
 2020-03-31,Djibouti,30,0,0
 2020-03-31,Dominica,12,0,0
@@ -12825,7 +12825,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Ethiopia,26,0,2
 2020-03-31,Fiji,5,0,0
 2020-03-31,Finland,1418,17,10
-2020-03-31,France,0,0,0
+2020-03-31,France,52827,3532,9513
 2020-03-31,Gabon,16,1,0
 2020-03-31,Gambia,4,1,0
 2020-03-31,Georgia,110,0,21
@@ -12884,7 +12884,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Mozambique,8,0,0
 2020-03-31,Namibia,11,0,2
 2020-03-31,Nepal,5,0,1
-2020-03-31,Netherlands,0,0,0
+2020-03-31,Netherlands,12667,1040,253
 2020-03-31,New Zealand,647,1,74
 2020-03-31,Nicaragua,5,1,0
 2020-03-31,Niger,27,3,0
@@ -12939,7 +12939,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Uganda,44,0,0
 2020-03-31,Ukraine,645,17,10
 2020-03-31,United Arab Emirates,664,6,61
-2020-03-31,United Kingdom,0,0,0
+2020-03-31,United Kingdom,25481,1793,179
 2020-03-31,Uruguay,338,1,41
 2020-03-31,Uzbekistan,172,2,7
 2020-03-31,Venezuela,135,3,39
@@ -12957,7 +12957,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Antigua and Barbuda,7,0,0
 2020-04-01,Argentina,1054,28,248
 2020-04-01,Armenia,571,4,31
-2020-04-01,Australia,392,2,48
+2020-04-01,Australia,4862,20,422
 2020-04-01,Austria,10711,146,1436
 2020-04-01,Azerbaijan,359,5,26
 2020-04-01,Bahamas,21,1,1
@@ -12981,11 +12981,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Cabo Verde,6,1,0
 2020-04-01,Cambodia,109,0,25
 2020-04-01,Cameroon,233,6,10
-2020-04-01,Canada,5,0,1324
+2020-04-01,Canada,9560,109,1324
 2020-04-01,Central African Republic,3,0,0
 2020-04-01,Chad,7,0,0
 2020-04-01,Chile,3031,16,234
-2020-04-01,China,1257,1,1226
+2020-04-01,China,82361,3316,76405
 2020-04-01,Colombia,1065,17,39
 2020-04-01,Congo (Brazzaville),19,0,0
 2020-04-01,Congo (Kinshasa),109,9,3
@@ -12995,7 +12995,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Cuba,212,6,12
 2020-04-01,Cyprus,320,9,28
 2020-04-01,Czechia,3508,39,61
-2020-04-01,Denmark,3107,104,894
+2020-04-01,Denmark,3290,104,971
 2020-04-01,Diamond Princess,712,11,603
 2020-04-01,Djibouti,33,0,0
 2020-04-01,Dominica,12,0,0
@@ -13010,7 +13010,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Ethiopia,29,0,2
 2020-04-01,Fiji,5,0,0
 2020-04-01,Finland,1446,17,10
-2020-04-01,France,0,0,0
+2020-04-01,France,57749,4043,11053
 2020-04-01,Gabon,18,1,0
 2020-04-01,Gambia,4,1,2
 2020-04-01,Georgia,117,0,23
@@ -13069,7 +13069,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Mozambique,10,0,0
 2020-04-01,Namibia,14,0,2
 2020-04-01,Nepal,5,0,1
-2020-04-01,Netherlands,0,0,0
+2020-04-01,Netherlands,13696,1175,260
 2020-04-01,New Zealand,708,1,83
 2020-04-01,Nicaragua,5,1,0
 2020-04-01,Niger,74,5,0
@@ -13124,7 +13124,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Uganda,44,0,0
 2020-04-01,Ukraine,794,20,13
 2020-04-01,United Arab Emirates,814,8,61
-2020-04-01,United Kingdom,0,0,0
+2020-04-01,United Kingdom,29865,2357,179
 2020-04-01,Uruguay,338,2,41
 2020-04-01,Uzbekistan,181,2,12
 2020-04-01,Venezuela,143,3,41
@@ -13142,7 +13142,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Antigua and Barbuda,9,0,0
 2020-04-02,Argentina,1133,36,256
 2020-04-02,Armenia,663,7,33
-2020-04-02,Australia,400,2,64
+2020-04-02,Australia,5116,24,520
 2020-04-02,Austria,11129,158,1749
 2020-04-02,Azerbaijan,400,5,26
 2020-04-02,Bahamas,24,1,1
@@ -13166,11 +13166,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Cabo Verde,6,1,0
 2020-04-02,Cambodia,110,0,34
 2020-04-02,Cameroon,306,7,10
-2020-04-02,Canada,6,0,1735
+2020-04-02,Canada,11284,139,1735
 2020-04-02,Central African Republic,3,0,0
 2020-04-02,Chad,8,0,0
 2020-04-02,Chile,3404,18,335
-2020-04-02,China,1258,1,1228
+2020-04-02,China,82432,3322,76565
 2020-04-02,Colombia,1161,19,55
 2020-04-02,Congo (Brazzaville),22,2,2
 2020-04-02,Congo (Kinshasa),134,13,3
@@ -13180,7 +13180,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Cuba,233,6,13
 2020-04-02,Cyprus,356,10,28
 2020-04-02,Czechia,3858,44,67
-2020-04-02,Denmark,3386,123,1089
+2020-04-02,Denmark,3573,123,1172
 2020-04-02,Diamond Princess,712,11,619
 2020-04-02,Djibouti,40,0,0
 2020-04-02,Dominica,12,0,0
@@ -13195,7 +13195,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Ethiopia,29,0,3
 2020-04-02,Fiji,7,0,0
 2020-04-02,Finland,1518,19,300
-2020-04-02,France,0,0,0
+2020-04-02,France,59929,5398,12548
 2020-04-02,Gabon,21,1,0
 2020-04-02,Gambia,4,1,2
 2020-04-02,Georgia,134,0,26
@@ -13254,7 +13254,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Mozambique,10,0,0
 2020-04-02,Namibia,14,0,3
 2020-04-02,Nepal,6,0,1
-2020-04-02,Netherlands,2,0,0
+2020-04-02,Netherlands,14788,1341,260
 2020-04-02,New Zealand,797,1,92
 2020-04-02,Nicaragua,5,1,0
 2020-04-02,Niger,98,5,0
@@ -13309,7 +13309,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Uganda,45,0,0
 2020-04-02,Ukraine,897,22,19
 2020-04-02,United Arab Emirates,1024,8,96
-2020-04-02,United Kingdom,0,0,0
+2020-04-02,United Kingdom,34173,2926,192
 2020-04-02,Uruguay,350,4,62
 2020-04-02,Uzbekistan,205,2,25
 2020-04-02,Venezuela,146,5,43
@@ -13327,7 +13327,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Antigua and Barbuda,15,0,0
 2020-04-03,Argentina,1265,39,266
 2020-04-03,Armenia,736,7,43
-2020-04-03,Australia,400,2,92
+2020-04-03,Australia,5330,28,649
 2020-04-03,Austria,11524,168,2022
 2020-04-03,Azerbaijan,443,5,32
 2020-04-03,Bahamas,24,1,1
@@ -13351,11 +13351,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Cabo Verde,6,1,0
 2020-04-03,Cambodia,114,0,35
 2020-04-03,Cameroon,509,8,17
-2020-04-03,Canada,6,0,2175
+2020-04-03,Canada,12437,179,2175
 2020-04-03,Central African Republic,8,0,0
 2020-04-03,Chad,8,0,0
 2020-04-03,Chile,3737,22,427
-2020-04-03,China,1260,1,1228
+2020-04-03,China,82511,3326,76760
 2020-04-03,Colombia,1267,25,55
 2020-04-03,Congo (Brazzaville),22,2,2
 2020-04-03,Congo (Kinshasa),134,13,3
@@ -13365,7 +13365,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Cuba,269,6,15
 2020-04-03,Cyprus,396,11,28
 2020-04-03,Czechia,4091,53,72
-2020-04-03,Denmark,3757,139,1193
+2020-04-03,Denmark,3946,139,1287
 2020-04-03,Diamond Princess,712,11,619
 2020-04-03,Djibouti,49,0,8
 2020-04-03,Dominica,12,0,0
@@ -13380,7 +13380,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Ethiopia,35,0,3
 2020-04-03,Fiji,7,0,0
 2020-04-03,Finland,1615,20,300
-2020-04-03,France,0,0,0
+2020-04-03,France,65202,6520,14135
 2020-04-03,Gabon,21,1,1
 2020-04-03,Gambia,4,1,2
 2020-04-03,Georgia,155,0,28
@@ -13439,7 +13439,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Mozambique,10,0,0
 2020-04-03,Namibia,14,0,3
 2020-04-03,Nepal,6,0,1
-2020-04-03,Netherlands,2,0,0
+2020-04-03,Netherlands,15821,1490,260
 2020-04-03,New Zealand,868,1,103
 2020-04-03,Nicaragua,5,1,0
 2020-04-03,Niger,120,5,0
@@ -13494,7 +13494,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Uganda,48,0,0
 2020-04-03,Ukraine,1072,27,22
 2020-04-03,United Arab Emirates,1264,9,108
-2020-04-03,United Kingdom,0,0,0
+2020-04-03,United Kingdom,38689,3611,208
 2020-04-03,Uruguay,369,4,68
 2020-04-03,Uzbekistan,227,2,25
 2020-04-03,Venezuela,153,7,52
@@ -13512,7 +13512,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Antigua and Barbuda,15,0,0
 2020-04-04,Argentina,1451,43,279
 2020-04-04,Armenia,770,7,43
-2020-04-04,Australia,436,2,92
+2020-04-04,Australia,5550,30,701
 2020-04-04,Austria,11781,186,2507
 2020-04-04,Azerbaijan,521,5,32
 2020-04-04,Bahamas,28,4,0
@@ -13536,11 +13536,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Cabo Verde,7,1,0
 2020-04-04,Cambodia,114,0,50
 2020-04-04,Cameroon,555,9,17
-2020-04-04,Canada,6,0,2577
+2020-04-04,Canada,12978,218,2577
 2020-04-04,Central African Republic,8,0,0
 2020-04-04,Chad,9,0,0
 2020-04-04,Chile,4161,27,528
-2020-04-04,China,1262,1,1229
+2020-04-04,China,82543,3330,76946
 2020-04-04,Colombia,1406,32,85
 2020-04-04,Congo (Brazzaville),22,2,2
 2020-04-04,Congo (Kinshasa),154,18,3
@@ -13550,7 +13550,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Cuba,288,6,15
 2020-04-04,Cyprus,426,11,33
 2020-04-04,Czechia,4472,59,78
-2020-04-04,Denmark,4077,161,1283
+2020-04-04,Denmark,4269,161,1379
 2020-04-04,Diamond Princess,712,11,619
 2020-04-04,Djibouti,50,0,8
 2020-04-04,Dominica,14,0,0
@@ -13565,7 +13565,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Ethiopia,38,0,4
 2020-04-04,Fiji,12,0,0
 2020-04-04,Finland,1882,25,300
-2020-04-04,France,0,0,0
+2020-04-04,France,90848,7574,15572
 2020-04-04,Gabon,21,1,1
 2020-04-04,Gambia,4,1,2
 2020-04-04,Georgia,162,1,36
@@ -13624,7 +13624,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Mozambique,10,0,1
 2020-04-04,Namibia,14,0,3
 2020-04-04,Nepal,9,0,1
-2020-04-04,Netherlands,2,0,0
+2020-04-04,Netherlands,16727,1656,262
 2020-04-04,New Zealand,950,1,127
 2020-04-04,Nicaragua,5,1,0
 2020-04-04,Niger,144,8,0
@@ -13679,7 +13679,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Uganda,48,0,0
 2020-04-04,Ukraine,1225,32,25
 2020-04-04,United Arab Emirates,1505,10,125
-2020-04-04,United Kingdom,1,0,0
+2020-04-04,United Kingdom,42477,4320,215
 2020-04-04,Uruguay,400,5,93
 2020-04-04,Uzbekistan,266,2,25
 2020-04-04,Venezuela,155,7,52
@@ -13697,7 +13697,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Antigua and Barbuda,15,0,0
 2020-04-05,Argentina,1451,44,280
 2020-04-05,Armenia,822,7,57
-2020-04-05,Australia,453,3,92
+2020-04-05,Australia,5687,35,757
 2020-04-05,Austria,12051,204,2998
 2020-04-05,Azerbaijan,584,7,32
 2020-04-05,Bahamas,28,4,0
@@ -13721,11 +13721,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Cabo Verde,7,1,0
 2020-04-05,Cambodia,114,0,50
 2020-04-05,Cameroon,650,9,17
-2020-04-05,Canada,6,0,3012
+2020-04-05,Canada,15756,259,3012
 2020-04-05,Central African Republic,8,0,0
 2020-04-05,Chad,9,0,0
 2020-04-05,Chile,4471,34,618
-2020-04-05,China,1263,1,1230
+2020-04-05,China,82602,3333,77207
 2020-04-05,Colombia,1485,35,88
 2020-04-05,Congo (Brazzaville),45,5,2
 2020-04-05,Congo (Kinshasa),154,18,3
@@ -13735,7 +13735,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Cuba,320,8,15
 2020-04-05,Cyprus,446,9,37
 2020-04-05,Czechia,4587,67,96
-2020-04-05,Denmark,4369,179,1327
+2020-04-05,Denmark,4561,179,1429
 2020-04-05,Diamond Princess,712,11,619
 2020-04-05,Djibouti,59,0,9
 2020-04-05,Dominica,14,0,0
@@ -13750,7 +13750,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Ethiopia,43,2,4
 2020-04-05,Fiji,12,0,0
 2020-04-05,Finland,1927,28,300
-2020-04-05,France,1,0,0
+2020-04-05,France,93773,8093,16349
 2020-04-05,Gabon,21,1,1
 2020-04-05,Gambia,4,1,2
 2020-04-05,Georgia,174,2,36
@@ -13809,7 +13809,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Mozambique,10,0,1
 2020-04-05,Namibia,16,0,3
 2020-04-05,Nepal,9,0,1
-2020-04-05,Netherlands,2,0,0
+2020-04-05,Netherlands,17953,1771,257
 2020-04-05,New Zealand,1039,1,156
 2020-04-05,Nicaragua,6,1,0
 2020-04-05,Niger,184,10,13
@@ -13864,7 +13864,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Uganda,52,0,0
 2020-04-05,Ukraine,1308,37,28
 2020-04-05,United Arab Emirates,1799,10,144
-2020-04-05,United Kingdom,2,0,0
+2020-04-05,United Kingdom,48436,4943,229
 2020-04-05,Uruguay,400,5,93
 2020-04-05,Uzbekistan,342,2,30
 2020-04-05,Venezuela,159,7,52
@@ -13882,7 +13882,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Antigua and Barbuda,15,0,0
 2020-04-06,Argentina,1554,48,325
 2020-04-06,Armenia,833,8,62
-2020-04-06,Australia,460,4,162
+2020-04-06,Australia,5797,40,1080
 2020-04-06,Austria,12297,220,3463
 2020-04-06,Azerbaijan,641,7,44
 2020-04-06,Bahamas,29,5,4
@@ -13906,11 +13906,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Cabo Verde,7,1,1
 2020-04-06,Cambodia,114,0,53
 2020-04-06,Cameroon,658,9,17
-2020-04-06,Canada,6,0,3256
+2020-04-06,Canada,16563,339,3256
 2020-04-06,Central African Republic,8,0,0
 2020-04-06,Chad,9,0,0
 2020-04-06,Chile,4815,37,728
-2020-04-06,China,1264,1,1230
+2020-04-06,China,82665,3335,77310
 2020-04-06,Colombia,1579,46,88
 2020-04-06,Congo (Brazzaville),45,5,2
 2020-04-06,Congo (Kinshasa),161,18,5
@@ -13920,7 +13920,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Cuba,350,9,18
 2020-04-06,Cyprus,465,9,45
 2020-04-06,Czechia,4822,78,121
-2020-04-06,Denmark,4681,187,1378
+2020-04-06,Denmark,4875,187,1489
 2020-04-06,Diamond Princess,712,11,619
 2020-04-06,Djibouti,90,0,9
 2020-04-06,Dominica,15,0,1
@@ -13935,7 +13935,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Ethiopia,44,2,4
 2020-04-06,Fiji,14,0,0
 2020-04-06,Finland,2176,27,300
-2020-04-06,France,1,0,0
+2020-04-06,France,98963,8926,17428
 2020-04-06,Gabon,24,1,1
 2020-04-06,Gambia,4,1,2
 2020-04-06,Georgia,188,2,39
@@ -13994,7 +13994,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Mozambique,10,0,1
 2020-04-06,Namibia,16,0,3
 2020-04-06,Nepal,9,0,1
-2020-04-06,Netherlands,2,0,0
+2020-04-06,Netherlands,18926,1874,258
 2020-04-06,New Zealand,1106,1,176
 2020-04-06,Nicaragua,6,1,0
 2020-04-06,Niger,253,10,26
@@ -14049,7 +14049,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Uganda,52,0,0
 2020-04-06,Ukraine,1319,38,28
 2020-04-06,United Arab Emirates,2076,11,167
-2020-04-06,United Kingdom,2,0,0
+2020-04-06,United Kingdom,52279,5385,287
 2020-04-06,Uruguay,406,6,104
 2020-04-06,Uzbekistan,457,2,30
 2020-04-06,Venezuela,165,7,65
@@ -14067,7 +14067,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Antigua and Barbuda,19,1,0
 2020-04-07,Argentina,1628,56,338
 2020-04-07,Armenia,853,8,87
-2020-04-07,Australia,460,4,162
+2020-04-07,Australia,5895,45,1080
 2020-04-07,Austria,12639,243,4046
 2020-04-07,Azerbaijan,717,8,44
 2020-04-07,Bahamas,33,6,5
@@ -14091,11 +14091,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Cabo Verde,7,1,1
 2020-04-07,Cambodia,115,0,58
 2020-04-07,Cameroon,658,9,43
-2020-04-07,Canada,7,0,3791
+2020-04-07,Canada,17872,375,3791
 2020-04-07,Central African Republic,8,0,0
 2020-04-07,Chad,10,0,2
 2020-04-07,Chile,5116,43,898
-2020-04-07,China,1265,1,1230
+2020-04-07,China,82718,3335,77410
 2020-04-07,Colombia,1780,50,100
 2020-04-07,Congo (Brazzaville),45,5,2
 2020-04-07,Congo (Kinshasa),180,18,9
@@ -14105,7 +14105,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Cuba,396,11,27
 2020-04-07,Cyprus,494,9,47
 2020-04-07,Czechia,5017,88,172
-2020-04-07,Denmark,5071,203,1491
+2020-04-07,Denmark,5266,203,1621
 2020-04-07,Diamond Princess,712,11,619
 2020-04-07,Djibouti,90,0,9
 2020-04-07,Dominica,15,0,1
@@ -14120,7 +14120,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Ethiopia,52,2,4
 2020-04-07,Fiji,15,0,0
 2020-04-07,Finland,2308,34,300
-2020-04-07,France,1,0,0
+2020-04-07,France,110065,10343,19523
 2020-04-07,Gabon,30,1,1
 2020-04-07,Gambia,4,1,2
 2020-04-07,Georgia,196,3,46
@@ -14179,7 +14179,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Mozambique,10,0,1
 2020-04-07,Namibia,16,0,3
 2020-04-07,Nepal,9,0,1
-2020-04-07,Netherlands,2,0,0
+2020-04-07,Netherlands,19709,2108,272
 2020-04-07,New Zealand,1160,1,241
 2020-04-07,Nicaragua,6,1,0
 2020-04-07,Niger,278,11,26
@@ -14234,7 +14234,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Uganda,52,0,0
 2020-04-07,Ukraine,1462,45,28
 2020-04-07,United Arab Emirates,2359,12,186
-2020-04-07,United Kingdom,2,0,0
+2020-04-07,United Kingdom,55949,6171,325
 2020-04-07,Uruguay,424,7,150
 2020-04-07,Uzbekistan,520,2,30
 2020-04-07,Venezuela,165,7,65
@@ -14252,7 +14252,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Antigua and Barbuda,19,2,0
 2020-04-08,Argentina,1715,63,358
 2020-04-08,Armenia,881,9,114
-2020-04-08,Australia,481,6,162
+2020-04-08,Australia,6010,50,1080
 2020-04-08,Austria,12942,273,4512
 2020-04-08,Azerbaijan,822,8,63
 2020-04-08,Bahamas,40,7,5
@@ -14276,11 +14276,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Cabo Verde,7,1,1
 2020-04-08,Cambodia,117,0,63
 2020-04-08,Cameroon,730,10,60
-2020-04-08,Canada,7,0,4154
+2020-04-08,Canada,19141,407,4154
 2020-04-08,Central African Republic,8,0,0
 2020-04-08,Chad,10,0,2
 2020-04-08,Chile,5546,48,1115
-2020-04-08,China,1266,1,1232
+2020-04-08,China,82809,3337,77567
 2020-04-08,Colombia,2054,54,123
 2020-04-08,Congo (Brazzaville),45,5,2
 2020-04-08,Congo (Kinshasa),180,18,9
@@ -14290,7 +14290,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Cuba,457,12,27
 2020-04-08,Cyprus,526,9,52
 2020-04-08,Czechia,5312,99,233
-2020-04-08,Denmark,5402,218,1621
+2020-04-08,Denmark,5597,218,1763
 2020-04-08,Diamond Princess,712,11,619
 2020-04-08,Djibouti,135,0,25
 2020-04-08,Dominica,15,0,1
@@ -14305,7 +14305,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Ethiopia,55,2,4
 2020-04-08,Fiji,15,0,0
 2020-04-08,Finland,2487,40,300
-2020-04-08,France,1,0,0
+2020-04-08,France,113959,10887,21452
 2020-04-08,Gabon,34,1,1
 2020-04-08,Gambia,4,1,2
 2020-04-08,Georgia,211,3,50
@@ -14364,7 +14364,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Mozambique,17,0,1
 2020-04-08,Namibia,16,0,3
 2020-04-08,Nepal,9,0,1
-2020-04-08,Netherlands,2,0,0
+2020-04-08,Netherlands,20682,2255,272
 2020-04-08,New Zealand,1210,1,282
 2020-04-08,Nicaragua,6,1,0
 2020-04-08,Niger,342,11,28
@@ -14419,7 +14419,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Uganda,53,0,0
 2020-04-08,Ukraine,1668,52,35
 2020-04-08,United Arab Emirates,2659,12,239
-2020-04-08,United Kingdom,5,0,1
+2020-04-08,United Kingdom,61474,7111,345
 2020-04-08,Uruguay,424,7,150
 2020-04-08,Uzbekistan,545,3,30
 2020-04-08,Venezuela,167,9,65
@@ -14437,7 +14437,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Antigua and Barbuda,19,2,0
 2020-04-09,Argentina,1795,72,365
 2020-04-09,Armenia,921,10,138
-2020-04-09,Australia,495,6,170
+2020-04-09,Australia,6108,51,1472
 2020-04-09,Austria,13244,295,5240
 2020-04-09,Azerbaijan,926,9,101
 2020-04-09,Bahamas,41,8,5
@@ -14461,11 +14461,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Cabo Verde,7,1,1
 2020-04-09,Cambodia,119,0,62
 2020-04-09,Cameroon,730,10,60
-2020-04-09,Canada,7,0,5162
+2020-04-09,Canada,20654,503,5162
 2020-04-09,Central African Republic,8,0,0
 2020-04-09,Chad,11,0,2
 2020-04-09,Chile,5972,57,1274
-2020-04-09,China,1267,1,1235
+2020-04-09,China,82883,3339,77679
 2020-04-09,Colombia,2223,69,174
 2020-04-09,Congo (Brazzaville),60,5,5
 2020-04-09,Congo (Kinshasa),180,18,9
@@ -14475,7 +14475,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Cuba,515,15,28
 2020-04-09,Cyprus,564,10,53
 2020-04-09,Czechia,5569,112,301
-2020-04-09,Denmark,5635,237,1736
+2020-04-09,Denmark,5830,237,1883
 2020-04-09,Diamond Princess,712,11,619
 2020-04-09,Djibouti,135,0,25
 2020-04-09,Dominica,15,0,1
@@ -14490,7 +14490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Ethiopia,56,2,4
 2020-04-09,Fiji,15,0,0
 2020-04-09,Finland,2605,42,300
-2020-04-09,France,1,0,0
+2020-04-09,France,118781,12228,23413
 2020-04-09,Gabon,44,1,1
 2020-04-09,Gambia,4,1,2
 2020-04-09,Georgia,218,3,51
@@ -14549,7 +14549,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Mozambique,17,0,1
 2020-04-09,Namibia,16,0,3
 2020-04-09,Nepal,9,0,1
-2020-04-09,Netherlands,2,0,0
+2020-04-09,Netherlands,21903,2403,278
 2020-04-09,New Zealand,1239,1,317
 2020-04-09,Nicaragua,7,1,0
 2020-04-09,Niger,410,11,40
@@ -14604,7 +14604,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Uganda,53,0,0
 2020-04-09,Ukraine,1892,57,45
 2020-04-09,United Arab Emirates,2990,14,268
-2020-04-09,United Kingdom,5,0,1
+2020-04-09,United Kingdom,65872,7993,359
 2020-04-09,Uruguay,456,7,192
 2020-04-09,Uzbekistan,582,3,38
 2020-04-09,Venezuela,171,9,84
@@ -14622,7 +14622,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Antigua and Barbuda,19,2,0
 2020-04-10,Argentina,1975,82,375
 2020-04-10,Armenia,937,12,149
-2020-04-10,Australia,506,6,203
+2020-04-10,Australia,6215,54,1793
 2020-04-10,Austria,13555,319,6064
 2020-04-10,Azerbaijan,991,10,159
 2020-04-10,Bahamas,42,8,5
@@ -14646,11 +14646,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Cabo Verde,7,1,1
 2020-04-10,Cambodia,119,0,72
 2020-04-10,Cameroon,820,12,98
-2020-04-10,Canada,8,0,5855
+2020-04-10,Canada,22059,557,5855
 2020-04-10,Central African Republic,8,0,0
 2020-04-10,Chad,11,0,2
 2020-04-10,Chile,6501,65,1571
-2020-04-10,China,1267,1,1235
+2020-04-10,China,82941,3340,77791
 2020-04-10,Colombia,2473,80,197
 2020-04-10,Congo (Brazzaville),60,5,5
 2020-04-10,Congo (Kinshasa),215,20,13
@@ -14660,7 +14660,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Cuba,564,15,51
 2020-04-10,Cyprus,595,10,58
 2020-04-10,Czechia,5732,119,346
-2020-04-10,Denmark,5819,247,1773
+2020-04-10,Denmark,6014,247,1929
 2020-04-10,Diamond Princess,712,11,619
 2020-04-10,Djibouti,150,1,36
 2020-04-10,Dominica,16,0,5
@@ -14675,7 +14675,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Ethiopia,65,3,4
 2020-04-10,Fiji,16,0,0
 2020-04-10,Finland,2769,48,300
-2020-04-10,France,1,0,0
+2020-04-10,France,125931,13215,25195
 2020-04-10,Gabon,44,1,1
 2020-04-10,Gambia,4,1,2
 2020-04-10,Georgia,234,3,54
@@ -14734,7 +14734,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Mozambique,20,0,2
 2020-04-10,Namibia,16,0,3
 2020-04-10,Nepal,9,0,1
-2020-04-10,Netherlands,2,0,0
+2020-04-10,Netherlands,23249,2520,287
 2020-04-10,New Zealand,1283,2,373
 2020-04-10,Nicaragua,7,1,0
 2020-04-10,Niger,438,11,41
@@ -14789,7 +14789,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Uganda,53,0,0
 2020-04-10,Ukraine,2203,69,61
 2020-04-10,United Arab Emirates,3360,16,418
-2020-04-10,United Kingdom,5,0,1
+2020-04-10,United Kingdom,74605,8974,588
 2020-04-10,Uruguay,473,7,206
 2020-04-10,Uzbekistan,624,3,42
 2020-04-10,Venezuela,171,9,84
@@ -14807,7 +14807,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Antigua and Barbuda,21,2,0
 2020-04-11,Argentina,1975,83,440
 2020-04-11,Armenia,967,13,173
-2020-04-11,Australia,514,6,216
+2020-04-11,Australia,6303,57,1806
 2020-04-11,Austria,13806,337,6604
 2020-04-11,Azerbaijan,1058,11,200
 2020-04-11,Bahamas,46,8,5
@@ -14831,11 +14831,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Cabo Verde,8,1,1
 2020-04-11,Cambodia,120,0,75
 2020-04-11,Cameroon,820,12,98
-2020-04-11,Canada,8,0,6589
+2020-04-11,Canada,23316,654,6589
 2020-04-11,Central African Republic,8,0,0
 2020-04-11,Chad,11,0,2
 2020-04-11,Chile,6927,73,1864
-2020-04-11,China,1267,1,1236
+2020-04-11,China,83014,3343,77877
 2020-04-11,Colombia,2709,100,214
 2020-04-11,Congo (Brazzaville),60,5,5
 2020-04-11,Congo (Kinshasa),223,20,16
@@ -14845,7 +14845,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Cuba,620,16,77
 2020-04-11,Cyprus,616,10,61
 2020-04-11,Czechia,5831,129,411
-2020-04-11,Denmark,5996,260,1955
+2020-04-11,Denmark,6191,260,2111
 2020-04-11,Diamond Princess,712,11,619
 2020-04-11,Djibouti,187,2,36
 2020-04-11,Dominica,16,0,5
@@ -14860,7 +14860,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Ethiopia,69,3,10
 2020-04-11,Fiji,16,0,0
 2020-04-11,Finland,2905,49,300
-2020-04-11,France,1,0,0
+2020-04-11,France,130727,13851,26663
 2020-04-11,Gabon,46,1,1
 2020-04-11,Gambia,9,1,2
 2020-04-11,Georgia,242,3,60
@@ -14919,7 +14919,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Mozambique,20,0,2
 2020-04-11,Namibia,16,0,3
 2020-04-11,Nepal,9,0,1
-2020-04-11,Netherlands,2,0,0
+2020-04-11,Netherlands,24571,2653,291
 2020-04-11,New Zealand,1312,4,422
 2020-04-11,Nicaragua,8,1,0
 2020-04-11,Niger,491,11,41
@@ -14974,7 +14974,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Uganda,53,0,4
 2020-04-11,Ukraine,2511,73,79
 2020-04-11,United Arab Emirates,3736,20,588
-2020-04-11,United Kingdom,5,0,1
+2020-04-11,United Kingdom,79874,9892,622
 2020-04-11,Uruguay,494,7,214
 2020-04-11,Uzbekistan,767,4,42
 2020-04-11,Venezuela,175,9,93
@@ -14992,7 +14992,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Antigua and Barbuda,21,2,0
 2020-04-12,Argentina,2142,90,468
 2020-04-12,Armenia,1013,13,197
-2020-04-12,Australia,514,6,216
+2020-04-12,Australia,6315,60,1806
 2020-04-12,Austria,13945,350,6987
 2020-04-12,Azerbaijan,1098,11,250
 2020-04-12,Bahamas,46,8,5
@@ -15016,11 +15016,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Cabo Verde,8,1,1
 2020-04-12,Cambodia,122,0,77
 2020-04-12,Cameroon,820,12,98
-2020-04-12,Canada,8,0,7123
+2020-04-12,Canada,24298,714,7123
 2020-04-12,Central African Republic,8,0,0
 2020-04-12,Chad,18,0,2
 2020-04-12,Chile,7213,80,2059
-2020-04-12,China,1267,1,1238
+2020-04-12,China,83134,3343,77956
 2020-04-12,Colombia,2776,109,270
 2020-04-12,Congo (Brazzaville),60,5,5
 2020-04-12,Congo (Kinshasa),234,20,16
@@ -15030,7 +15030,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Cuba,669,18,92
 2020-04-12,Cyprus,633,11,65
 2020-04-12,Czechia,5991,138,464
-2020-04-12,Denmark,6174,273,2123
+2020-04-12,Denmark,6369,273,2291
 2020-04-12,Diamond Princess,712,11,619
 2020-04-12,Djibouti,214,2,36
 2020-04-12,Dominica,16,0,8
@@ -15045,7 +15045,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Ethiopia,71,3,10
 2020-04-12,Fiji,16,0,0
 2020-04-12,Finland,2974,56,300
-2020-04-12,France,1,0,0
+2020-04-12,France,133670,14412,27469
 2020-04-12,Gabon,49,1,1
 2020-04-12,Gambia,9,1,2
 2020-04-12,Georgia,257,3,67
@@ -15104,7 +15104,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Mozambique,21,0,2
 2020-04-12,Namibia,16,0,3
 2020-04-12,Nepal,12,0,1
-2020-04-12,Netherlands,3,0,0
+2020-04-12,Netherlands,25746,2747,295
 2020-04-12,New Zealand,1330,4,471
 2020-04-12,Nicaragua,9,1,4
 2020-04-12,Niger,529,12,75
@@ -15159,7 +15159,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Uganda,54,0,4
 2020-04-12,Ukraine,2777,83,89
 2020-04-12,United Arab Emirates,4123,22,680
-2020-04-12,United Kingdom,5,0,1
+2020-04-12,United Kingdom,85206,10629,626
 2020-04-12,Uruguay,480,7,231
 2020-04-12,Uzbekistan,865,4,66
 2020-04-12,Venezuela,181,9,93
@@ -15177,7 +15177,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Antigua and Barbuda,23,2,0
 2020-04-13,Argentina,2208,97,515
 2020-04-13,Armenia,1039,14,211
-2020-04-13,Australia,517,6,216
+2020-04-13,Australia,6351,61,1806
 2020-04-13,Austria,14041,368,7343
 2020-04-13,Azerbaijan,1148,12,289
 2020-04-13,Bahamas,47,8,6
@@ -15201,11 +15201,11 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Cabo Verde,10,1,1
 2020-04-13,Cambodia,122,0,77
 2020-04-13,Cameroon,820,12,98
-2020-04-13,Canada,8,0,7758
+2020-04-13,Canada,25679,779,7758
 2020-04-13,Central African Republic,11,0,3
 2020-04-13,Chad,23,0,2
 2020-04-13,Chile,7525,82,2367
-2020-04-13,China,1267,1,1239
+2020-04-13,China,83213,3345,78039
 2020-04-13,Colombia,2852,112,319
 2020-04-13,Congo (Brazzaville),60,5,5
 2020-04-13,Congo (Kinshasa),235,20,17
@@ -15215,7 +15215,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Cuba,726,21,121
 2020-04-13,Cyprus,662,12,65
 2020-04-13,Czechia,6059,143,519
-2020-04-13,Denmark,6318,285,2235
+2020-04-13,Denmark,6513,285,2403
 2020-04-13,Diamond Princess,712,11,619
 2020-04-13,Djibouti,298,2,41
 2020-04-13,Dominica,16,0,8
@@ -15230,7 +15230,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Ethiopia,74,3,14
 2020-04-13,Fiji,16,0,0
 2020-04-13,Finland,3064,59,300
-2020-04-13,France,1,0,0
+2020-04-13,France,137875,14986,28001
 2020-04-13,Gabon,57,1,1
 2020-04-13,Gambia,9,1,2
 2020-04-13,Georgia,272,3,68
@@ -15289,7 +15289,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Mozambique,21,0,2
 2020-04-13,Namibia,16,0,3
 2020-04-13,Nepal,14,0,1
-2020-04-13,Netherlands,3,0,0
+2020-04-13,Netherlands,26710,2833,295
 2020-04-13,New Zealand,1349,5,546
 2020-04-13,Nicaragua,9,1,4
 2020-04-13,Niger,529,12,75
@@ -15344,7 +15344,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Uganda,54,0,7
 2020-04-13,Ukraine,3102,93,97
 2020-04-13,United Arab Emirates,4521,25,852
-2020-04-13,United Kingdom,5,0,1
+2020-04-13,United Kingdom,89570,11347,304
 2020-04-13,Uruguay,480,8,231
 2020-04-13,Uzbekistan,998,4,85
 2020-04-13,Venezuela,189,9,110
@@ -15354,3 +15354,373 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Yemen,1,0,0
 2020-04-13,Zambia,45,2,30
 2020-04-13,Zimbabwe,17,3,0
+2020-04-14,Afghanistan,714,23,40
+2020-04-14,Albania,475,24,248
+2020-04-14,Algeria,2070,326,691
+2020-04-14,Andorra,659,31,128
+2020-04-14,Angola,19,2,5
+2020-04-14,Antigua and Barbuda,23,2,3
+2020-04-14,Argentina,2277,102,559
+2020-04-14,Armenia,1067,16,265
+2020-04-14,Australia,6415,62,2186
+2020-04-14,Austria,14226,384,7633
+2020-04-14,Azerbaijan,1197,13,351
+2020-04-14,Bahamas,49,8,6
+2020-04-14,Bahrain,1528,7,645
+2020-04-14,Bangladesh,1012,46,42
+2020-04-14,Barbados,72,4,13
+2020-04-14,Belarus,3281,33,203
+2020-04-14,Belgium,31119,4157,6868
+2020-04-14,Belize,18,2,0
+2020-04-14,Benin,35,1,18
+2020-04-14,Bhutan,5,0,2
+2020-04-14,Bolivia,354,28,6
+2020-04-14,Bosnia and Herzegovina,1083,40,236
+2020-04-14,Botswana,13,1,0
+2020-04-14,Brazil,25262,1532,3046
+2020-04-14,Brunei,136,1,107
+2020-04-14,Bulgaria,713,35,81
+2020-04-14,Burkina Faso,528,30,177
+2020-04-14,Burma,63,4,2
+2020-04-14,Burundi,5,1,0
+2020-04-14,Cabo Verde,11,1,1
+2020-04-14,Cambodia,122,0,91
+2020-04-14,Cameroon,848,14,130
+2020-04-14,Canada,27034,899,8210
+2020-04-14,Central African Republic,11,0,4
+2020-04-14,Chad,23,0,2
+2020-04-14,Chile,7917,92,2646
+2020-04-14,China,83306,3345,78200
+2020-04-14,Colombia,2979,127,354
+2020-04-14,Congo (Brazzaville),60,5,5
+2020-04-14,Congo (Kinshasa),241,20,20
+2020-04-14,Costa Rica,618,3,66
+2020-04-14,Cote d'Ivoire,638,6,114
+2020-04-14,Croatia,1704,31,415
+2020-04-14,Cuba,766,21,132
+2020-04-14,Cyprus,695,12,65
+2020-04-14,Czechia,6111,161,642
+2020-04-14,Denmark,6706,299,2689
+2020-04-14,Diamond Princess,712,12,639
+2020-04-14,Djibouti,363,2,53
+2020-04-14,Dominica,16,0,8
+2020-04-14,Dominican Republic,3286,183,162
+2020-04-14,Ecuador,7603,369,696
+2020-04-14,Egypt,2350,178,589
+2020-04-14,El Salvador,149,6,25
+2020-04-14,Equatorial Guinea,41,0,4
+2020-04-14,Eritrea,34,0,0
+2020-04-14,Estonia,1373,31,115
+2020-04-14,Eswatini,15,0,8
+2020-04-14,Ethiopia,82,3,14
+2020-04-14,Fiji,16,0,0
+2020-04-14,Finland,3161,64,300
+2020-04-14,France,131361,15748,29098
+2020-04-14,Gabon,57,1,1
+2020-04-14,Gambia,9,1,2
+2020-04-14,Georgia,300,3,69
+2020-04-14,Germany,131359,3294,68200
+2020-04-14,Ghana,636,8,17
+2020-04-14,Greece,2170,101,269
+2020-04-14,Grenada,14,0,0
+2020-04-14,Guatemala,167,5,19
+2020-04-14,Guinea,363,0,31
+2020-04-14,Guinea-Bissau,38,0,0
+2020-04-14,Guyana,47,6,8
+2020-04-14,Haiti,40,3,0
+2020-04-14,Holy See,8,0,2
+2020-04-14,Honduras,407,26,7
+2020-04-14,Hungary,1512,122,122
+2020-04-14,Iceland,1720,8,989
+2020-04-14,India,11487,393,1359
+2020-04-14,Indonesia,4839,459,426
+2020-04-14,Iran,74877,4683,48129
+2020-04-14,Iraq,1400,78,766
+2020-04-14,Ireland,11479,406,25
+2020-04-14,Israel,12046,123,2195
+2020-04-14,Italy,162488,21067,37130
+2020-04-14,Jamaica,73,4,19
+2020-04-14,Japan,7645,143,799
+2020-04-14,Jordan,397,7,235
+2020-04-14,Kazakhstan,1232,14,203
+2020-04-14,Kenya,216,9,41
+2020-04-14,"Korea, South",10564,222,7534
+2020-04-14,Kosovo,387,8,66
+2020-04-14,Kuwait,1355,3,176
+2020-04-14,Kyrgyzstan,430,5,71
+2020-04-14,Laos,19,0,1
+2020-04-14,Latvia,657,5,16
+2020-04-14,Lebanon,641,21,80
+2020-04-14,Liberia,59,6,4
+2020-04-14,Libya,35,1,9
+2020-04-14,Liechtenstein,79,1,55
+2020-04-14,Lithuania,1070,29,101
+2020-04-14,Luxembourg,3307,67,500
+2020-04-14,MS Zaandam,9,2,0
+2020-04-14,Madagascar,108,0,23
+2020-04-14,Malawi,16,2,0
+2020-04-14,Malaysia,4987,82,2478
+2020-04-14,Maldives,20,0,16
+2020-04-14,Mali,144,13,34
+2020-04-14,Malta,393,3,44
+2020-04-14,Mauritania,7,1,2
+2020-04-14,Mauritius,324,9,51
+2020-04-14,Mexico,5014,332,1964
+2020-04-14,Moldova,1934,40,134
+2020-04-14,Monaco,93,1,6
+2020-04-14,Mongolia,30,0,5
+2020-04-14,Montenegro,283,4,46
+2020-04-14,Morocco,1888,126,217
+2020-04-14,Mozambique,28,0,2
+2020-04-14,Namibia,16,0,3
+2020-04-14,Nepal,16,0,1
+2020-04-14,Netherlands,27580,2955,297
+2020-04-14,New Zealand,1366,9,628
+2020-04-14,Nicaragua,9,1,4
+2020-04-14,Niger,570,14,90
+2020-04-14,Nigeria,373,11,99
+2020-04-14,North Macedonia,908,44,86
+2020-04-14,Norway,6623,139,32
+2020-04-14,Oman,813,4,130
+2020-04-14,Pakistan,5837,96,1378
+2020-04-14,Panama,3472,94,61
+2020-04-14,Papua New Guinea,2,0,0
+2020-04-14,Paraguay,159,7,22
+2020-04-14,Peru,10303,230,2869
+2020-04-14,Philippines,5223,335,295
+2020-04-14,Poland,7202,263,618
+2020-04-14,Portugal,17448,567,347
+2020-04-14,Qatar,3428,7,373
+2020-04-14,Romania,6879,351,1051
+2020-04-14,Russia,21102,170,1694
+2020-04-14,Rwanda,134,0,49
+2020-04-14,Saint Kitts and Nevis,14,0,0
+2020-04-14,Saint Lucia,15,0,11
+2020-04-14,Saint Vincent and the Grenadines,12,0,1
+2020-04-14,San Marino,371,36,53
+2020-04-14,Sao Tome and Principe,4,0,0
+2020-04-14,Saudi Arabia,5369,73,889
+2020-04-14,Senegal,299,2,183
+2020-04-14,Serbia,4465,94,0
+2020-04-14,Seychelles,11,0,0
+2020-04-14,Sierra Leone,11,0,0
+2020-04-14,Singapore,3252,10,611
+2020-04-14,Slovakia,835,2,113
+2020-04-14,Slovenia,1220,56,152
+2020-04-14,Somalia,60,2,2
+2020-04-14,South Africa,2415,27,410
+2020-04-14,South Sudan,4,0,0
+2020-04-14,Spain,172541,18056,67504
+2020-04-14,Sri Lanka,233,7,61
+2020-04-14,Sudan,32,5,4
+2020-04-14,Suriname,10,1,6
+2020-04-14,Sweden,11445,1033,381
+2020-04-14,Switzerland,25936,1174,13700
+2020-04-14,Syria,29,2,5
+2020-04-14,Taiwan*,393,6,124
+2020-04-14,Tanzania,53,3,7
+2020-04-14,Thailand,2613,41,1405
+2020-04-14,Timor-Leste,6,0,1
+2020-04-14,Togo,77,3,32
+2020-04-14,Trinidad and Tobago,113,8,17
+2020-04-14,Tunisia,747,34,43
+2020-04-14,Turkey,65111,1403,4799
+2020-04-14,US,607670,25832,47763
+2020-04-14,Uganda,55,0,8
+2020-04-14,Ukraine,3372,98,119
+2020-04-14,United Arab Emirates,4933,28,933
+2020-04-14,United Kingdom,94845,12129,323
+2020-04-14,Uruguay,483,8,248
+2020-04-14,Uzbekistan,1165,4,99
+2020-04-14,Venezuela,189,9,110
+2020-04-14,Vietnam,266,0,169
+2020-04-14,West Bank and Gaza,308,2,62
+2020-04-14,Western Sahara,6,0,0
+2020-04-14,Yemen,1,0,0
+2020-04-14,Zambia,45,2,30
+2020-04-14,Zimbabwe,17,3,0
+2020-04-15,Afghanistan,784,25,43
+2020-04-15,Albania,494,25,251
+2020-04-15,Algeria,2160,336,708
+2020-04-15,Andorra,673,33,169
+2020-04-15,Angola,19,2,5
+2020-04-15,Antigua and Barbuda,23,2,3
+2020-04-15,Argentina,2443,111,596
+2020-04-15,Armenia,1111,17,297
+2020-04-15,Australia,6440,63,2186
+2020-04-15,Austria,14336,393,8098
+2020-04-15,Azerbaijan,1253,13,404
+2020-04-15,Bahamas,49,8,6
+2020-04-15,Bahrain,1671,7,663
+2020-04-15,Bangladesh,1231,50,49
+2020-04-15,Barbados,73,5,15
+2020-04-15,Belarus,3728,36,203
+2020-04-15,Belgium,33573,4440,7107
+2020-04-15,Belize,18,2,0
+2020-04-15,Benin,35,1,18
+2020-04-15,Bhutan,5,0,2
+2020-04-15,Bolivia,397,28,7
+2020-04-15,Bosnia and Herzegovina,1110,41,253
+2020-04-15,Botswana,13,1,0
+2020-04-15,Brazil,28320,1736,14026
+2020-04-15,Brunei,136,1,108
+2020-04-15,Bulgaria,747,36,105
+2020-04-15,Burkina Faso,542,32,226
+2020-04-15,Burma,74,4,2
+2020-04-15,Burundi,5,1,0
+2020-04-15,Cabo Verde,56,1,1
+2020-04-15,Cambodia,122,0,96
+2020-04-15,Cameroon,848,17,165
+2020-04-15,Canada,28208,1006,8966
+2020-04-15,Central African Republic,12,0,4
+2020-04-15,Chad,23,0,2
+2020-04-15,Chile,8273,94,2937
+2020-04-15,China,83356,3346,78311
+2020-04-15,Colombia,3105,131,452
+2020-04-15,Congo (Brazzaville),117,5,11
+2020-04-15,Congo (Kinshasa),254,21,21
+2020-04-15,Costa Rica,626,4,67
+2020-04-15,Cote d'Ivoire,638,6,114
+2020-04-15,Croatia,1741,33,473
+2020-04-15,Cuba,814,24,151
+2020-04-15,Cyprus,715,12,65
+2020-04-15,Czechia,6216,166,819
+2020-04-15,Denmark,6876,309,2925
+2020-04-15,Diamond Princess,712,12,639
+2020-04-15,Djibouti,435,2,71
+2020-04-15,Dominica,16,0,8
+2020-04-15,Dominican Republic,3614,189,208
+2020-04-15,Ecuador,7858,388,780
+2020-04-15,Egypt,2505,183,589
+2020-04-15,El Salvador,159,6,30
+2020-04-15,Equatorial Guinea,51,0,4
+2020-04-15,Eritrea,35,0,0
+2020-04-15,Estonia,1400,35,117
+2020-04-15,Eswatini,15,0,8
+2020-04-15,Ethiopia,85,3,15
+2020-04-15,Fiji,16,0,0
+2020-04-15,Finland,3237,72,300
+2020-04-15,France,134582,17188,31470
+2020-04-15,Gabon,80,1,4
+2020-04-15,Gambia,9,1,2
+2020-04-15,Georgia,306,3,71
+2020-04-15,Germany,134753,3804,72600
+2020-04-15,Ghana,636,8,17
+2020-04-15,Greece,2192,102,269
+2020-04-15,Grenada,14,0,0
+2020-04-15,Guatemala,180,5,19
+2020-04-15,Guinea,404,1,31
+2020-04-15,Guinea-Bissau,43,0,0
+2020-04-15,Guyana,55,6,8
+2020-04-15,Haiti,41,3,0
+2020-04-15,Holy See,8,0,2
+2020-04-15,Honduras,419,31,9
+2020-04-15,Hungary,1579,134,192
+2020-04-15,Iceland,1727,8,1077
+2020-04-15,India,12322,405,1432
+2020-04-15,Indonesia,5136,469,446
+2020-04-15,Iran,76389,4777,49933
+2020-04-15,Iraq,1415,79,812
+2020-04-15,Ireland,12547,444,77
+2020-04-15,Israel,12501,130,2563
+2020-04-15,Italy,165155,21645,38092
+2020-04-15,Jamaica,125,5,21
+2020-04-15,Japan,8100,146,853
+2020-04-15,Jordan,401,7,250
+2020-04-15,Kazakhstan,1295,16,240
+2020-04-15,Kenya,225,10,53
+2020-04-15,"Korea, South",10591,225,7616
+2020-04-15,Kosovo,387,8,66
+2020-04-15,Kuwait,1405,3,206
+2020-04-15,Kyrgyzstan,449,5,78
+2020-04-15,Laos,19,0,1
+2020-04-15,Latvia,666,5,44
+2020-04-15,Lebanon,658,21,85
+2020-04-15,Liberia,59,6,4
+2020-04-15,Libya,48,1,9
+2020-04-15,Liechtenstein,79,1,55
+2020-04-15,Lithuania,1091,30,138
+2020-04-15,Luxembourg,3373,69,526
+2020-04-15,MS Zaandam,9,2,0
+2020-04-15,Madagascar,110,0,29
+2020-04-15,Malawi,16,2,0
+2020-04-15,Malaysia,5072,83,2647
+2020-04-15,Maldives,22,0,16
+2020-04-15,Mali,148,13,34
+2020-04-15,Malta,399,3,44
+2020-04-15,Mauritania,7,1,2
+2020-04-15,Mauritius,324,9,65
+2020-04-15,Mexico,5399,406,2125
+2020-04-15,Moldova,2049,46,171
+2020-04-15,Monaco,93,3,12
+2020-04-15,Mongolia,30,0,5
+2020-04-15,Montenegro,288,4,55
+2020-04-15,Morocco,2024,127,229
+2020-04-15,Mozambique,29,0,2
+2020-04-15,Namibia,16,0,3
+2020-04-15,Nepal,16,0,1
+2020-04-15,Netherlands,28316,3145,304
+2020-04-15,New Zealand,1386,9,728
+2020-04-15,Nicaragua,9,1,4
+2020-04-15,Niger,584,14,90
+2020-04-15,Nigeria,407,12,128
+2020-04-15,North Macedonia,974,45,98
+2020-04-15,Norway,6740,150,32
+2020-04-15,Oman,910,4,131
+2020-04-15,Pakistan,6383,111,1446
+2020-04-15,Panama,3574,95,72
+2020-04-15,Papua New Guinea,2,0,0
+2020-04-15,Paraguay,161,8,23
+2020-04-15,Peru,11475,254,3108
+2020-04-15,Philippines,5453,349,353
+2020-04-15,Poland,7582,286,668
+2020-04-15,Portugal,18091,599,383
+2020-04-15,Qatar,3711,7,406
+2020-04-15,Romania,7216,372,1217
+2020-04-15,Russia,24490,198,1986
+2020-04-15,Rwanda,136,0,54
+2020-04-15,Saint Kitts and Nevis,14,0,0
+2020-04-15,Saint Lucia,15,0,11
+2020-04-15,Saint Vincent and the Grenadines,12,0,1
+2020-04-15,San Marino,372,36,53
+2020-04-15,Sao Tome and Principe,4,0,0
+2020-04-15,Saudi Arabia,5862,79,931
+2020-04-15,Senegal,314,2,190
+2020-04-15,Serbia,4873,99,0
+2020-04-15,Seychelles,11,0,0
+2020-04-15,Sierra Leone,13,0,0
+2020-04-15,Singapore,3699,10,652
+2020-04-15,Slovakia,863,6,151
+2020-04-15,Slovenia,1248,61,165
+2020-04-15,Somalia,80,5,2
+2020-04-15,South Africa,2506,34,410
+2020-04-15,South Sudan,4,0,0
+2020-04-15,Spain,177644,18708,70853
+2020-04-15,Sri Lanka,238,7,63
+2020-04-15,Sudan,32,5,4
+2020-04-15,Suriname,10,1,6
+2020-04-15,Sweden,11927,1203,381
+2020-04-15,Switzerland,26336,1239,15400
+2020-04-15,Syria,33,2,5
+2020-04-15,Taiwan*,395,6,124
+2020-04-15,Tanzania,88,4,11
+2020-04-15,Thailand,2643,43,1497
+2020-04-15,Timor-Leste,8,0,1
+2020-04-15,Togo,81,3,35
+2020-04-15,Trinidad and Tobago,114,8,19
+2020-04-15,Tunisia,780,35,43
+2020-04-15,Turkey,69392,1518,5674
+2020-04-15,US,636350,28326,52096
+2020-04-15,Uganda,55,0,12
+2020-04-15,Ukraine,3764,108,143
+2020-04-15,United Arab Emirates,5365,33,1034
+2020-04-15,United Kingdom,99483,12894,368
+2020-04-15,Uruguay,492,8,260
+2020-04-15,Uzbekistan,1302,4,107
+2020-04-15,Venezuela,197,9,111
+2020-04-15,Vietnam,267,0,171
+2020-04-15,West Bank and Gaza,374,2,63
+2020-04-15,Western Sahara,6,0,0
+2020-04-15,Yemen,1,0,0
+2020-04-15,Zambia,48,2,30
+2020-04-15,Zimbabwe,23,3,1

@@ -129,11 +129,11 @@ for kind, url in CSV_FILES.items():
 
                         # Depending on the kind of the CSV data is the column to update.
                         if kind == "confirmed":
-                            data_list[index][2] = row[k]
+                            data_list[index][2] += int(row[k])
                         elif kind == "deaths":
-                            data_list[index][3] = row[k]
+                            data_list[index][3] += int(row[k])
                         elif kind == "recovered":
-                            data_list[index][4] = row[k]
+                            data_list[index][4] += int(row[k])
 
                         break
 
@@ -324,11 +324,11 @@ df.tail()
 
 | isodate             | country            |   confirmed |   deaths |   recovered |
 |:--------------------|:-------------------|------------:|---------:|------------:|
-| 2020-04-10 00:00:00 | West Bank and Gaza |         267 |        2 |          45 |
-| 2020-04-10 00:00:00 | Western Sahara     |           4 |        0 |           0 |
-| 2020-04-10 00:00:00 | Yemen              |           1 |        0 |           0 |
-| 2020-04-10 00:00:00 | Zambia             |          40 |        2 |          25 |
-| 2020-04-10 00:00:00 | Zimbabwe           |          13 |        3 |           0 |
+| 2020-04-14 | West Bank and Gaza |         308 |        2 |          62 |
+| 2020-04-14 | Western Sahara     |           6 |        0 |           0 |
+| 2020-04-14 | Yemen              |           1 |        0 |           0 |
+| 2020-04-14 | Zambia             |          45 |        2 |          30 |
+| 2020-04-14 | Zimbabwe           |          17 |        3 |           0 |
 
 ```python
 df.describe()
@@ -336,14 +336,14 @@ df.describe()
 
 |       |   confirmed |    deaths |   recovered |
 |:------|------------:|----------:|------------:|
-| count |    14800    | 14800     |   14800     |
-| mean  |     1091.58 |    53.391 |     169.777 |
-| std   |    11988.7  |   698.943 |    1855.39  |
+| count |    15540    | 15540     |   15540     |
+| mean  |     2007.55 |   105.364 |     489.394 |
+| std   |    16754    |   998.927 |    4630.27  |
 | min   |        0    |     0     |       0     |
 | 25%   |        0    |     0     |       0     |
-| 50%   |        0    |     0     |       0     |
-| 75%   |       27    |     0     |       1     |
-| max   |   496535    | 18849     |   55668     |
+| 50%   |        1    |     0     |       0     |
+| 75%   |       53    |     1     |       2     |
+| max   |   607670    | 25832     |   78200     |
 
 We can observe the countries are alphabetically sorted and our `datetimeindex` worked correctly.
 
@@ -358,16 +358,16 @@ df.describe()
 
 |       |   confirmed |    deaths |   recovered |
 |:------|------------:|----------:|------------:|
-| count |     6788    |  6788     |    6788     |
-| mean  |     2380    |   116.409 |     370.092 |
-| std   |    17616.3  |  1028.53  |    2726.2   |
+| count |     7793    |  7793     |    7793     |
+| mean  |     4003.25 |   210.107 |     975.898 |
+| std   |    23490.1  |  1402.83  |    6502.32  |
 | min   |        1    |     0     |       0     |
-| 25%   |        6    |     0     |       0     |
-| 50%   |       41    |     0     |       1     |
-| 75%   |      379.25 |     5     |      22     |
-| max   |   496535    | 18849     |   55668     |
+| 25%   |        7    |     0     |       0     |
+| 50%   |       52    |     1     |       2     |
+| 75%   |      541    |     7     |      32     |
+| max   |   607670    | 25832     |   78200     |
 
-Now, this looks better and we can now start getting interesting insights.
+This looks better and we can now start getting interesting insights.
 
 We will be applying this same filtering on some of the next sections.
 
@@ -386,54 +386,54 @@ Once grouped we use the `sort_values()` method on the field we are intereseted a
 print(grouped_df.sort_values("confirmed", ascending=False)["confirmed"][:10])
 ```
 
-| country     |   confirmed |
-|:------------|------------:|
-| US          |      461437 |
-| Spain       |      153222 |
-| Italy       |      143626 |
-| Germany     |      118181 |
-| Iran        |       66220 |
-| Turkey      |       42282 |
-| Belgium     |       24983 |
-| Switzerland |       24051 |
-| Brazil      |       18092 |
-| Portugal    |       13956 |
+| country        |   confirmed |
+|:---------------|------------:|
+| US             |      607670 |
+| Spain          |      172541 |
+| Italy          |      162488 |
+| France         |      137875 |
+| Germany        |      131359 |
+| United Kingdom |       94845 |
+| China          |       83306 |
+| Iran           |       74877 |
+| Turkey         |       65111 |
+| Belgium        |       31119 |
 
 ```python
 # Deaths
 print(grouped_df.sort_values("deaths", ascending=False)["deaths"][:10])
 ```
 
-| country     |   deaths |
-|:------------|---------:|
-| Italy       |    18279 |
-| US          |    16478 |
-| Spain       |    15447 |
-| Iran        |     4110 |
-| Germany     |     2607 |
-| Belgium     |     2523 |
-| Brazil      |      950 |
-| Switzerland |      948 |
-| Turkey      |      908 |
-| Sweden      |      793 |
+| country        |   deaths |
+|:---------------|---------:|
+| US             |    25832 |
+| Italy          |    21067 |
+| Spain          |    18056 |
+| France         |    15748 |
+| United Kingdom |    12129 |
+| Iran           |     4683 |
+| Belgium        |     4157 |
+| China          |     3345 |
+| Germany        |     3294 |
+| Netherlands    |     2955 |
 
 ```python
 # Recoveries
 print(grouped_df.sort_values("recovered", ascending=False)["recovered"][:10])
 ```
 
-| country      |   recovered |
-|:-------------|------------:|
-| Germany      |       52407 |
-| Spain        |       52165 |
-| Iran         |       32309 |
-| Italy        |       28470 |
-| US           |       25410 |
-| Switzerland  |       10600 |
-| Korea, South |        6973 |
-| Austria      |        5240 |
-| Belgium      |        5164 |
-| Canada       |        5162 |
+| country     |   recovered |
+|:------------|------------:|
+| China       |       78200 |
+| Germany     |       68200 |
+| Spain       |       67504 |
+| Iran        |       48129 |
+| US          |       47763 |
+| Italy       |       37130 |
+| France      |       29098 |
+| Switzerland |       13700 |
+| Canada      |        8210 |
+| Austria     |        7633 |
 
 ### Daily Global Confirmed Cases, Deaths or Recoveries
 
@@ -478,16 +478,16 @@ print(resampled_df[[field, "difference", "change"]][-10:])
 
 | isodate             |   deaths |   difference | change   |
 |:--------------------|---------:|-------------:|:---------|
-| 2020-04-01 00:00:00 |    35792 |         3475 | 0.93%    |
-| 2020-04-02 00:00:00 |    39836 |         4044 | 16.37%   |
-| 2020-04-03 00:00:00 |    43636 |         3800 | -6.03%   |
-| 2020-04-04 00:00:00 |    47481 |         3845 | 1.18%    |
-| 2020-04-05 00:00:00 |    50944 |         3463 | -9.93%   |
-| 2020-04-06 00:00:00 |    54671 |         3727 | 7.62%    |
-| 2020-04-07 00:00:00 |    59493 |         4822 | 29.38%   |
-| 2020-04-08 00:00:00 |    64298 |         4805 | -0.35%   |
-| 2020-04-09 00:00:00 |    68945 |         4647 | -3.29%   |
-| 2020-04-10 00:00:00 |    73872 |         4927 | 6.03%    |
+| 2020-04-05 |    69374 |         4768 | -18.06%  |
+| 2020-04-06 |    74565 |         5191 | 8.87%    |
+| 2020-04-07 |    81865 |         7300 | 40.63%   |
+| 2020-04-08 |    88338 |         6473 | -11.33%  |
+| 2020-04-09 |    95455 |         7117 | 9.95%    |
+| 2020-04-10 |   102525 |         7070 | -0.66%   |
+| 2020-04-11 |   108503 |         5978 | -15.45%  |
+| 2020-04-12 |   114091 |         5588 | -6.52%   |
+| 2020-04-13 |   119482 |         5391 | -3.53%   |
+| 2020-04-14 |   125984 |         6502 | 20.61%   |
 
 ### Daily Confirmed Cases, Deaths or Recoveries for any Country
 
@@ -533,16 +533,16 @@ print(filtered_df[[field, "difference", "change"]][-10:])
 
 | isodate             |   deaths |   difference | change   |
 |:--------------------|---------:|-------------:|:---------|
-| 2020-03-31 00:00:00 |     3873 |          895 | 75.15%   |
-| 2020-04-01 00:00:00 |     4757 |          884 | -1.23%   |
-| 2020-04-02 00:00:00 |     5926 |         1169 | 32.24%   |
-| 2020-04-03 00:00:00 |     7087 |         1161 | -0.68%   |
-| 2020-04-04 00:00:00 |     8407 |         1320 | 13.7%    |
-| 2020-04-05 00:00:00 |     9619 |         1212 | -8.18%   |
-| 2020-04-06 00:00:00 |    10783 |         1164 | -3.96%   |
-| 2020-04-07 00:00:00 |    12722 |         1939 | 66.58%   |
-| 2020-04-08 00:00:00 |    14695 |         1973 | 1.75%    |
-| 2020-04-09 00:00:00 |    16478 |         1783 | -9.63%   |
+| 2020-04-05 |     9619 |         1212 | -8.18%   |
+| 2020-04-06 |    10783 |         1164 | -3.96%   |
+| 2020-04-07 |    12722 |         1939 | 66.58%   |
+| 2020-04-08 |    14695 |         1973 | 1.75%    |
+| 2020-04-09 |    16478 |         1783 | -9.63%   |
+| 2020-04-10 |    18586 |         2108 | 18.23%   |
+| 2020-04-11 |    20463 |         1877 | -10.96%  |
+| 2020-04-12 |    22020 |         1557 | -17.05%  |
+| 2020-04-13 |    23529 |         1509 | -3.08%   |
+| 2020-04-14 |    25832 |         2303 | 52.62%   |
 
 Feel free to try this with other country names, such as Italy, Spain or Iran.
 
@@ -608,13 +608,19 @@ print(final_df)
 
 |                      |   100-199 |   200-399 |   400-799 |   800-1599 |   1600-3200 |   total |
 |:---------------------|----------:|----------:|----------:|-----------:|------------:|--------:|
+| Australia            |         3 |         4 |         4 |          2 |           5 |      18 |
 | Austria              |         3 |         2 |         2 |          3 |           4 |      14 |
+| Belarus              |         3 |         2 |         3 |          3 |           4 |      15 |
 | Belgium              |         2 |         5 |         2 |          4 |           3 |      16 |
 | Brazil               |         3 |         3 |         2 |          2 |           4 |      14 |
+| Canada               |         4 |         1 |         3 |          4 |           2 |      14 |
 | Chile                |         1 |         3 |         4 |          3 |           6 |      17 |
+| China                |         0 |         0 |         2 |          2 |           2 |       6 |
 | Czechia              |         2 |         3 |         2 |          5 |           6 |      18 |
-| Denmark              |         0 |         1 |         2 |         12 |           8 |      23 |
+| Denmark              |         0 |         1 |         2 |         11 |           8 |      22 |
+| Dominican Republic   |         1 |         4 |         3 |          7 |           9 |      24 |
 | Ecuador              |         2 |         1 |         2 |          5 |           6 |      16 |
+| France               |         3 |         3 |         1 |          3 |           3 |      13 |
 | Germany              |         3 |         1 |         3 |          3 |           2 |      12 |
 | India                |         6 |         3 |         4 |          5 |           4 |      22 |
 | Indonesia            |         3 |         3 |         5 |          6 |           8 |      25 |
@@ -627,6 +633,7 @@ print(final_df)
 | Luxembourg           |         1 |         2 |         3 |          4 |          14 |      24 |
 | Malaysia             |         5 |         1 |         4 |          5 |          10 |      25 |
 | Mexico               |         2 |         4 |         4 |          6 |           6 |      22 |
+| Netherlands          |         2 |         3 |         2 |          4 |           4 |      15 |
 | Norway               |         3 |         1 |         3 |          6 |           7 |      20 |
 | Pakistan             |         1 |         2 |         4 |          7 |           7 |      21 |
 | Panama               |         2 |         4 |         4 |          6 |           8 |      24 |
@@ -639,12 +646,15 @@ print(final_df)
 | Russia               |         3 |         3 |         3 |          4 |           3 |      16 |
 | Saudi Arabia         |         5 |         3 |         3 |          7 |           8 |      26 |
 | Serbia               |         3 |         5 |         4 |          4 |           7 |      23 |
+| Singapore            |        13 |         8 |         7 |         11 |           6 |      45 |
 | Spain                |         2 |         2 |         3 |          1 |           3 |      11 |
 | Sweden               |         2 |         3 |         2 |          7 |           8 |      22 |
 | Switzerland          |         1 |         4 |         3 |          2 |           4 |      14 |
 | Turkey               |         1 |         1 |         1 |          2 |           2 |       7 |
 | US                   |         2 |         2 |         3 |          2 |           3 |      12 |
+| Ukraine              |         2 |         2 |         4 |          6 |           6 |      20 |
 | United Arab Emirates |         6 |         3 |         5 |          4 |           5 |      23 |
+| United Kingdom       |         2 |         4 |         2 |          4 | 
 
 ## Mexican Data
 

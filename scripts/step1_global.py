@@ -39,14 +39,14 @@ def main():
 
                         # If the current skeleton list row matches our CSV row we update its values.
                         if v == item[0] and row["Country/Region"] == item[1]:
-
                             # Depending on the kind of the CSV data is the column to update.
+
                             if kind == "confirmed":
-                                data_list[index][2] = row[k]
+                                data_list[index][2] += int(row[k])
                             elif kind == "deaths":
-                                data_list[index][3] = row[k]
+                                data_list[index][3] += int(row[k])
                             elif kind == "recovered":
-                                data_list[index][4] = row[k]
+                                data_list[index][4] += int(row[k])
 
                             break
 
