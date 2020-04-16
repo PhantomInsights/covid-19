@@ -687,7 +687,7 @@ ax.plot(resampled_df.index,
         resampled_df["recovered"], label="Recoveries", color="lime")
 ```
 
-Customize tickers.
+Customize our tickers.
 
 ```python
 ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
@@ -702,15 +702,134 @@ Add final customizations.
 plt.grid(linewidth=0.5)
 plt.legend(loc=2)
 plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
-plt.ylabel("Number of Cases", labelpad=15)
 plt.xlabel("Date (2020)", labelpad=15)
+plt.ylabel("cumulative Count", labelpad=15)
 
 plt.show()
 ```
 
-![Daily Global Growth](./figs/daily_global.png)
+![Daily Global Growth](./figs/daily_global_growth.png)
 
-The data checks out, the confirmed cases growth is exponential.
+## Daily Global Counts
+
+This plot is simlar to the previous one, it will show us the daily counts of confirmed cases, deaths and recoveries for all the countries combined.
+
+Filter out rows with zero confirmed cases.
+
+```python
+df = df[df["confirmed"] > 0]
+```
+
+Resample the data by day and sum the daily totals.
+
+```python
+resampled_df = df.resample("D").sum()
+```
+
+Add 3 new columns, one for each category counts.
+
+```python
+resampled_df["confirmed_difference"] = resampled_df["confirmed"].diff()
+resampled_df["deaths_difference"] = resampled_df["deaths"].diff()
+resampled_df["recovered_difference"] = resampled_df["recovered"].diff()
+```
+
+Create 3 line plots on the same axis, one for each category counts.
+
+```python
+fig, ax = plt.subplots()
+
+ax.plot(resampled_df.index,
+        resampled_df["confirmed_difference"], label="Confirmed", color="gold")
+
+ax.plot(resampled_df.index,
+        resampled_df["deaths_difference"], label="Deaths", color="lightblue")
+
+ax.plot(resampled_df.index,
+        resampled_df["recovered_difference"], label="Recoveries", color="lime")
+```
+
+Customize our tickers.
+
+```python
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+plt.grid(linewidth=0.5)
+plt.legend(loc=2)
+plt.title("Daily Confirmed Cases, Deaths & Recoveries", pad=15)
+plt.xlabel("Date (2020)", labelpad=15)
+plt.ylabel("Daily Count", labelpad=15)
+
+plt.show()
+```
+
+![Daily Global Count](./figs/daily_global_counts.png)
+
+## Daily Counts Comparison
+
+This plot will compare the daily counts of the category we define between the countries we want.
+
+We will start by defining a dictionary of countries, their labels and colors for their lines.
+
+```python
+COUNTRIES = [
+    ["US", "United States", "lightblue"],
+    ["Italy", "Italy", "pink"],
+    ["Spain", "Spain", "orange"],
+    ["France", "France", "yellow"],
+    ["United Kingdom", "United Kingdom", "lime"]
+]
+```
+
+Then we will define the field and remove all 0 values from the `DataFrame`.
+
+```python
+field = "deaths"
+df = df[df[field] > 0]
+```
+
+Create a line plot for each country and add it to the same axis.
+
+```python
+fig, ax = plt.subplots()
+
+for country in COUNTRIES:
+    temp_df = df[df["country"] == country[0]].copy()
+    temp_df["difference"] = temp_df[field].diff()
+
+    ax.plot(temp_df.index, temp_df["difference"],
+            label=country[1], color=country[2])
+```
+
+Customize our tickers.
+
+```python
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+ax.grid(linewidth=0.5)
+ax.legend(loc=2)
+plt.title("Daily Comparison Between Countries", pad=15)
+plt.xlabel("Date (2020)", labelpad=15)
+plt.ylabel("Daily Count", labelpad=15)
+
+plt.show()
+```
+
+![Daily Comparison](./figs/daily_comparison.png)
 
 ## Mexican Data
 
@@ -925,8 +1044,8 @@ ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 Add final customizations.
 
 ```python
-plt.legend(loc=2)
 plt.grid(linewidth=0.5)
+plt.legend(loc=2)
 plt.title("Confirmed Cases Growth", pad=15)
 plt.xlabel("Date (2020)", labelpad=15)
 plt.ylabel("Number of Confirmed Cases", labelpad=15)
@@ -1005,7 +1124,6 @@ for bar2 in bars2:
 
     plt.text(bar2.get_x() + bar2.get_width()/2.0, height2,
                 "{:,}".format(height2), ha="center", va="bottom")
-
 ```
 
 Customize our tickers.
@@ -1018,8 +1136,8 @@ ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 Add final customizations.
 
 ```python
-plt.legend(["Male", "Female"], loc=2)
 plt.grid(linewidth=0.5)
+plt.legend(["Male", "Female"], loc=2)
 plt.xticks(range(len(labels)), labels)
 plt.title("Age and Sex Distribution", pad=15)
 plt.xlabel("Age Range", labelpad=15)
