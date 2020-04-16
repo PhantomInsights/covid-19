@@ -291,9 +291,7 @@ sns.set(style="ticks",
 
 These styles will apply an elegant dark gray palette to our plots.
 
-Let's start with the global dataset.
-
-*Note: You will have different numbers no your results as I did this analysis on older datasets.*
+*Note: You will have different numbers on your results as I did this analysis on older datasets.*
 
 ## Global Data
 
@@ -367,19 +365,17 @@ df.describe()
 | 75%   |      541    |     7     |      32     |
 | max   |   607670    | 25832     |   78200     |
 
-This looks better and we can now start getting interesting insights.
-
-We will be applying this same filtering on some of the next sections.
+This looks better and more accurate. On the next sections we will get interesting insights.
 
 ### Top 10 Countries by Confirmed Cases, Deaths & Recoveries
 
-To get the countries with the highest values we first need to group our `DataFrame` by the country field and selecting their max value which happenes to be the latest one.
+To get the countries with the highest values we first need to group our `DataFrame` by the country field and select their max value which happens to be the latest one.
 
 ```python
 grouped_df = df.groupby("country").max()
 ```
 
-Once grouped we use the `sort_values()` method on the field we are intereseted and use the descending order. From there we print the first 10 rows from the field we are interested in.
+Once grouped we use the `sort_values()` method on the field we are interested in and sort by descending order. From there we print the first 10 rows from the field we previously defined.
 
 ```python
 # Confirmed cases
@@ -544,15 +540,15 @@ print(filtered_df[[field, "difference", "change"]][-10:])
 | 2020-04-13 |    23529 |         1509 | -3.08%   |
 | 2020-04-14 |    25832 |         2303 | 52.62%   |
 
-Feel free to try this with other country names, such as Italy, Spain or Iran.
+Feel free to try this example with other country names, such as Italy, Spain or Iran.
 
-## Days from 100 to 3200 Confirmed Cases
+## Days from 100 to 3,200 Confirmed Cases
 
-This one is quite interesting. We will know how many days it took to reach from 100 to 3,200 confirmed cases.
+This one is quite interesting, we will know how many days it took to reach from 100 to 3,200 confirmed cases.
 
 For this exercise we will use custom bins for the exponential growth (100-199, 200-399, and so on).
 
-We start by removing all rows lower than 100.
+We start by removing all rows lower than 100 confirmed cases.
 
 ```python
 df = df[df["confirmed"] >= 100]
@@ -578,7 +574,7 @@ valid_countries = list()
 data_list = list()
 ```
 
-We iterate over all the countries we have and create temporary DataFrames with them.
+We iterate over all the countries we have and create temporary `DataFrames` with them.
 
 ```python
 for country in all_countries:
@@ -589,7 +585,7 @@ for country in all_countries:
     if temp_df["confirmed"].max() >= 3200:
         temp_list = list()
 
-        # We iterate over our bins and count hoy many days each one has.
+        # We iterate over our bins and count how many days each one has.
         for item in bins:
             temp_list.append(temp_df[(temp_df["confirmed"] >= item[0]) & (
                 temp_df["confirmed"] <= item[1])]["confirmed"].count())
@@ -598,7 +594,7 @@ for country in all_countries:
         valid_countries.append(country)
 ```
 
-We create a final `DataFrame` with the results and a new column with the total days from 100 to 3,200 confirmed cases.
+We create a final `DataFrame` with the results and add a new column with the total days from 100 to 3,200 confirmed cases.
 
 ```python
 final_df = pd.DataFrame(data_list, index=valid_countries, columns=labels)
@@ -666,13 +662,13 @@ We will filter out rows with zero confirmed cases.
 df = df[df["confirmed"] > 0]
 ```
 
-Resample the data by day and sum the daily totals.
+Resample the data by 1 day intervals and sum the daily totals.
 
 ```python
 resampled_df = df.resample("D").sum()
 ```
 
-Create 3 line plots on the same axis, one for each category.
+Create 3 line plots on the same axis, one for each field.
 
 ```python
 fig, ax = plt.subplots()
@@ -703,7 +699,7 @@ plt.grid(linewidth=0.5)
 plt.legend(loc=2)
 plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
 plt.xlabel("Date (2020)", labelpad=15)
-plt.ylabel("cumulative Count", labelpad=15)
+plt.ylabel("Cumulative Count", labelpad=15)
 
 plt.show()
 ```
@@ -714,19 +710,19 @@ plt.show()
 
 This plot is simlar to the previous one, it will show us the daily counts of confirmed cases, deaths and recoveries for all the countries combined.
 
-Filter out rows with zero confirmed cases.
+We filter out rows with zero confirmed cases.
 
 ```python
 df = df[df["confirmed"] > 0]
 ```
 
-Resample the data by day and sum the daily totals.
+Resample the data by 1 day intervals and sum the daily totals.
 
 ```python
 resampled_df = df.resample("D").sum()
 ```
 
-Add 3 new columns, one for each category counts.
+Add 3 new columns, one for each field counts.
 
 ```python
 resampled_df["confirmed_difference"] = resampled_df["confirmed"].diff()
@@ -734,7 +730,7 @@ resampled_df["deaths_difference"] = resampled_df["deaths"].diff()
 resampled_df["recovered_difference"] = resampled_df["recovered"].diff()
 ```
 
-Create 3 line plots on the same axis, one for each category counts.
+Create 3 line plots on the same axis, one for each field counts.
 
 ```python
 fig, ax = plt.subplots()
@@ -774,7 +770,7 @@ plt.show()
 
 ## Daily Counts Comparison
 
-This plot will compare the daily counts of the category we define between the countries we want.
+This plot will compare the daily counts of the field we define between the countries we want.
 
 We will start by defining a dictionary of countries, their labels and colors for their lines.
 
@@ -889,7 +885,7 @@ It is very important to note that the column of date of initial symptoms is not 
 
 Mexico has 32 states and as of now all of them have confirmed cases.
 
-To know how many cases each state has we use the `value_counts()` method on the `estado` column.
+To know how many cases each state has we will use the `value_counts()` method on the `estado` column.
 
 ```python
 print(df["estado"].value_counts())
@@ -940,14 +936,16 @@ We will use this value to calculate the percentages.
 total_cases = len(df)
 ```
 
-We pivot the table, we will use the gender as our columns and the state as our index.
+We will pivot the table, the gender will be our columns and the state wil be our index.
 
 ```python
 pivoted_df = df.pivot_table(
     index="estado", columns="sexo", aggfunc="count")
 ```
 
-From this MultiIndex `DataFrame` we will add two columns to the age column. These columns will have the total percentage of each state and gender.
+We will add two new columns to this `DataFrame`, one for each gender percentage. This way we will know the total percentage of gender by state.
+
+*Note: These new columns can be added to any other column. We choose the first one (edad).*
 
 ```python
 pivoted_df["edad", "female_percentage"] = np.round(
@@ -1059,11 +1057,11 @@ For what it's worth it resembles the confirmed cases curve. Thankfully we have t
 
 ### Age and Sex Distribution
 
-Knowing the age groups is very important and for this exercise we will bin our data and then group it by gender. We will use custom bins that wlil  hold values in steps of 10 (0-9, 10-19, 20-29 and so on.).
+Knowing the age groups is very important and for this exercise we will bin our data and then group it by gender. We will use custom bins that wlil  hold values in steps of 10 (0-9, 10-19, 20-29 and so on).
 
 On the 90-99 bin we will make an exception and define it has 90-120 since that age group has the least values of them all.
 
-We start by cCreating one `DataFrame` for each gender.
+We start by creating one `DataFrame` for each gender.
 
 ```python
 male_df = df[df["sexo"] == "MASCULINO"]
@@ -1100,7 +1098,7 @@ male_df = male_df.groupby(pd.cut(male_df["edad"], bins)).count()
 female_df = female_df.groupby(pd.cut(female_df["edad"], bins)).count()
 ```
 
-We create a 2 bar plots in the same axis, each plot will have the values for their respective `DataFrame`.
+We create 2 bar plots in the same axis, each plot will have the values for their respective `DataFrame`.
 
 ```python
 fig, ax = plt.subplots()
@@ -1158,4 +1156,4 @@ This dataset used to have 2 other fields; country of procedence and arrival date
 
 Getting clean data is not always easy and can discourage people from doing their own analysis. That's why I wanted to shore these scripts with you so you can accelerate your workflow and get interesting insights.
 
-There's still more to come!
+I hope you have enjoyed the examples for tahles and plots, you are always welcome to experiment and ask your questions in the issues tab.
