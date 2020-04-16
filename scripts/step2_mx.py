@@ -91,9 +91,9 @@ def plot_daily_growth(df):
     ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 
     # Add final customizations.
-    plt.title("Confirmed Cases Growth", pad=15)
     plt.legend(loc=2)
     plt.grid(linewidth=0.5)
+    plt.title("Confirmed Cases Growth", pad=15)
     plt.xlabel("Date (2020)", labelpad=15)
     plt.ylabel("Number of Confirmed Cases", labelpad=15)
 
@@ -161,10 +161,10 @@ def plot_age_groups(df):
     ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 
     # Add final customizations.
-    plt.title("Age and Sex Distribution", pad=15)
     plt.legend(["Male", "Female"], loc=2)
     plt.grid(linewidth=0.5)
     plt.xticks(range(len(labels)), labels)
+    plt.title("Age and Sex Distribution", pad=15)
     plt.xlabel("Age Range", labelpad=15)
     plt.ylabel("Confirmed Cases", labelpad=15)
 

@@ -95,9 +95,9 @@ Once this code is run we end up having a list similar to this one.
 
 ```python
 ["isodate", "country", "confirmed", "deaths", "recovered"]
-[2020-01-22 00:00:00, 'Afghanistan', 0, 0, 0]
-[2020-01-22 00:00:00, 'Albania', 0, 0, 0],
-[2020-01-22 00:00:00, 'Algeria', 0, 0, 0]
+[2020-01-22, 'Afghanistan', 0, 0, 0]
+[2020-01-22, 'Albania', 0, 0, 0],
+[2020-01-22, 'Algeria', 0, 0, 0]
 ```
 
 Each country will have zero values for each date we find. The drawback is that we will end with several rows with zero values but that's really easy fo filter out with `pandas`.
@@ -656,6 +656,62 @@ print(final_df)
 | United Arab Emirates |         6 |         3 |         5 |          4 |           5 |      23 |
 | United Kingdom       |         2 |         4 |         2 |          4 | 
 
+## Daily Global Growth
+
+Let's start the plots section with a straightforward one. We will plot the daily growth of confirmed cases, deaths and recoveries of all countries combined.
+
+We will filter out rows with zero confirmed cases.
+
+```python
+df = df[df["confirmed"] > 0]
+```
+
+Resample the data by day and sum the daily totals.
+
+```python
+resampled_df = df.resample("D").sum()
+```
+
+Create 3 line plots on the same axis, one for each category.
+
+```python
+fig, ax = plt.subplots()
+
+ax.plot(resampled_df.index,
+        resampled_df["confirmed"], label="Confirmed", color="gold")
+
+ax.plot(resampled_df.index,
+        resampled_df["deaths"], label="Deaths", color="lightblue")
+
+ax.plot(resampled_df.index,
+        resampled_df["recovered"], label="Recoveries", color="lime")
+```
+
+Customize tickers.
+
+```python
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+plt.grid(linewidth=0.5)
+plt.legend(loc=2)
+plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+plt.ylabel("Number of Cases", labelpad=15)
+plt.xlabel("Date (2020)", labelpad=15)
+
+plt.show()
+```
+
+![Daily Global Growth](./figs/daily_global.png)
+
+The data checks out, the confirmed cases growth is exponential.
+
 ## Mexican Data
 
 We start by loading our dataset and specifying the fifth column (`fecha_inicio_sintomas`) as datetime.
@@ -869,9 +925,9 @@ ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 Add final customizations.
 
 ```python
-plt.title("Confirmed Cases Growth", pad=15)
 plt.legend(loc=2)
 plt.grid(linewidth=0.5)
+plt.title("Confirmed Cases Growth", pad=15)
 plt.xlabel("Date (2020)", labelpad=15)
 plt.ylabel("Number of Confirmed Cases", labelpad=15)
 
@@ -962,10 +1018,10 @@ ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 Add final customizations.
 
 ```python
-plt.title("Age and Sex Distribution", pad=15)
 plt.legend(["Male", "Female"], loc=2)
 plt.grid(linewidth=0.5)
 plt.xticks(range(len(labels)), labels)
+plt.title("Age and Sex Distribution", pad=15)
 plt.xlabel("Age Range", labelpad=15)
 plt.ylabel("Confirmed Cases", labelpad=15)
 
