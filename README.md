@@ -10,7 +10,7 @@ The following are the summaries of the included scripts:
 
 * step2_mx.py - A Python script containing several functions to create plots and get insights from the Mexican dataset.
 
-## Requirements
+# Requirements
 
 This project uses the following Python libraries
 
@@ -255,7 +255,7 @@ with open("casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_fil
     print("PDF converted.")
 ```
 
-## Data Analysis
+# Data Analysis
 
 Now we have 2 CSV files ready to be analyzed and plotted, `global_data.csv` and `casos_confirmados.csv`.
 
@@ -542,7 +542,7 @@ print(filtered_df[[field, "difference", "change"]][-10:])
 
 Feel free to try this example with other country names, such as Italy, Spain or Iran.
 
-## Days from 100 to 3,200 Confirmed Cases
+### Days from 100 to 3,200 Confirmed Cases
 
 This one is quite interesting, we will know how many days it took to reach from 100 to 3,200 confirmed cases.
 
@@ -652,7 +652,7 @@ print(final_df)
 | United Arab Emirates |         6 |         3 |         5 |          4 |           5 |      23 |
 | United Kingdom       |         2 |         4 |         2 |          4 | 
 
-## Daily Global Growth
+### Daily Global Growth
 
 Let's start the plots section with a straightforward one. We will plot the daily growth of confirmed cases, deaths and recoveries of all countries combined.
 
@@ -706,7 +706,7 @@ plt.show()
 
 ![Daily Global Growth](./figs/daily_global_growth.png)
 
-## Daily Global Counts
+### Daily Global Counts
 
 This plot is simlar to the previous one, it will show us the daily counts of confirmed cases, deaths and recoveries for all the countries combined.
 
@@ -768,7 +768,7 @@ plt.show()
 
 ![Daily Global Count](./figs/daily_global_counts.png)
 
-## Daily Counts Comparison
+### Daily Counts Comparison
 
 This plot will compare the daily counts of the field we define between the countries we want.
 
@@ -1152,8 +1152,10 @@ And that's it for this dataset. We got as much information as we could from the 
 
 This dataset used to have 2 other fields; country of procedence and arrival date but they were removed for no reason.
 
-## Conclusion
+# Conclusion
 
 Getting clean data is not always easy and can discourage people from doing their own analysis. That's why I wanted to shore these scripts with you so you can accelerate your workflow and get interesting insights.
 
 I hope you have enjoyed the examples for tahles and plots, you are always welcome to experiment and ask your questions in the issues tab.
+
+[![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=20521425)
