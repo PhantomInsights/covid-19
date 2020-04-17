@@ -706,6 +706,50 @@ plt.show()
 
 ![Daily Global Growth](./figs/daily_global_growth.png)
 
+### Daily Growth for any Country
+
+This plot is very similar to the previous one, the only difference is that it shows the daily growth only for one country, in this example it will be the US.
+
+We filter out rows with zero confirmed cases and only select rows that belong to the country we defined.
+
+```python
+country = "US"
+df = df[(df["confirmed"] > 0) & (df["country"] == country)]
+```
+
+Create 3 line plots on the same axis, one for each field.
+
+```python
+fig, ax = plt.subplots()
+
+ax.plot(df.index, df["confirmed"], label="Confirmed", color="gold")
+ax.plot(df.index, df["deaths"], label="Deaths", color="lightblue")
+ax.plot(df.index, df["recovered"], label="Recoveries", color="lime")
+```
+
+We customize our tickers.
+
+```python
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+plt.grid(linewidth=0.5)
+plt.legend(loc=2)
+plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+plt.xlabel("Date (2020)", labelpad=15)
+plt.ylabel("Cumulative Count", labelpad=15)
+
+plt.show()
+```
+
+![Country Daily Growth](./figs/daily_country_growth.png)
+
 ### Daily Global Counts
 
 This plot is simlar to the previous one, it will show us the daily counts of confirmed cases, deaths and recoveries for all the countries combined.
@@ -826,6 +870,8 @@ plt.show()
 ```
 
 ![Daily Comparison](./figs/daily_comparison.png)
+
+If is fascinating how much insights we got from only 5 fields (date, country, confirmed, deaths and recoveries).
 
 ## Mexican Data
 
