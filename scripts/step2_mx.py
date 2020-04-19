@@ -1,5 +1,5 @@
 """
-This script includes several functions to generate plots and get insights from the MExican dataset.
+Generates various plots and insights from the Mexican dataset.
 """
 
 import matplotlib.dates as mdates
@@ -34,7 +34,7 @@ def get_confirmed_by_state(df):
     Parameters
     ----------
     df : pandas.DataFrame
-        A DataFrame containing Mexican data.
+        A DataFrame containing the Mexican data.
 
     """
 
@@ -46,7 +46,7 @@ def get_confirmed_by_state(df):
         index="estado", columns="sexo", aggfunc="count")
 
     # From this MultiIndex DataFrame we will add two columns to the age column.
-    # These columns will have the total percentage of each state and gender.
+    # These columns will have the total percentage by state and gender.
     pivoted_df["edad", "female_percentage"] = np.round(
         pivoted_df["edad", "FEMENINO"] / total_cases * 100, 2)
 
@@ -68,7 +68,7 @@ def plot_daily_growth(df):
     Parameters
     ----------
     df : pandas.DataFrame
-        A DataFrame containing Mexican data.
+        A DataFrame containing the Mexican data.
 
     """
 
@@ -84,7 +84,7 @@ def plot_daily_growth(df):
     ax.plot(grouped_df.index, grouped_df["cumsum"],
             label="Initial Symptoms", color="lime")
 
-    # Customize the tickers. The y-axis will be formatted with date and month in 7 day intervals.
+    # Ticker customizations. The y-axis will be formatted with date and month in 7 days intervals.
     ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
     ax.yaxis.set_major_locator(ticker.MaxNLocator())
@@ -106,7 +106,7 @@ def plot_age_groups(df):
     Parameters
     ----------
     df : pandas.DataFrame
-        A DataFrame containing Mexican data.
+        A DataFrame containing the Mexican data.
 
     """
 
@@ -156,7 +156,7 @@ def plot_age_groups(df):
         plt.text(bar2.get_x() + bar2.get_width()/2.0, height2,
                  "{:,}".format(height2), ha="center", va="bottom")
 
-    # Customize our tickers.
+    # Ticker customizations.
     ax.yaxis.set_major_locator(ticker.MaxNLocator())
     ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 

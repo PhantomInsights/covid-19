@@ -1,12 +1,14 @@
 # COVID-19
 
-This project contains scripts that collect and transform datasets of the COVID-19 pandemic for global and Mexican data. It explains the ETL and EDA process.
+This project contains scripts that collect and transform datasets of the COVID-19 pandemic for global and Mexican data. It also contains examples that explain the ETL and EDA process.
 
 The following are the summaries of the included scripts:
 
 * step1_global.py - A Python script that downloads and merges datasets from the Johns Hopkins repository.
 
-* step1_mx.py - A Python script that downloads a mexican government PDF file, cleans it and converts it to CSV.
+* step1_mx.py - A Python script that downloads a Mexican government PDF file, cleans it and converts it to CSV.
+
+* step2_global.py - A Python script containing several functions to create plots and get insights from the global dataset.
 
 * step2_mx.py - A Python script containing several functions to create plots and get insights from the Mexican dataset.
 
@@ -15,9 +17,9 @@ The following are the summaries of the included scripts:
 This project uses the following Python libraries
 
 * requests - For downloading PDF and CSV files.
-* BeautifulSoup - For locating the mexican government PDF file.
-* PyPDF2 - For reading the mexican government PDF file.
-* pandas - For performing Data Analysis.
+* BeautifulSoup - For locating the Mexican government PDF file.
+* PyPDF2 - For reading and parsing the Mexican government PDF file.
+* pandas - For performing data analysis.
 * NumPy - For fast matrix operations.
 * Matplotlib - For creating plots.
 * seaborn - Used to prettify Matplotlib plots.
@@ -46,11 +48,11 @@ CSV_FILES = {
 
 These CSV files have the same structure, the columns are the dates and the index are the countries/regions names.
 
-In my experience it is better to have a datetime index than a string one. This is because `pandas` has a great support for datetime indexes.
+In my experience it is better to have a datetime index than a string one. This is because `pandas` has a great support for time-series data.
 
-We have a small problem, we don't know how many columns we will have since they add a new one each day.
+We have a small problem though, we don't know how many columns we will have since they add a new one each day.
 
-What I did is to first 'scout' one of the CSV files and create a skeleton list that will then be filled with the real data.
+What we dill do is to first 'scout' one of the CSV files and create a skeleton list that will then be filled with the real data.
 
 ```python
 # Initialize the skeleton list with a header row.
@@ -156,7 +158,7 @@ Instead of that we will use `PyPDF2` and a custom algorithm to identify patterns
 
 We will start by creating a function that will locate this PDF file and download it to our computer.
 
-We will do a bit web scraping, using the `Requests` and `BeautifulSoup` duo.
+We will do a bit of web scraping, using the `Requests` and `BeautifulSoup` combo.
 
 ```python
 with requests.get(URL) as response:
@@ -198,7 +200,7 @@ We then start iterating over each page and extract the text. For the most part t
 
 I found out that CIUDAD DE MEXICO was written in 3 different ways. It has a new line character where it shouldn't be.
 
-With the following dictionary I'm able to locate similar errors and fix them.
+With the following dictionary we can locate similar errors and fix them.
 
 ```python
 FIX_STRINGS = [
@@ -259,7 +261,7 @@ with open("casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_fil
 
 Now we have 2 CSV files ready to be analyzed and plotted, `global_data.csv` and `casos_confirmados.csv`.
 
-We are going to use `pandas`, `NumPy`, `matplotlib` and `seaborn`. We will start by importing the required libraries and setting up the styles for our plots.
+We are going to use `pandas`, `NumPy`, `Matplotlib` and `seaborn`. We will start by importing the required libraries and setting up the styles for our plots.
 
 
 ```python
@@ -295,7 +297,7 @@ These styles will apply an elegant dark gray palette to our plots.
 
 ## Global Data
 
-We start by loading our dataset and specifying the first column as our index, this will turn it into a `datetimeindex` which is very handy when working with time series data.
+We start by loading our dataset and specifying the first column as our index, this will turn it into a `datetimeindex` which is very handy when working with time-series data.
 
 ```python
 df = pd.read_csv("global_data.csv", parse_dates=["isodate"], index_col=0)
@@ -365,7 +367,7 @@ df.describe()
 | 75%   |      541    |     7     |      32     |
 | max   |   607670    | 25832     |   78200     |
 
-This looks better and more accurate. On the next sections we will get interesting insights.
+This looks better and more accurate. On the next sections we will start producing interesting insights.
 
 ### Top 10 Countries by Confirmed Cases, Deaths & Recoveries
 
@@ -727,7 +729,7 @@ ax.plot(df.index, df["deaths"], label="Deaths", color="lightblue")
 ax.plot(df.index, df["recovered"], label="Recoveries", color="lime")
 ```
 
-We customize our tickers.
+Customize our tickers.
 
 ```python
 ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
@@ -871,7 +873,9 @@ plt.show()
 
 ![Daily Comparison](./figs/daily_comparison.png)
 
-If is fascinating how much insights we got from only 5 fields (date, country, confirmed, deaths and recoveries).
+If's fascinating how much insights we got from only 5 fields (date, country, confirmed, deaths and recoveries).
+
+This is the end for the global data section, coming next is the Mexican dataset.
 
 ## Mexican Data
 
@@ -1076,7 +1080,7 @@ ax.plot(grouped_df.index, grouped_df["cumsum"],
         label="Initial Symptoms", color="lime")
 ```
 
-Customize the tickers. The y-axis will be formatted with date and month in 7 day intervals.
+Customize our tickers. The y-axis will be formatted with date and month in 7 day intervals.
 
 ```python
 ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
