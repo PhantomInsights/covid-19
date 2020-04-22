@@ -215,7 +215,7 @@ def plot_global_daily_growth(df):
     # Add final customizations.
     plt.grid(linewidth=0.5)
     plt.legend(loc=2)
-    plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+    plt.title("Daily Confirmed Cases, Deaths & Recoveries Growth", pad=15)
     plt.xlabel("Date (2020)", labelpad=15)
     plt.ylabel("Cumulative Count", labelpad=15)
     plt.savefig("daily_global_growth.png", facecolor="#232b2b")
@@ -228,6 +228,9 @@ def plot_country_daily_growth(df, country):
     ----------
     df : pandas.DataFrame
         A DataFrame containing the global data.
+
+    country: str
+        The contry or region name.
 
     """
 
@@ -251,7 +254,7 @@ def plot_country_daily_growth(df, country):
     # Add final customizations.
     plt.grid(linewidth=0.5)
     plt.legend(loc=2)
-    plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+    plt.title("Daily Confirmed Cases, Deaths & Recoveries Growth", pad=15)
     plt.xlabel("Date (2020)", labelpad=15)
     plt.ylabel("Cumulative Count", labelpad=15)
     plt.savefig("daily_country_growth.png", facecolor="#232b2b")
@@ -299,10 +302,57 @@ def plot_global_daily_counts(df):
     # Add final customizations.
     plt.grid(linewidth=0.5)
     plt.legend(loc=2)
-    plt.title("Daily Confirmed Cases, Deaths & Recoveries", pad=15)
+    plt.title("Daily Confirmed Cases, Deaths & Recoveries Counts", pad=15)
     plt.xlabel("Date (2020)", labelpad=15)
     plt.ylabel("Daily Count", labelpad=15)
     plt.savefig("daily_global_counts.png", facecolor="#232b2b")
+
+
+def plot_country_daily_counts(df, country):
+    """Plots the daily counts for a specified country.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        A DataFrame containing the global data.
+
+    country: str
+        The contry or region name.
+
+    """
+
+    # Filter out rows with zero confirmed cases and only select rows that belong
+    # to the specified country.
+    df = df[(df["confirmed"] > 0) & (df["country"] == country)].copy()
+
+    # Add 3 new columns, one for each field counts.
+    df["confirmed_difference"] = df["confirmed"].diff()
+    df["deaths_difference"] = df["deaths"].diff()
+    df["recovered_difference"] = df["recovered"].diff()
+
+    # Create 3 line plots on the same axis, one for each field counts.
+    fig, ax = plt.subplots()
+
+    ax.plot(df.index, df["confirmed_difference"],
+            label="Confirmed", color="gold")
+    ax.plot(df.index, df["deaths_difference"],
+            label="Deaths", color="lightblue")
+    ax.plot(df.index, df["recovered_difference"],
+            label="Recoveries", color="lime")
+
+    # Customize tickers.
+    ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+    ax.yaxis.set_major_locator(ticker.MaxNLocator())
+    ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+    # Add final customizations.
+    plt.grid(linewidth=0.5)
+    plt.legend(loc=2)
+    plt.title("Daily Confirmed Cases, Deaths & Recoveries Counts", pad=15)
+    plt.xlabel("Date (2020)", labelpad=15)
+    plt.ylabel("Daily Count", labelpad=15)
+    plt.savefig("daily_country_counts.png", facecolor="#232b2b")
 
 
 def plot_daily_comparison(df, field):
@@ -359,4 +409,5 @@ if __name__ == "__main__":
     # plot_global_daily_growth(main_df)
     # plot_country_daily_growth(main_df, "US")
     # plot_global_daily_counts(main_df)
+    # plot_country_daily_counts(main_df, "US")
     # plot_daily_comparison(main_df, "deaths")

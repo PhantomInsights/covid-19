@@ -699,7 +699,7 @@ Add final customizations.
 ```python
 plt.grid(linewidth=0.5)
 plt.legend(loc=2)
-plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+plt.title("Daily Confirmed Cases, Deaths & Recoveries", pad=15)
 plt.xlabel("Date (2020)", labelpad=15)
 plt.ylabel("Cumulative Count", labelpad=15)
 
@@ -743,7 +743,7 @@ Add final customizations.
 ```python
 plt.grid(linewidth=0.5)
 plt.legend(loc=2)
-plt.title("Daily Confirmed Cases, Deaths and Recoveries", pad=15)
+plt.title("Daily Confirmed Cases, Deaths & Recoveries", pad=15)
 plt.xlabel("Date (2020)", labelpad=15)
 plt.ylabel("Cumulative Count", labelpad=15)
 
@@ -813,6 +813,61 @@ plt.show()
 ```
 
 ![Daily Global Count](./figs/daily_global_counts.png)
+
+### Daily Counts for any Country
+
+This plot is very similar to the previous one, the only difference is that it shows the daily counts only for one country, in this example it will be the US.
+
+We filter out rows with zero confirmed cases and only select rows that belong to the country we defined.
+
+```python
+country = "US"
+df = df[(df["confirmed"] > 0) & (df["country"] == country)].copy()
+```
+
+Add 3 new columns, one for each field counts.
+
+```python
+df["confirmed_difference"] = df["confirmed"].diff()
+df["deaths_difference"] = df["deaths"].diff()
+df["recovered_difference"] = df["recovered"].diff()
+```
+
+Create 3 line plots on the same axis, one for each field counts.
+
+```python
+fig, ax = plt.subplots()
+
+ax.plot(df.index, df["confirmed_difference"],
+        label="Confirmed", color="gold")
+ax.plot(df.index, df["deaths_difference"],
+        label="Deaths", color="lightblue")
+ax.plot(df.index, df["recovered_difference"],
+        label="Recoveries", color="lime")
+```
+
+Customize our tickers.
+
+```python
+ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+plt.grid(linewidth=0.5)
+plt.legend(loc=2)
+plt.title("Daily Confirmed Cases, Deaths & Recoveries Counts", pad=15)
+plt.xlabel("Date (2020)", labelpad=15)
+plt.ylabel("Daily Count", labelpad=15)
+
+plt.show()
+```
+
+![Country Daily Counts](./figs/daily_country_counts.png)
 
 ### Daily Counts Comparison
 
