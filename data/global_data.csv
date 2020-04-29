@@ -9420,7 +9420,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Trinidad and Tobago,0,0,0
 2020-03-12,Tunisia,7,0,0
 2020-03-12,Turkey,1,0,0
-2020-03-12,US,1663,40,12
+2020-03-12,US,1663,41,12
 2020-03-12,Uganda,0,0,0
 2020-03-12,Ukraine,1,0,0
 2020-03-12,United Arab Emirates,85,0,17
@@ -9545,7 +9545,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Malta,12,0,1
 2020-03-13,Mauritania,0,0,0
 2020-03-13,Mauritius,0,0,0
-2020-03-13,Mexico,12,0,4
+2020-03-13,Mexico,26,0,4
 2020-03-13,Moldova,6,0,0
 2020-03-13,Monaco,2,0,0
 2020-03-13,Mongolia,1,0,0
@@ -9605,7 +9605,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Trinidad and Tobago,0,0,0
 2020-03-13,Tunisia,16,0,0
 2020-03-13,Turkey,5,0,0
-2020-03-13,US,2179,47,12
+2020-03-13,US,2179,49,12
 2020-03-13,Uganda,0,0,0
 2020-03-13,Ukraine,3,1,0
 2020-03-13,United Arab Emirates,85,0,17
@@ -9730,7 +9730,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Malta,18,0,1
 2020-03-14,Mauritania,1,0,0
 2020-03-14,Mauritius,0,0,0
-2020-03-14,Mexico,26,0,4
+2020-03-14,Mexico,41,0,4
 2020-03-14,Moldova,12,0,0
 2020-03-14,Monaco,2,0,0
 2020-03-14,Mongolia,1,0,0
@@ -9790,7 +9790,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Trinidad and Tobago,2,0,0
 2020-03-14,Tunisia,18,0,0
 2020-03-14,Turkey,5,0,0
-2020-03-14,US,2727,54,12
+2020-03-14,US,2727,58,12
 2020-03-14,Uganda,0,0,0
 2020-03-14,Ukraine,3,1,0
 2020-03-14,United Arab Emirates,85,0,17
@@ -9915,7 +9915,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Malta,21,0,1
 2020-03-15,Mauritania,1,0,0
 2020-03-15,Mauritius,0,0,0
-2020-03-15,Mexico,41,0,4
+2020-03-15,Mexico,53,0,4
 2020-03-15,Moldova,23,0,0
 2020-03-15,Monaco,2,0,0
 2020-03-15,Mongolia,1,0,0
@@ -9975,7 +9975,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Trinidad and Tobago,2,0,0
 2020-03-15,Tunisia,18,0,0
 2020-03-15,Turkey,6,0,0
-2020-03-15,US,3499,63,12
+2020-03-15,US,3499,73,12
 2020-03-15,Uganda,0,0,0
 2020-03-15,Ukraine,3,1,0
 2020-03-15,United Arab Emirates,98,0,23
@@ -10100,7 +10100,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Malta,30,0,2
 2020-03-16,Mauritania,1,0,0
 2020-03-16,Mauritius,0,0,0
-2020-03-16,Mexico,53,0,4
+2020-03-16,Mexico,82,0,4
 2020-03-16,Moldova,23,0,0
 2020-03-16,Monaco,7,0,0
 2020-03-16,Mongolia,1,0,0
@@ -10160,7 +10160,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Trinidad and Tobago,4,0,0
 2020-03-16,Tunisia,20,0,0
 2020-03-16,Turkey,18,0,0
-2020-03-16,US,4632,85,17
+2020-03-16,US,4632,99,17
 2020-03-16,Uganda,0,0,0
 2020-03-16,Ukraine,7,1,0
 2020-03-16,United Arab Emirates,98,0,23
@@ -10285,7 +10285,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Malta,38,0,2
 2020-03-17,Mauritania,1,0,0
 2020-03-17,Mauritius,0,0,0
-2020-03-17,Mexico,82,0,4
+2020-03-17,Mexico,93,0,4
 2020-03-17,Moldova,30,0,1
 2020-03-17,Monaco,7,0,0
 2020-03-17,Mongolia,5,0,0
@@ -10345,7 +10345,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Trinidad and Tobago,5,0,0
 2020-03-17,Tunisia,24,0,0
 2020-03-17,Turkey,47,1,0
-2020-03-17,US,6421,108,17
+2020-03-17,US,6421,133,17
 2020-03-17,Uganda,0,0,0
 2020-03-17,Ukraine,14,2,0
 2020-03-17,United Arab Emirates,98,0,23
@@ -10470,7 +10470,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Malta,38,0,2
 2020-03-18,Mauritania,1,0,0
 2020-03-18,Mauritius,3,0,0
-2020-03-18,Mexico,93,0,4
+2020-03-18,Mexico,118,0,4
 2020-03-18,Moldova,30,1,1
 2020-03-18,Monaco,7,0,0
 2020-03-18,Mongolia,6,0,0
@@ -10530,7 +10530,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Trinidad and Tobago,7,0,0
 2020-03-18,Tunisia,29,0,0
 2020-03-18,Turkey,98,1,0
-2020-03-18,US,7783,118,105
+2020-03-18,US,7783,164,105
 2020-03-18,Uganda,0,0,0
 2020-03-18,Ukraine,14,2,0
 2020-03-18,United Arab Emirates,113,0,26
@@ -10655,7 +10655,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Malta,53,0,2
 2020-03-19,Mauritania,2,0,0
 2020-03-19,Mauritius,3,0,0
-2020-03-19,Mexico,118,1,4
+2020-03-19,Mexico,164,1,4
 2020-03-19,Moldova,49,1,1
 2020-03-19,Monaco,7,0,0
 2020-03-19,Mongolia,6,0,0
@@ -10715,7 +10715,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Trinidad and Tobago,9,0,0
 2020-03-19,Tunisia,39,1,0
 2020-03-19,Turkey,192,3,0
-2020-03-19,US,13747,200,121
+2020-03-19,US,13747,258,121
 2020-03-19,Uganda,0,0,0
 2020-03-19,Ukraine,16,2,0
 2020-03-19,United Arab Emirates,140,0,31
@@ -10840,7 +10840,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Malta,64,0,2
 2020-03-20,Mauritania,2,0,0
 2020-03-20,Mauritius,12,0,0
-2020-03-20,Mexico,164,1,4
+2020-03-20,Mexico,203,2,4
 2020-03-20,Moldova,66,1,1
 2020-03-20,Monaco,11,0,0
 2020-03-20,Mongolia,6,0,0
@@ -10900,7 +10900,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Trinidad and Tobago,9,0,0
 2020-03-20,Tunisia,54,1,0
 2020-03-20,Turkey,359,4,0
-2020-03-20,US,19273,244,147
+2020-03-20,US,19273,349,147
 2020-03-20,Uganda,0,0,0
 2020-03-20,Ukraine,29,3,0
 2020-03-20,United Arab Emirates,140,2,31
@@ -11025,7 +11025,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Malta,73,0,2
 2020-03-21,Mauritania,2,0,0
 2020-03-21,Mauritius,14,1,0
-2020-03-21,Mexico,203,2,4
+2020-03-21,Mexico,251,2,4
 2020-03-21,Moldova,80,1,1
 2020-03-21,Monaco,11,0,0
 2020-03-21,Mongolia,10,0,0
@@ -11085,7 +11085,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Trinidad and Tobago,49,0,1
 2020-03-21,Tunisia,60,1,0
 2020-03-21,Turkey,670,9,0
-2020-03-21,US,25600,307,176
+2020-03-21,US,25600,442,176
 2020-03-21,Uganda,1,0,0
 2020-03-21,Ukraine,47,3,1
 2020-03-21,United Arab Emirates,153,2,38
@@ -11210,7 +11210,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Malta,90,0,2
 2020-03-22,Mauritania,2,0,0
 2020-03-22,Mauritius,28,2,0
-2020-03-22,Mexico,251,2,4
+2020-03-22,Mexico,316,3,4
 2020-03-22,Moldova,94,1,1
 2020-03-22,Monaco,23,0,1
 2020-03-22,Mongolia,10,0,0
@@ -11270,7 +11270,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Trinidad and Tobago,50,0,1
 2020-03-22,Tunisia,75,3,1
 2020-03-22,Turkey,1236,30,0
-2020-03-22,US,33276,417,178
+2020-03-22,US,33276,586,178
 2020-03-22,Uganda,1,0,0
 2020-03-22,Ukraine,73,3,1
 2020-03-22,United Arab Emirates,153,2,38
@@ -11395,7 +11395,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Malta,107,0,2
 2020-03-23,Mauritania,2,0,0
 2020-03-23,Mauritius,36,2,0
-2020-03-23,Mexico,316,3,4
+2020-03-23,Mexico,367,4,4
 2020-03-23,Moldova,109,1,1
 2020-03-23,Monaco,23,0,1
 2020-03-23,Mongolia,10,0,0
@@ -11455,7 +11455,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Trinidad and Tobago,51,0,1
 2020-03-23,Tunisia,89,3,1
 2020-03-23,Turkey,1529,37,0
-2020-03-23,US,43843,557,178
+2020-03-23,US,43843,786,178
 2020-03-23,Uganda,9,0,0
 2020-03-23,Ukraine,73,3,1
 2020-03-23,United Arab Emirates,198,2,38
@@ -11580,7 +11580,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Malta,110,0,2
 2020-03-24,Mauritania,2,0,0
 2020-03-24,Mauritius,42,2,0
-2020-03-24,Mexico,367,4,4
+2020-03-24,Mexico,405,5,4
 2020-03-24,Moldova,125,1,2
 2020-03-24,Monaco,23,0,1
 2020-03-24,Mongolia,10,0,0
@@ -11640,7 +11640,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Trinidad and Tobago,57,0,0
 2020-03-24,Tunisia,114,4,1
 2020-03-24,Turkey,1872,44,0
-2020-03-24,US,53736,706,348
+2020-03-24,US,53736,1008,348
 2020-03-24,Uganda,9,0,0
 2020-03-24,Ukraine,97,3,1
 2020-03-24,United Arab Emirates,248,2,45
@@ -11765,7 +11765,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Malta,129,0,2
 2020-03-25,Mauritania,2,0,0
 2020-03-25,Mauritius,48,2,0
-2020-03-25,Mexico,405,5,4
+2020-03-25,Mexico,475,6,4
 2020-03-25,Moldova,149,1,2
 2020-03-25,Monaco,31,0,1
 2020-03-25,Mongolia,10,0,0
@@ -11825,7 +11825,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Trinidad and Tobago,60,1,0
 2020-03-25,Tunisia,173,5,2
 2020-03-25,Turkey,2433,59,26
-2020-03-25,US,65778,942,361
+2020-03-25,US,65778,1316,361
 2020-03-25,Uganda,14,0,0
 2020-03-25,Ukraine,145,5,1
 2020-03-25,United Arab Emirates,333,2,52
@@ -11950,7 +11950,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Malta,134,0,2
 2020-03-26,Mauritania,3,0,0
 2020-03-26,Mauritius,81,2,0
-2020-03-26,Mexico,475,6,4
+2020-03-26,Mexico,585,8,4
 2020-03-26,Moldova,177,1,2
 2020-03-26,Monaco,33,0,1
 2020-03-26,Mongolia,11,0,0
@@ -12010,7 +12010,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Trinidad and Tobago,65,1,0
 2020-03-26,Tunisia,197,6,2
 2020-03-26,Turkey,3629,75,26
-2020-03-26,US,83836,1209,681
+2020-03-26,US,83836,1726,681
 2020-03-26,Uganda,14,0,0
 2020-03-26,Ukraine,196,5,1
 2020-03-26,United Arab Emirates,333,2,52
@@ -12135,7 +12135,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Malta,139,0,2
 2020-03-27,Mauritania,3,0,0
 2020-03-27,Mauritius,94,2,0
-2020-03-27,Mexico,585,8,4
+2020-03-27,Mexico,717,12,4
 2020-03-27,Moldova,199,2,2
 2020-03-27,Monaco,42,0,1
 2020-03-27,Mongolia,11,0,0
@@ -12195,7 +12195,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Trinidad and Tobago,66,2,1
 2020-03-27,Tunisia,227,6,2
 2020-03-27,Turkey,5698,92,42
-2020-03-27,US,101657,1581,869
+2020-03-27,US,101657,2265,869
 2020-03-27,Uganda,23,0,0
 2020-03-27,Ukraine,310,5,5
 2020-03-27,United Arab Emirates,405,2,52
@@ -12320,7 +12320,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Malta,149,0,2
 2020-03-28,Mauritania,5,0,0
 2020-03-28,Mauritius,102,2,0
-2020-03-28,Mexico,717,12,4
+2020-03-28,Mexico,848,16,4
 2020-03-28,Moldova,231,2,2
 2020-03-28,Monaco,42,0,1
 2020-03-28,Mongolia,12,0,0
@@ -12380,7 +12380,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Trinidad and Tobago,74,3,1
 2020-03-28,Tunisia,278,8,2
 2020-03-28,Turkey,7402,108,70
-2020-03-28,US,121465,2026,1072
+2020-03-28,US,121465,2731,1072
 2020-03-28,Uganda,30,0,0
 2020-03-28,Ukraine,356,9,5
 2020-03-28,United Arab Emirates,468,2,52
@@ -12505,7 +12505,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Malta,151,0,2
 2020-03-29,Mauritania,5,0,2
 2020-03-29,Mauritius,107,3,0
-2020-03-29,Mexico,848,16,4
+2020-03-29,Mexico,993,20,4
 2020-03-29,Moldova,263,2,2
 2020-03-29,Monaco,46,1,1
 2020-03-29,Mongolia,12,0,0
@@ -12565,7 +12565,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Trinidad and Tobago,78,3,1
 2020-03-29,Tunisia,312,8,2
 2020-03-29,Turkey,9217,131,105
-2020-03-29,US,140909,2467,2665
+2020-03-29,US,140909,3420,2665
 2020-03-29,Uganda,33,0,0
 2020-03-29,Ukraine,475,10,6
 2020-03-29,United Arab Emirates,570,3,58
@@ -12690,7 +12690,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Malta,156,0,2
 2020-03-30,Mauritania,5,1,2
 2020-03-30,Mauritius,128,3,0
-2020-03-30,Mexico,993,20,35
+2020-03-30,Mexico,1094,28,35
 2020-03-30,Moldova,298,2,15
 2020-03-30,Monaco,49,1,1
 2020-03-30,Mongolia,12,0,2
@@ -12750,7 +12750,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Trinidad and Tobago,82,3,1
 2020-03-30,Tunisia,312,8,3
 2020-03-30,Turkey,10827,168,162
-2020-03-30,US,161831,2978,5644
+2020-03-30,US,161831,4192,5644
 2020-03-30,Uganda,33,0,0
 2020-03-30,Ukraine,548,13,8
 2020-03-30,United Arab Emirates,611,5,61
@@ -12875,7 +12875,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Malta,169,0,2
 2020-03-31,Mauritania,6,1,2
 2020-03-31,Mauritius,143,5,0
-2020-03-31,Mexico,1094,28,35
+2020-03-31,Mexico,1215,29,35
 2020-03-31,Moldova,353,4,18
 2020-03-31,Monaco,52,1,2
 2020-03-31,Mongolia,12,0,2
@@ -12935,7 +12935,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Trinidad and Tobago,87,3,1
 2020-03-31,Tunisia,394,10,3
 2020-03-31,Turkey,13531,214,243
-2020-03-31,US,188172,3874,7024
+2020-03-31,US,188172,5367,7024
 2020-03-31,Uganda,44,0,0
 2020-03-31,Ukraine,645,17,10
 2020-03-31,United Arab Emirates,664,6,61
@@ -13060,7 +13060,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Malta,188,0,2
 2020-04-01,Mauritania,6,1,2
 2020-04-01,Mauritius,161,6,0
-2020-04-01,Mexico,1215,29,35
+2020-04-01,Mexico,1378,37,35
 2020-04-01,Moldova,423,5,23
 2020-04-01,Monaco,55,1,2
 2020-04-01,Mongolia,14,0,2
@@ -13120,7 +13120,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Trinidad and Tobago,90,5,1
 2020-04-01,Tunisia,423,12,5
 2020-04-01,Turkey,15679,277,333
-2020-04-01,US,213242,4760,8474
+2020-04-01,US,213242,6501,8474
 2020-04-01,Uganda,44,0,0
 2020-04-01,Ukraine,794,20,13
 2020-04-01,United Arab Emirates,814,8,61
@@ -13245,7 +13245,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Malta,196,0,2
 2020-04-02,Mauritania,6,1,2
 2020-04-02,Mauritius,169,7,0
-2020-04-02,Mexico,1378,37,35
+2020-04-02,Mexico,1510,50,35
 2020-04-02,Moldova,505,6,23
 2020-04-02,Monaco,60,1,2
 2020-04-02,Mongolia,14,0,2
@@ -13305,7 +13305,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Trinidad and Tobago,94,5,1
 2020-04-02,Tunisia,455,14,5
 2020-04-02,Turkey,18135,356,415
-2020-04-02,US,243622,5929,9001
+2020-04-02,US,243622,7921,9001
 2020-04-02,Uganda,45,0,0
 2020-04-02,Ukraine,897,22,19
 2020-04-02,United Arab Emirates,1024,8,96
@@ -13430,7 +13430,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Malta,202,0,2
 2020-04-03,Mauritania,6,1,2
 2020-04-03,Mauritius,186,7,0
-2020-04-03,Mexico,1510,50,633
+2020-04-03,Mexico,1688,60,633
 2020-04-03,Moldova,591,8,26
 2020-04-03,Monaco,64,1,3
 2020-04-03,Mongolia,14,0,2
@@ -13490,7 +13490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Trinidad and Tobago,98,6,1
 2020-04-03,Tunisia,495,18,5
 2020-04-03,Turkey,20921,425,484
-2020-04-03,US,275367,7090,9707
+2020-04-03,US,275367,9246,9707
 2020-04-03,Uganda,48,0,0
 2020-04-03,Ukraine,1072,27,22
 2020-04-03,United Arab Emirates,1264,9,108
@@ -13615,7 +13615,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Malta,213,0,2
 2020-04-04,Mauritania,6,1,2
 2020-04-04,Mauritius,196,7,7
-2020-04-04,Mexico,1688,60,633
+2020-04-04,Mexico,1890,79,633
 2020-04-04,Moldova,752,12,29
 2020-04-04,Monaco,66,1,3
 2020-04-04,Mongolia,14,0,2
@@ -13675,7 +13675,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Trinidad and Tobago,103,6,1
 2020-04-04,Tunisia,553,18,5
 2020-04-04,Turkey,23934,501,786
-2020-04-04,US,308650,8408,14652
+2020-04-04,US,308650,10855,14652
 2020-04-04,Uganda,48,0,0
 2020-04-04,Ukraine,1225,32,25
 2020-04-04,United Arab Emirates,1505,10,125
@@ -13800,7 +13800,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Malta,227,0,5
 2020-04-05,Mauritania,6,1,2
 2020-04-05,Mauritius,227,7,7
-2020-04-05,Mexico,1890,79,633
+2020-04-05,Mexico,2143,94,633
 2020-04-05,Moldova,864,15,30
 2020-04-05,Monaco,73,1,3
 2020-04-05,Mongolia,14,0,2
@@ -13860,7 +13860,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Trinidad and Tobago,104,7,1
 2020-04-05,Tunisia,574,22,5
 2020-04-05,Turkey,27069,574,1042
-2020-04-05,US,336802,9619,17448
+2020-04-05,US,336802,12375,17448
 2020-04-05,Uganda,52,0,0
 2020-04-05,Ukraine,1308,37,28
 2020-04-05,United Arab Emirates,1799,10,144
@@ -13985,7 +13985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Malta,241,0,5
 2020-04-06,Mauritania,6,1,2
 2020-04-06,Mauritius,244,7,7
-2020-04-06,Mexico,2143,94,633
+2020-04-06,Mexico,2439,125,633
 2020-04-06,Moldova,965,19,37
 2020-04-06,Monaco,77,1,4
 2020-04-06,Mongolia,15,0,2
@@ -14045,7 +14045,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Trinidad and Tobago,105,8,1
 2020-04-06,Tunisia,596,22,5
 2020-04-06,Turkey,30217,649,1326
-2020-04-06,US,366317,10783,19581
+2020-04-06,US,366317,13894,19581
 2020-04-06,Uganda,52,0,0
 2020-04-06,Ukraine,1319,38,28
 2020-04-06,United Arab Emirates,2076,11,167
@@ -14170,7 +14170,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Malta,293,0,5
 2020-04-07,Mauritania,6,1,2
 2020-04-07,Mauritius,268,7,8
-2020-04-07,Mexico,2439,125,633
+2020-04-07,Mexico,2785,141,633
 2020-04-07,Moldova,1056,22,40
 2020-04-07,Monaco,79,1,4
 2020-04-07,Mongolia,15,0,4
@@ -14230,7 +14230,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Trinidad and Tobago,107,8,1
 2020-04-07,Tunisia,623,23,25
 2020-04-07,Turkey,34109,725,1582
-2020-04-07,US,397121,12794,21763
+2020-04-07,US,397121,16191,21763
 2020-04-07,Uganda,52,0,0
 2020-04-07,Ukraine,1462,45,28
 2020-04-07,United Arab Emirates,2359,12,186
@@ -14355,7 +14355,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Malta,299,1,16
 2020-04-08,Mauritania,6,1,2
 2020-04-08,Mauritius,273,7,19
-2020-04-08,Mexico,2785,141,633
+2020-04-08,Mexico,3181,174,633
 2020-04-08,Moldova,1174,27,40
 2020-04-08,Monaco,81,1,4
 2020-04-08,Mongolia,16,0,4
@@ -14415,7 +14415,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Trinidad and Tobago,107,8,1
 2020-04-08,Tunisia,628,24,25
 2020-04-08,Turkey,38226,812,1846
-2020-04-08,US,428654,14704,23559
+2020-04-08,US,428654,18270,23559
 2020-04-08,Uganda,53,0,0
 2020-04-08,Ukraine,1668,52,35
 2020-04-08,United Arab Emirates,2659,12,239
@@ -14540,7 +14540,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Malta,337,2,16
 2020-04-09,Mauritania,7,1,2
 2020-04-09,Mauritius,314,7,23
-2020-04-09,Mexico,3181,174,633
+2020-04-09,Mexico,3441,194,633
 2020-04-09,Moldova,1289,29,50
 2020-04-09,Monaco,84,1,5
 2020-04-09,Mongolia,16,0,4
@@ -14600,7 +14600,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Trinidad and Tobago,109,8,1
 2020-04-09,Tunisia,643,25,25
 2020-04-09,Turkey,42282,908,2142
-2020-04-09,US,462780,16544,25410
+2020-04-09,US,462780,20255,25410
 2020-04-09,Uganda,53,0,0
 2020-04-09,Ukraine,1892,57,45
 2020-04-09,United Arab Emirates,2990,14,268
@@ -14725,7 +14725,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Malta,350,2,16
 2020-04-10,Mauritania,7,1,2
 2020-04-10,Mauritius,318,9,23
-2020-04-10,Mexico,3441,194,633
+2020-04-10,Mexico,3844,233,633
 2020-04-10,Moldova,1438,29,56
 2020-04-10,Monaco,90,1,5
 2020-04-10,Mongolia,16,0,4
@@ -14785,7 +14785,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Trinidad and Tobago,109,8,1
 2020-04-10,Tunisia,671,25,25
 2020-04-10,Turkey,47029,1006,2423
-2020-04-10,US,496535,18595,28790
+2020-04-10,US,496535,22333,28790
 2020-04-10,Uganda,53,0,0
 2020-04-10,Ukraine,2203,69,61
 2020-04-10,United Arab Emirates,3360,16,418
@@ -14910,7 +14910,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Malta,370,3,16
 2020-04-11,Mauritania,7,1,2
 2020-04-11,Mauritius,319,9,28
-2020-04-11,Mexico,3844,233,633
+2020-04-11,Mexico,4219,273,633
 2020-04-11,Moldova,1560,30,75
 2020-04-11,Monaco,92,1,5
 2020-04-11,Mongolia,16,0,4
@@ -14970,7 +14970,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Trinidad and Tobago,112,8,12
 2020-04-11,Tunisia,685,28,43
 2020-04-11,Turkey,52167,1101,2965
-2020-04-11,US,526396,20471,31270
+2020-04-11,US,526396,24342,31270
 2020-04-11,Uganda,53,0,4
 2020-04-11,Ukraine,2511,73,79
 2020-04-11,United Arab Emirates,3736,20,588
@@ -15016,7 +15016,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Cabo Verde,8,1,1
 2020-04-12,Cambodia,122,0,77
 2020-04-12,Cameroon,820,12,98
-2020-04-12,Canada,24298,714,7123
+2020-04-12,Canada,24299,714,7123
 2020-04-12,Central African Republic,8,0,0
 2020-04-12,Chad,18,0,2
 2020-04-12,Chile,7213,80,2059
@@ -15095,7 +15095,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Malta,378,3,44
 2020-04-12,Mauritania,7,1,2
 2020-04-12,Mauritius,324,9,42
-2020-04-12,Mexico,4219,273,1772
+2020-04-12,Mexico,4661,296,1772
 2020-04-12,Moldova,1662,31,94
 2020-04-12,Monaco,93,1,6
 2020-04-12,Mongolia,16,0,4
@@ -15155,7 +15155,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Trinidad and Tobago,113,8,16
 2020-04-12,Tunisia,707,31,43
 2020-04-12,Turkey,56956,1198,3446
-2020-04-12,US,555313,22029,32988
+2020-04-12,US,555313,26086,32988
 2020-04-12,Uganda,54,0,4
 2020-04-12,Ukraine,2777,83,89
 2020-04-12,United Arab Emirates,4123,22,680
@@ -15201,7 +15201,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Cabo Verde,10,1,1
 2020-04-13,Cambodia,122,0,77
 2020-04-13,Cameroon,820,12,98
-2020-04-13,Canada,25679,779,7758
+2020-04-13,Canada,25680,781,7758
 2020-04-13,Central African Republic,11,0,3
 2020-04-13,Chad,23,0,2
 2020-04-13,Chile,7525,82,2367
@@ -15280,7 +15280,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Malta,384,3,44
 2020-04-13,Mauritania,7,1,2
 2020-04-13,Mauritius,324,9,42
-2020-04-13,Mexico,4661,296,1843
+2020-04-13,Mexico,5014,332,1843
 2020-04-13,Moldova,1712,35,107
 2020-04-13,Monaco,93,1,6
 2020-04-13,Mongolia,17,0,4
@@ -15340,7 +15340,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Trinidad and Tobago,113,8,16
 2020-04-13,Tunisia,726,34,43
 2020-04-13,Turkey,61049,1296,3957
-2020-04-13,US,580619,23538,43482
+2020-04-13,US,580619,27870,43482
 2020-04-13,Uganda,54,0,7
 2020-04-13,Ukraine,3102,93,97
 2020-04-13,United Arab Emirates,4521,25,852
@@ -15386,7 +15386,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Cabo Verde,11,1,1
 2020-04-14,Cambodia,122,0,91
 2020-04-14,Cameroon,848,14,130
-2020-04-14,Canada,27034,899,8210
+2020-04-14,Canada,27035,901,8210
 2020-04-14,Central African Republic,11,0,4
 2020-04-14,Chad,23,0,2
 2020-04-14,Chile,7917,92,2646
@@ -15415,7 +15415,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Ethiopia,82,3,14
 2020-04-14,Fiji,16,0,0
 2020-04-14,Finland,3161,64,300
-2020-04-14,France,131361,15748,29098
+2020-04-14,France,130365,15748,29098
 2020-04-14,Gabon,57,1,1
 2020-04-14,Gambia,9,1,2
 2020-04-14,Georgia,300,3,69
@@ -15465,7 +15465,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Malta,393,3,44
 2020-04-14,Mauritania,7,1,2
 2020-04-14,Mauritius,324,9,51
-2020-04-14,Mexico,5014,332,1964
+2020-04-14,Mexico,5399,406,1964
 2020-04-14,Moldova,1934,40,134
 2020-04-14,Monaco,93,1,6
 2020-04-14,Mongolia,30,0,5
@@ -15525,7 +15525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Trinidad and Tobago,113,8,17
 2020-04-14,Tunisia,747,34,43
 2020-04-14,Turkey,65111,1403,4799
-2020-04-14,US,607670,25843,47763
+2020-04-14,US,607670,30262,47763
 2020-04-14,Uganda,55,0,8
 2020-04-14,Ukraine,3372,98,119
 2020-04-14,United Arab Emirates,4933,28,933
@@ -15571,7 +15571,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Cabo Verde,56,1,1
 2020-04-15,Cambodia,122,0,96
 2020-04-15,Cameroon,848,17,165
-2020-04-15,Canada,28208,1006,8966
+2020-04-15,Canada,28209,1008,8966
 2020-04-15,Central African Republic,12,0,4
 2020-04-15,Chad,23,0,2
 2020-04-15,Chile,8273,94,2937
@@ -15600,7 +15600,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Ethiopia,85,3,15
 2020-04-15,Fiji,16,0,0
 2020-04-15,Finland,3237,72,300
-2020-04-15,France,134582,17188,31470
+2020-04-15,France,133585,17188,31470
 2020-04-15,Gabon,80,1,4
 2020-04-15,Gambia,9,1,2
 2020-04-15,Georgia,306,3,71
@@ -15650,7 +15650,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Malta,399,3,44
 2020-04-15,Mauritania,7,1,2
 2020-04-15,Mauritius,324,9,65
-2020-04-15,Mexico,5399,406,2125
+2020-04-15,Mexico,5847,449,2125
 2020-04-15,Moldova,2049,46,171
 2020-04-15,Monaco,93,3,12
 2020-04-15,Mongolia,30,0,5
@@ -15710,7 +15710,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Trinidad and Tobago,114,8,19
 2020-04-15,Tunisia,780,35,43
 2020-04-15,Turkey,69392,1518,5674
-2020-04-15,US,636350,28338,52096
+2020-04-15,US,636350,32734,52096
 2020-04-15,Uganda,55,0,12
 2020-04-15,Ukraine,3764,108,143
 2020-04-15,United Arab Emirates,5365,33,1034
@@ -15756,7 +15756,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Cabo Verde,56,1,1
 2020-04-16,Cambodia,122,0,98
 2020-04-16,Cameroon,996,22,164
-2020-04-16,Canada,30808,1257,9698
+2020-04-16,Canada,30809,1259,9698
 2020-04-16,Central African Republic,12,0,4
 2020-04-16,Chad,27,0,5
 2020-04-16,Chile,8807,105,3299
@@ -15785,7 +15785,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Ethiopia,92,3,15
 2020-04-16,Fiji,17,0,0
 2020-04-16,Finland,3369,75,1700
-2020-04-16,France,147091,17941,33327
+2020-04-16,France,146075,17941,33327
 2020-04-16,Gabon,80,1,4
 2020-04-16,Gambia,9,1,2
 2020-04-16,Georgia,348,3,76
@@ -15835,7 +15835,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Malta,412,3,82
 2020-04-16,Mauritania,7,1,2
 2020-04-16,Mauritius,324,9,81
-2020-04-16,Mexico,5847,449,2125
+2020-04-16,Mexico,6297,486,2125
 2020-04-16,Moldova,2154,54,235
 2020-04-16,Monaco,93,3,12
 2020-04-16,Mongolia,31,0,5
@@ -15895,7 +15895,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Trinidad and Tobago,114,8,20
 2020-04-16,Tunisia,822,37,43
 2020-04-16,Turkey,74193,1643,7089
-2020-04-16,US,667592,32930,54703
+2020-04-16,US,667592,34827,54703
 2020-04-16,Uganda,55,0,20
 2020-04-16,Ukraine,4161,116,186
 2020-04-16,United Arab Emirates,5825,35,1095
@@ -15941,7 +15941,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Cabo Verde,56,1,1
 2020-04-17,Cambodia,122,0,98
 2020-04-17,Cameroon,996,22,164
-2020-04-17,Canada,32813,1354,10545
+2020-04-17,Canada,32814,1356,10545
 2020-04-17,Central African Republic,12,0,4
 2020-04-17,Chad,27,0,5
 2020-04-17,Chile,9252,116,3621
@@ -15970,7 +15970,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Ethiopia,96,3,15
 2020-04-17,Fiji,17,0,0
 2020-04-17,Finland,3489,82,1700
-2020-04-17,France,149130,18703,35006
+2020-04-17,France,148084,18703,35006
 2020-04-17,Gabon,108,1,7
 2020-04-17,Gambia,9,1,2
 2020-04-17,Georgia,370,3,79
@@ -16020,7 +16020,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Malta,422,3,91
 2020-04-17,Mauritania,7,1,2
 2020-04-17,Mauritius,324,9,108
-2020-04-17,Mexico,6297,486,2125
+2020-04-17,Mexico,6875,546,2125
 2020-04-17,Moldova,2264,56,276
 2020-04-17,Monaco,94,3,20
 2020-04-17,Mongolia,31,0,5
@@ -16080,7 +16080,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Trinidad and Tobago,114,8,20
 2020-04-17,Tunisia,864,37,43
 2020-04-17,Turkey,78546,1769,8631
-2020-04-17,US,699706,36787,58545
+2020-04-17,US,699706,37411,58545
 2020-04-17,Uganda,56,0,20
 2020-04-17,Ukraine,4662,125,246
 2020-04-17,United Arab Emirates,6302,37,1188
@@ -16102,7 +16102,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Antigua and Barbuda,23,3,3
 2020-04-18,Argentina,2758,129,685
 2020-04-18,Armenia,1248,20,523
-2020-04-18,Australia,6547,67,4124
+2020-04-18,Australia,6568,67,4124
 2020-04-18,Austria,14671,443,10214
 2020-04-18,Azerbaijan,1373,18,590
 2020-04-18,Bahamas,55,9,10
@@ -16126,7 +16126,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Cabo Verde,58,1,1
 2020-04-18,Cambodia,122,0,103
 2020-04-18,Cameroon,1017,22,177
-2020-04-18,Canada,34355,1399,10964
+2020-04-18,Canada,34356,1401,10964
 2020-04-18,Central African Republic,12,0,4
 2020-04-18,Chad,33,0,8
 2020-04-18,Chile,9730,126,4035
@@ -16155,7 +16155,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Ethiopia,105,3,16
 2020-04-18,Fiji,17,0,0
 2020-04-18,Finland,3681,90,1700
-2020-04-18,France,149149,19345,36587
+2020-04-18,France,148086,19345,36587
 2020-04-18,Gabon,108,1,7
 2020-04-18,Gambia,9,1,2
 2020-04-18,Georgia,388,4,86
@@ -16205,7 +16205,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Malta,426,3,99
 2020-04-18,Mauritania,7,1,2
 2020-04-18,Mauritius,325,9,180
-2020-04-18,Mexico,6875,546,2125
+2020-04-18,Mexico,7497,650,2125
 2020-04-18,Moldova,2378,57,391
 2020-04-18,Monaco,94,3,22
 2020-04-18,Mongolia,31,0,5
@@ -16265,7 +16265,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Trinidad and Tobago,114,8,21
 2020-04-18,Tunisia,864,37,43
 2020-04-18,Turkey,82329,1890,10453
-2020-04-18,US,732197,38664,64840
+2020-04-18,US,732197,39753,64840
 2020-04-18,Uganda,55,0,22
 2020-04-18,Ukraine,5106,133,275
 2020-04-18,United Arab Emirates,6302,37,1188
@@ -16287,7 +16287,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Antigua and Barbuda,23,3,3
 2020-04-19,Argentina,2839,132,709
 2020-04-19,Armenia,1291,20,545
-2020-04-19,Australia,6547,67,4124
+2020-04-19,Australia,6610,67,4124
 2020-04-19,Austria,14749,452,10501
 2020-04-19,Azerbaijan,1398,19,712
 2020-04-19,Bahamas,55,9,10
@@ -16311,7 +16311,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Cabo Verde,61,1,1
 2020-04-19,Cambodia,122,0,105
 2020-04-19,Cameroon,1017,42,305
-2020-04-19,Canada,35632,1563,11847
+2020-04-19,Canada,35633,1565,11847
 2020-04-19,Central African Republic,12,0,4
 2020-04-19,Chad,33,0,8
 2020-04-19,Chile,10088,133,4338
@@ -16340,7 +16340,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Ethiopia,108,3,16
 2020-04-19,Fiji,17,0,0
 2020-04-19,Finland,3783,94,1700
-2020-04-19,France,154097,19744,37183
+2020-04-19,France,153011,19744,37183
 2020-04-19,Gabon,109,1,7
 2020-04-19,Gambia,10,1,2
 2020-04-19,Georgia,394,4,93
@@ -16390,7 +16390,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Malta,427,3,118
 2020-04-19,Mauritania,7,1,6
 2020-04-19,Mauritius,328,9,208
-2020-04-19,Mexico,7497,650,2627
+2020-04-19,Mexico,8261,686,2627
 2020-04-19,Moldova,2472,67,457
 2020-04-19,Monaco,94,3,22
 2020-04-19,Mongolia,32,0,7
@@ -16450,7 +16450,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Trinidad and Tobago,114,8,21
 2020-04-19,Tunisia,879,38,43
 2020-04-19,Turkey,86306,2017,11976
-2020-04-19,US,758809,40661,70337
+2020-04-19,US,758809,40945,70337
 2020-04-19,Uganda,55,0,28
 2020-04-19,Ukraine,5449,141,347
 2020-04-19,United Arab Emirates,6781,41,1286
@@ -16472,7 +16472,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Antigua and Barbuda,23,3,3
 2020-04-20,Argentina,2941,136,737
 2020-04-20,Armenia,1339,22,580
-2020-04-20,Australia,6547,67,4124
+2020-04-20,Australia,6623,67,4291
 2020-04-20,Austria,14795,470,10631
 2020-04-20,Azerbaijan,1436,19,791
 2020-04-20,Bahamas,60,9,11
@@ -16496,7 +16496,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Cabo Verde,67,1,1
 2020-04-20,Cambodia,122,0,107
 2020-04-20,Cameroon,1163,42,305
-2020-04-20,Canada,37657,1725,12543
+2020-04-20,Canada,37658,1727,12543
 2020-04-20,Central African Republic,12,0,4
 2020-04-20,Chad,33,0,8
 2020-04-20,Chile,10507,139,4676
@@ -16525,7 +16525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Ethiopia,111,3,16
 2020-04-20,Fiji,18,0,3
 2020-04-20,Finland,3868,98,2000
-2020-04-20,France,156480,20292,38036
+2020-04-20,France,155393,20292,38036
 2020-04-20,Gabon,120,1,7
 2020-04-20,Gambia,10,1,2
 2020-04-20,Georgia,402,4,95
@@ -16575,7 +16575,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Malta,431,3,126
 2020-04-20,Mauritania,7,1,6
 2020-04-20,Mauritius,328,9,224
-2020-04-20,Mexico,8261,686,2627
+2020-04-20,Mexico,8772,712,2627
 2020-04-20,Moldova,2548,70,457
 2020-04-20,Monaco,94,3,23
 2020-04-20,Mongolia,33,0,7
@@ -16635,7 +16635,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Trinidad and Tobago,114,8,22
 2020-04-20,Tunisia,884,38,148
 2020-04-20,Turkey,90980,2140,13430
-2020-04-20,US,784326,42094,72329
+2020-04-20,US,784326,42659,72329
 2020-04-20,Uganda,56,0,38
 2020-04-20,Ukraine,5710,151,359
 2020-04-20,United Arab Emirates,7265,43,1360
@@ -16657,7 +16657,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Antigua and Barbuda,23,3,7
 2020-04-21,Argentina,3031,147,840
 2020-04-21,Armenia,1401,24,609
-2020-04-21,Australia,6547,67,4124
+2020-04-21,Australia,6645,67,4695
 2020-04-21,Austria,14873,491,10971
 2020-04-21,Azerbaijan,1480,20,865
 2020-04-21,Bahamas,65,9,12
@@ -16681,7 +16681,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Cabo Verde,68,1,1
 2020-04-21,Cambodia,122,0,110
 2020-04-21,Cameroon,1163,43,329
-2020-04-21,Canada,39401,1908,13188
+2020-04-21,Canada,39402,1910,13188
 2020-04-21,Central African Republic,14,0,10
 2020-04-21,Chad,33,0,8
 2020-04-21,Chile,10832,147,4969
@@ -16710,7 +16710,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Ethiopia,114,3,16
 2020-04-21,Fiji,18,0,3
 2020-04-21,Finland,4014,141,2000
-2020-04-21,France,159297,20829,39819
+2020-04-21,France,158168,20829,39819
 2020-04-21,Gabon,156,1,16
 2020-04-21,Gambia,10,1,2
 2020-04-21,Georgia,408,4,97
@@ -16760,7 +16760,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Malta,443,3,150
 2020-04-21,Mauritania,7,1,6
 2020-04-21,Mauritius,328,9,243
-2020-04-21,Mexico,8772,712,2627
+2020-04-21,Mexico,9501,857,2627
 2020-04-21,Moldova,2614,72,505
 2020-04-21,Monaco,94,3,26
 2020-04-21,Mongolia,34,0,8
@@ -16820,7 +16820,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Trinidad and Tobago,115,8,28
 2020-04-21,Tunisia,884,38,148
 2020-04-21,Turkey,95591,2259,14918
-2020-04-21,US,823786,44845,75204
+2020-04-21,US,811865,45086,75204
 2020-04-21,Uganda,61,0,38
 2020-04-21,Ukraine,6125,161,367
 2020-04-21,United Arab Emirates,7755,46,1443
@@ -16834,3 +16834,1113 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Yemen,1,0,0
 2020-04-21,Zambia,70,3,35
 2020-04-21,Zimbabwe,28,3,2
+2020-04-22,Afghanistan,1176,40,166
+2020-04-22,Albania,634,27,356
+2020-04-22,Algeria,2910,402,1204
+2020-04-22,Andorra,723,37,309
+2020-04-22,Angola,25,2,6
+2020-04-22,Antigua and Barbuda,24,3,10
+2020-04-22,Argentina,3144,152,872
+2020-04-22,Armenia,1473,24,633
+2020-04-22,Australia,6652,67,4932
+2020-04-22,Austria,14925,510,11328
+2020-04-22,Azerbaijan,1518,20,907
+2020-04-22,Bahamas,65,9,12
+2020-04-22,Bahrain,2027,7,1026
+2020-04-22,Bangladesh,3772,120,92
+2020-04-22,Barbados,75,5,25
+2020-04-22,Belarus,7281,58,769
+2020-04-22,Belgium,41889,6262,9433
+2020-04-22,Belize,18,2,2
+2020-04-22,Benin,54,1,27
+2020-04-22,Bhutan,6,0,2
+2020-04-22,Bolivia,609,37,44
+2020-04-22,Bosnia and Herzegovina,1368,53,460
+2020-04-22,Botswana,22,1,0
+2020-04-22,Brazil,45757,2906,25318
+2020-04-22,Brunei,138,1,117
+2020-04-22,Bulgaria,1024,49,174
+2020-04-22,Burkina Faso,609,39,389
+2020-04-22,Burma,123,5,7
+2020-04-22,Burundi,11,1,4
+2020-04-22,Cabo Verde,73,1,1
+2020-04-22,Cambodia,122,0,110
+2020-04-22,Cameroon,1163,43,397
+2020-04-22,Canada,41663,2078,14454
+2020-04-22,Central African Republic,14,0,10
+2020-04-22,Chad,33,0,8
+2020-04-22,Chile,11296,160,5386
+2020-04-22,China,83868,4636,77861
+2020-04-22,Colombia,4356,206,870
+2020-04-22,Congo (Brazzaville),186,6,16
+2020-04-22,Congo (Kinshasa),359,25,45
+2020-04-22,Costa Rica,681,6,180
+2020-04-22,Cote d'Ivoire,952,14,310
+2020-04-22,Croatia,1950,48,869
+2020-04-22,Cuba,1189,40,341
+2020-04-22,Cyprus,790,13,98
+2020-04-22,Czechia,7132,208,1989
+2020-04-22,Denmark,8108,384,5276
+2020-04-22,Diamond Princess,712,13,644
+2020-04-22,Djibouti,974,2,183
+2020-04-22,Dominica,16,0,9
+2020-04-22,Dominican Republic,5300,260,581
+2020-04-22,Ecuador,10850,537,1262
+2020-04-22,Egypt,3659,276,935
+2020-04-22,El Salvador,237,7,63
+2020-04-22,Equatorial Guinea,84,1,7
+2020-04-22,Eritrea,39,0,6
+2020-04-22,Estonia,1559,44,184
+2020-04-22,Eswatini,31,1,8
+2020-04-22,Ethiopia,116,3,21
+2020-04-22,Fiji,18,0,8
+2020-04-22,Finland,4129,149,2000
+2020-04-22,France,155980,21373,41326
+2020-04-22,Gabon,166,1,24
+2020-04-22,Gambia,10,1,2
+2020-04-22,Georgia,416,5,107
+2020-04-22,Germany,150648,5279,99400
+2020-04-22,Ghana,1154,9,99
+2020-04-22,Greece,2408,121,577
+2020-04-22,Grenada,15,0,6
+2020-04-22,Guatemala,316,8,24
+2020-04-22,Guinea,761,6,164
+2020-04-22,Guinea-Bissau,50,0,3
+2020-04-22,Guyana,67,7,9
+2020-04-22,Haiti,62,4,2
+2020-04-22,Holy See,9,0,2
+2020-04-22,Honduras,510,46,30
+2020-04-22,Hungary,2168,225,295
+2020-04-22,Iceland,1785,10,1462
+2020-04-22,India,21370,681,4370
+2020-04-22,Indonesia,7418,635,913
+2020-04-22,Iran,85996,5391,63113
+2020-04-22,Iraq,1631,83,1146
+2020-04-22,Ireland,16671,769,9233
+2020-04-22,Israel,14498,189,5215
+2020-04-22,Italy,187327,25085,54543
+2020-04-22,Jamaica,233,6,27
+2020-04-22,Japan,11512,281,1356
+2020-04-22,Jordan,435,7,315
+2020-04-22,Kazakhstan,2135,19,515
+2020-04-22,Kenya,303,14,74
+2020-04-22,"Korea, South",10694,238,8277
+2020-04-22,Kosovo,510,12,93
+2020-04-22,Kuwait,2248,13,443
+2020-04-22,Kyrgyzstan,612,7,254
+2020-04-22,Laos,19,0,4
+2020-04-22,Latvia,761,11,133
+2020-04-22,Lebanon,682,22,113
+2020-04-22,Liberia,101,8,20
+2020-04-22,Libya,59,1,15
+2020-04-22,Liechtenstein,81,1,55
+2020-04-22,Lithuania,1370,38,357
+2020-04-22,Luxembourg,3654,80,711
+2020-04-22,MS Zaandam,9,2,0
+2020-04-22,Madagascar,121,0,52
+2020-04-22,Malawi,23,3,3
+2020-04-22,Malaysia,5532,93,3452
+2020-04-22,Maldives,86,0,16
+2020-04-22,Mali,293,17,73
+2020-04-22,Malta,444,3,165
+2020-04-22,Mauritania,7,1,6
+2020-04-22,Mauritius,329,9,261
+2020-04-22,Mexico,10544,970,2627
+2020-04-22,Moldova,2778,75,560
+2020-04-22,Monaco,94,3,26
+2020-04-22,Mongolia,35,0,8
+2020-04-22,Montenegro,315,5,116
+2020-04-22,Morocco,3446,149,417
+2020-04-22,Mozambique,41,0,8
+2020-04-22,Namibia,16,0,6
+2020-04-22,Nepal,45,0,7
+2020-04-22,Netherlands,35032,4068,101
+2020-04-22,New Zealand,1451,14,1036
+2020-04-22,Nicaragua,10,2,7
+2020-04-22,Niger,662,22,193
+2020-04-22,Nigeria,873,28,197
+2020-04-22,North Macedonia,1259,56,272
+2020-04-22,Norway,7338,187,32
+2020-04-22,Oman,1614,8,238
+2020-04-22,Pakistan,10076,212,2156
+2020-04-22,Panama,4821,141,231
+2020-04-22,Papua New Guinea,8,0,0
+2020-04-22,Paraguay,213,9,62
+2020-04-22,Peru,19250,530,7027
+2020-04-22,Philippines,6710,446,693
+2020-04-22,Poland,10169,426,1513
+2020-04-22,Portugal,21982,785,1143
+2020-04-22,Qatar,7141,10,689
+2020-04-22,Romania,9710,524,2406
+2020-04-22,Russia,57999,513,4420
+2020-04-22,Rwanda,153,0,84
+2020-04-22,Saint Kitts and Nevis,15,0,1
+2020-04-22,Saint Lucia,15,0,15
+2020-04-22,Saint Vincent and the Grenadines,13,0,3
+2020-04-22,San Marino,488,40,62
+2020-04-22,Sao Tome and Principe,4,0,0
+2020-04-22,Saudi Arabia,12772,114,1812
+2020-04-22,Senegal,442,6,253
+2020-04-22,Serbia,6630,125,870
+2020-04-22,Seychelles,11,0,5
+2020-04-22,Sierra Leone,61,0,6
+2020-04-22,Singapore,10141,12,896
+2020-04-22,Slovakia,1244,14,284
+2020-04-22,Slovenia,1353,79,205
+2020-04-22,Somalia,286,8,4
+2020-04-22,South Africa,3635,65,1055
+2020-04-22,South Sudan,4,0,0
+2020-04-22,Spain,208389,21717,85915
+2020-04-22,Sri Lanka,330,7,105
+2020-04-22,Sudan,140,13,12
+2020-04-22,Suriname,10,1,6
+2020-04-22,Sweden,16004,1937,550
+2020-04-22,Switzerland,28268,1509,19900
+2020-04-22,Syria,42,3,6
+2020-04-22,Taiwan*,426,6,236
+2020-04-22,Tanzania,284,10,11
+2020-04-22,Thailand,2826,49,2352
+2020-04-22,Timor-Leste,23,0,1
+2020-04-22,Togo,88,6,56
+2020-04-22,Trinidad and Tobago,115,8,37
+2020-04-22,Tunisia,909,38,190
+2020-04-22,Turkey,98674,2376,16477
+2020-04-22,US,840351,47412,77366
+2020-04-22,Uganda,63,0,45
+2020-04-22,Ukraine,6592,174,424
+2020-04-22,United Arab Emirates,8238,52,1546
+2020-04-22,United Kingdom,134638,18151,683
+2020-04-22,Uruguay,543,12,324
+2020-04-22,Uzbekistan,1716,7,450
+2020-04-22,Venezuela,288,10,122
+2020-04-22,Vietnam,268,0,223
+2020-04-22,West Bank and Gaza,474,4,71
+2020-04-22,Western Sahara,6,0,0
+2020-04-22,Yemen,1,0,0
+2020-04-22,Zambia,74,3,35
+2020-04-22,Zimbabwe,28,4,2
+2020-04-23,Afghanistan,1279,42,179
+2020-04-23,Albania,663,27,385
+2020-04-23,Algeria,3007,407,1355
+2020-04-23,Andorra,723,37,333
+2020-04-23,Angola,25,2,6
+2020-04-23,Antigua and Barbuda,24,3,10
+2020-04-23,Argentina,3435,165,919
+2020-04-23,Armenia,1523,24,659
+2020-04-23,Australia,6662,75,5047
+2020-04-23,Austria,15002,522,11694
+2020-04-23,Azerbaijan,1548,20,948
+2020-04-23,Bahamas,72,11,14
+2020-04-23,Bahrain,2217,8,1082
+2020-04-23,Bangladesh,4186,127,108
+2020-04-23,Barbados,76,6,30
+2020-04-23,Belarus,8022,60,938
+2020-04-23,Belgium,42797,6490,9800
+2020-04-23,Belize,18,2,5
+2020-04-23,Benin,54,1,27
+2020-04-23,Bhutan,7,0,3
+2020-04-23,Bolivia,703,43,44
+2020-04-23,Bosnia and Herzegovina,1413,54,485
+2020-04-23,Botswana,22,1,0
+2020-04-23,Brazil,50036,3331,26573
+2020-04-23,Brunei,138,1,119
+2020-04-23,Bulgaria,1097,52,190
+2020-04-23,Burkina Faso,616,41,410
+2020-04-23,Burma,139,5,9
+2020-04-23,Burundi,11,1,4
+2020-04-23,Cabo Verde,82,1,1
+2020-04-23,Cambodia,122,0,110
+2020-04-23,Cameroon,1334,43,668
+2020-04-23,Canada,43299,2241,14761
+2020-04-23,Central African Republic,16,0,10
+2020-04-23,Chad,33,0,8
+2020-04-23,Chile,11812,168,5804
+2020-04-23,China,83884,4636,77983
+2020-04-23,Colombia,4561,215,927
+2020-04-23,Congo (Brazzaville),186,6,16
+2020-04-23,Congo (Kinshasa),377,25,47
+2020-04-23,Costa Rica,686,6,196
+2020-04-23,Cote d'Ivoire,1004,14,359
+2020-04-23,Croatia,1981,50,883
+2020-04-23,Cuba,1235,43,365
+2020-04-23,Cyprus,795,13,98
+2020-04-23,Czechia,7187,210,2152
+2020-04-23,Denmark,8271,394,5573
+2020-04-23,Diamond Princess,712,13,645
+2020-04-23,Djibouti,986,2,252
+2020-04-23,Dominica,16,0,9
+2020-04-23,Dominican Republic,5543,265,581
+2020-04-23,Ecuador,11183,560,1328
+2020-04-23,Egypt,3891,287,1004
+2020-04-23,El Salvador,250,8,67
+2020-04-23,Equatorial Guinea,84,1,7
+2020-04-23,Eritrea,39,0,6
+2020-04-23,Estonia,1592,45,192
+2020-04-23,Eswatini,31,1,8
+2020-04-23,Ethiopia,116,3,21
+2020-04-23,Fiji,18,0,8
+2020-04-23,Finland,4284,172,2000
+2020-04-23,France,158303,21889,42762
+2020-04-23,Gabon,167,2,24
+2020-04-23,Gambia,10,1,2
+2020-04-23,Georgia,425,5,111
+2020-04-23,Germany,153129,5575,103300
+2020-04-23,Ghana,1154,9,99
+2020-04-23,Greece,2463,125,577
+2020-04-23,Grenada,15,0,6
+2020-04-23,Guatemala,384,11,30
+2020-04-23,Guinea,862,6,170
+2020-04-23,Guinea-Bissau,50,0,3
+2020-04-23,Guyana,70,7,9
+2020-04-23,Haiti,72,5,2
+2020-04-23,Holy See,9,0,2
+2020-04-23,Honduras,519,47,31
+2020-04-23,Hungary,2284,239,390
+2020-04-23,Iceland,1789,10,1509
+2020-04-23,India,23077,721,5012
+2020-04-23,Indonesia,7775,647,960
+2020-04-23,Iran,87026,5481,64843
+2020-04-23,Iraq,1677,83,1171
+2020-04-23,Ireland,17607,794,9233
+2020-04-23,Israel,14803,192,5611
+2020-04-23,Italy,189973,25549,57576
+2020-04-23,Jamaica,257,6,28
+2020-04-23,Japan,12368,328,1494
+2020-04-23,Jordan,437,7,318
+2020-04-23,Kazakhstan,2289,20,560
+2020-04-23,Kenya,320,14,89
+2020-04-23,"Korea, South",10708,240,8501
+2020-04-23,Kosovo,510,12,93
+2020-04-23,Kuwait,2399,14,498
+2020-04-23,Kyrgyzstan,631,8,302
+2020-04-23,Laos,19,0,4
+2020-04-23,Latvia,778,11,133
+2020-04-23,Lebanon,688,22,140
+2020-04-23,Liberia,101,8,20
+2020-04-23,Libya,60,2,15
+2020-04-23,Liechtenstein,81,1,55
+2020-04-23,Lithuania,1398,40,399
+2020-04-23,Luxembourg,3665,83,728
+2020-04-23,MS Zaandam,9,2,0
+2020-04-23,Madagascar,121,0,58
+2020-04-23,Malawi,33,3,3
+2020-04-23,Malaysia,5603,95,3542
+2020-04-23,Maldives,108,0,16
+2020-04-23,Mali,309,21,77
+2020-04-23,Malta,445,3,204
+2020-04-23,Mauritania,7,1,6
+2020-04-23,Mauritius,331,9,266
+2020-04-23,Mexico,11633,1069,2627
+2020-04-23,Moldova,2926,80,661
+2020-04-23,Monaco,94,4,35
+2020-04-23,Mongolia,36,0,9
+2020-04-23,Montenegro,316,5,123
+2020-04-23,Morocco,3568,155,456
+2020-04-23,Mozambique,46,0,9
+2020-04-23,Namibia,16,0,7
+2020-04-23,Nepal,48,0,10
+2020-04-23,Netherlands,35921,4192,101
+2020-04-23,New Zealand,1456,17,1095
+2020-04-23,Nicaragua,11,3,7
+2020-04-23,Niger,671,24,256
+2020-04-23,Nigeria,981,31,197
+2020-04-23,North Macedonia,1300,56,301
+2020-04-23,Norway,7401,194,32
+2020-04-23,Oman,1716,9,307
+2020-04-23,Pakistan,11155,237,2527
+2020-04-23,Panama,5166,146,271
+2020-04-23,Papua New Guinea,8,0,0
+2020-04-23,Paraguay,213,9,67
+2020-04-23,Peru,20914,572,7422
+2020-04-23,Philippines,6981,462,722
+2020-04-23,Poland,10511,454,1740
+2020-04-23,Portugal,22353,820,1201
+2020-04-23,Qatar,7764,10,750
+2020-04-23,Romania,10096,545,2478
+2020-04-23,Russia,62773,555,4891
+2020-04-23,Rwanda,154,0,87
+2020-04-23,Saint Kitts and Nevis,15,0,1
+2020-04-23,Saint Lucia,15,0,15
+2020-04-23,Saint Vincent and the Grenadines,13,0,3
+2020-04-23,San Marino,501,40,63
+2020-04-23,Sao Tome and Principe,4,0,0
+2020-04-23,Saudi Arabia,13930,121,1925
+2020-04-23,Senegal,479,6,257
+2020-04-23,Serbia,6630,125,870
+2020-04-23,Seychelles,11,0,6
+2020-04-23,Sierra Leone,64,1,10
+2020-04-23,Singapore,11178,12,924
+2020-04-23,Slovakia,1325,15,288
+2020-04-23,Slovenia,1366,79,211
+2020-04-23,Somalia,328,16,8
+2020-04-23,South Africa,3953,75,1473
+2020-04-23,South Sudan,5,0,0
+2020-04-23,Spain,213024,22157,89250
+2020-04-23,Sri Lanka,368,7,107
+2020-04-23,Sudan,174,16,14
+2020-04-23,Suriname,10,1,6
+2020-04-23,Sweden,16755,2021,550
+2020-04-23,Switzerland,28496,1549,20600
+2020-04-23,Syria,42,3,6
+2020-04-23,Taiwan*,427,6,253
+2020-04-23,Tanzania,284,10,11
+2020-04-23,Thailand,2839,50,2430
+2020-04-23,Timor-Leste,23,0,1
+2020-04-23,Togo,88,6,59
+2020-04-23,Trinidad and Tobago,115,8,48
+2020-04-23,Tunisia,918,38,190
+2020-04-23,Turkey,101790,2491,18491
+2020-04-23,US,869170,49724,80203
+2020-04-23,Uganda,74,0,46
+2020-04-23,Ukraine,7170,187,504
+2020-04-23,United Arab Emirates,8756,56,1637
+2020-04-23,United Kingdom,139246,18791,712
+2020-04-23,Uruguay,557,12,354
+2020-04-23,Uzbekistan,1758,7,561
+2020-04-23,Venezuela,311,10,126
+2020-04-23,Vietnam,268,0,224
+2020-04-23,West Bank and Gaza,480,4,92
+2020-04-23,Western Sahara,6,0,5
+2020-04-23,Yemen,1,0,0
+2020-04-23,Zambia,76,3,37
+2020-04-23,Zimbabwe,28,4,2
+2020-04-24,Afghanistan,1351,43,188
+2020-04-24,Albania,678,27,394
+2020-04-24,Algeria,3127,415,1408
+2020-04-24,Andorra,731,40,344
+2020-04-24,Angola,25,2,6
+2020-04-24,Antigua and Barbuda,24,3,11
+2020-04-24,Argentina,3607,176,976
+2020-04-24,Armenia,1596,27,728
+2020-04-24,Australia,6677,79,5136
+2020-04-24,Austria,15071,530,11872
+2020-04-24,Azerbaijan,1592,21,1013
+2020-04-24,Bahamas,73,11,15
+2020-04-24,Bahrain,2518,8,1113
+2020-04-24,Bangladesh,4689,131,112
+2020-04-24,Barbados,77,6,31
+2020-04-24,Belarus,8773,63,1120
+2020-04-24,Belgium,44293,6679,10122
+2020-04-24,Belize,18,2,5
+2020-04-24,Benin,54,1,27
+2020-04-24,Bhutan,7,0,3
+2020-04-24,Bolivia,807,44,54
+2020-04-24,Bosnia and Herzegovina,1421,55,538
+2020-04-24,Botswana,22,1,0
+2020-04-24,Brazil,54043,3704,27655
+2020-04-24,Brunei,138,1,120
+2020-04-24,Bulgaria,1234,54,197
+2020-04-24,Burkina Faso,629,41,425
+2020-04-24,Burma,144,5,9
+2020-04-24,Burundi,11,1,4
+2020-04-24,Cabo Verde,88,1,1
+2020-04-24,Cambodia,122,0,117
+2020-04-24,Cameroon,1430,43,668
+2020-04-24,Canada,44919,2402,15149
+2020-04-24,Central African Republic,16,0,10
+2020-04-24,Chad,40,0,8
+2020-04-24,Chile,12306,174,6327
+2020-04-24,China,83899,4636,78109
+2020-04-24,Colombia,4881,225,1003
+2020-04-24,Congo (Brazzaville),200,6,19
+2020-04-24,Congo (Kinshasa),394,25,48
+2020-04-24,Costa Rica,687,6,216
+2020-04-24,Cote d'Ivoire,1077,14,419
+2020-04-24,Croatia,2009,51,982
+2020-04-24,Cuba,1285,49,416
+2020-04-24,Cyprus,804,14,98
+2020-04-24,Czechia,7273,214,2371
+2020-04-24,Denmark,8408,403,5715
+2020-04-24,Diamond Princess,712,13,645
+2020-04-24,Djibouti,999,2,330
+2020-04-24,Dominica,16,0,10
+2020-04-24,Dominican Republic,5749,267,763
+2020-04-24,Ecuador,22719,576,1366
+2020-04-24,Egypt,4092,294,1075
+2020-04-24,El Salvador,274,8,75
+2020-04-24,Equatorial Guinea,214,1,7
+2020-04-24,Eritrea,39,0,11
+2020-04-24,Estonia,1605,46,206
+2020-04-24,Eswatini,36,1,10
+2020-04-24,Ethiopia,117,3,25
+2020-04-24,Fiji,18,0,10
+2020-04-24,Finland,4395,177,2500
+2020-04-24,France,159952,22279,44271
+2020-04-24,Gabon,172,3,26
+2020-04-24,Gambia,10,1,2
+2020-04-24,Georgia,444,5,132
+2020-04-24,Germany,154999,5760,109800
+2020-04-24,Ghana,1279,10,134
+2020-04-24,Greece,2490,130,577
+2020-04-24,Grenada,15,0,7
+2020-04-24,Guatemala,430,11,30
+2020-04-24,Guinea,954,6,191
+2020-04-24,Guinea-Bissau,52,0,3
+2020-04-24,Guyana,73,7,12
+2020-04-24,Haiti,72,5,2
+2020-04-24,Holy See,9,0,2
+2020-04-24,Honduras,591,55,58
+2020-04-24,Hungary,2443,262,458
+2020-04-24,Iceland,1789,10,1542
+2020-04-24,India,24530,780,5498
+2020-04-24,Indonesia,8211,689,1002
+2020-04-24,Iran,88194,5574,66599
+2020-04-24,Iraq,1708,86,1204
+2020-04-24,Ireland,18184,1014,9233
+2020-04-24,Israel,15058,194,6003
+2020-04-24,Italy,192994,25969,60498
+2020-04-24,Jamaica,288,7,28
+2020-04-24,Japan,12829,345,1530
+2020-04-24,Jordan,441,7,326
+2020-04-24,Kazakhstan,2482,25,604
+2020-04-24,Kenya,336,14,94
+2020-04-24,"Korea, South",10718,240,8635
+2020-04-24,Kosovo,510,12,93
+2020-04-24,Kuwait,2614,15,613
+2020-04-24,Kyrgyzstan,665,8,345
+2020-04-24,Laos,19,0,4
+2020-04-24,Latvia,784,12,267
+2020-04-24,Lebanon,696,22,140
+2020-04-24,Liberia,117,8,25
+2020-04-24,Libya,61,2,18
+2020-04-24,Liechtenstein,81,1,55
+2020-04-24,Lithuania,1410,40,430
+2020-04-24,Luxembourg,3695,85,3007
+2020-04-24,MS Zaandam,9,2,0
+2020-04-24,Madagascar,122,0,61
+2020-04-24,Malawi,33,3,4
+2020-04-24,Malaysia,5691,96,3663
+2020-04-24,Maldives,129,0,16
+2020-04-24,Mali,325,21,87
+2020-04-24,Malta,447,3,223
+2020-04-24,Mauritania,7,1,6
+2020-04-24,Mauritius,331,9,285
+2020-04-24,Mexico,12872,1221,2627
+2020-04-24,Moldova,3110,84,755
+2020-04-24,Monaco,94,4,41
+2020-04-24,Mongolia,37,0,9
+2020-04-24,Montenegro,319,6,123
+2020-04-24,Morocco,3758,158,486
+2020-04-24,Mozambique,65,0,12
+2020-04-24,Namibia,16,0,7
+2020-04-24,Nepal,49,0,11
+2020-04-24,Netherlands,36729,4304,102
+2020-04-24,New Zealand,1461,18,1118
+2020-04-24,Nicaragua,11,3,7
+2020-04-24,Niger,681,24,289
+2020-04-24,Nigeria,1095,32,208
+2020-04-24,North Macedonia,1326,57,337
+2020-04-24,Norway,7463,199,32
+2020-04-24,Oman,1790,10,325
+2020-04-24,Pakistan,11940,253,2755
+2020-04-24,Panama,5338,154,319
+2020-04-24,Papua New Guinea,8,0,0
+2020-04-24,Paraguay,223,9,78
+2020-04-24,Peru,21648,634,7496
+2020-04-24,Philippines,7192,477,762
+2020-04-24,Poland,10892,494,1944
+2020-04-24,Portugal,22797,854,1228
+2020-04-24,Qatar,8525,10,809
+2020-04-24,Romania,10417,567,2817
+2020-04-24,Russia,68622,615,5568
+2020-04-24,Rwanda,176,0,87
+2020-04-24,Saint Kitts and Nevis,15,0,2
+2020-04-24,Saint Lucia,15,0,15
+2020-04-24,Saint Vincent and the Grenadines,14,0,5
+2020-04-24,San Marino,513,40,64
+2020-04-24,Sao Tome and Principe,4,0,0
+2020-04-24,Saudi Arabia,15102,127,2049
+2020-04-24,Senegal,545,7,262
+2020-04-24,Serbia,6630,125,870
+2020-04-24,Seychelles,11,0,6
+2020-04-24,Sierra Leone,82,2,10
+2020-04-24,Singapore,12075,12,956
+2020-04-24,Slovakia,1360,17,355
+2020-04-24,Slovenia,1373,80,211
+2020-04-24,Somalia,328,16,8
+2020-04-24,South Africa,4220,79,1473
+2020-04-24,South Sudan,5,0,0
+2020-04-24,Spain,219764,22524,92355
+2020-04-24,Sri Lanka,420,7,109
+2020-04-24,Sudan,174,16,14
+2020-04-24,Suriname,10,1,7
+2020-04-24,Sweden,17567,2152,1005
+2020-04-24,Switzerland,28677,1589,21000
+2020-04-24,Syria,42,3,6
+2020-04-24,Taiwan*,428,6,264
+2020-04-24,Tanzania,299,10,48
+2020-04-24,Thailand,2907,51,2547
+2020-04-24,Timor-Leste,24,0,2
+2020-04-24,Togo,90,6,59
+2020-04-24,Trinidad and Tobago,115,8,48
+2020-04-24,Tunisia,922,38,194
+2020-04-24,Turkey,104912,2600,21737
+2020-04-24,US,905358,51493,99079
+2020-04-24,Uganda,75,0,46
+2020-04-24,Ukraine,7647,201,782
+2020-04-24,United Arab Emirates,9281,64,1760
+2020-04-24,United Kingdom,144640,19567,724
+2020-04-24,Uruguay,563,12,369
+2020-04-24,Uzbekistan,1804,8,621
+2020-04-24,Venezuela,318,10,132
+2020-04-24,Vietnam,270,0,220
+2020-04-24,West Bank and Gaza,484,4,92
+2020-04-24,Western Sahara,6,0,5
+2020-04-24,Yemen,1,0,1
+2020-04-24,Zambia,84,3,37
+2020-04-24,Zimbabwe,29,4,2
+2020-04-25,Afghanistan,1463,47,188
+2020-04-25,Albania,712,27,403
+2020-04-25,Algeria,3256,419,1479
+2020-04-25,Andorra,738,40,344
+2020-04-25,Angola,25,2,6
+2020-04-25,Antigua and Barbuda,24,3,11
+2020-04-25,Argentina,3780,185,1030
+2020-04-25,Armenia,1677,28,803
+2020-04-25,Australia,6694,80,5376
+2020-04-25,Austria,15148,536,12103
+2020-04-25,Azerbaijan,1617,21,1080
+2020-04-25,Bahamas,78,11,15
+2020-04-25,Bahrain,2588,8,1160
+2020-04-25,Bangladesh,4998,140,113
+2020-04-25,Barbados,79,6,31
+2020-04-25,Belarus,9590,67,1573
+2020-04-25,Belgium,45325,6917,10417
+2020-04-25,Belize,18,2,5
+2020-04-25,Benin,54,1,27
+2020-04-25,Bhutan,7,0,3
+2020-04-25,Bolivia,866,46,54
+2020-04-25,Bosnia and Herzegovina,1486,57,592
+2020-04-25,Botswana,22,1,0
+2020-04-25,Brazil,59324,4057,29160
+2020-04-25,Brunei,138,1,121
+2020-04-25,Bulgaria,1247,55,197
+2020-04-25,Burkina Faso,629,41,442
+2020-04-25,Burma,146,5,10
+2020-04-25,Burundi,11,1,4
+2020-04-25,Cabo Verde,90,1,1
+2020-04-25,Cambodia,122,0,117
+2020-04-25,Cameroon,1518,53,697
+2020-04-25,Canada,46371,2571,16013
+2020-04-25,Central African Republic,16,0,10
+2020-04-25,Chad,46,0,15
+2020-04-25,Chile,12858,181,6746
+2020-04-25,China,83909,4636,78175
+2020-04-25,Colombia,5142,233,1067
+2020-04-25,Congo (Brazzaville),200,6,19
+2020-04-25,Congo (Kinshasa),416,28,49
+2020-04-25,Costa Rica,693,6,242
+2020-04-25,Cote d'Ivoire,1077,14,419
+2020-04-25,Croatia,2016,54,1034
+2020-04-25,Cuba,1337,51,437
+2020-04-25,Cyprus,810,14,148
+2020-04-25,Czechia,7352,218,2453
+2020-04-25,Denmark,8643,418,5858
+2020-04-25,Diamond Princess,712,13,645
+2020-04-25,Djibouti,1008,2,373
+2020-04-25,Dominica,16,0,13
+2020-04-25,Dominican Republic,5926,273,822
+2020-04-25,Ecuador,22719,576,1366
+2020-04-25,Egypt,4319,307,1114
+2020-04-25,El Salvador,274,8,75
+2020-04-25,Equatorial Guinea,258,1,7
+2020-04-25,Eritrea,39,0,13
+2020-04-25,Estonia,1635,46,228
+2020-04-25,Eswatini,56,1,10
+2020-04-25,Ethiopia,122,3,29
+2020-04-25,Fiji,18,0,10
+2020-04-25,Finland,4475,186,2500
+2020-04-25,France,161644,22648,45372
+2020-04-25,Gabon,176,3,30
+2020-04-25,Gambia,10,1,8
+2020-04-25,Georgia,456,5,139
+2020-04-25,Germany,156513,5877,109800
+2020-04-25,Ghana,1279,10,134
+2020-04-25,Greece,2506,130,577
+2020-04-25,Grenada,18,0,7
+2020-04-25,Guatemala,473,13,45
+2020-04-25,Guinea,996,7,208
+2020-04-25,Guinea-Bissau,52,0,3
+2020-04-25,Guyana,73,7,12
+2020-04-25,Haiti,72,6,6
+2020-04-25,Holy See,9,0,2
+2020-04-25,Honduras,627,59,65
+2020-04-25,Hungary,2443,262,458
+2020-04-25,Iceland,1790,10,1570
+2020-04-25,India,26283,825,5939
+2020-04-25,Indonesia,8607,720,1042
+2020-04-25,Iran,89328,5650,68193
+2020-04-25,Iraq,1763,86,1224
+2020-04-25,Ireland,18561,1063,9233
+2020-04-25,Israel,15298,199,6435
+2020-04-25,Italy,195351,26384,63120
+2020-04-25,Jamaica,305,7,28
+2020-04-25,Japan,13231,360,1656
+2020-04-25,Jordan,444,7,332
+2020-04-25,Kazakhstan,2601,25,646
+2020-04-25,Kenya,343,14,98
+2020-04-25,"Korea, South",10728,242,8717
+2020-04-25,Kosovo,510,12,93
+2020-04-25,Kuwait,2892,19,656
+2020-04-25,Kyrgyzstan,665,8,345
+2020-04-25,Laos,19,0,7
+2020-04-25,Latvia,804,12,267
+2020-04-25,Lebanon,704,24,143
+2020-04-25,Liberia,120,11,25
+2020-04-25,Libya,61,2,18
+2020-04-25,Liechtenstein,81,1,55
+2020-04-25,Lithuania,1426,41,460
+2020-04-25,Luxembourg,3711,85,3088
+2020-04-25,MS Zaandam,9,2,0
+2020-04-25,Madagascar,123,0,62
+2020-04-25,Malawi,33,3,4
+2020-04-25,Malaysia,5742,98,3762
+2020-04-25,Maldives,177,0,17
+2020-04-25,Mali,370,21,91
+2020-04-25,Malta,448,4,249
+2020-04-25,Mauritania,7,1,6
+2020-04-25,Mauritius,331,9,295
+2020-04-25,Mexico,13842,1305,7149
+2020-04-25,Moldova,3304,94,825
+2020-04-25,Monaco,94,4,42
+2020-04-25,Mongolia,37,0,9
+2020-04-25,Montenegro,320,6,153
+2020-04-25,Morocco,3897,159,537
+2020-04-25,Mozambique,70,0,12
+2020-04-25,Namibia,16,0,7
+2020-04-25,Nepal,49,0,12
+2020-04-25,Netherlands,37384,4424,102
+2020-04-25,New Zealand,1470,18,1142
+2020-04-25,Nicaragua,12,3,7
+2020-04-25,Niger,684,27,325
+2020-04-25,Nigeria,1182,35,222
+2020-04-25,North Macedonia,1367,59,374
+2020-04-25,Norway,7499,201,32
+2020-04-25,Oman,1905,10,329
+2020-04-25,Pakistan,12723,269,2866
+2020-04-25,Panama,5538,159,338
+2020-04-25,Papua New Guinea,8,0,0
+2020-04-25,Paraguay,228,9,85
+2020-04-25,Peru,25331,700,7797
+2020-04-25,Philippines,7294,494,792
+2020-04-25,Poland,11273,524,2126
+2020-04-25,Portugal,23392,880,1277
+2020-04-25,Qatar,9358,10,929
+2020-04-25,Romania,10635,601,2890
+2020-04-25,Russia,74588,681,6250
+2020-04-25,Rwanda,183,0,88
+2020-04-25,Saint Kitts and Nevis,15,0,2
+2020-04-25,Saint Lucia,15,0,15
+2020-04-25,Saint Vincent and the Grenadines,14,0,5
+2020-04-25,San Marino,513,40,64
+2020-04-25,Sao Tome and Principe,4,0,0
+2020-04-25,Saudi Arabia,16299,136,2215
+2020-04-25,Senegal,614,7,276
+2020-04-25,Serbia,6630,125,870
+2020-04-25,Seychelles,11,0,6
+2020-04-25,Sierra Leone,82,2,10
+2020-04-25,Singapore,12693,12,1002
+2020-04-25,Slovakia,1373,17,386
+2020-04-25,Slovenia,1388,81,219
+2020-04-25,Somalia,390,18,8
+2020-04-25,South Africa,4361,86,1473
+2020-04-25,South Sudan,5,0,0
+2020-04-25,Spain,223759,22902,95708
+2020-04-25,Sri Lanka,460,7,118
+2020-04-25,Sudan,213,17,19
+2020-04-25,Suriname,10,1,7
+2020-04-25,Sweden,18177,2192,1005
+2020-04-25,Switzerland,28894,1599,21300
+2020-04-25,Syria,42,3,11
+2020-04-25,Taiwan*,429,6,275
+2020-04-25,Tanzania,299,10,48
+2020-04-25,Thailand,2907,51,2547
+2020-04-25,Timor-Leste,24,0,2
+2020-04-25,Togo,96,6,62
+2020-04-25,Trinidad and Tobago,115,8,53
+2020-04-25,Tunisia,939,38,207
+2020-04-25,Turkey,107773,2706,25582
+2020-04-25,US,938154,53755,100372
+2020-04-25,Uganda,75,0,46
+2020-04-25,Ukraine,8125,201,782
+2020-04-25,United Arab Emirates,9813,71,1887
+2020-04-25,United Kingdom,149569,20381,774
+2020-04-25,Uruguay,596,14,370
+2020-04-25,Uzbekistan,1862,8,707
+2020-04-25,Venezuela,323,10,132
+2020-04-25,Vietnam,270,0,225
+2020-04-25,West Bank and Gaza,342,2,92
+2020-04-25,Western Sahara,6,0,5
+2020-04-25,Yemen,1,0,1
+2020-04-25,Zambia,84,3,37
+2020-04-25,Zimbabwe,31,4,2
+2020-04-26,Afghanistan,1531,50,207
+2020-04-26,Albania,726,28,410
+2020-04-26,Algeria,3382,425,1508
+2020-04-26,Andorra,738,40,344
+2020-04-26,Angola,26,2,6
+2020-04-26,Antigua and Barbuda,24,3,11
+2020-04-26,Argentina,3892,192,1107
+2020-04-26,Armenia,1746,28,833
+2020-04-26,Australia,6714,83,5541
+2020-04-26,Austria,15225,542,12282
+2020-04-26,Azerbaijan,1645,21,1139
+2020-04-26,Bahamas,80,11,22
+2020-04-26,Bahrain,2647,8,1189
+2020-04-26,Bangladesh,5416,145,122
+2020-04-26,Barbados,79,6,39
+2020-04-26,Belarus,10463,72,1695
+2020-04-26,Belgium,46134,7094,10785
+2020-04-26,Belize,18,2,5
+2020-04-26,Benin,64,1,33
+2020-04-26,Bhutan,7,0,4
+2020-04-26,Bolivia,950,50,80
+2020-04-26,Bosnia and Herzegovina,1516,59,624
+2020-04-26,Botswana,22,1,0
+2020-04-26,Brazil,63100,4286,30152
+2020-04-26,Brunei,138,1,123
+2020-04-26,Bulgaria,1300,56,205
+2020-04-26,Burkina Faso,632,42,453
+2020-04-26,Burma,146,5,10
+2020-04-26,Burundi,11,1,4
+2020-04-26,Cabo Verde,106,1,1
+2020-04-26,Cambodia,122,0,117
+2020-04-26,Cameroon,1621,56,786
+2020-04-26,Canada,48033,2687,16883
+2020-04-26,Central African Republic,19,0,10
+2020-04-26,Chad,46,0,15
+2020-04-26,Chile,13331,189,7024
+2020-04-26,China,83912,4637,78277
+2020-04-26,Colombia,5379,244,1133
+2020-04-26,Congo (Brazzaville),200,6,19
+2020-04-26,Congo (Kinshasa),442,28,50
+2020-04-26,Costa Rica,695,6,264
+2020-04-26,Cote d'Ivoire,1150,14,468
+2020-04-26,Croatia,2030,55,1103
+2020-04-26,Cuba,1369,54,501
+2020-04-26,Cyprus,817,14,148
+2020-04-26,Czechia,7404,220,2545
+2020-04-26,Denmark,8773,422,5994
+2020-04-26,Diamond Princess,712,13,645
+2020-04-26,Djibouti,1023,2,411
+2020-04-26,Dominica,16,0,13
+2020-04-26,Dominican Republic,6135,278,910
+2020-04-26,Ecuador,22719,576,1366
+2020-04-26,Egypt,4534,317,1176
+2020-04-26,El Salvador,298,8,83
+2020-04-26,Equatorial Guinea,258,1,8
+2020-04-26,Eritrea,39,0,13
+2020-04-26,Estonia,1643,49,233
+2020-04-26,Eswatini,59,1,10
+2020-04-26,Ethiopia,123,3,41
+2020-04-26,Fiji,18,0,12
+2020-04-26,Finland,4576,190,2500
+2020-04-26,France,162220,22890,45681
+2020-04-26,Gabon,176,3,30
+2020-04-26,Gambia,10,1,8
+2020-04-26,Georgia,486,6,149
+2020-04-26,Germany,157770,5976,112000
+2020-04-26,Ghana,1550,11,155
+2020-04-26,Greece,2517,134,577
+2020-04-26,Grenada,18,0,7
+2020-04-26,Guatemala,500,15,49
+2020-04-26,Guinea,996,7,208
+2020-04-26,Guinea-Bissau,53,1,3
+2020-04-26,Guyana,74,8,12
+2020-04-26,Haiti,74,6,7
+2020-04-26,Holy See,9,0,2
+2020-04-26,Honduras,627,59,65
+2020-04-26,Hungary,2500,272,485
+2020-04-26,Iceland,1792,10,1608
+2020-04-26,India,27890,881,6523
+2020-04-26,Indonesia,8882,743,1107
+2020-04-26,Iran,90481,5710,69657
+2020-04-26,Iraq,1820,87,1263
+2020-04-26,Ireland,19262,1087,9233
+2020-04-26,Israel,15443,201,6731
+2020-04-26,Italy,197675,26644,64928
+2020-04-26,Jamaica,350,7,28
+2020-04-26,Japan,13441,372,1809
+2020-04-26,Jordan,447,7,337
+2020-04-26,Kazakhstan,2717,25,682
+2020-04-26,Kenya,355,14,106
+2020-04-26,"Korea, South",10738,243,8764
+2020-04-26,Kosovo,510,12,93
+2020-04-26,Kuwait,3075,20,806
+2020-04-26,Kyrgyzstan,682,8,370
+2020-04-26,Laos,19,0,7
+2020-04-26,Latvia,812,12,267
+2020-04-26,Lebanon,707,24,145
+2020-04-26,Liberia,124,12,25
+2020-04-26,Libya,61,2,18
+2020-04-26,Liechtenstein,82,1,55
+2020-04-26,Lithuania,1438,41,467
+2020-04-26,Luxembourg,3723,88,3104
+2020-04-26,MS Zaandam,9,2,0
+2020-04-26,Madagascar,124,0,71
+2020-04-26,Malawi,34,3,4
+2020-04-26,Malaysia,5780,98,3862
+2020-04-26,Maldives,214,0,17
+2020-04-26,Mali,389,23,112
+2020-04-26,Malta,448,4,282
+2020-04-26,Mauritania,7,1,6
+2020-04-26,Mauritius,332,9,299
+2020-04-26,Mexico,14677,1351,8354
+2020-04-26,Moldova,3408,96,895
+2020-04-26,Monaco,94,4,42
+2020-04-26,Mongolia,38,0,9
+2020-04-26,Montenegro,321,7,153
+2020-04-26,Morocco,4065,161,593
+2020-04-26,Mozambique,76,0,12
+2020-04-26,Namibia,16,0,8
+2020-04-26,Nepal,52,0,16
+2020-04-26,Netherlands,38040,4491,117
+2020-04-26,New Zealand,1469,19,1180
+2020-04-26,Nicaragua,13,3,7
+2020-04-26,Niger,696,29,350
+2020-04-26,Nigeria,1273,40,239
+2020-04-26,North Macedonia,1386,61,500
+2020-04-26,Norway,7527,201,32
+2020-04-26,Oman,1998,10,333
+2020-04-26,Pakistan,13328,281,2936
+2020-04-26,Panama,5779,165,338
+2020-04-26,Papua New Guinea,8,0,0
+2020-04-26,Paraguay,228,9,85
+2020-04-26,Peru,27517,728,8088
+2020-04-26,Philippines,7579,501,862
+2020-04-26,Poland,11617,535,2265
+2020-04-26,Portugal,23864,903,1329
+2020-04-26,Qatar,10287,10,1012
+2020-04-26,Romania,11036,619,3054
+2020-04-26,Russia,80949,747,6767
+2020-04-26,Rwanda,191,0,92
+2020-04-26,Saint Kitts and Nevis,15,0,2
+2020-04-26,Saint Lucia,15,0,15
+2020-04-26,Saint Vincent and the Grenadines,14,0,5
+2020-04-26,San Marino,538,41,64
+2020-04-26,Sao Tome and Principe,4,0,0
+2020-04-26,Saudi Arabia,17522,139,2357
+2020-04-26,Senegal,671,9,283
+2020-04-26,Serbia,6630,125,870
+2020-04-26,Seychelles,11,0,6
+2020-04-26,Sierra Leone,93,4,10
+2020-04-26,Singapore,13624,12,1060
+2020-04-26,Slovakia,1379,18,394
+2020-04-26,Slovenia,1396,82,221
+2020-04-26,Somalia,436,23,10
+2020-04-26,South Africa,4546,87,1473
+2020-04-26,South Sudan,6,0,0
+2020-04-26,Spain,226629,23190,117727
+2020-04-26,Sri Lanka,523,7,120
+2020-04-26,Sudan,237,21,20
+2020-04-26,Suriname,10,1,7
+2020-04-26,Sweden,18640,2194,1005
+2020-04-26,Switzerland,29061,1610,21800
+2020-04-26,Syria,43,3,14
+2020-04-26,Taiwan*,429,6,281
+2020-04-26,Tanzania,299,10,48
+2020-04-26,Thailand,2922,51,2594
+2020-04-26,Timor-Leste,24,0,2
+2020-04-26,Togo,98,6,62
+2020-04-26,Trinidad and Tobago,115,8,54
+2020-04-26,Tunisia,949,38,216
+2020-04-26,Turkey,110130,2805,29140
+2020-04-26,US,965785,54881,106988
+2020-04-26,Uganda,79,0,46
+2020-04-26,Ukraine,8617,209,840
+2020-04-26,United Arab Emirates,10349,76,1978
+2020-04-26,United Kingdom,154037,20794,778
+2020-04-26,Uruguay,606,15,375
+2020-04-26,Uzbekistan,1869,8,789
+2020-04-26,Venezuela,325,10,137
+2020-04-26,Vietnam,270,0,225
+2020-04-26,West Bank and Gaza,342,2,83
+2020-04-26,Western Sahara,6,0,5
+2020-04-26,Yemen,1,0,1
+2020-04-26,Zambia,88,3,42
+2020-04-26,Zimbabwe,31,4,2
+2020-04-27,Afghanistan,1703,57,220
+2020-04-27,Albania,736,28,422
+2020-04-27,Algeria,3517,432,1558
+2020-04-27,Andorra,743,40,385
+2020-04-27,Angola,27,2,6
+2020-04-27,Antigua and Barbuda,24,3,11
+2020-04-27,Argentina,4003,197,1140
+2020-04-27,Armenia,1808,29,848
+2020-04-27,Australia,6721,83,5588
+2020-04-27,Austria,15274,549,12362
+2020-04-27,Azerbaijan,1678,22,1162
+2020-04-27,Bahamas,80,11,22
+2020-04-27,Bahrain,2723,8,1218
+2020-04-27,Bangladesh,5913,152,131
+2020-04-27,Barbados,80,6,39
+2020-04-27,Belarus,11289,75,1740
+2020-04-27,Belgium,46687,7207,10878
+2020-04-27,Belize,18,2,6
+2020-04-27,Benin,64,1,33
+2020-04-27,Bhutan,7,0,4
+2020-04-27,Bolivia,1014,53,98
+2020-04-27,Bosnia and Herzegovina,1565,60,659
+2020-04-27,Botswana,22,1,0
+2020-04-27,Brazil,67446,4603,31142
+2020-04-27,Brunei,138,1,124
+2020-04-27,Bulgaria,1363,58,206
+2020-04-27,Burkina Faso,635,42,469
+2020-04-27,Burma,146,5,16
+2020-04-27,Burundi,11,1,4
+2020-04-27,Cabo Verde,109,1,1
+2020-04-27,Cambodia,122,0,119
+2020-04-27,Cameroon,1705,58,805
+2020-04-27,Canada,49616,2841,18268
+2020-04-27,Central African Republic,19,0,10
+2020-04-27,Chad,46,0,15
+2020-04-27,Chile,13813,198,7327
+2020-04-27,China,83918,4637,78374
+2020-04-27,Colombia,5597,253,1210
+2020-04-27,Congo (Brazzaville),200,6,19
+2020-04-27,Congo (Kinshasa),459,28,50
+2020-04-27,Costa Rica,697,6,287
+2020-04-27,Cote d'Ivoire,1164,14,499
+2020-04-27,Croatia,2039,59,1166
+2020-04-27,Cuba,1389,56,525
+2020-04-27,Cyprus,822,15,148
+2020-04-27,Czechia,7445,223,2826
+2020-04-27,Denmark,8896,427,6148
+2020-04-27,Diamond Princess,712,13,645
+2020-04-27,Djibouti,1035,2,477
+2020-04-27,Dominica,16,0,13
+2020-04-27,Dominican Republic,6293,282,993
+2020-04-27,Ecuador,23240,663,1557
+2020-04-27,Egypt,4782,337,1236
+2020-04-27,El Salvador,323,8,89
+2020-04-27,Equatorial Guinea,258,1,9
+2020-04-27,Eritrea,39,0,13
+2020-04-27,Estonia,1647,50,233
+2020-04-27,Eswatini,65,1,10
+2020-04-27,Ethiopia,124,3,50
+2020-04-27,Fiji,18,0,12
+2020-04-27,Finland,4695,193,2500
+2020-04-27,France,165963,23327,46293
+2020-04-27,Gabon,211,3,43
+2020-04-27,Gambia,10,1,8
+2020-04-27,Georgia,497,6,156
+2020-04-27,Germany,158758,6126,114500
+2020-04-27,Ghana,1550,11,155
+2020-04-27,Greece,2534,136,577
+2020-04-27,Grenada,18,0,7
+2020-04-27,Guatemala,530,15,49
+2020-04-27,Guinea,1163,7,246
+2020-04-27,Guinea-Bissau,73,1,18
+2020-04-27,Guyana,74,8,15
+2020-04-27,Haiti,76,6,8
+2020-04-27,Holy See,9,0,2
+2020-04-27,Honduras,661,61,79
+2020-04-27,Hungary,2583,280,498
+2020-04-27,Iceland,1792,10,1624
+2020-04-27,India,29451,939,7137
+2020-04-27,Indonesia,9096,765,1151
+2020-04-27,Iran,91472,5806,70933
+2020-04-27,Iraq,1847,88,1286
+2020-04-27,Ireland,19648,1102,9233
+2020-04-27,Israel,15555,204,7200
+2020-04-27,Italy,199414,26977,66624
+2020-04-27,Jamaica,364,7,29
+2020-04-27,Japan,14153,385,1899
+2020-04-27,Jordan,449,7,342
+2020-04-27,Kazakhstan,2835,25,720
+2020-04-27,Kenya,363,14,114
+2020-04-27,"Korea, South",10752,244,8854
+2020-04-27,Kosovo,510,12,93
+2020-04-27,Kuwait,3288,22,1012
+2020-04-27,Kyrgyzstan,695,8,395
+2020-04-27,Laos,19,0,7
+2020-04-27,Latvia,818,13,267
+2020-04-27,Lebanon,710,24,145
+2020-04-27,Liberia,124,12,25
+2020-04-27,Libya,61,2,18
+2020-04-27,Liechtenstein,82,1,55
+2020-04-27,Lithuania,1449,41,474
+2020-04-27,Luxembourg,3729,88,3123
+2020-04-27,MS Zaandam,9,2,0
+2020-04-27,Madagascar,128,0,75
+2020-04-27,Malawi,36,3,4
+2020-04-27,Malaysia,5820,99,3957
+2020-04-27,Maldives,226,0,17
+2020-04-27,Mali,408,23,113
+2020-04-27,Malta,450,4,286
+2020-04-27,Mauritania,7,1,6
+2020-04-27,Mauritius,334,10,302
+2020-04-27,Mexico,15529,1434,9086
+2020-04-27,Moldova,3481,102,925
+2020-04-27,Monaco,95,4,42
+2020-04-27,Mongolia,38,0,10
+2020-04-27,Montenegro,321,7,189
+2020-04-27,Morocco,4120,162,695
+2020-04-27,Mozambique,76,0,12
+2020-04-27,Namibia,16,0,8
+2020-04-27,Nepal,52,0,16
+2020-04-27,Netherlands,38440,4534,117
+2020-04-27,New Zealand,1472,19,1214
+2020-04-27,Nicaragua,13,3,7
+2020-04-27,Niger,701,29,385
+2020-04-27,Nigeria,1337,40,255
+2020-04-27,North Macedonia,1399,65,553
+2020-04-27,Norway,7599,205,32
+2020-04-27,Oman,2049,10,364
+2020-04-27,Pakistan,13915,292,3029
+2020-04-27,Panama,6021,167,455
+2020-04-27,Papua New Guinea,8,0,0
+2020-04-27,Paraguay,228,9,93
+2020-04-27,Peru,28699,782,8425
+2020-04-27,Philippines,7777,511,932
+2020-04-27,Poland,11902,562,2466
+2020-04-27,Portugal,24027,928,1357
+2020-04-27,Qatar,11244,10,1066
+2020-04-27,Romania,11339,641,3141
+2020-04-27,Russia,87147,794,7346
+2020-04-27,Rwanda,207,0,93
+2020-04-27,Saint Kitts and Nevis,15,0,2
+2020-04-27,Saint Lucia,15,0,15
+2020-04-27,Saint Vincent and the Grenadines,15,0,8
+2020-04-27,San Marino,538,41,64
+2020-04-27,Sao Tome and Principe,4,0,0
+2020-04-27,Saudi Arabia,18811,144,2531
+2020-04-27,Senegal,736,9,284
+2020-04-27,Serbia,6630,125,870
+2020-04-27,Seychelles,11,0,6
+2020-04-27,Sierra Leone,93,4,10
+2020-04-27,Singapore,14423,14,1095
+2020-04-27,Slovakia,1381,18,403
+2020-04-27,Slovenia,1402,83,221
+2020-04-27,Somalia,480,26,10
+2020-04-27,South Africa,4793,90,1473
+2020-04-27,South Sudan,6,0,0
+2020-04-27,Spain,229422,23521,120832
+2020-04-27,Sri Lanka,588,7,126
+2020-04-27,Sudan,275,22,21
+2020-04-27,Suriname,10,1,7
+2020-04-27,Sweden,18926,2274,1005
+2020-04-27,Switzerland,29164,1665,22200
+2020-04-27,Syria,43,3,19
+2020-04-27,Taiwan*,429,6,290
+2020-04-27,Tanzania,299,10,48
+2020-04-27,Thailand,2931,52,2609
+2020-04-27,Timor-Leste,24,0,2
+2020-04-27,Togo,98,6,62
+2020-04-27,Trinidad and Tobago,116,8,59
+2020-04-27,Tunisia,967,39,279
+2020-04-27,Turkey,112261,2900,33791
+2020-04-27,US,988197,56259,111424
+2020-04-27,Uganda,79,0,47
+2020-04-27,Ukraine,9009,220,864
+2020-04-27,United Arab Emirates,10839,82,2090
+2020-04-27,United Kingdom,158348,21157,807
+2020-04-27,Uruguay,620,15,386
+2020-04-27,Uzbekistan,1904,8,892
+2020-04-27,Venezuela,329,10,142
+2020-04-27,Vietnam,270,0,225
+2020-04-27,West Bank and Gaza,342,2,83
+2020-04-27,Western Sahara,6,0,5
+2020-04-27,Yemen,1,0,1
+2020-04-27,Zambia,88,3,42
+2020-04-27,Zimbabwe,32,4,5
