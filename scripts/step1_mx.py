@@ -1,117 +1,217 @@
 """
-This script downloads and converts the confirmed cases PDF data into a CSV file.
+This script downloads the Mexican dataset and its catalog.
+It then merges them and cleans them into a new dataset.
 """
 
 import csv
-from datetime import datetime, timedelta
+import io
+import os
+import zipfile
 
-import PyPDF2
 import requests
-from bs4 import BeautifulSoup
-
-FIX_STRINGS = [
-    ["CIUDAD DE\n \nMÉXICO", "CIUDAD DE MÉXICO"],
-    ["CIUDAD\n \nDE MÉXICO", "CIUDAD DE MÉXICO"],
-    ["BAJA\n \nCALIFORNIA", "BAJA CALIFORNIA"],
-    ["SAN LUIS\n \nPOTOSÍ", "SAN LUIS POTOSÍ"],
-    ["QUINTANA\n \nROO", "QUINTANA ROO"],
-    ["Estados\n \nUnidos", "Estados Unidos"]
-]
-
-URL = "https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449"
+from openpyxl import load_workbook
 
 
-def main():
-    """Calls our other functions."""
+DATA_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
+DATA_FILE = "./data.zip"
 
-    download_pdf()
-    extract_pdf()
+CATALOG_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
+CATALOG_FILE = "./catalog.zip"
 
+# These will hold the values from the catalog workbook.
+ORIGEN_DICT = dict()
+SECTOR_DICT = dict()
+SEXO_DICT = dict()
+TIPO_PACIENTE_DICT = dict()
+SI_NO_DICT = dict()
+NACIONALIDAD_DICT = dict()
+RESULTADO_DICT = dict()
+ENTIDADES_DICT = dict()
+MUNICIPIOS_DICT = dict()
 
-def download_pdf():
-    """Locates and downloads the PDF file."""
-
-    # Load the documents directory website and parse it with BeautifulSoup.
-    with requests.get(URL) as response:
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        # Iterate over all the anchor tags.
-        for link in soup.find_all("a"):
-
-            # Once we find the one we are interested in, we download it and break the loop.
-            if "casos_positivos" in link["href"]:
-                print("Downloading PDF file...")
-
-                with requests.get("https://www.gob.mx" + link["href"]) as pdf_response:
-
-                    with open("./casos_confirmados.pdf", "wb") as pdf_file:
-                        pdf_file.write(pdf_response.content)
-                        print("PDF file downloaded.")
-
-                break
+# Used to fix encoding issues.
+FIXERS = {
+    "Ã±": "ñ",
+    "Ã¡": "á",
+    "Ã©": "é",
+    "Ã³": "ó",
+    "Ãº": "ú",
+    "Ã": "í"
+}
 
 
-def extract_pdf():
-    """Extracts and cleans the data from the recently downloaded PDF file.
+def download():
+    """Downloads the required zip files."""
 
-    It then saves it into a CSV file.
-    """
+    print("Downloading ZIP files...")
 
-    start_time = datetime(1900, 1, 1)
+    with requests.get(DATA_URL) as response:
 
-    # Initialize the PDF reader.
-    reader = PyPDF2.PdfFileReader(open("./casos_confirmados.pdf", "rb"))
+        with open(DATA_FILE, "wb") as temp_file:
+            temp_file.write(response.content)
 
-    # Initialize our data list with a header row (8 columns).
-    data_list = [["numero_caso", "estado", "sexo",
-                  "edad", "fecha_inicio_sintomas", "estatus"]]
+    with requests.get(CATALOG_URL) as response:
 
-    # Iterate over each page.
-    for i in range(reader.numPages):
-        print("Processing page:", i+1, "of", reader.numPages)
+        with open(CATALOG_FILE, "wb") as temp_file:
+            temp_file.write(response.content)
 
-        # Extract the raw text.
-        page_data = reader.getPage(i).extractText()
+    print("ZIP files downloaded.")
 
-        # Fix some small inconsistencies with the text.
-        for fixer in FIX_STRINGS:
-            page_data = page_data.replace(fixer[0], fixer[1])
 
-        # Split the text into chunks and remove empty ones.
-        page_data = [item.replace("\n", "")
-                     for item in page_data.split("\n") if item != " "]
+def convert():
+    """Extracts the data from the zip files and creates a new dataset with them."""
 
-        page_data = [item for item in page_data if item != ""]
+    data_list = list()
 
-        # Only on the first page the starting chunk is the 10th one.
-        if i == 0:
-            start_index = 9
-        else:
-            start_index = 0
+    with zipfile.ZipFile(CATALOG_FILE) as catalog_zip:
+        print("Reading catalog file...")
 
-        # Iterate over our chunks, 7 at a time (7 columns).
-        for j in range(start_index, len(page_data), 6):
+        with catalog_zip.open(catalog_zip.namelist()[0]) as cat_file:
+            print("Processing catalog file...")
 
-            # Create a list with the current chunk plus the next five.
-            temp_list = page_data[j:j+6]
+            workbook = load_workbook(io.BytesIO(
+                cat_file.read()), read_only=True)
 
-            # Add the previous list to the data list if it's not incomplete.
-            if len(temp_list) == 6:
+            # Origen
+            sheet = workbook["Catálogo ORIGEN"]
 
-                # Fix for bad formatted dates.
-                if len(temp_list[4]) == 5:
-                    temp_date = start_time + timedelta(days=int(temp_list[4]))
-                    temp_list[4] = "{:%d/%m/%Y}".format(temp_date)
+            for row in sheet.rows:
+                ORIGEN_DICT[str(row[0].value)] = str(row[1].value).strip()
 
-                data_list.append(temp_list)
+            # Sectores de Salud
+            sheet = workbook["Catálogo SECTOR"]
 
-    # Finally, save the data list to CSV.
-    with open("./casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_file:
-        csv.writer(csv_file).writerows(data_list)
-        print("PDF converted.")
+            for row in sheet.rows:
+                SECTOR_DICT[str(row[0].value)] = str(row[1].value).strip()
+
+            # Sexo
+            sheet = workbook["Catálogo SEXO"]
+
+            for row in sheet.rows:
+                SEXO_DICT[str(row[0].value)] = str(row[1].value).strip()
+
+            # Tipo Paciente
+            sheet = workbook["Catálogo TIPO_PACIENTE"]
+
+            for row in sheet.rows:
+                TIPO_PACIENTE_DICT[str(row[0].value)] = str(
+                    row[1].value).strip()
+
+            # Si / No
+            sheet = workbook["Catálogo SI_NO"]
+
+            for row in sheet.rows:
+                SI_NO_DICT[str(row[0].value)] = str(row[1].value).strip()
+
+            # Nacionalidad
+            sheet = workbook["Catálogo NACIONALIDAD"]
+
+            for row in sheet.rows:
+                NACIONALIDAD_DICT[str(row[0].value)] = str(
+                    row[1].value).strip()
+
+            # Resultado
+            sheet = workbook["Catálogo RESULTADO"]
+
+            for row in sheet.rows:
+
+                # This one has an issue with rows that are not empty.
+                if len(row) > 0:
+                    RESULTADO_DICT[str(row[0].value)] = str(
+                        row[1].value).strip()
+
+            # Entidades Federativas
+            sheet = workbook["Catálogo de ENTIDADES"]
+
+            for row in sheet.rows:
+                ENTIDADES_DICT[str(row[0].value)] = str(row[1].value).strip()
+
+            # Municipios
+            sheet = workbook["Catálogo MUNICIPIOS"]
+
+            for row in sheet.rows:
+                # This one requires to combine the state and municipality codes.
+                state_with_municipality = "{}-{}".format(
+                    row[0].value, row[2].value)
+
+                MUNICIPIOS_DICT[state_with_municipality] = str(
+                    row[1].value).strip()
+
+            print("Catalog file processed.")
+
+    # Extract the CSV file from the ZIP file.
+    with zipfile.ZipFile(DATA_FILE) as data_zip:
+        print("Reading CSV file...")
+
+        with data_zip.open(data_zip.namelist()[0], "r") as csv_file:
+            print("Procesing CSV file...")
+
+            reader = csv.DictReader(
+                io.TextIOWrapper(csv_file, encoding="latin-1"))
+
+            for row in reader:
+
+                # we start with the municipality one so it doesn't break the states column.
+                state_with_municipality = "{}-{}".format(
+                    row["MUNICIPIO_RES"], row["ENTIDAD_RES"])
+
+                row["MUNICIPIO_RES"] = MUNICIPIOS_DICT.get(
+                    state_with_municipality, "NO ETIQUETADO")
+
+                row["ENTIDAD_UM"] = ENTIDADES_DICT[row["ENTIDAD_UM"]]
+                row["ENTIDAD_NAC"] = ENTIDADES_DICT[row["ENTIDAD_NAC"]]
+                row["ENTIDAD_RES"] = ENTIDADES_DICT[row["ENTIDAD_RES"]]
+                row["ORIGEN"] = ORIGEN_DICT[row["ORIGEN"]]
+                row["SECTOR"] = SECTOR_DICT[row["SECTOR"]]
+                row["SEXO"] = SEXO_DICT[row["SEXO"]]
+                row["TIPO_PACIENTE"] = TIPO_PACIENTE_DICT[row["TIPO_PACIENTE"]]
+                row["NACIONALIDAD"] = NACIONALIDAD_DICT[row["NACIONALIDAD"]]
+                row["RESULTADO"] = RESULTADO_DICT[row["RESULTADO"]]
+
+                # Yes or No fields.
+                row["MIGRANTE"] = SI_NO_DICT[row["MIGRANTE"]]
+                row["INTUBADO"] = SI_NO_DICT[row["INTUBADO"]]
+                row["NEUMONIA"] = SI_NO_DICT[row["NEUMONIA"]]
+                row["EMBARAZO"] = SI_NO_DICT[row["EMBARAZO"]]
+                row["HABLA_LENGUA_INDIG"] = SI_NO_DICT[row["HABLA_LENGUA_INDIG"]]
+                row["DIABETES"] = SI_NO_DICT[row["DIABETES"]]
+                row["EPOC"] = SI_NO_DICT[row["EPOC"]]
+                row["ASMA"] = SI_NO_DICT[row["ASMA"]]
+                row["INMUSUPR"] = SI_NO_DICT[row["INMUSUPR"]]
+                row["HIPERTENSION"] = SI_NO_DICT[row["HIPERTENSION"]]
+                row["OTRA_COM"] = SI_NO_DICT[row["OTRA_COM"]]
+                row["CARDIOVASCULAR"] = SI_NO_DICT[row["CARDIOVASCULAR"]]
+                row["OBESIDAD"] = SI_NO_DICT[row["OBESIDAD"]]
+                row["RENAL_CRONICA"] = SI_NO_DICT[row["RENAL_CRONICA"]]
+                row["TABAQUISMO"] = SI_NO_DICT[row["TABAQUISMO"]]
+                row["OTRO_CASO"] = SI_NO_DICT[row["OTRO_CASO"]]
+                row["UCI"] = SI_NO_DICT[row["UCI"]]
+
+                # Special case where a country is not defined.
+                if str(row["PAIS_ORIGEN"]) == "99":
+                    row["PAIS_ORIGEN"] = "NO ESPECIFICADO"
+
+                # Fix encoding issues.
+                for k, v in FIXERS.items():
+                    row["PAIS_NACIONALIDAD"] = row["PAIS_NACIONALIDAD"].replace(
+                        k, v).strip()
+
+                data_list.append(row)
+
+            print("CAV file processed.")
+
+    with open("./mx_data.csv", "w", encoding="utf-8", newline="") as result_csv:
+        writer = csv.DictWriter(result_csv, reader.fieldnames)
+        writer.writeheader()
+        writer.writerows(data_list)
+        print("Dataset saved.")
+
+    # Clean up
+    os.remove(DATA_FILE)
+    os.remove(CATALOG_FILE)
 
 
 if __name__ == "__main__":
 
-    main()
+    download()
+    convert()

@@ -6,7 +6,7 @@ The following are the summaries of the included scripts:
 
 * step1_global.py - A Python script that downloads and merges datasets from the Johns Hopkins repository.
 
-* step1_mx.py - A Python script that downloads a Mexican government PDF file, cleans it and converts it to CSV.
+* step1_mx.py - A Python script that downloads a Mexican CSC file and associated .xlsx catalog and merges them into a new CSV file.
 
 * step2_global.py - A Python script containing several functions to create plots and get insights from the global dataset.
 
@@ -17,8 +17,7 @@ The following are the summaries of the included scripts:
 This project uses the following Python libraries
 
 * requests - For downloading PDF and CSV files.
-* BeautifulSoup - For locating the Mexican government PDF file.
-* PyPDF2 - For reading and parsing the Mexican government PDF file.
+* openpyxl - For reading .xlsx files.
 * pandas - For performing data analysis.
 * NumPy - For fast matrix operations.
 * Matplotlib - For creating plots.
@@ -150,111 +149,111 @@ This can be done more efficiently with other libraries but I wanted to provide a
 
 ## Mexican Data
 
-The Mexican government provides a tabular PDF file containing the information of the confirmed cases of COVID-19.
+The Mexican government provides an encoded CSV file and its assorted catalog file to decode it. combining these two files gives us a new CSV file that contains all the information in a clean way.
 
-The goal is to convert that PDF to CSV. There's a library named `tabula-py` that does this really quickly but I found out I needed to install Java to use it.
+We start by defining the urls and their respective file names.
 
-Instead of that we will use `PyPDF2` and a custom algorithm to identify patterns.
-
-We will start by creating a function that will locate this PDF file and download it to our computer.
-
-We will do a bit of web scraping, using the `Requests` and `BeautifulSoup` combo.
 
 ```python
-with requests.get(URL) as response:
+DATA_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
+DATA_FILE = "./data.zip"
 
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # Iterate over all the anchor tags.
-    for link in soup.find_all("a"):
-
-        # Once we find the one we are interested in, we download it and break the loop.
-        if "casos_positivos" in link["href"]:
-            print("Downloading PDF file...")
-
-            with requests.get("https://www.gob.mx" + link["href"]) as pdf_response:
-
-                with open("./casos_confirmados.pdf", "wb") as pdf_file:
-                    pdf_file.write(pdf_response.content)
-                    print("PDF file downloaded.")
-
+CATALOG_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
+CATALOG_FILE = "./catalog.zip"
 ```
 
-With our PDF downloaded we now load it using `PyPDF2` and initialize our data list with a header row.
+Afterwards we use the `requests` library to download both.
 
 ```python
-reader = PyPDF2.PdfFileReader(open("./casos_confirmados.pdf", "rb"))
+with requests.get(DATA_URL) as response:
 
-data_list = [["numero_caso", "estado", "sexo",
-                  "edad", "fecha_inicio_sintomas", "estatus"]]
+    with open(DATA_FILE, "wb") as temp_file:
+        temp_file.write(response.content)
 
-# Iterate over each page.
-for i in range(reader.numPages):
-    print("Processing page:", i+1, "of", reader.numPages)
+with requests.get(CATALOG_URL) as response:
 
-    # Extract the raw text.
-    page_data = reader.getPage(i).extractText()
+    with open(CATALOG_FILE, "wb") as temp_file:
+        temp_file.write(response.content)
 ```
 
-We then start iterating over each page and extract the text. For the most part this PDF file is well formatted but I noticed the resulting CSV file kept having errors.
+Now that we have both files downloaded we can start combining them. The first thing to do is to convert each sheet from the catalog workbook into a `dict`.
 
-I found out that CIUDAD DE MEXICO was written in 3 different ways. It has a new line character where it shouldn't be.
-
-With the following dictionary we can locate similar errors and fix them.
+We start by loading into memory the catalog file from the ZIP file.
 
 ```python
-FIX_STRINGS = [
-    ["CIUDAD DE\n \nMÉXICO", "CIUDAD DE MÉXICO"],
-    ["CIUDAD\n \nDE MÉXICO", "CIUDAD DE MÉXICO"],
-    ["BAJA\n \nCALIFORNIA", "BAJA CALIFORNIA"],
-    ["SAN LUIS\n \nPOTOSÍ", "SAN LUIS POTOSÍ"],
-    ["QUINTANA\n \nROO", "QUINTANA ROO"],
-    ["Estados\n \nUnidos", "Estados Unidos"]
-]
+with zipfile.ZipFile(CATALOG_FILE) as catalog_zip:
+    print("Reading catalog file...")
 
-# Fix some small inconsistencies with the text.
-for fixer in FIX_STRINGS:
-    page_data = page_data.replace(fixer[0], fixer[1])
+    with catalog_zip.open(catalog_zip.namelist()[0]) as cat_file:
+        print("Processing catalog file...")
 
-# Split the text into chunks and remove empty ones.
-page_data = [item.replace("\n", "")
-                     for item in page_data.split("\n") if item != " "]
-
-page_data = [item for item in page_data if item != ""]
+        workbook = load_workbook(io.BytesIO(
+            cat_file.read()), read_only=True)
 ```
 
-At this point we have a list of strings. We removed the blank ones and we only have valid data.
-
-The first page of the PDF file has the header row data, we will add an if statement to ignore it on the first page only.
+Now we feed the dictionaries with the values from each sheet; since they all are very similar and there are too many I will only show you one of them.
 
 ```python
-# Only on the first page the starting chunk is the 10th one.
-if i == 0:
-    start_index = 9
-else:
-    start_index = 0
+# Load the specified sheet by name.
+sheet = workbook["Catálogo ORIGEN"]
 
-# Iterate over our chunks, 7 at a time (7 columns).
-for j in range(start_index, len(page_data), 6):
-
-    # Create a list with the current chunk plus the next five.
-    temp_list = page_data[j:j+6]
-
-    # Add the previous list to the data list if it's not incomplete.
-    if len(temp_list) == 6:
-
-        # Fix for bad formatted dates.
-        if len(temp_list[4]) == 5:
-            temp_date = start_time + timedelta(days=int(temp_list[4]))
-            temp_list[4] = "{:%d/%m/%Y}".format(temp_date)
+# Iterate over all the sheet's available rows.
+for row in sheet.rows:
+    ORIGEN_DICT[str(row[0].value)] = str(row[1].value).strip()
 ```
 
-We took 6 chunks of the PDF data at a time, passed them to our data list and saved that list to CSV using the `csv.writer().writerows()` method.
+At this point we have 9 dictionaries containing all the data from the workbook. The next step is to read the original CSV file and replace the encoded values with the real ones.
 
 ```python
-with open("casos_confirmados.csv", "w", encoding="utf-8", newline="") as csv_file:
-    csv.writer(csv_file).writerows(data_list)
-    print("PDF converted.")
+# This list will hold our rows data.
+data_list = list()
+
+with zipfile.ZipFile(DATA_FILE) as data_zip:
+    print("Reading CSV file...")
+
+    with data_zip.open(data_zip.namelist()[0], "r") as csv_file:
+        print("Procesing CSV file...")
+
+        reader = csv.DictReader(
+            io.TextIOWrapper(csv_file, encoding="latin-1"))
+
+        # We start iterating over all the CSV rows.
+        for row in reader:
+```
+
+We update the values from each row with the real ones using their corresponding dictionaries by passing the original value as the key. I will show you a few examples of how each column is updated.
+
+```python
+row["ENTIDAD_UM"] = ENTIDADES_DICT[row["ENTIDAD_UM"]]
+row["ORIGEN"] = ORIGEN_DICT[row["ORIGEN"]]
+row["SECTOR"] = SECTOR_DICT[row["SECTOR"]]
+row["SEXO"] = SEXO_DICT[row["SEXO"]]
+row["TIPO_PACIENTE"] = TIPO_PACIENTE_DICT[row["TIPO_PACIENTE"]]
+row["NACIONALIDAD"] = NACIONALIDAD_DICT[row["NACIONALIDAD"]]
+row["RESULTADO"] = RESULTADO_DICT[row["RESULTADO"]]
+```
+
+After the row is updated we add it to our `data_list`.
+
+```python
+data_list.append(row)
+```
+
+Once we finish processing all rows we simply save the `data_list` to a CSV file using a `csv.DictWriter` object.
+
+```python
+with open("./mx_data.csv", "w", encoding="utf-8", newline="") as result_csv:
+    writer = csv.DictWriter(result_csv, reader.fieldnames)
+    writer.writeheader()
+    writer.writerows(data_list)
+    print("Dataset saved.")
+```
+
+And finally, we delete the ZIP files we downloaded and we end up only with the complete CSV file.
+
+```python
+os.remove(DATA_FILE)
+os.remove(CATALOG_FILE)
 ```
 
 # Data Analysis
