@@ -17,8 +17,8 @@ CSV_FILES = {
 def main():
     """Prepares our data structures and parses the original CSV files."""
 
-    # Start by generating a skeleton list and getting all the available dates.
-    data_list, dates_dict = generate_list()
+    # Start by generating a skeleton dict and getting all the available dates.
+    data_dict, dates_dict = generate_list()
 
     # Iterate over our 3 urls.
     for kind, url in CSV_FILES.items():
@@ -34,24 +34,29 @@ def main():
                 # Iterate over our available dates.
                 for k, v in dates_dict.items():
 
-                    # Iterate over our skeleton list.
-                    for index, item in enumerate(data_list):
+                    # Construct the key for our look up.
+                    temp_key = "{}_{}".format(v, row["Country/Region"])
 
-                        # If the current skeleton list row matches our CSV row we update its values.
-                        if v == item[0] and row["Country/Region"] == item[1]:
-                            # Depending on the kind of the CSV data is the column to update.
-
-                            if kind == "confirmed":
-                                data_list[index][2] += int(row[k])
-                            elif kind == "deaths":
-                                data_list[index][3] += int(row[k])
-                            elif kind == "recovered":
-                                data_list[index][4] += int(row[k])
-
-                            break
+                    # Update the corresponding value depending on the CSV data kind.
+                    if kind == "confirmed":
+                        data_dict[temp_key][0] += int(row[k])
+                    elif kind == "deaths":
+                        data_dict[temp_key][1] += int(row[k])
+                    elif kind == "recovered":
+                        data_dict[temp_key][2] += int(row[k])
 
     # Save our data to a CSV file.
     with open("global_data.csv", "w", encoding="utf-8", newline="") as other_file:
+
+        # Initialize the data list with the header row.
+        data_list = data_list = [
+            ["isodate", "country", "confirmed", "deaths", "recovered"]]
+
+        # Iterate over our data dict and pass the values to the data list.
+        for k, v in data_dict.items():
+            isodate, country = k.split("_")
+            data_list.append([isodate, country, v[0], v[1], v[2]])
+
         csv.writer(other_file).writerows(data_list)
 
 
@@ -66,8 +71,8 @@ def generate_list():
 
     """
 
-    # Initialize the skeleton list with our header row.
-    data_list = [["isodate", "country", "confirmed", "deaths", "recovered"]]
+    # Initialize the skeleton dict.
+    data_dict = dict()
 
     # This dictionary will hold all our available dates.
     dates_dict = dict()
@@ -102,9 +107,11 @@ def generate_list():
         for date in dates_dict.values():
 
             for country in countries:
-                data_list.append([date, country, 0, 0, 0])
 
-        return data_list, dates_dict
+                temp_key = "{}_{}".format(date, country)
+                data_dict[temp_key] = [0, 0, 0]
+
+        return data_dict, dates_dict
 
 
 if __name__ == "__main__":

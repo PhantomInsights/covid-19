@@ -33,7 +33,7 @@ I'm interested in both global and Mexican specific data (my country). Let's star
 
 The university of Johns Hopkins provides various datasets that contain global data of the COVID-19 pandemic that are daily updated.
 
-Our goal is to merge the time series datasets into one CSV file.
+Our goal is to merge the time-series datasets into one CSV file.
 
 The first thing to do is to define the CSV urls and their kind.
 
@@ -47,15 +47,16 @@ CSV_FILES = {
 
 These CSV files have the same structure, the columns are the dates and the index are the countries/regions names.
 
-In my experience it is better to have a datetime index than a string one. This is because `pandas` has a great support for time-series data.
+In my experience it is better to have a datetime index than a string one. This is because `pandas` has great support for time-series data.
 
 We have a small problem though, we don't know how many columns we will have since they add a new one each day.
 
-What we dill do is to first 'scout' one of the CSV files and create a skeleton list that will then be filled with the real data.
+What we will do is to first 'scout' one of the CSV files and create a skeleton dict that will then be filled with the real data.
 
 ```python
-# Initialize the skeleton list with a header row.
-data_list = [["isodate", "country", "confirmed", "deaths", "recovered"]]
+
+# Initialize the skeleton dict.
+data_dict = dict()
 
 # This dictionary will hold all our available dates.
 dates_dict = dict()
@@ -67,16 +68,17 @@ countries = set()
 file = list(CSV_FILES.values())[0]
 
 with requests.get(file) as response:
-    
+
     # Pass the response text into a csv.DictReader object.
     reader = csv.DictReader(response.text.splitlines())
-    
+
     # Extract the header row and select from the fifth column onwards.
     fields = reader.fieldnames[4:]
 
     # Convert the header row dates to datetime objects.
     for field in fields:
-        dates_dict[field] = datetime.strptime(field, "%m/%d/%y")
+        dates_dict[field] = "{:%Y-%m-%d}".format(
+            datetime.strptime(field, "%m/%d/%y"))
 
     # Extract the countries/regions by iterating over all rows.
     for row in reader:
@@ -84,28 +86,33 @@ with requests.get(file) as response:
 
     # Convert the countries set to a list and sort it.
     countries = sorted(list(countries))
-    
+
     # Combine every date with every country and fill it with zero values.
     for date in dates_dict.values():
 
         for country in countries:
-            data_list.append([date, country, 0, 0, 0])
+
+            temp_key = "{}_{}".format(date, country)
+            data_dict[temp_key] = [0, 0, 0]
 ```
 
-Once this code is run we end up having a list similar to this one.
+Once this code is run we end up having a dict similar to this one.
 
 ```python
-["isodate", "country", "confirmed", "deaths", "recovered"]
-[2020-01-22, 'Afghanistan', 0, 0, 0]
-[2020-01-22, 'Albania', 0, 0, 0],
-[2020-01-22, 'Algeria', 0, 0, 0]
+{
+    '2020-01-22_Afghanistan': [0, 0, 0],
+    '2020-01-22_Albania': [0, 0, 0],
+    '2020-01-22_Algeria': [0, 0, 0]
+}
 ```
+
+The underscore is added so we can later split back the key into its two original values.
 
 Each country will have zero values for each date we find. The drawback is that we will end with several rows with zero values but that's really easy fo filter out with `pandas`.
 
-Once we have our skeleton list ready we can start filling it with real data.
+Once we have our skeleton dict ready we can start filling it with real data.
 
-We will load the 3 CSV files and check each row to see if it matches with our skeleton list and then update the corresponding column.
+We will load the 3 CSV files and check each row to see if it matches with our skeleton dict and then update the corresponding column.
 
 ```python
 # Iterate over our 3 urls.
@@ -122,30 +129,33 @@ for kind, url in CSV_FILES.items():
             # Iterate over our available dates.
             for k, v in dates_dict.items():
 
-                # Iterate over our skeleton list.
-                for index, item in enumerate(data_list):
+                # Construct the key for our look up.
+                temp_key = "{}_{}".format(v, row["Country/Region"])
 
-                    # If the current skeleton list row matches our CSV row we update its values.
-                    if v == item[0] and row["Country/Region"] == item[1]:
-
-                        # Depending on the kind of the CSV data is the column to update.
-                        if kind == "confirmed":
-                            data_list[index][2] += int(row[k])
-                        elif kind == "deaths":
-                            data_list[index][3] += int(row[k])
-                        elif kind == "recovered":
-                            data_list[index][4] += int(row[k])
-
-                        break
+                # Update the corresponding value depending on the CSV data kind.
+                if kind == "confirmed":
+                    data_dict[temp_key][0] += int(row[k])
+                elif kind == "deaths":
+                    data_dict[temp_key][1] += int(row[k])
+                elif kind == "recovered":
+                    data_dict[temp_key][2] += int(row[k])
 
 # Save our data to a CSV file.
 with open("global_data.csv", "w", encoding="utf-8", newline="") as other_file:
+
+    # Initialize the data list with the header row.
+    data_list = data_list = [
+        ["isodate", "country", "confirmed", "deaths", "recovered"]]
+
+    # Iterate over our data dict and pass the values to the data list.
+    for k, v in data_dict.items():
+        isodate, country = k.split("_")
+        data_list.append([isodate, country, v[0], v[1], v[2]])
+
     csv.writer(other_file).writerows(data_list)
 ```
 
 Now we have our CSV file saved on our computer, ready to be analyzed.
-
-This can be done more efficiently with other libraries but I wanted to provide a solution that used the less external dependencies as possible.
 
 ## Mexican Data
 
