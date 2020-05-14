@@ -943,106 +943,123 @@ This is the end for the global data section, coming next is the Mexican dataset.
 
 ## Mexican Data
 
-We start by loading our dataset and specifying the fifth column (`fecha_inicio_sintomas`) as datetime.
+We start by loading our dataset with no special parameters.
 
 ```python
-df = pd.read_csv("casos_confirmados.csv", index_col=0, parse_dates=[
-                          "fecha_inicio_sintomas"], dayfirst=True)
+df = pd.read_csv("mx_data.csv")
 ```
 
-Let's take a look at our `DataFrame` using the `head()`, `tail()` and `describe()` methods.
+We would normally use the `head()`, `tail()` and `describe()` methods to take a look at our `DataFrame` but since this one has several columns it breaks the Markdown.
 
-```python
-df.head()
-```
+Instead of that I will briefly describe what's inside this `DataFrame`:
 
-|   numero_caso | estado           | sexo      |   edad | fecha_inicio_sintomas   | estatus    |
-|--------------:|:-----------------|:----------|-------:|:------------------------|:-----------|
-|             1 | MÉXICO           | FEMENINO  |     75 | 2020-03-28 00:00:00     | Confirmado |
-|             2 | TAMAULIPAS       | MASCULINO |     22 | 2020-04-04 00:00:00     | Confirmado |
-|             3 | CIUDAD DE MÉXICO | MASCULINO |     40 | 2020-03-17 00:00:00     | Confirmado |
-|             4 | CIUDAD DE MÉXICO | FEMENINO  |     29 | 2020-03-26 00:00:00     | Confirmado |
-|             5 | GUERRERO         | FEMENINO  |     61 | 2020-04-06 00:00:00     | Confirmado |
+* We have 4 datetime fields which are: latest update, date of entry, date of first symptoms and date of death.
 
-```python
-df.tail()
-```
+* Several fields of preconditions, such as pregnancy, overweight, hypertension, diabetes.
 
-|   numero_caso | estado           | sexo      |   edad | fecha_inicio_sintomas   | estatus    |
-|--------------:|:-----------------|:----------|-------:|:------------------------|:-----------|
-|          3840 | MÉXICO           | MASCULINO |     61 | 2020-03-14 00:00:00     | Confirmado |
-|          3841 | MÉXICO           | FEMENINO  |     28 | 2020-03-26 00:00:00     | Confirmado |
-|          3842 | CIUDAD DE MÉXICO | FEMENINO  |     62 | 2020-03-18 00:00:00     | Confirmado |
-|          3843 | CAMPECHE         | FEMENINO  |     32 | 2020-03-31 00:00:00     | Confirmado |
-|          3844 | PUEBLA           | FEMENINO  |     66 | 2020-03-15 00:00:00     | Confirmado |
+* State and municipality of residence.
 
-```python
-df.describe()
-```
+* Current status of the patient test (confirmed COVID-19, not convirmed COVID-19 and pending result).
 
-|       |      edad |
-|:------|----------:|
-| count | 3844      |
-| mean  |   45.4389 |
-| std   |   15.8237 |
-| min   |    0      |
-| 25%   |   33      |
-| 50%   |   45      |
-| 75%   |   56      |
-| max   |  102      |
+* Age and gender.
 
-We have 5 columns, state, age, gender, date of initial symptoms and status. We will work with the first four and discard the last one since it has the same value for all rows.
-
-It is very important to note that the column of date of initial symptoms is not a confirmed cases date. That data is not available in this dataset but it is available on the global one.
+We are going to use some of these fields on the next sections.
 
 ### Confirmed Cases by State
 
 Mexico has 32 states and as of now all of them have confirmed cases.
 
-To know how many cases each state has we will use the `value_counts()` method on the `estado` column.
+To know how many tests each state has made we will use the `value_counts()` method on the `ENTIDAD_RES` column.
 
 ```python
-print(df["estado"].value_counts())
+print(df["ENTIDAD_RES"].value_counts())
 ```
 
-|                     |   estado |
-|:--------------------|---------:|
-| CIUDAD DE MÉXICO    |     1117 |
-| MÉXICO              |      498 |
-| BAJA CALIFORNIA     |      278 |
-| PUEBLA              |      243 |
-| QUINTANA ROO        |      216 |
-| SINALOA             |      214 |
-| COAHUILA            |      156 |
-| JALISCO             |      150 |
-| TABASCO             |      143 |
-| NUEVO LEÓN          |      119 |
-| YUCATÁN             |      103 |
-| BAJA CALIFORNIA SUR |      102 |
-| GUANAJUATO          |       81 |
-| VERACRUZ            |       73 |
-| SONORA              |       65 |
-| QUERETARO           |       57 |
-| GUERRERO            |       56 |
-| AGUASCALIENTES      |       55 |
-| CHIHUAHUA           |       54 |
-| HIDALGO             |       53 |
-| SAN LUIS POTOSÍ     |       51 |
-| MICHOACÁN           |       50 |
-| TAMAULIPAS          |       49 |
-| OAXACA              |       43 |
-| MORELOS             |       40 |
-| CHIAPAS             |       39 |
-| TLAXCALA            |       38 |
-| NAYARIT             |       21 |
-| CAMPECHE            |       18 |
-| DURANGO             |       16 |
-| ZACATECAS           |       14 |
-| COLIMA              |        7 |
+|                                 |   ENTIDAD_RES |
+|:--------------------------------|--------------:|
+| CIUDAD DE MÉXICO                |         33657 |
+| MÉXICO                          |         23349 |
+| NUEVO LEÓN                      |          8418 |
+| JALISCO                         |          7920 |
+| GUANAJUATO                      |          7587 |
+| BAJA CALIFORNIA                 |          5420 |
+| COAHUILA DE ZARAGOZA            |          5243 |
+| VERACRUZ DE IGNACIO DE LA LLAVE |          4410 |
+| TABASCO                         |          4336 |
+| SINALOA                         |          4126 |
+| TAMAULIPAS                      |          4099 |
+| PUEBLA                          |          3766 |
+| MICHOACÁN DE OCAMPO             |          3280 |
+| AGUASCALIENTES                  |          3086 |
+| YUCATÁN                         |          2923 |
+| SAN LUIS POTOSÍ                 |          2628 |
+| SONORA                          |          2580 |
+| CHIHUAHUA                       |          2294 |
+| QUINTANA ROO                    |          2267 |
+| GUERRERO                        |          2054 |
+| MORELOS                         |          1955 |
+| HIDALGO                         |          1716 |
+| TLAXCALA                        |          1611 |
+| BAJA CALIFORNIA SUR             |          1558 |
+| CHIAPAS                         |          1401 |
+| DURANGO                         |          1269 |
+| QUERÉTARO                       |          1268 |
+| OAXACA                          |          1207 |
+| ZACATECAS                       |          1057 |
+| NAYARIT                         |           981 |
+| CAMPECHE                        |           702 |
+| COLIMA                          |           329 |
 
-The state with most cases is the capital of the country (Mexico City).
+The state with most tests done is the capital of the country (Mexico City).
+
+What we are really interested in are confirmed COVID-19 cases, we will make a simple filter and use the `value_counts()` method again.
+
+```python
+print(df[df["RESULTADO"] == "Positivo SARS-CoV-2"]["ENTIDAD_RES"].value_counts())
+```
+
+|                                 |   ENTIDAD_RES |
+|:--------------------------------|--------------:|
+| CIUDAD DE MÉXICO                |         10946 |
+| MÉXICO                          |          6813 |
+| BAJA CALIFORNIA                 |          2764 |
+| TABASCO                         |          1976 |
+| SINALOA                         |          1620 |
+| VERACRUZ DE IGNACIO DE LA LLAVE |          1574 |
+| PUEBLA                          |          1213 |
+| QUINTANA ROO                    |          1177 |
+| YUCATÁN                         |           924 |
+| MORELOS                         |           915 |
+| TAMAULIPAS                      |           799 |
+| CHIHUAHUA                       |           768 |
+| NUEVO LEÓN                      |           717 |
+| JALISCO                         |           699 |
+| MICHOACÁN DE OCAMPO             |           678 |
+| GUERRERO                        |           670 |
+| SONORA                          |           642 |
+| HIDALGO                         |           637 |
+| COAHUILA DE ZARAGOZA            |           616 |
+| GUANAJUATO                      |           580 |
+| CHIAPAS                         |           450 |
+| TLAXCALA                        |           438 |
+| BAJA CALIFORNIA SUR             |           409 |
+| AGUASCALIENTES                  |           398 |
+| SAN LUIS POTOSÍ                 |           338 |
+| QUERÉTARO                       |           315 |
+| OAXACA                          |           291 |
+| NAYARIT                         |           252 |
+| CAMPECHE                        |           226 |
+| ZACATECAS                       |           168 |
+| DURANGO                         |           127 |
+| COLIMA                          |            46 |
 
 That was really simple, let's up our game and do some table pivoting and MultiIndex calculations.
+
+We will start by only taking into account confirmed COVID-19 cases.
+
+```python
+df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+```
 
 We will use this value to calculate the percentages.
 
@@ -1054,120 +1071,300 @@ We will pivot the table, the gender will be our columns and the state wil be our
 
 ```python
 pivoted_df = df.pivot_table(
-    index="estado", columns="sexo", aggfunc="count")
+    index="ENTIDAD_RES", columns="SEXO", aggfunc="count")
 ```
 
 We will add two new columns to this `DataFrame`, one for each gender percentage. This way we will know the total percentage of gender by state.
 
-*Note: These new columns can be added to any other column. We choose the first one (edad).*
+*Note: These new columns can be added to any other column. We choose the first one (EDAD).*
 
 ```python
-pivoted_df["edad", "female_percentage"] = np.round(
-    pivoted_df["edad", "FEMENINO"] / total_cases * 100, 2)
+pivoted_df["EDAD", "female_percentage"] = np.round(
+    pivoted_df["EDAD", "MUJER"] / total_cases * 100, 2)
 
-pivoted_df["edad", "male_percentage"] = np.round(
-    pivoted_df["edad", "MASCULINO"] / total_cases * 100, 2)
+pivoted_df["EDAD", "male_percentage"] = np.round(
+    pivoted_df["EDAD", "HOMBRE"] / total_cases * 100, 2)
 ```
 
 We rename the columns so they are human readable.
 
 ```python
-pivoted_df.rename(columns={"MASCULINO": "Male",
-                            "FEMENINO": "Female",
+pivoted_df.rename(columns={"HOMBRE": "Male",
+                            "MUJER": "Female",
                             "male_percentage": "Male %",
                             "female_percentage": "Female %"}, level=1, inplace=True)
 
 print(pivoted_df["edad"])
 ```
 
-| estado              |   Female |   Male |   Female % |   Male % |
-|:--------------------|---------:|-------:|-----------:|---------:|
-| AGUASCALIENTES      |       29 |     26 |       0.69 |     0.62 |
-| BAJA CALIFORNIA     |      126 |    152 |       2.99 |     3.6  |
-| BAJA CALIFORNIA SUR |       47 |     55 |       1.11 |     1.3  |
-| CAMPECHE            |        5 |     13 |       0.12 |     0.31 |
-| CHIAPAS             |       10 |     29 |       0.24 |     0.69 |
-| CHIHUAHUA           |       19 |     35 |       0.45 |     0.83 |
-| CIUDAD DE MÉXICO    |      436 |    681 |      10.33 |    16.14 |
-| COAHUILA            |       69 |     87 |       1.64 |     2.06 |
-| COLIMA              |        3 |      4 |       0.07 |     0.09 |
-| DURANGO             |        7 |      9 |       0.17 |     0.21 |
-| GUANAJUATO          |       43 |     38 |       1.02 |     0.9  |
-| GUERRERO            |       20 |     36 |       0.47 |     0.85 |
-| HIDALGO             |       19 |     34 |       0.45 |     0.81 |
-| JALISCO             |       58 |     92 |       1.37 |     2.18 |
-| MICHOACÁN           |       20 |     30 |       0.47 |     0.71 |
-| MORELOS             |       19 |     21 |       0.45 |     0.5  |
-| MÉXICO              |      214 |    284 |       5.07 |     6.73 |
-| NAYARIT             |       14 |      7 |       0.33 |     0.17 |
-| NUEVO LEÓN          |       38 |     81 |       0.9  |     1.92 |
-| OAXACA              |       22 |     21 |       0.52 |     0.5  |
-| PUEBLA              |      117 |    126 |       2.77 |     2.99 |
-| QUERETARO           |       26 |     31 |       0.62 |     0.73 |
-| QUINTANA ROO        |       71 |    145 |       1.68 |     3.44 |
-| SAN LUIS POTOSÍ     |       25 |     26 |       0.59 |     0.62 |
-| SINALOA             |       90 |    124 |       2.13 |     2.94 |
-| SONORA              |       33 |     32 |       0.78 |     0.76 |
-| TABASCO             |       73 |     70 |       1.73 |     1.66 |
-| TAMAULIPAS          |       22 |     27 |       0.52 |     0.64 |
-| TLAXCALA            |       17 |     21 |       0.4  |     0.5  |
-| VERACRUZ            |       33 |     40 |       0.78 |     0.95 |
-| YUCATÁN             |       47 |     56 |       1.11 |     1.33 |
-| ZACATECAS           |        5 |      9 |       0.12 |     0.21 |
+| ENTIDAD_RES                     |   Male |   Female |   Female % |   Male % |
+|:--------------------------------|-------:|---------:|-----------:|---------:|
+| AGUASCALIENTES                  |    198 |      200 |       0.5  |     0.49 |
+| BAJA CALIFORNIA                 |   1530 |     1234 |       3.07 |     3.81 |
+| BAJA CALIFORNIA SUR             |    217 |      192 |       0.48 |     0.54 |
+| CAMPECHE                        |    163 |       63 |       0.16 |     0.41 |
+| CHIAPAS                         |    277 |      173 |       0.43 |     0.69 |
+| CHIHUAHUA                       |    445 |      323 |       0.8  |     1.11 |
+| CIUDAD DE MÉXICO                |   6303 |     4643 |      11.55 |    15.68 |
+| COAHUILA DE ZARAGOZA            |    317 |      299 |       0.74 |     0.79 |
+| COLIMA                          |     29 |       17 |       0.04 |     0.07 |
+| DURANGO                         |     59 |       68 |       0.17 |     0.15 |
+| GUANAJUATO                      |    313 |      267 |       0.66 |     0.78 |
+| GUERRERO                        |    404 |      266 |       0.66 |     1.01 |
+| HIDALGO                         |    390 |      247 |       0.61 |     0.97 |
+| JALISCO                         |    423 |      276 |       0.69 |     1.05 |
+| MICHOACÁN DE OCAMPO             |    401 |      277 |       0.69 |     1    |
+| MORELOS                         |    554 |      361 |       0.9  |     1.38 |
+| MÉXICO                          |   4021 |     2792 |       6.95 |    10.01 |
+| NAYARIT                         |    130 |      122 |       0.3  |     0.32 |
+| NUEVO LEÓN                      |    415 |      302 |       0.75 |     1.03 |
+| OAXACA                          |    171 |      120 |       0.3  |     0.43 |
+| PUEBLA                          |    728 |      485 |       1.21 |     1.81 |
+| QUERÉTARO                       |    167 |      148 |       0.37 |     0.42 |
+| QUINTANA ROO                    |    728 |      449 |       1.12 |     1.81 |
+| SAN LUIS POTOSÍ                 |    186 |      152 |       0.38 |     0.46 |
+| SINALOA                         |    896 |      724 |       1.8  |     2.23 |
+| SONORA                          |    379 |      263 |       0.65 |     0.94 |
+| TABASCO                         |   1155 |      821 |       2.04 |     2.87 |
+| TAMAULIPAS                      |    510 |      289 |       0.72 |     1.27 |
+| TLAXCALA                        |    246 |      192 |       0.48 |     0.61 |
+| VERACRUZ DE IGNACIO DE LA LLAVE |    998 |      576 |       1.43 |     2.48 |
+| YUCATÁN                         |    537 |      387 |       0.96 |     1.34 |
+| ZACATECAS                       |     97 |       71 |       0.18 |     0.24 |
 
 And now we have a more complete and useful table of summaries.
 
-### Confirmed Cases Daily Growth
+### Initial Symptoms Growth & Daily Counts
 
-Let's start our plots section with a simple one. This plot will show us the daily progression of the pandemic in Mexico.
+Let's start our plots section with a simple one. This plot will show us one aspect of the daily progression of the pandemic in Mexico.
 
-Remember that this dataset does not contain the dates when the cases were confirmed, it contains the date when the symptoms first appeared. Let's see what we will get.
+We will plot the growth and counts when the patients had the initial symptoms of COVID-19.
+
+We start by removing all the rows that are not COVID-19 positive.
+
+```python
+df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+```
 
 We group our `DataFrame` by day of initial symptoms and aggregate them by number of ocurrences.
 
 ```python
-grouped_df = df.groupby("fecha_inicio_sintomas").count()
+grouped_df = df.groupby("FECHA_SINTOMAS").count()
+```
+
+Convert the index to `datetimeindex`.
+
+```python
+grouped_df.index = pd.to_datetime(grouped_df.index)
 ```
 
 We add a new column that will hold the cumulative sum of the previous counts.
 
 ```python
-grouped_df["cumsum"] = grouped_df["estado"].cumsum()
+grouped_df["cumsum"] = grouped_df["SECTOR"].cumsum()
 ```
 
-We create a basic line plot with the previously created column.
+*Note: We chose the 'SECTOR' column but any other would have worked the same.*
+
+We create 2 basic line plots with the previously created column.
 
 ```python
-fig, ax = plt.subplots()
+fig, (ax1, ax2) = plt.subplots(2)
 
-ax.plot(grouped_df.index, grouped_df["cumsum"],
-        label="Initial Symptoms", color="lime")
+ax1.plot(grouped_df.index, grouped_df["cumsum"],
+        label="Initial Symptoms Growth", color="lime")
+
+ax2.plot(grouped_df.index, grouped_df["SECTOR"],
+        label="Initial Symptoms Counts", color="gold")
 ```
 
-Customize our tickers. The y-axis will be formatted with date and month in 7 day intervals.
+Customize our tickers. The y-axis will be formatted with month and day.
 
 ```python
-ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
-ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
-ax.yaxis.set_major_locator(ticker.MaxNLocator())
+ax1.xaxis.set_major_locator(ticker.MaxNLocator(15))
+ax1.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax1.yaxis.set_major_locator(ticker.MaxNLocator(10))
+ax1.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+ax2.xaxis.set_major_locator(ticker.MaxNLocator(15))
+ax2.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax2.yaxis.set_major_locator(ticker.MaxNLocator(10))
+ax2.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+ax1.grid(linewidth=0.5)
+ax1.legend(loc=2)    
+ax1.set_title("Initial Symptoms Growth & Daily Counts", pad=15)
+ax1.set_ylabel("COVID-19 Positive Tests", labelpad=15)
+
+ax2.grid(linewidth=0.5)
+ax2.legend(loc=2)    
+ax2.set_ylabel("COVID-19 Positive Tests", labelpad=15)
+
+plt.show()
+```
+
+![Mexico Symptoms Growth](./figs/mexico_symptoms_growth.png)
+
+There are 2 important things to note, the first one is that there were pepole with COVID-19 symptoms back in January and there's a bias on the counts in the last 2 weeks.
+
+This bias gets corrected with the daily reports, it is a side effect of slow verification of data.
+
+### Deaths Growth & Daily Counts
+
+This plot is almost the same as the previous one, the only difference is that we will plot only the deaths caused by COVID-19.
+
+We start by filtering in only the deaths caused by COVID-19.
+
+```python
+df = df[(df["RESULTADO"] == "Positivo SARS-CoV-2")
+        & (df["FECHA_DEF"] != "9999-99-99")]
+```
+
+In this dataset the only way to know if someone has died is if their date of death is not `9999-99-99`.
+
+We group our `DataFrame` by day of death and aggregate them by number of ocurrences.
+
+```python
+grouped_df = df.groupby("FECHA_DEF").count()
+```
+
+Convert the index to `datetimeindex`.
+
+```python
+grouped_df.index = pd.to_datetime(grouped_df.index)
+```
+
+We add a new column that will hold the cumulative sum of the previous counts.
+
+```python
+grouped_df["cumsum"] = grouped_df["SECTOR"].cumsum()
+```
+
+*Note: We chose the 'SECTOR' column but any other would have worked the same.*
+
+We create 2 basic line plots with the previously created column.
+
+```python
+fig, (ax1, ax2) = plt.subplots(2)
+
+ax1.plot(grouped_df.index, grouped_df["cumsum"],
+            label="Deaths Growth", color="lime")
+
+ax2.plot(grouped_df.index, grouped_df["SECTOR"],
+            label="Deaths Counts", color="gold")
+```
+
+Customize our tickers. The y-axis will be formatted with month and day.
+
+```python
+ax1.xaxis.set_major_locator(ticker.MaxNLocator(15))
+ax1.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax1.yaxis.set_major_locator(ticker.MaxNLocator(10))
+ax1.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+ax2.xaxis.set_major_locator(ticker.MaxNLocator(15))
+ax2.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+ax2.yaxis.set_major_locator(ticker.MaxNLocator(10))
+ax2.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+```
+
+Add final customizations.
+
+```python
+ax1.grid(linewidth=0.5)
+ax1.legend(loc=2)
+ax1.set_title("Deaths Growth & Daily Counts", pad=15)
+ax1.set_ylabel("COVID-19 Deaths", labelpad=15)
+
+ax2.grid(linewidth=0.5)
+ax2.legend(loc=2)
+ax2.set_ylabel("COVID-19 Deaths", labelpad=15)
+
+plt.show()
+```
+
+![Mexico Deaths Growth](./figs/mexico_deaths_growth.png)
+
+We can also observe the same bias in the last 2 weeks as seen in the previous plot.
+
+### COVID-19 Test Results
+
+Now we will know the distribution of the results made in Mexico.
+
+The RESULTADO column has 3 possible values. We create one column for each one.
+
+```python
+df["tests"] = 1
+
+df["positive"] = df["RESULTADO"].apply(
+    lambda x: 1 if x == "Positivo SARS-CoV-2" else 0)
+
+df["not_positive"] = df["RESULTADO"].apply(
+    lambda x: 1 if x == "No positivo SARS-CoV-2" else 0)
+
+df["pending"] = df["RESULTADO"].apply(
+    lambda x: 1 if x == "Resultado pendiente" else 0)
+```
+
+We group the DataFrame by the date of entry and aggregate them by sum.
+
+```python
+df = df.groupby("FECHA_INGRESO").sum()
+```
+
+Convert the index to datetime.
+
+```python
+df.index = pd.to_datetime(df.index)
+```
+These percentages will be used for the plots labels.
+
+```python
+total = df["tests"].sum()
+positive = round(df["positive"].sum() / total * 100, 2)
+not_positive = round(df["not_positive"].sum() / total * 100, 2)
+pending = round(df["pending"].sum() / total * 100, 2)
+```
+
+We create a vertical bar plot with the previously created columns. We will stack the not positive and pending values over the positive ones.
+
+```python
+fix, ax = plt.subplots()
+
+ax.bar(df.index, df["positive"], color="#ef6c00",
+        label=f"SARS-CoV-2 Positive ({positive}%)", linewidth=0)
+
+ax.bar(df.index, df["not_positive"], color="#42a5f5",
+        label=f"SARS-CoV-2 Not Positive ({no_positive}%)", bottom=df["positive"] + df["pending"], linewidth=0)
+
+ax.bar(df.index, df["pending"], color="#ffca28",
+        label=f"Pending Result ({pending}%)", bottom=df["positive"], linewidth=0)
+```
+
+Customize our tickers. The y-axis will be formatted with month and day.
+
+```python
+ax.xaxis.set_major_locator(ticker.MaxNLocator(15))
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%d-%m"))
+ax.yaxis.set_major_locator(ticker.MaxNLocator(12))
 ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 ```
 
 Add final customizations.
 
 ```python
-plt.grid(linewidth=0.5)
+plt.title("COVID-19 Test Results", pad=15)
 plt.legend(loc=2)
-plt.title("Confirmed Cases Growth", pad=15)
-plt.xlabel("Date (2020)", labelpad=15)
-plt.ylabel("Number of Confirmed Cases", labelpad=15)
-
-plt.show()
+plt.grid(linewidth=0.5)
+plt.ylabel("Number of Daily Results", labelpad=15)
+plt.xlabel("2020", labelpad=15)
 ```
 
-![Age Mexico Growth](./figs/mexico_growth.png)
-
-For what it's worth it resembles the confirmed cases curve. Thankfully we have the data to plot the daily confirmed cases in the global dataset.
+![Mexico Tests](./figs/mexico_tests.png)
 
 ### Age and Sex Distribution
 
@@ -1175,11 +1372,17 @@ Knowing the age groups is very important and for this exercise we will bin our d
 
 On the 90-99 bin we will make an exception and define it has 90-120 since that age group has the least values of them all.
 
-We start by creating one `DataFrame` for each gender.
+We start by only selecting rows that are COVID-19 positive.
 
 ```python
-male_df = df[df["sexo"] == "MASCULINO"]
-female_df = df[df["sexo"] == "FEMENINO"]
+df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+```
+
+Then we will creatie one `DataFrame` for each gender.
+
+```python
+male_df = df[df["SEXO"] == "HOMBRE"]
+female_df = df[df["SEXO"] == "MUJER"]
 ```
 
 We then define 2 lists that will be used for our bins.
@@ -1208,8 +1411,8 @@ We build our indexer and cut our `DataFrames` with it.
 ```python
 bins = pd.IntervalIndex.from_tuples(age_groups)
 
-male_df = male_df.groupby(pd.cut(male_df["edad"], bins)).count()
-female_df = female_df.groupby(pd.cut(female_df["edad"], bins)).count()
+male_df = male_df.groupby(pd.cut(male_df["EDAD"], bins)).count()
+female_df = female_df.groupby(pd.cut(female_df["EDAD"], bins)).count()
 ```
 
 We create 2 bar plots in the same axis, each plot will have the values for their respective `DataFrame`.
@@ -1218,7 +1421,7 @@ We create 2 bar plots in the same axis, each plot will have the values for their
 fig, ax = plt.subplots()
 
 bars = ax.bar(
-    [i - 0.225 for i in range(len(labels))], height=male_df["edad"],  width=0.45,  color="#1565c0", linewidth=0)
+    [i - 0.225 for i in range(len(labels))], height=male_df["EDAD"],  width=0.45,  color="#1565c0", linewidth=0)
 
 # This loop creates small texts with the absolute values above each bar (first set of bars).
 for bar in bars:
@@ -1228,7 +1431,7 @@ for bar in bars:
                 "{:,}".format(height), ha="center", va="bottom")
 
 bars2 = ax.bar(
-    [i + 0.225 for i in range(len(labels))], height=female_df["edad"],  width=0.45,  color="#ec407a", linewidth=0)
+    [i + 0.225 for i in range(len(labels))], height=female_df["EDAD"],  width=0.45,  color="#f06292", linewidth=0)
 
 # This loop creates small texts with the absolute values above each bar (second set of bars).
 for bar2 in bars2:
@@ -1258,13 +1461,11 @@ plt.ylabel("Confirmed Cases", labelpad=15)
 plt.show()
 ```
 
-![Age Distribution](./figs/age_sex.png)
+![Age Distribution](./figs/mexico_age_sex.png)
 
 We can observe that most cases fall within the 30-60 age range and men have most registered cases than women in almost all age groups.
 
-And that's it for this dataset. We got as much information as we could from the four usable fields we had (state, age, gender and initial symptoms date).
-
-This dataset used to have 2 other fields; country of procedence and arrival date but they were removed for no reason.
+And that's it for this dataset. We got some really interesting insights from some of the fields we have available.
 
 # Conclusion
 

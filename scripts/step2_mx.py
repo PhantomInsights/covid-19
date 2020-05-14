@@ -38,32 +38,35 @@ def get_confirmed_by_state(df):
 
     """
 
+    # Only take into account confirmed cases.
+    df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+
     # We will use this value to calculate the percentages.
     total_cases = len(df)
 
     # We pivot the table, we will use the gender as our columns and the state as our index.
     pivoted_df = df.pivot_table(
-        index="estado", columns="sexo", aggfunc="count")
+        index="ENTIDAD_RES", columns="SEXO", aggfunc="count")
 
     # From this MultiIndex DataFrame we will add two columns to the age column.
     # These columns will have the total percentage by state and gender.
-    pivoted_df["edad", "female_percentage"] = np.round(
-        pivoted_df["edad", "FEMENINO"] / total_cases * 100, 2)
+    pivoted_df["EDAD", "female_percentage"] = np.round(
+        pivoted_df["EDAD", "MUJER"] / total_cases * 100, 2)
 
-    pivoted_df["edad", "male_percentage"] = np.round(
-        pivoted_df["edad", "MASCULINO"] / total_cases * 100, 2)
+    pivoted_df["EDAD", "male_percentage"] = np.round(
+        pivoted_df["EDAD", "HOMBRE"] / total_cases * 100, 2)
 
     # We rename the columns so they are human readable.
-    pivoted_df.rename(columns={"MASCULINO": "Male",
-                               "FEMENINO": "Female",
+    pivoted_df.rename(columns={"HOMBRE": "Male",
+                               "MUJER": "Female",
                                "male_percentage": "Male %",
                                "female_percentage": "Female %"}, level=1, inplace=True)
 
-    print(pivoted_df["edad"])
+    print(pivoted_df["EDAD"].to_markdown())
 
 
-def plot_daily_growth(df):
-    """Plots the daily initial symptoms count.
+def plot_daily_symptoms_growth(df):
+    """Plots the daily initial symptoms growth and daily counts.
 
     Parameters
     ----------
@@ -72,32 +75,168 @@ def plot_daily_growth(df):
 
     """
 
+    # Only take into account confirmed cases.
+    df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+
     # We group our DataFrame by day of initial symptoms and aggregate them by number of ocurrences.
-    grouped_df = df.groupby("fecha_inicio_sintomas").count()
+    grouped_df = df.groupby("FECHA_SINTOMAS").count()
+
+    # Convert the index to datetime.
+    grouped_df.index = pd.to_datetime(grouped_df.index)
 
     # We add a new column that will hold the cumulative sum of the previous counts.
-    grouped_df["cumsum"] = grouped_df["estado"].cumsum()
+    grouped_df["cumsum"] = grouped_df["SECTOR"].cumsum()
 
     # We create a basic line plot with the previously created column.
-    fig, ax = plt.subplots()
+    fig, (ax1, ax2) = plt.subplots(2)
 
-    ax.plot(grouped_df.index, grouped_df["cumsum"],
-            label="Initial Symptoms", color="lime")
+    ax1.plot(grouped_df.index, grouped_df["cumsum"],
+             label="Initial Symptoms Growth", color="lime")
 
-    # Ticker customizations. The y-axis will be formatted with date and month in 7 days intervals.
-    ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
-    ax.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
-    ax.yaxis.set_major_locator(ticker.MaxNLocator())
+    ax2.plot(grouped_df.index, grouped_df["SECTOR"],
+             label="Initial Symptoms Counts", color="gold")
+
+    # Ticker customizations. The y-axis will be formatted with month and day.
+    ax1.xaxis.set_major_locator(ticker.MaxNLocator(15))
+    ax1.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+    ax1.yaxis.set_major_locator(ticker.MaxNLocator(10))
+    ax1.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+    ax2.xaxis.set_major_locator(ticker.MaxNLocator(15))
+    ax2.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+    ax2.yaxis.set_major_locator(ticker.MaxNLocator(10))
+    ax2.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+    # Add final customizations.
+    ax1.grid(linewidth=0.5)
+    ax1.legend(loc=2)
+    ax1.set_title("Initial Symptoms Growth & Daily Counts", pad=15)
+    ax1.set_ylabel("COVID-19 Positive Tests", labelpad=15)
+
+    ax2.grid(linewidth=0.5)
+    ax2.legend(loc=2)
+    ax2.set_ylabel("COVID-19 Positive Tests", labelpad=15)
+
+    plt.savefig("mexico_symptoms_growth.png", facecolor="#232b2b")
+
+
+def plot_daily_deaths_growth(df):
+    """Plots the deaths growth and daily counts.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        A DataFrame containing the Mexican data.
+
+    """
+
+    # Only take into account confirmed cases and deaths.
+    df = df[(df["RESULTADO"] == "Positivo SARS-CoV-2")
+            & (df["FECHA_DEF"] != "9999-99-99")]
+
+    # We group our DataFrame by day of initial symptoms and aggregate them by number of ocurrences.
+    grouped_df = df.groupby("FECHA_DEF").count()
+
+    # Convert the index to datetime.
+    grouped_df.index = pd.to_datetime(grouped_df.index)
+
+    # We add a new column that will hold the cumulative sum of the previous counts.
+    grouped_df["cumsum"] = grouped_df["SECTOR"].cumsum()
+
+    # We create a basic line plot with the previously created column.
+    fig, (ax1, ax2) = plt.subplots(2)
+
+    ax1.plot(grouped_df.index, grouped_df["cumsum"],
+             label="Deaths Growth", color="lime")
+
+    ax2.plot(grouped_df.index, grouped_df["SECTOR"],
+             label="Deaths Counts", color="gold")
+
+    # Ticker customizations. The y-axis will be formatted with month and day.
+    ax1.xaxis.set_major_locator(ticker.MaxNLocator(15))
+    ax1.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+    ax1.yaxis.set_major_locator(ticker.MaxNLocator(10))
+    ax1.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+    ax2.xaxis.set_major_locator(ticker.MaxNLocator(15))
+    ax2.xaxis.set_major_formatter(mdates.DateFormatter("%m-%d"))
+    ax2.yaxis.set_major_locator(ticker.MaxNLocator(10))
+    ax2.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
+
+    # Add final customizations.
+    ax1.grid(linewidth=0.5)
+    ax1.legend(loc=2)
+    ax1.set_title("Deaths Growth & Daily Counts", pad=15)
+    ax1.set_ylabel("COVID-19 Deaths", labelpad=15)
+
+    ax2.grid(linewidth=0.5)
+    ax2.legend(loc=2)
+    ax2.set_ylabel("COVID-19 Deaths", labelpad=15)
+
+    plt.savefig("mexico_deaths_growth.png", facecolor="#232b2b")
+
+
+def plot_test_results(df):
+    """Plots the tests results by day.
+
+    Parameters
+    ----------
+    df : pandas.DataFrame
+        A DataFrame containing the Mexican data.
+
+    """
+
+    # The RESULTADO column has 3 possible values. We create
+    # one column for each one.
+    df["tests"] = 1
+
+    df["positive"] = df["RESULTADO"].apply(
+        lambda x: 1 if x == "Positivo SARS-CoV-2" else 0)
+
+    df["not_positive"] = df["RESULTADO"].apply(
+        lambda x: 1 if x == "No positivo SARS-CoV-2" else 0)
+
+    df["pending"] = df["RESULTADO"].apply(
+        lambda x: 1 if x == "Resultado pendiente" else 0)
+
+    # We group the DataFrame by the date of entry and aggregate them by sum.
+    df = df.groupby("FECHA_INGRESO").sum()
+
+    # Convert the index to datetime.
+    df.index = pd.to_datetime(df.index)
+
+    # These percentages will be used for the plots labels.
+    total = df["tests"].sum()
+    positive = round(df["positive"].sum() / total * 100, 2)
+    not_positive = round(df["not_positive"].sum() / total * 100, 2)
+    pending = round(df["pending"].sum() / total * 100, 2)
+
+    # We create a vertical bar plot with the previously created columns.
+    fix, ax = plt.subplots()
+
+    ax.bar(df.index, df["positive"], color="#ef6c00",
+           label=f"SARS-CoV-2 Positive ({positive}%)", linewidth=0)
+
+    ax.bar(df.index, df["not_positive"], color="#42a5f5",
+           label=f"SARS-CoV-2 Not Positive ({not_positive}%)", bottom=df["positive"] + df["pending"], linewidth=0)
+
+    ax.bar(df.index, df["pending"], color="#ffca28",
+           label=f"Pending Result ({pending}%)", bottom=df["positive"], linewidth=0)
+
+    # Ticker customtzations.
+    ax.xaxis.set_major_locator(ticker.MaxNLocator(15))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%d-%m"))
+    ax.yaxis.set_major_locator(ticker.MaxNLocator(12))
     ax.yaxis.set_major_formatter(ticker.StrMethodFormatter("{x:,.0f}"))
 
     # Add final customizations.
+    plt.title("COVID-19 Test Results", pad=15)
+    plt.legend(loc=2)
     plt.grid(linewidth=0.5)
-    plt.legend(loc=2)    
-    plt.title("Confirmed Cases Growth", pad=15)
-    plt.xlabel("Date (2020)", labelpad=15)
-    plt.ylabel("Number of Confirmed Cases", labelpad=15)
+    plt.ylabel("Number of Daily Results", labelpad=15)
+    plt.xlabel("2020", labelpad=15)
 
-    plt.savefig("mexico_growth.png", facecolor="#232b2b")
+    plt.savefig("mexico_tests.png", facecolor="#232b2b")
 
 
 def plot_age_groups(df):
@@ -110,9 +249,12 @@ def plot_age_groups(df):
 
     """
 
+    # Only take into account confirmed cases.
+    df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
+
     # Create one DataFrame for each gender.
-    male_df = df[df["sexo"] == "MASCULINO"]
-    female_df = df[df["sexo"] == "FEMENINO"]
+    male_df = df[df["SEXO"] == "HOMBRE"]
+    female_df = df[df["SEXO"] == "MUJER"]
 
     # These lists will be used for our bins.
     age_groups = list()
@@ -131,13 +273,13 @@ def plot_age_groups(df):
     # We build our indexer and cut our DataFrames with it.
     bins = pd.IntervalIndex.from_tuples(age_groups)
 
-    male_df = male_df.groupby(pd.cut(male_df["edad"], bins)).count()
-    female_df = female_df.groupby(pd.cut(female_df["edad"], bins)).count()
+    male_df = male_df.groupby(pd.cut(male_df["EDAD"], bins)).count()
+    female_df = female_df.groupby(pd.cut(female_df["EDAD"], bins)).count()
 
     fig, ax = plt.subplots()
 
     bars = ax.bar(
-        [i - 0.225 for i in range(len(labels))], height=male_df["edad"],  width=0.45,  color="#1565c0", linewidth=0)
+        [i - 0.225 for i in range(len(labels))], height=male_df["EDAD"],  width=0.45,  color="#1565c0", linewidth=0)
 
     # This loop creates small texts with the absolute values above each bar (first set of bars).
     for bar in bars:
@@ -147,7 +289,7 @@ def plot_age_groups(df):
                  "{:,}".format(height), ha="center", va="bottom")
 
     bars2 = ax.bar(
-        [i + 0.225 for i in range(len(labels))], height=female_df["edad"],  width=0.45,  color="#ec407a", linewidth=0)
+        [i + 0.225 for i in range(len(labels))], height=female_df["EDAD"],  width=0.45,  color="#f06292", linewidth=0)
 
     # This loop creates small texts with the absolute values above each bar (second set of bars).
     for bar2 in bars2:
@@ -168,14 +310,14 @@ def plot_age_groups(df):
     plt.xlabel("Age Range", labelpad=15)
     plt.ylabel("Confirmed Cases", labelpad=15)
 
-    plt.savefig("age_sex.png", facecolor="#232b2b")
-
+    plt.savefig("mexico_age_sex.png", facecolor="#232b2b")
 
 if __name__ == "__main__":
 
-    main_df = pd.read_csv("casos_confirmados.csv", index_col=0, parse_dates=[
-                          "fecha_inicio_sintomas"], dayfirst=True)
+    main_df = pd.read_csv("mx_data.csv")
 
     # get_confirmed_by_state(main_df)
-    # plot_daily_growth(main_df)
+    # plot_daily_symptoms_growth(main_df)
+    # plot_daily_deaths_growth(main_df)
+    # plot_test_results(main_df)
     # plot_age_groups(main_df)
