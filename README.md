@@ -949,7 +949,7 @@ We start by loading our dataset with no special parameters.
 df = pd.read_csv("mx_data.csv")
 ```
 
-We would normally use the `head()`, `tail()` and `describe()` methods to take a look at our `DataFrame` but since this one has several columns it breaks the Markdown.
+We would normally use the `head()`, `tail()` and `describe()` methods to take a look at our `DataFrame` but since this one has several fields it breaks the Markdown.
 
 Instead of that I will briefly describe what's inside this `DataFrame`:
 
@@ -959,7 +959,7 @@ Instead of that I will briefly describe what's inside this `DataFrame`:
 
 * State and municipality of residence.
 
-* Current status of the patient test (confirmed COVID-19, not convirmed COVID-19 and pending result).
+* Current status of the patient COVID-19 test (confirmed COVID-19, not confirmed COVID-19 and pending result).
 
 * Age and gender.
 
@@ -969,7 +969,7 @@ We are going to use some of these fields on the next sections.
 
 Mexico has 32 states and as of now all of them have confirmed cases.
 
-To know how many tests each state has made we will use the `value_counts()` method on the `ENTIDAD_RES` column.
+To know how many tests each state has made we will use the `value_counts()` method on the `ENTIDAD_RES` field.
 
 ```python
 print(df["ENTIDAD_RES"].value_counts())
@@ -1053,7 +1053,7 @@ print(df[df["RESULTADO"] == "Positivo SARS-CoV-2"]["ENTIDAD_RES"].value_counts()
 | DURANGO                         |           127 |
 | COLIMA                          |            46 |
 
-That was really simple, let's up our game and do some table pivoting and MultiIndex calculations.
+That was really easy, let's up our game and do some table pivoting and MultiIndex calculations.
 
 We will start by only taking into account confirmed COVID-19 cases.
 
@@ -1061,7 +1061,7 @@ We will start by only taking into account confirmed COVID-19 cases.
 df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
 ```
 
-We will use this value to calculate the percentages.
+We will use the next value to calculate the percentages.
 
 ```python
 total_cases = len(df)
@@ -1293,11 +1293,12 @@ We can also observe the same bias in the last 2 weeks as seen in the previous pl
 
 ### COVID-19 Test Results
 
-Now we will know the distribution of the results made in Mexico.
+Now we will know the distribution of the test results made in Mexico.
 
-The RESULTADO column has 3 possible values. We create one column for each one.
+The `RESULTADO` field has 3 possible values. We create one column for each one.
 
 ```python
+# This one will be used to calculate tolals.
 df["tests"] = 1
 
 df["positive"] = df["RESULTADO"].apply(
@@ -1310,7 +1311,7 @@ df["pending"] = df["RESULTADO"].apply(
     lambda x: 1 if x == "Resultado pendiente" else 0)
 ```
 
-We group the DataFrame by the date of entry and aggregate them by sum.
+We group the` DataFrame` by the date of entry and aggregate them by sum.
 
 ```python
 df = df.groupby("FECHA_INGRESO").sum()
@@ -1330,7 +1331,7 @@ not_positive = round(df["not_positive"].sum() / total * 100, 2)
 pending = round(df["pending"].sum() / total * 100, 2)
 ```
 
-We create a vertical bar plot with the previously created columns. We will stack the not positive and pending values over the positive ones.
+We create 3 vertical bar plots with the previously created columns. We will stack the positive and pending values over the not positive ones.
 
 ```python
 fix, ax = plt.subplots()
@@ -1339,7 +1340,7 @@ ax.bar(df.index, df["positive"], color="#ef6c00",
         label=f"SARS-CoV-2 Positive ({positive}%)", linewidth=0)
 
 ax.bar(df.index, df["not_positive"], color="#42a5f5",
-        label=f"SARS-CoV-2 Not Positive ({no_positive}%)", bottom=df["positive"] + df["pending"], linewidth=0)
+        label=f"SARS-CoV-2 Not Positive ({not_positive}%)", bottom=df["positive"] + df["pending"], linewidth=0)
 
 ax.bar(df.index, df["pending"], color="#ffca28",
         label=f"Pending Result ({pending}%)", bottom=df["positive"], linewidth=0)
@@ -1362,6 +1363,8 @@ plt.legend(loc=2)
 plt.grid(linewidth=0.5)
 plt.ylabel("Number of Daily Results", labelpad=15)
 plt.xlabel("2020", labelpad=15)
+
+plt.show()
 ```
 
 ![Mexico Tests](./figs/mexico_tests.png)
@@ -1378,7 +1381,7 @@ We start by only selecting rows that are COVID-19 positive.
 df = df[df["RESULTADO"] == "Positivo SARS-CoV-2"]
 ```
 
-Then we will creatie one `DataFrame` for each gender.
+Then we will create one `DataFrame` for each gender.
 
 ```python
 male_df = df[df["SEXO"] == "HOMBRE"]
