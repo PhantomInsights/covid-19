@@ -270,32 +270,38 @@ def plot_age_groups(df):
             age_groups.append((i, i+9))
             labels.append("{}-{}".format(i, i+9))
 
-    # We build our indexer and cut our DataFrames with it.
-    bins = pd.IntervalIndex.from_tuples(age_groups)
+    # We use the previous tuples to build our indexer and slice our DataFrames with it.
+    male_values = list()
+    female_values = list()
 
-    male_df = male_df.groupby(pd.cut(male_df["EDAD"], bins)).count()
-    female_df = female_df.groupby(pd.cut(female_df["EDAD"], bins)).count()
+    for start, end in age_groups:
+        
+        male_values.append(
+            male_df[male_df["EDAD"].between(start, end)]["EDAD"].count())
+
+        female_values.append(
+            female_df[female_df["EDAD"].between(start, end)]["EDAD"].count())
 
     fig, ax = plt.subplots()
 
     bars = ax.bar(
-        [i - 0.225 for i in range(len(labels))], height=male_df["EDAD"],  width=0.45,  color="#1565c0", linewidth=0)
+        [i - 0.225 for i in range(len(labels))], height=male_values,  width=0.45,  color="#1565c0", linewidth=0)
 
     # This loop creates small texts with the absolute values above each bar (first set of bars).
     for bar in bars:
         height = bar.get_height()
 
-        plt.text(bar.get_x() + bar.get_width()/2.0, height,
+        plt.text(bar.get_x() + bar.get_width()/2.0, height * 1.01,
                  "{:,}".format(height), ha="center", va="bottom")
 
     bars2 = ax.bar(
-        [i + 0.225 for i in range(len(labels))], height=female_df["EDAD"],  width=0.45,  color="#f06292", linewidth=0)
+        [i + 0.225 for i in range(len(labels))], height=female_values,  width=0.45,  color="#f06292", linewidth=0)
 
     # This loop creates small texts with the absolute values above each bar (second set of bars).
     for bar2 in bars2:
         height2 = bar2.get_height()
 
-        plt.text(bar2.get_x() + bar2.get_width()/2.0, height2,
+        plt.text(bar2.get_x() + bar2.get_width()/2.0, height2 * 1.01,
                  "{:,}".format(height2), ha="center", va="bottom")
 
     # Ticker customizations.
@@ -311,6 +317,7 @@ def plot_age_groups(df):
     plt.ylabel("Confirmed Cases", labelpad=15)
 
     plt.savefig("mexico_age_sex.png", facecolor="#232b2b")
+
 
 if __name__ == "__main__":
 
