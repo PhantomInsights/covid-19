@@ -1371,9 +1371,9 @@ plt.show()
 
 ### Age and Sex Distribution
 
-Knowing the age groups is very important and for this exercise we will bin our data and then group it by gender. We will use custom bins that wlil  hold values in steps of 10 (0-9, 10-19, 20-29 and so on).
+Knowing the age groups is very important and for this exercise we will bin our data and then group it by gender. We will use custom bins that wlil hold values in steps of 10 (0-9, 10-19, 20-29 and so on).
 
-On the 90-99 bin we will make an exception and define it has 90-120 since that age group has the least values of them all.
+On the 90-99 bin we will make an exception and define it as 90-120 since that age group has the least values of them all.
 
 We start by only selecting rows that are COVID-19 positive.
 
@@ -1436,7 +1436,7 @@ bars = ax.bar(
 for bar in bars:
     height = bar.get_height()
 
-    plt.text(bar.get_x() + bar.get_width()/2.0, height* 1.01,
+    plt.text(bar.get_x() + bar.get_width()/2.0, height * 1.01,
                 "{:,}".format(height), ha="center", va="bottom")
 
 bars2 = ax.bar(
@@ -1472,7 +1472,7 @@ plt.show()
 
 ![Age Distribution](./figs/mexico_age_sex.png)
 
-We can observe that most cases fall within the 30-60 age range and men have most registered cases than women in almost all age groups.
+We can observe that most cases fall within the 30-60 age range and men have more registered cases than women in all age groups.
 
 And that's it for this dataset. We got some really interesting insights from some of the fields we have available.
 
