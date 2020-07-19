@@ -198,7 +198,7 @@ def convert():
 
                 data_list.append(row)
 
-            print("CAV file processed.")
+            print("CSV file processed.")
 
     with open("./mx_data.csv", "w", encoding="utf-8", newline="") as result_csv:
         writer = csv.DictWriter(result_csv, reader.fieldnames)
