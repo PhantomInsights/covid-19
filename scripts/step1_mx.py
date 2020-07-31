@@ -12,10 +12,10 @@ import requests
 from openpyxl import load_workbook
 
 
-DATA_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
+DATA_URL = "http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
 DATA_FILE = "./data.zip"
 
-CATALOG_URL = "http://187.191.75.115/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
+CATALOG_URL = "http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
 CATALOG_FILE = "./catalog.zip"
 
 # These will hold the values from the catalog workbook.
