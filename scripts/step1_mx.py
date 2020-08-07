@@ -12,7 +12,7 @@ import requests
 from openpyxl import load_workbook
 
 
-DATA_URL = "http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
+DATA_URL = "http://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
 DATA_FILE = "./data.zip"
 
 CATALOG_URL = "http://epidemiologia.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip"
