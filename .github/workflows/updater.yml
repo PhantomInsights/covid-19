@@ -20,9 +20,10 @@ jobs:
 
       - name: Running Scripts
         run: |
-          pip install requests
+          pip install requests openpyxl
           cd scripts
           python step1_global.py
+          python step1_mx.py
           python replacer.py
           cd ..
           git config user.name github-actions
