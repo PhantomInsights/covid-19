@@ -10,5 +10,5 @@ with zipfile.ZipFile("./mx_data.zip", "w", compression=zipfile.ZIP_DEFLATED) as 
     zip_file.write("mx_data.csv")
 
 os.replace("./mx_data.zip", "../data/mx_data.zip")
-os.remove("./mx_Data.csv")
+os.remove("./mx_data.csv")
 print("Replaced Mexico file.")
