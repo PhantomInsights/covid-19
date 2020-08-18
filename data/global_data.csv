@@ -9953,7 +9953,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Uganda,0,0,0
 2020-03-14,Ukraine,3,1,0
 2020-03-14,United Arab Emirates,85,0,17
-2020-03-14,United Kingdom,2634,28,19
+2020-03-14,United Kingdom,2634,29,19
 2020-03-14,Uruguay,6,0,0
 2020-03-14,Uzbekistan,0,0,0
 2020-03-14,Venezuela,2,0,0
@@ -10517,7 +10517,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Uganda,0,0,0
 2020-03-17,Ukraine,14,2,0
 2020-03-17,United Arab Emirates,98,0,23
-2020-03-17,United Kingdom,4462,82,53
+2020-03-17,United Kingdom,4462,83,53
 2020-03-17,Uruguay,50,0,0
 2020-03-17,Uzbekistan,10,0,0
 2020-03-17,Venezuela,33,0,0
@@ -10705,7 +10705,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Uganda,0,0,0
 2020-03-18,Ukraine,14,2,0
 2020-03-18,United Arab Emirates,113,0,26
-2020-03-18,United Kingdom,5467,116,67
+2020-03-18,United Kingdom,5467,117,67
 2020-03-18,Uruguay,79,0,0
 2020-03-18,Uzbekistan,15,0,0
 2020-03-18,Venezuela,36,0,0
@@ -10893,7 +10893,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Uganda,0,0,0
 2020-03-19,Ukraine,16,2,0
 2020-03-19,United Arab Emirates,140,0,31
-2020-03-19,United Kingdom,6533,159,67
+2020-03-19,United Kingdom,6533,163,67
 2020-03-19,Uruguay,94,0,0
 2020-03-19,Uzbekistan,23,0,0
 2020-03-19,Venezuela,42,0,0
@@ -11269,7 +11269,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Uganda,1,0,0
 2020-03-21,Ukraine,47,3,1
 2020-03-21,United Arab Emirates,153,2,38
-2020-03-21,United Kingdom,9006,251,67
+2020-03-21,United Kingdom,9006,253,67
 2020-03-21,Uruguay,135,0,0
 2020-03-21,Uzbekistan,43,0,0
 2020-03-21,Venezuela,70,0,0
@@ -11457,7 +11457,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Uganda,1,0,0
 2020-03-22,Ukraine,73,3,1
 2020-03-22,United Arab Emirates,153,2,38
-2020-03-22,United Kingdom,10395,286,67
+2020-03-22,United Kingdom,10395,289,67
 2020-03-22,Uruguay,158,0,0
 2020-03-22,Uzbekistan,43,0,0
 2020-03-22,Venezuela,70,0,15
@@ -11645,7 +11645,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Uganda,9,0,0
 2020-03-23,Ukraine,73,3,1
 2020-03-23,United Arab Emirates,198,2,38
-2020-03-23,United Kingdom,12744,360,67
+2020-03-23,United Kingdom,12744,365,67
 2020-03-23,Uruguay,162,0,0
 2020-03-23,Uzbekistan,46,0,0
 2020-03-23,Venezuela,77,0,15
@@ -11833,7 +11833,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Uganda,9,0,0
 2020-03-24,Ukraine,97,3,1
 2020-03-24,United Arab Emirates,248,2,45
-2020-03-24,United Kingdom,15126,509,140
+2020-03-24,United Kingdom,15126,513,140
 2020-03-24,Uruguay,189,0,0
 2020-03-24,Uzbekistan,50,0,0
 2020-03-24,Venezuela,84,0,15
@@ -12021,7 +12021,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Uganda,14,0,0
 2020-03-25,Ukraine,145,5,1
 2020-03-25,United Arab Emirates,333,2,52
-2020-03-25,United Kingdom,17843,696,140
+2020-03-25,United Kingdom,17843,704,140
 2020-03-25,Uruguay,217,0,0
 2020-03-25,Uzbekistan,60,0,0
 2020-03-25,Venezuela,91,0,15
@@ -12209,7 +12209,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Uganda,14,0,0
 2020-03-26,Ukraine,196,5,1
 2020-03-26,United Arab Emirates,333,2,52
-2020-03-26,United Kingdom,20970,880,150
+2020-03-26,United Kingdom,20970,886,150
 2020-03-26,Uruguay,238,0,0
 2020-03-26,Uzbekistan,75,0,0
 2020-03-26,Venezuela,107,0,15
@@ -12397,7 +12397,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Uganda,23,0,0
 2020-03-27,Ukraine,310,5,5
 2020-03-27,United Arab Emirates,405,2,52
-2020-03-27,United Kingdom,24219,1164,151
+2020-03-27,United Kingdom,24219,1174,151
 2020-03-27,Uruguay,274,0,0
 2020-03-27,Uzbekistan,88,1,5
 2020-03-27,Venezuela,107,1,31
@@ -12585,7 +12585,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Uganda,30,0,0
 2020-03-28,Ukraine,356,9,5
 2020-03-28,United Arab Emirates,468,2,52
-2020-03-28,United Kingdom,27062,1458,151
+2020-03-28,United Kingdom,27062,1466,151
 2020-03-28,Uruguay,303,1,0
 2020-03-28,Uzbekistan,104,2,5
 2020-03-28,Venezuela,119,2,39
@@ -12773,7 +12773,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Uganda,33,0,0
 2020-03-29,Ukraine,475,10,6
 2020-03-29,United Arab Emirates,570,3,58
-2020-03-29,United Kingdom,29954,1673,151
+2020-03-29,United Kingdom,29954,1679,151
 2020-03-29,Uruguay,309,1,0
 2020-03-29,Uzbekistan,144,2,7
 2020-03-29,Venezuela,119,2,39
@@ -12961,7 +12961,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Uganda,33,0,0
 2020-03-30,Ukraine,548,13,8
 2020-03-30,United Arab Emirates,611,5,61
-2020-03-30,United Kingdom,34281,2047,171
+2020-03-30,United Kingdom,34281,2053,171
 2020-03-30,Uruguay,320,1,0
 2020-03-30,Uzbekistan,149,2,7
 2020-03-30,Venezuela,135,3,39
@@ -13149,7 +13149,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Uganda,44,0,0
 2020-03-31,Ukraine,645,17,10
 2020-03-31,United Arab Emirates,664,6,61
-2020-03-31,United Kingdom,38815,2430,179
+2020-03-31,United Kingdom,38815,2457,179
 2020-03-31,Uruguay,338,1,41
 2020-03-31,Uzbekistan,172,2,7
 2020-03-31,Venezuela,135,3,39
@@ -13337,7 +13337,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Uganda,44,0,0
 2020-04-01,Ukraine,794,20,13
 2020-04-01,United Arab Emirates,814,8,61
-2020-04-01,United Kingdom,43789,3101,179
+2020-04-01,United Kingdom,43789,3130,179
 2020-04-01,Uruguay,350,2,62
 2020-04-01,Uzbekistan,181,2,12
 2020-04-01,Venezuela,143,3,41
@@ -13525,7 +13525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Uganda,45,0,0
 2020-04-02,Ukraine,897,22,19
 2020-04-02,United Arab Emirates,1024,8,96
-2020-04-02,United Kingdom,48718,3753,192
+2020-04-02,United Kingdom,48718,3787,192
 2020-04-02,Uruguay,369,4,68
 2020-04-02,Uzbekistan,205,2,25
 2020-04-02,Venezuela,146,5,43
@@ -13713,7 +13713,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Uganda,48,0,0
 2020-04-03,Ukraine,1072,27,22
 2020-04-03,United Arab Emirates,1264,9,108
-2020-04-03,United Kingdom,53699,4468,208
+2020-04-03,United Kingdom,53699,4524,208
 2020-04-03,Uruguay,386,4,86
 2020-04-03,Uzbekistan,227,2,25
 2020-04-03,Venezuela,153,7,52
@@ -13901,7 +13901,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Uganda,48,0,0
 2020-04-04,Ukraine,1225,32,25
 2020-04-04,United Arab Emirates,1505,10,125
-2020-04-04,United Kingdom,57772,5229,215
+2020-04-04,United Kingdom,57772,5281,215
 2020-04-04,Uruguay,400,5,93
 2020-04-04,Uzbekistan,266,2,25
 2020-04-04,Venezuela,155,7,52
@@ -14089,7 +14089,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Uganda,52,0,0
 2020-04-05,Ukraine,1308,37,28
 2020-04-05,United Arab Emirates,1799,10,144
-2020-04-05,United Kingdom,61422,5875,229
+2020-04-05,United Kingdom,61422,5882,229
 2020-04-05,Uruguay,406,6,104
 2020-04-05,Uzbekistan,342,2,30
 2020-04-05,Venezuela,159,7,52
@@ -14277,7 +14277,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Uganda,52,0,0
 2020-04-06,Ukraine,1319,38,28
 2020-04-06,United Arab Emirates,2076,11,167
-2020-04-06,United Kingdom,66738,6446,287
+2020-04-06,United Kingdom,66738,6452,287
 2020-04-06,Uruguay,415,6,123
 2020-04-06,Uzbekistan,457,2,30
 2020-04-06,Venezuela,165,7,65
@@ -14465,7 +14465,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Uganda,52,0,0
 2020-04-07,Ukraine,1462,45,28
 2020-04-07,United Arab Emirates,2359,12,186
-2020-04-07,United Kingdom,72224,7484,325
+2020-04-07,United Kingdom,72224,7557,325
 2020-04-07,Uruguay,424,7,150
 2020-04-07,Uzbekistan,520,2,30
 2020-04-07,Venezuela,165,7,65
@@ -14653,7 +14653,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Uganda,53,0,0
 2020-04-08,Ukraine,1668,52,35
 2020-04-08,United Arab Emirates,2659,12,239
-2020-04-08,United Kingdom,77387,8520,345
+2020-04-08,United Kingdom,77387,8589,345
 2020-04-08,Uruguay,456,7,192
 2020-04-08,Uzbekistan,545,3,30
 2020-04-08,Venezuela,167,9,65
@@ -14841,7 +14841,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Uganda,53,0,0
 2020-04-09,Ukraine,1892,57,45
 2020-04-09,United Arab Emirates,2990,14,268
-2020-04-09,United Kingdom,82293,9631,359
+2020-04-09,United Kingdom,82293,9706,359
 2020-04-09,Uruguay,473,7,206
 2020-04-09,Uzbekistan,582,3,38
 2020-04-09,Venezuela,171,9,84
@@ -15029,7 +15029,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Uganda,53,0,0
 2020-04-10,Ukraine,2203,69,61
 2020-04-10,United Arab Emirates,3360,16,418
-2020-04-10,United Kingdom,86660,10784,588
+2020-04-10,United Kingdom,86660,10829,588
 2020-04-10,Uruguay,494,7,214
 2020-04-10,Uzbekistan,624,3,42
 2020-04-10,Venezuela,171,9,84
@@ -15217,7 +15217,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Uganda,53,0,4
 2020-04-11,Ukraine,2511,73,79
 2020-04-11,United Arab Emirates,3736,20,588
-2020-04-11,United Kingdom,90273,11625,622
+2020-04-11,United Kingdom,90273,11673,622
 2020-04-11,Uruguay,501,7,224
 2020-04-11,Uzbekistan,767,4,42
 2020-04-11,Venezuela,175,9,93
@@ -15405,7 +15405,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Uganda,54,0,4
 2020-04-12,Ukraine,2777,83,89
 2020-04-12,United Arab Emirates,4123,22,680
-2020-04-12,United Kingdom,93812,12311,626
+2020-04-12,United Kingdom,93812,12330,626
 2020-04-12,Uruguay,480,7,231
 2020-04-12,Uzbekistan,865,4,66
 2020-04-12,Venezuela,181,9,93
@@ -15593,7 +15593,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Uganda,54,0,7
 2020-04-13,Ukraine,3102,93,97
 2020-04-13,United Arab Emirates,4521,25,852
-2020-04-13,United Kingdom,98017,13056,304
+2020-04-13,United Kingdom,98017,13055,304
 2020-04-13,Uruguay,483,8,248
 2020-04-13,Uzbekistan,998,4,85
 2020-04-13,Venezuela,189,9,110
@@ -15781,7 +15781,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Uganda,55,0,8
 2020-04-14,Ukraine,3372,98,119
 2020-04-14,United Arab Emirates,4933,28,933
-2020-04-14,United Kingdom,102365,14107,323
+2020-04-14,United Kingdom,102365,14135,323
 2020-04-14,Uruguay,492,8,260
 2020-04-14,Uzbekistan,1165,4,99
 2020-04-14,Venezuela,189,9,110
@@ -15969,7 +15969,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Uganda,55,0,12
 2020-04-15,Ukraine,3764,108,143
 2020-04-15,United Arab Emirates,5365,33,1034
-2020-04-15,United Kingdom,107465,14953,368
+2020-04-15,United Kingdom,107465,15019,368
 2020-04-15,Uruguay,493,9,272
 2020-04-15,Uzbekistan,1302,4,107
 2020-04-15,Venezuela,197,9,111
@@ -16157,7 +16157,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Uganda,55,0,20
 2020-04-16,Ukraine,4161,116,186
 2020-04-16,United Arab Emirates,5825,35,1095
-2020-04-16,United Kingdom,112808,15986,375
+2020-04-16,United Kingdom,112808,16059,375
 2020-04-16,Uruguay,502,9,286
 2020-04-16,Uzbekistan,1349,4,129
 2020-04-16,Venezuela,204,9,111
@@ -16345,7 +16345,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Uganda,56,0,20
 2020-04-17,Ukraine,4662,125,246
 2020-04-17,United Arab Emirates,6302,37,1188
-2020-04-17,United Kingdom,117798,16923,394
+2020-04-17,United Kingdom,117798,16973,394
 2020-04-17,Uruguay,508,9,294
 2020-04-17,Uzbekistan,1405,4,156
 2020-04-17,Venezuela,204,9,111
@@ -16533,7 +16533,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Uganda,55,0,22
 2020-04-18,Ukraine,5106,133,275
 2020-04-18,United Arab Emirates,6302,37,1188
-2020-04-18,United Kingdom,122534,18041,414
+2020-04-18,United Kingdom,122534,18081,414
 2020-04-18,Uruguay,517,9,298
 2020-04-18,Uzbekistan,1490,5,194
 2020-04-18,Venezuela,227,9,113
@@ -16721,7 +16721,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Uganda,55,0,28
 2020-04-19,Ukraine,5449,141,347
 2020-04-19,United Arab Emirates,6781,41,1286
-2020-04-19,United Kingdom,126394,18540,436
+2020-04-19,United Kingdom,126394,18514,436
 2020-04-19,Uruguay,528,10,298
 2020-04-19,Uzbekistan,1565,5,225
 2020-04-19,Venezuela,256,9,117
@@ -16909,7 +16909,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Uganda,56,0,38
 2020-04-20,Ukraine,5710,151,359
 2020-04-20,United Arab Emirates,7265,43,1360
-2020-04-20,United Kingdom,131260,19105,446
+2020-04-20,United Kingdom,131260,19090,446
 2020-04-20,Uruguay,535,10,313
 2020-04-20,Uzbekistan,1627,5,261
 2020-04-20,Venezuela,256,9,117
@@ -17097,7 +17097,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Uganda,61,0,38
 2020-04-21,Ukraine,6125,161,367
 2020-04-21,United Arab Emirates,7755,46,1443
-2020-04-21,United Kingdom,136035,20278,638
+2020-04-21,United Kingdom,136035,20314,638
 2020-04-21,Uruguay,543,12,324
 2020-04-21,Uzbekistan,1678,6,357
 2020-04-21,Venezuela,285,10,117
@@ -17285,7 +17285,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-22,Uganda,63,0,45
 2020-04-22,Ukraine,6592,174,424
 2020-04-22,United Arab Emirates,8238,52,1546
-2020-04-22,United Kingdom,141540,21125,683
+2020-04-22,United Kingdom,141540,21171,683
 2020-04-22,Uruguay,549,12,337
 2020-04-22,Uzbekistan,1716,7,450
 2020-04-22,Venezuela,288,10,122
@@ -17473,7 +17473,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-23,Uganda,74,0,46
 2020-04-23,Ukraine,7170,187,504
 2020-04-23,United Arab Emirates,8756,56,1637
-2020-04-23,United Kingdom,146708,21854,712
+2020-04-23,United Kingdom,146708,21855,712
 2020-04-23,Uruguay,557,12,354
 2020-04-23,Uzbekistan,1758,7,561
 2020-04-23,Venezuela,311,10,126
@@ -17661,7 +17661,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-24,Uganda,75,0,46
 2020-04-24,Ukraine,7647,201,782
 2020-04-24,United Arab Emirates,9281,64,1760
-2020-04-24,United Kingdom,151689,22868,724
+2020-04-24,United Kingdom,151689,22873,724
 2020-04-24,Uruguay,563,12,369
 2020-04-24,Uzbekistan,1804,8,621
 2020-04-24,Venezuela,318,10,132
@@ -17849,7 +17849,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-25,Uganda,75,0,46
 2020-04-25,Ukraine,8125,201,782
 2020-04-25,United Arab Emirates,9813,71,1887
-2020-04-25,United Kingdom,155453,23712,774
+2020-04-25,United Kingdom,155453,23689,774
 2020-04-25,Uruguay,596,14,370
 2020-04-25,Uzbekistan,1862,8,707
 2020-04-25,Venezuela,323,10,132
@@ -18037,7 +18037,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-26,Uganda,79,0,46
 2020-04-26,Ukraine,8617,209,840
 2020-04-26,United Arab Emirates,10349,76,1978
-2020-04-26,United Kingdom,158926,24132,778
+2020-04-26,United Kingdom,158926,24053,778
 2020-04-26,Uruguay,606,15,375
 2020-04-26,Uzbekistan,1869,8,789
 2020-04-26,Venezuela,325,10,137
@@ -18225,7 +18225,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-27,Uganda,79,0,47
 2020-04-27,Ukraine,9009,220,864
 2020-04-27,United Arab Emirates,10839,82,2090
-2020-04-27,United Kingdom,163630,24473,807
+2020-04-27,United Kingdom,163630,24376,807
 2020-04-27,Uruguay,620,15,386
 2020-04-27,Uzbekistan,1904,8,892
 2020-04-27,Venezuela,329,10,142
@@ -18413,7 +18413,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-28,Uganda,79,0,52
 2020-04-28,Ukraine,9410,239,992
 2020-04-28,United Arab Emirates,11380,89,2181
-2020-04-28,United Kingdom,168357,25386,813
+2020-04-28,United Kingdom,168357,25347,813
 2020-04-28,Uruguay,625,15,394
 2020-04-28,Uzbekistan,1939,8,992
 2020-04-28,Venezuela,329,10,142
@@ -18601,7 +18601,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-29,Uganda,81,0,52
 2020-04-29,Ukraine,9866,250,1103
 2020-04-29,United Arab Emirates,11929,98,2329
-2020-04-29,United Kingdom,173807,26183,857
+2020-04-29,United Kingdom,173807,26118,857
 2020-04-29,Uruguay,630,15,412
 2020-04-29,Uzbekistan,2002,9,1096
 2020-04-29,Venezuela,331,10,142
@@ -18789,7 +18789,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-30,Uganda,83,0,52
 2020-04-30,Ukraine,10406,261,1238
 2020-04-30,United Arab Emirates,12481,105,2429
-2020-04-30,United Kingdom,178771,26859,859
+2020-04-30,United Kingdom,178771,26754,859
 2020-04-30,Uruguay,643,17,417
 2020-04-30,Uzbekistan,2039,9,1133
 2020-04-30,Venezuela,333,16,142
@@ -18977,7 +18977,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-01,Uganda,85,0,52
 2020-05-01,Ukraine,10861,272,1413
 2020-05-01,United Arab Emirates,13038,111,2543
-2020-05-01,United Kingdom,183501,27601,892
+2020-05-01,United Kingdom,183501,27454,892
 2020-05-01,Uruguay,648,17,435
 2020-05-01,Uzbekistan,2086,9,1212
 2020-05-01,Venezuela,335,10,148
@@ -19165,7 +19165,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-02,Uganda,88,0,52
 2020-05-02,Ukraine,11411,279,1498
 2020-05-02,United Arab Emirates,13599,119,2664
-2020-05-02,United Kingdom,186731,28223,896
+2020-05-02,United Kingdom,186731,28039,896
 2020-05-02,Uruguay,652,17,440
 2020-05-02,Uzbekistan,2118,9,1271
 2020-05-02,Venezuela,345,10,148
@@ -19353,7 +19353,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-03,Uganda,89,0,52
 2020-05-03,Ukraine,11913,288,1548
 2020-05-03,United Arab Emirates,14163,126,2763
-2020-05-03,United Kingdom,189708,28538,901
+2020-05-03,United Kingdom,189708,28292,901
 2020-05-03,Uruguay,655,17,442
 2020-05-03,Uzbekistan,2149,10,1319
 2020-05-03,Venezuela,357,10,158
@@ -19541,7 +19541,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-04,Uganda,97,0,55
 2020-05-04,Ukraine,12331,303,1619
 2020-05-04,United Arab Emirates,14730,137,2966
-2020-05-04,United Kingdom,193091,28827,910
+2020-05-04,United Kingdom,193091,28565,910
 2020-05-04,Uruguay,657,17,447
 2020-05-04,Uzbekistan,2189,10,1405
 2020-05-04,Venezuela,357,10,158
@@ -19729,7 +19729,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-05,Uganda,98,0,55
 2020-05-05,Ukraine,12697,316,1875
 2020-05-05,United Arab Emirates,15192,146,3153
-2020-05-05,United Kingdom,196780,29520,926
+2020-05-05,United Kingdom,196780,29290,926
 2020-05-05,Uruguay,670,17,468
 2020-05-05,Uzbekistan,2207,10,1501
 2020-05-05,Venezuela,361,10,158
@@ -19917,7 +19917,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-06,Uganda,100,0,55
 2020-05-06,Ukraine,13184,327,2097
 2020-05-06,United Arab Emirates,15738,157,3359
-2020-05-06,United Kingdom,200616,30172,934
+2020-05-06,United Kingdom,200616,29937,934
 2020-05-06,Uruguay,673,17,486
 2020-05-06,Uzbekistan,2233,10,1577
 2020-05-06,Venezuela,379,10,176
@@ -20105,7 +20105,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-07,Uganda,101,0,55
 2020-05-07,Ukraine,13691,340,2396
 2020-05-07,United Arab Emirates,16240,165,3572
-2020-05-07,United Kingdom,204387,30712,970
+2020-05-07,United Kingdom,204387,30395,970
 2020-05-07,Uruguay,684,17,492
 2020-05-07,Uzbekistan,2298,10,1656
 2020-05-07,Venezuela,381,10,185
@@ -20293,7 +20293,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-08,Uganda,101,0,55
 2020-05-08,Ukraine,14195,361,2706
 2020-05-08,United Arab Emirates,16793,174,3837
-2020-05-08,United Kingdom,207439,31340,997
+2020-05-08,United Kingdom,207439,30975,997
 2020-05-08,Uruguay,694,18,506
 2020-05-08,Uzbekistan,2325,10,1775
 2020-05-08,Venezuela,388,10,190
@@ -20481,7 +20481,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-09,Uganda,116,0,55
 2020-05-09,Ukraine,14710,376,2909
 2020-05-09,United Arab Emirates,17417,185,4295
-2020-05-09,United Kingdom,209589,31685,1001
+2020-05-09,United Kingdom,209589,31250,1001
 2020-05-09,Uruguay,702,18,513
 2020-05-09,Uzbekistan,2349,10,1846
 2020-05-09,Venezuela,402,10,190
@@ -20669,7 +20669,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-10,Uganda,121,0,55
 2020-05-10,Ukraine,15232,391,3060
 2020-05-10,United Arab Emirates,18198,198,4804
-2020-05-10,United Kingdom,211911,31954,1002
+2020-05-10,United Kingdom,211911,31467,1002
 2020-05-10,Uruguay,707,19,517
 2020-05-10,Uzbekistan,2418,10,1881
 2020-05-10,Venezuela,414,10,193
@@ -20857,7 +20857,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-11,Uganda,121,0,55
 2020-05-11,Ukraine,15648,408,3288
 2020-05-11,United Arab Emirates,18878,201,5381
-2020-05-11,United Kingdom,215500,32166,1015
+2020-05-11,United Kingdom,215500,31655,1015
 2020-05-11,Uruguay,711,19,523
 2020-05-11,Uzbekistan,2486,10,1988
 2020-05-11,Venezuela,422,10,205
@@ -21045,7 +21045,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-12,Uganda,129,0,55
 2020-05-12,Ukraine,16023,425,3373
 2020-05-12,United Arab Emirates,19661,203,6012
-2020-05-12,United Kingdom,218895,32797,1023
+2020-05-12,United Kingdom,218895,32270,1023
 2020-05-12,Uruguay,717,19,532
 2020-05-12,Uzbekistan,2519,10,2010
 2020-05-12,Venezuela,423,10,220
@@ -21233,7 +21233,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-13,Uganda,139,0,55
 2020-05-13,Ukraine,16425,439,3716
 2020-05-13,United Arab Emirates,20386,206,6523
-2020-05-13,United Kingdom,222195,33294,1032
+2020-05-13,United Kingdom,222195,32718,1032
 2020-05-13,Uruguay,719,19,545
 2020-05-13,Uzbekistan,2612,11,2076
 2020-05-13,Venezuela,423,10,220
@@ -21421,7 +21421,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-14,Uganda,160,0,63
 2020-05-14,Ukraine,16847,456,4143
 2020-05-14,United Arab Emirates,21084,208,6930
-2020-05-14,United Kingdom,224813,33723,1043
+2020-05-14,United Kingdom,224813,33071,1043
 2020-05-14,Uruguay,724,19,547
 2020-05-14,Uzbekistan,2645,11,2136
 2020-05-14,Venezuela,455,10,220
@@ -21609,7 +21609,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-15,Uganda,203,0,63
 2020-05-15,Ukraine,17330,476,4473
 2020-05-15,United Arab Emirates,21831,210,7328
-2020-05-15,United Kingdom,227334,34108,1047
+2020-05-15,United Kingdom,227334,33422,1047
 2020-05-15,Uruguay,732,19,553
 2020-05-15,Uzbekistan,2686,11,2158
 2020-05-15,Venezuela,459,10,229
@@ -21797,7 +21797,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-16,Uganda,227,0,63
 2020-05-16,Ukraine,17858,497,4906
 2020-05-16,United Arab Emirates,22627,214,7931
-2020-05-16,United Kingdom,229406,34588,1058
+2020-05-16,United Kingdom,229406,33833,1058
 2020-05-16,Uruguay,733,19,558
 2020-05-16,Uzbekistan,2738,11,2213
 2020-05-16,Venezuela,504,10,241
@@ -21985,7 +21985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-17,Uganda,227,0,63
 2020-05-17,Ukraine,18291,514,5116
 2020-05-17,United Arab Emirates,23358,220,8512
-2020-05-17,United Kingdom,231232,34758,1058
+2020-05-17,United Kingdom,231232,33900,1058
 2020-05-17,Uruguay,734,20,564
 2020-05-17,Uzbekistan,2753,12,2247
 2020-05-17,Venezuela,541,10,241
@@ -22173,7 +22173,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-18,Uganda,248,0,63
 2020-05-18,Ukraine,18616,535,5276
 2020-05-18,United Arab Emirates,24190,224,9577
-2020-05-18,United Kingdom,233809,34918,1090
+2020-05-18,United Kingdom,233809,34046,1090
 2020-05-18,Uruguay,737,20,569
 2020-05-18,Uzbekistan,2791,13,2314
 2020-05-18,Venezuela,618,10,253
@@ -22361,7 +22361,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-19,Uganda,260,0,63
 2020-05-19,Ukraine,18876,548,5632
 2020-05-19,United Arab Emirates,25063,227,10791
-2020-05-19,United Kingdom,236867,35467,1099
+2020-05-19,United Kingdom,236867,34547,1099
 2020-05-19,Uruguay,738,20,579
 2020-05-19,Uzbekistan,2855,13,2338
 2020-05-19,Venezuela,749,10,253
@@ -22549,7 +22549,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-20,Uganda,264,0,65
 2020-05-20,Ukraine,19230,564,5955
 2020-05-20,United Arab Emirates,26004,233,11809
-2020-05-20,United Kingdom,239579,35837,1116
+2020-05-20,United Kingdom,239579,34876,1116
 2020-05-20,Uruguay,746,20,588
 2020-05-20,Uzbekistan,2939,13,2372
 2020-05-20,Venezuela,824,10,262
@@ -22737,7 +22737,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-21,Uganda,160,0,66
 2020-05-21,Ukraine,19706,579,6227
 2020-05-21,United Arab Emirates,26898,237,12755
-2020-05-21,United Kingdom,242133,36175,1134
+2020-05-21,United Kingdom,242133,35149,1134
 2020-05-21,Uruguay,749,20,594
 2020-05-21,Uzbekistan,2964,13,2407
 2020-05-21,Venezuela,882,10,262
@@ -22925,7 +22925,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-22,Uganda,175,0,68
 2020-05-22,Ukraine,20148,588,6585
 2020-05-22,United Arab Emirates,27892,241,13798
-2020-05-22,United Kingdom,244174,36533,1142
+2020-05-22,United Kingdom,244174,35440,1142
 2020-05-22,Uruguay,753,20,603
 2020-05-22,Uzbekistan,3028,13,2492
 2020-05-22,Venezuela,944,10,262
@@ -23113,7 +23113,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-23,Uganda,198,0,68
 2020-05-23,Ukraine,20580,605,6929
 2020-05-23,United Arab Emirates,28704,244,14495
-2020-05-23,United Kingdom,245682,36816,1149
+2020-05-23,United Kingdom,245682,35660,1149
 2020-05-23,Uruguay,764,22,616
 2020-05-23,Uzbekistan,3115,13,2532
 2020-05-23,Venezuela,1010,10,262
@@ -23301,7 +23301,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-24,Uganda,198,0,68
 2020-05-24,Ukraine,20986,617,7108
 2020-05-24,United Arab Emirates,29485,245,15056
-2020-05-24,United Kingdom,247037,37257,1151
+2020-05-24,United Kingdom,247037,36039,1151
 2020-05-24,Uruguay,769,22,618
 2020-05-24,Uzbekistan,3164,13,2565
 2020-05-24,Venezuela,1121,10,262
@@ -23489,7 +23489,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-25,Uganda,222,0,69
 2020-05-25,Ukraine,21245,623,7234
 2020-05-25,United Arab Emirates,30307,248,15657
-2020-05-25,United Kingdom,248650,37379,1161
+2020-05-25,United Kingdom,248650,36143,1161
 2020-05-25,Uruguay,787,22,629
 2020-05-25,Uzbekistan,3189,13,2607
 2020-05-25,Venezuela,1177,10,302
@@ -23677,7 +23677,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-26,Uganda,253,0,69
 2020-05-26,Ukraine,21584,644,7575
 2020-05-26,United Arab Emirates,31086,253,15982
-2020-05-26,United Kingdom,250309,37515,1161
+2020-05-26,United Kingdom,250309,36274,1161
 2020-05-26,Uruguay,789,22,638
 2020-05-26,Uzbekistan,3290,14,2636
 2020-05-26,Venezuela,1211,11,302
@@ -23865,7 +23865,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-27,Uganda,281,0,69
 2020-05-27,Ukraine,21905,658,7995
 2020-05-27,United Arab Emirates,31969,255,16371
-2020-05-27,United Kingdom,252118,37958,1166
+2020-05-27,United Kingdom,252118,36696,1166
 2020-05-27,Uruguay,803,22,650
 2020-05-27,Uzbekistan,3369,14,2668
 2020-05-27,Venezuela,1245,11,302
@@ -24053,7 +24053,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-28,Uganda,317,0,69
 2020-05-28,Ukraine,22382,669,8439
 2020-05-28,United Arab Emirates,32532,258,16685
-2020-05-28,United Kingdom,253854,38374,1167
+2020-05-28,United Kingdom,253854,37039,1167
 2020-05-28,Uruguay,811,22,654
 2020-05-28,Uzbekistan,3444,14,2694
 2020-05-28,Venezuela,1325,11,302
@@ -24241,7 +24241,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-29,Uganda,329,0,72
 2020-05-29,Ukraine,22811,679,8934
 2020-05-29,United Arab Emirates,33170,260,17097
-2020-05-29,United Kingdom,255362,38747,1172
+2020-05-29,United Kingdom,255362,37313,1172
 2020-05-29,Uruguay,816,22,680
 2020-05-29,Uzbekistan,3468,14,2728
 2020-05-29,Venezuela,1370,14,302
@@ -24429,7 +24429,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-30,Uganda,413,0,72
 2020-05-30,Ukraine,23204,696,9311
 2020-05-30,United Arab Emirates,33896,262,17546
-2020-05-30,United Kingdom,256469,38977,1187
+2020-05-30,United Kingdom,256469,37467,1187
 2020-05-30,Uruguay,821,22,682
 2020-05-30,Uzbekistan,3546,14,2783
 2020-05-30,Venezuela,1459,14,302
@@ -24617,7 +24617,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-31,Uganda,417,0,72
 2020-05-31,Ukraine,23672,708,9538
 2020-05-31,United Arab Emirates,34557,264,17932
-2020-05-31,United Kingdom,257539,39092,1190
+2020-05-31,United Kingdom,257539,37527,1190
 2020-05-31,Uruguay,823,22,685
 2020-05-31,Uzbekistan,3623,15,2837
 2020-05-31,Venezuela,1510,14,302
@@ -24805,7 +24805,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-01,Uganda,457,0,72
 2020-06-01,Ukraine,24562,724,10053
 2020-06-01,United Arab Emirates,35192,266,18338
-2020-06-01,United Kingdom,258983,39203,1221
+2020-06-01,United Kingdom,258983,37613,1221
 2020-06-01,Uruguay,825,23,689
 2020-06-01,Uzbekistan,3702,15,2859
 2020-06-01,Venezuela,1662,17,302
@@ -24993,7 +24993,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-02,Uganda,489,0,82
 2020-06-02,Ukraine,24895,733,10461
 2020-06-02,United Arab Emirates,35788,269,18726
-2020-06-02,United Kingdom,260453,39530,1224
+2020-06-02,United Kingdom,260453,37863,1224
 2020-06-02,Uruguay,826,23,691
 2020-06-02,Uzbekistan,3760,15,2908
 2020-06-02,Venezuela,1819,18,334
@@ -25181,7 +25181,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-03,Uganda,507,0,82
 2020-06-03,Ukraine,25385,742,10838
 2020-06-03,United Arab Emirates,36359,270,19153
-2020-06-03,United Kingdom,261802,39895,1212
+2020-06-03,United Kingdom,261802,38117,1212
 2020-06-03,Uruguay,828,23,698
 2020-06-03,Uzbekistan,3843,16,3014
 2020-06-03,Venezuela,1952,20,334
@@ -25369,7 +25369,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-04,Uganda,522,0,82
 2020-06-04,Ukraine,25981,755,11468
 2020-06-04,United Arab Emirates,37018,273,19572
-2020-06-04,United Kingdom,263040,40072,1219
+2020-06-04,United Kingdom,263040,38247,1219
 2020-06-04,Uruguay,832,23,709
 2020-06-04,Uzbekistan,3939,16,3087
 2020-06-04,Venezuela,2087,20,334
@@ -25557,7 +25557,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-05,Uganda,557,0,82
 2020-06-05,Ukraine,26542,770,11815
 2020-06-05,United Arab Emirates,37642,274,20337
-2020-06-05,United Kingdom,264150,40430,1228
+2020-06-05,United Kingdom,264150,38505,1228
 2020-06-05,Uruguay,834,23,721
 2020-06-05,Uzbekistan,4007,16,3247
 2020-06-05,Venezuela,2145,20,334
@@ -25745,7 +25745,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-06,Uganda,593,0,82
 2020-06-06,Ukraine,27101,785,12265
 2020-06-06,United Arab Emirates,38268,275,21061
-2020-06-06,United Kingdom,264944,40637,1230
+2020-06-06,United Kingdom,264944,38648,1230
 2020-06-06,Uruguay,845,23,726
 2020-06-06,Uzbekistan,4094,17,3268
 2020-06-06,Venezuela,2316,22,385
@@ -25933,7 +25933,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-07,Uganda,616,0,96
 2020-06-07,Ukraine,27599,796,12513
 2020-06-07,United Arab Emirates,38808,276,21806
-2020-06-07,United Kingdom,265662,40714,1239
+2020-06-07,United Kingdom,265662,38702,1239
 2020-06-07,Uruguay,845,23,730
 2020-06-07,Uzbekistan,4331,17,3354
 2020-06-07,Venezuela,2377,22,487
@@ -26121,7 +26121,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-08,Uganda,646,0,103
 2020-06-08,Ukraine,28077,805,12657
 2020-06-08,United Arab Emirates,39376,281,22275
-2020-06-08,United Kingdom,266756,40769,1255
+2020-06-08,United Kingdom,266756,38749,1255
 2020-06-08,Uruguay,845,23,738
 2020-06-08,Uzbekistan,4440,18,3357
 2020-06-08,Venezuela,2473,22,487
@@ -26309,7 +26309,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-09,Uganda,657,0,118
 2020-06-09,Ukraine,28479,818,12892
 2020-06-09,United Arab Emirates,39904,283,22740
-2020-06-09,United Kingdom,267915,41060,1257
+2020-06-09,United Kingdom,267915,38946,1257
 2020-06-09,Uruguay,846,23,754
 2020-06-09,Uzbekistan,4520,18,3459
 2020-06-09,Venezuela,2632,23,487
@@ -26497,7 +26497,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-10,Uganda,665,0,119
 2020-06-10,Ukraine,29015,841,13257
 2020-06-10,United Arab Emirates,40507,284,24017
-2020-06-10,United Kingdom,269101,41310,1269
+2020-06-10,United Kingdom,269101,39110,1269
 2020-06-10,Uruguay,847,23,758
 2020-06-10,Uzbekistan,4623,19,3532
 2020-06-10,Venezuela,2738,23,487
@@ -26685,7 +26685,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-11,Uganda,679,0,161
 2020-06-11,Ukraine,29706,864,13642
 2020-06-11,United Arab Emirates,40986,286,25234
-2020-06-11,United Kingdom,270108,41462,1278
+2020-06-11,United Kingdom,270108,39186,1278
 2020-06-11,Uruguay,847,23,772
 2020-06-11,Uzbekistan,4741,19,3637
 2020-06-11,Venezuela,2814,23,487
@@ -26873,7 +26873,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-12,Uganda,686,0,161
 2020-06-12,Ukraine,30415,880,14075
 2020-06-12,United Arab Emirates,41499,287,25946
-2020-06-12,United Kingdom,271162,41666,1282
+2020-06-12,United Kingdom,271162,39317,1282
 2020-06-12,Uruguay,847,23,780
 2020-06-12,Uzbekistan,4869,19,3758
 2020-06-12,Venezuela,2879,23,487
@@ -27061,7 +27061,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-13,Uganda,694,0,219
 2020-06-13,Ukraine,31177,890,14489
 2020-06-13,United Arab Emirates,41990,288,26761
-2020-06-13,United Kingdom,272050,41849,1283
+2020-06-13,United Kingdom,272050,39424,1283
 2020-06-13,Uruguay,847,23,784
 2020-06-13,Uzbekistan,4966,19,3874
 2020-06-13,Venezuela,2904,24,487
@@ -27249,7 +27249,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-14,Uganda,696,0,240
 2020-06-14,Ukraine,31851,899,14596
 2020-06-14,United Arab Emirates,42294,289,27462
-2020-06-14,United Kingdom,272857,41885,1283
+2020-06-14,United Kingdom,272857,39451,1283
 2020-06-14,Uruguay,848,23,788
 2020-06-14,Uzbekistan,5080,19,3943
 2020-06-14,Venezuela,2978,25,835
@@ -27437,7 +27437,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-15,Uganda,705,0,299
 2020-06-15,Ukraine,32536,911,14771
 2020-06-15,United Arab Emirates,42636,291,28129
-2020-06-15,United Kingdom,273888,41923,1284
+2020-06-15,United Kingdom,273888,39480,1284
 2020-06-15,Uruguay,848,23,792
 2020-06-15,Uzbekistan,5263,19,4019
 2020-06-15,Venezuela,3062,26,835
@@ -27625,7 +27625,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-16,Uganda,724,0,351
 2020-06-16,Ukraine,33209,922,15054
 2020-06-16,United Arab Emirates,42982,293,28861
-2020-06-16,United Kingdom,274971,42159,1293
+2020-06-16,United Kingdom,274971,39600,1293
 2020-06-16,Uruguay,849,24,801
 2020-06-16,Uzbekistan,5493,19,4096
 2020-06-16,Venezuela,3150,27,835
@@ -27813,7 +27813,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-17,Uganda,732,0,420
 2020-06-17,Ukraine,33986,953,15485
 2020-06-17,United Arab Emirates,43364,295,29537
-2020-06-17,United Kingdom,275970,42343,1304
+2020-06-17,United Kingdom,275970,39710,1304
 2020-06-17,Uruguay,849,24,810
 2020-06-17,Uzbekistan,5682,19,4131
 2020-06-17,Venezuela,3386,28,835
@@ -28001,7 +28001,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-18,Uganda,741,0,486
 2020-06-18,Ukraine,34833,976,16001
 2020-06-18,United Arab Emirates,43752,298,30241
-2020-06-18,United Kingdom,276990,42480,1313
+2020-06-18,United Kingdom,276990,39777,1313
 2020-06-18,Uruguay,850,24,814
 2020-06-18,Uzbekistan,5767,19,4166
 2020-06-18,Venezuela,3483,28,835
@@ -28189,7 +28189,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-19,Uganda,755,0,492
 2020-06-19,Ukraine,35755,995,16588
 2020-06-19,United Arab Emirates,44145,300,30996
-2020-06-19,United Kingdom,277974,42653,1319
+2020-06-19,United Kingdom,277974,39861,1319
 2020-06-19,Uruguay,853,24,814
 2020-06-19,Uzbekistan,5946,19,4273
 2020-06-19,Venezuela,3591,30,835
@@ -28377,7 +28377,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-20,Uganda,763,0,492
 2020-06-20,Ukraine,36615,1004,16974
 2020-06-20,United Arab Emirates,44533,301,31754
-2020-06-20,United Kingdom,278640,42783,1319
+2020-06-20,United Kingdom,278640,39932,1319
 2020-06-20,Uruguay,859,25,815
 2020-06-20,Uzbekistan,6153,19,4290
 2020-06-20,Venezuela,3789,33,835
@@ -28565,7 +28565,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-21,Uganda,770,0,578
 2020-06-21,Ukraine,37361,1012,17078
 2020-06-21,United Arab Emirates,44925,302,32415
-2020-06-21,United Kingdom,279264,42826,1319
+2020-06-21,United Kingdom,279264,39963,1319
 2020-06-21,Uruguay,876,25,814
 2020-06-21,Uzbekistan,6315,19,4377
 2020-06-21,Venezuela,3917,33,835
@@ -28753,7 +28753,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-22,Uganda,774,0,631
 2020-06-22,Ukraine,38056,1022,17211
 2020-06-22,United Arab Emirates,45303,303,33046
-2020-06-22,United Kingdom,280156,42840,1322
+2020-06-22,United Kingdom,280156,39976,1322
 2020-06-22,Uruguay,882,25,815
 2020-06-22,Uzbekistan,6461,19,4450
 2020-06-22,Venezuela,4048,35,1327
@@ -28941,7 +28941,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-23,Uganda,797,0,699
 2020-06-23,Ukraine,38901,1045,17538
 2020-06-23,United Arab Emirates,45683,305,33703
-2020-06-23,United Kingdom,281038,43011,1330
+2020-06-23,United Kingdom,281038,40070,1330
 2020-06-23,Uruguay,885,25,815
 2020-06-23,Uzbekistan,6662,19,4560
 2020-06-23,Venezuela,4187,35,1327
@@ -29129,7 +29129,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-24,Uganda,805,0,717
 2020-06-24,Ukraine,39852,1061,18009
 2020-06-24,United Arab Emirates,46133,307,34405
-2020-06-24,United Kingdom,281815,43165,1345
+2020-06-24,United Kingdom,281815,40157,1345
 2020-06-24,Uruguay,902,26,815
 2020-06-24,Uzbekistan,6990,19,4685
 2020-06-24,Venezuela,4366,38,1327
@@ -29317,7 +29317,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-25,Uganda,821,0,731
 2020-06-25,Ukraine,40854,1078,18365
 2020-06-25,United Arab Emirates,46563,308,35165
-2020-06-25,United Kingdom,282512,43314,1361
+2020-06-25,United Kingdom,282512,40256,1361
 2020-06-25,Uruguay,907,26,818
 2020-06-25,Uzbekistan,7177,20,4877
 2020-06-25,Venezuela,4563,39,1327
@@ -29505,7 +29505,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-26,Uganda,833,0,761
 2020-06-26,Ukraine,41975,1097,18927
 2020-06-26,United Arab Emirates,46973,310,35469
-2020-06-26,United Kingdom,283151,43498,1363
+2020-06-26,United Kingdom,283151,40333,1363
 2020-06-26,Uruguay,919,26,818
 2020-06-26,Uzbekistan,7427,20,5038
 2020-06-26,Venezuela,4779,41,1327
@@ -29693,7 +29693,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-27,Uganda,848,0,761
 2020-06-27,Ukraine,42932,1121,19350
 2020-06-27,United Arab Emirates,47360,311,35834
-2020-06-27,United Kingdom,283785,43598,1364
+2020-06-27,United Kingdom,283785,40373,1364
 2020-06-27,Uruguay,924,26,818
 2020-06-27,Uzbekistan,7682,20,5240
 2020-06-27,Venezuela,5130,42,1327
@@ -29881,7 +29881,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-28,Uganda,859,0,794
 2020-06-28,Ukraine,43856,1142,19585
 2020-06-28,United Arab Emirates,47797,313,36411
-2020-06-28,United Kingdom,284192,43634,1364
+2020-06-28,United Kingdom,284192,40404,1364
 2020-06-28,Uruguay,929,27,818
 2020-06-28,Uzbekistan,7948,22,5329
 2020-06-28,Venezuela,5297,44,1649
@@ -30069,7 +30069,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-29,Uganda,870,0,808
 2020-06-29,Ukraine,44538,1161,19679
 2020-06-29,United Arab Emirates,48246,314,37076
-2020-06-29,United Kingdom,284812,43659,1368
+2020-06-29,United Kingdom,284812,40425,1368
 2020-06-29,Uruguay,932,27,822
 2020-06-29,Uzbekistan,8222,23,5496
 2020-06-29,Venezuela,5530,48,1649
@@ -30257,7 +30257,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-30,Uganda,889,0,819
 2020-06-30,Ukraine,45254,1173,19792
 2020-06-30,United Arab Emirates,48667,315,37566
-2020-06-30,United Kingdom,285216,43815,1370
+2020-06-30,United Kingdom,285216,40479,1370
 2020-06-30,Uruguay,936,27,824
 2020-06-30,Uzbekistan,8503,26,5682
 2020-06-30,Venezuela,5832,51,1649
@@ -30445,7 +30445,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-01,Uganda,893,0,837
 2020-07-01,Ukraine,45924,1188,20244
 2020-07-01,United Arab Emirates,49069,316,38160
-2020-07-01,United Kingdom,285279,43991,1372
+2020-07-01,United Kingdom,285279,40576,1372
 2020-07-01,Uruguay,943,28,825
 2020-07-01,Uzbekistan,8781,26,5847
 2020-07-01,Venezuela,6062,54,1649
@@ -30633,7 +30633,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-02,Uganda,902,0,847
 2020-07-02,Ukraine,46821,1200,20755
 2020-07-02,United Arab Emirates,49469,317,38664
-2020-07-02,United Kingdom,285285,44080,1373
+2020-07-02,United Kingdom,285285,40617,1373
 2020-07-02,Uruguay,947,28,828
 2020-07-02,Uzbekistan,9078,27,6034
 2020-07-02,Venezuela,6273,57,2100
@@ -30821,7 +30821,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-03,Uganda,911,0,849
 2020-07-03,Ukraine,47705,1227,21296
 2020-07-03,United Arab Emirates,50141,318,39153
-2020-07-03,United Kingdom,285787,44216,1375
+2020-07-03,United Kingdom,285787,40666,1375
 2020-07-03,Uruguay,952,28,837
 2020-07-03,Uzbekistan,9396,29,6251
 2020-07-03,Venezuela,6537,59,2100
@@ -31009,7 +31009,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-04,Uganda,927,0,868
 2020-07-04,Ukraine,48628,1243,21907
 2020-07-04,United Arab Emirates,50857,321,39857
-2020-07-04,United Kingdom,286412,44283,1375
+2020-07-04,United Kingdom,286412,40698,1375
 2020-07-04,Uruguay,955,28,840
 2020-07-04,Uzbekistan,9708,31,6425
 2020-07-04,Venezuela,6750,62,2100
@@ -31197,7 +31197,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-05,Uganda,939,0,891
 2020-07-05,Ukraine,49468,1265,22131
 2020-07-05,United Arab Emirates,51540,323,40297
-2020-07-05,United Kingdom,286931,44305,1375
+2020-07-05,United Kingdom,286931,40717,1375
 2020-07-05,Uruguay,956,28,849
 2020-07-05,Uzbekistan,10020,34,6584
 2020-07-05,Venezuela,7169,65,2100
@@ -31385,7 +31385,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-06,Uganda,953,0,892
 2020-07-06,Ukraine,50053,1278,22462
 2020-07-06,United Arab Emirates,52068,324,40721
-2020-07-06,United Kingdom,287290,44321,1375
+2020-07-06,United Kingdom,287290,40728,1375
 2020-07-06,Uruguay,960,29,858
 2020-07-06,Uzbekistan,10362,37,6628
 2020-07-06,Venezuela,7411,68,2100
@@ -31573,7 +31573,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-07,Uganda,971,0,896
 2020-07-07,Ukraine,50622,1299,22970
 2020-07-07,United Arab Emirates,52600,326,41714
-2020-07-07,United Kingdom,287874,44476,1375
+2020-07-07,United Kingdom,287874,40782,1375
 2020-07-07,Uruguay,965,29,865
 2020-07-07,Uzbekistan,10838,41,6811
 2020-07-07,Venezuela,7693,71,2100
@@ -31761,7 +31761,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-08,Uganda,977,0,904
 2020-07-08,Ukraine,51457,1323,23912
 2020-07-08,United Arab Emirates,53045,327,42282
-2020-07-08,United Kingdom,288511,44602,1378
+2020-07-08,United Kingdom,288511,40839,1378
 2020-07-08,Uruguay,974,29,871
 2020-07-08,Uzbekistan,11092,45,7060
 2020-07-08,Venezuela,8008,75,2100
@@ -31949,7 +31949,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-09,Uganda,1000,0,908
 2020-07-09,Ukraine,52285,1344,24606
 2020-07-09,United Arab Emirates,53577,328,43570
-2020-07-09,United Kingdom,289154,44687,1378
+2020-07-09,United Kingdom,289154,40870,1378
 2020-07-09,Uruguay,977,29,878
 2020-07-09,Uzbekistan,11564,51,7287
 2020-07-09,Venezuela,8372,80,2544
@@ -32137,7 +32137,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-10,Uganda,1006,0,938
 2020-07-10,Ukraine,53116,1362,25634
 2020-07-10,United Arab Emirates,54050,330,43969
-2020-07-10,United Kingdom,289678,44735,1378
+2020-07-10,United Kingdom,289678,40904,1378
 2020-07-10,Uruguay,985,29,886
 2020-07-10,Uzbekistan,12027,54,7530
 2020-07-10,Venezuela,8803,83,2671
@@ -32325,7 +32325,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-11,Uganda,1013,0,952
 2020-07-11,Ukraine,53941,1389,26513
 2020-07-11,United Arab Emirates,54453,331,44648
-2020-07-11,United Kingdom,290504,44883,1378
+2020-07-11,United Kingdom,290504,40921,1378
 2020-07-11,Uruguay,986,30,896
 2020-07-11,Uzbekistan,12513,57,7723
 2020-07-11,Venezuela,9178,85,2671
@@ -32513,7 +32513,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-12,Uganda,1025,0,972
 2020-07-12,Ukraine,54647,1400,26971
 2020-07-12,United Arab Emirates,54854,333,45140
-2020-07-12,United Kingdom,291154,44904,1378
+2020-07-12,United Kingdom,291154,40930,1378
 2020-07-12,Uruguay,987,31,896
 2020-07-12,Uzbekistan,12997,60,7852
 2020-07-12,Venezuela,9465,89,2671
@@ -32701,7 +32701,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-13,Uganda,1029,0,977
 2020-07-13,Ukraine,55285,1415,27356
 2020-07-13,United Arab Emirates,55198,334,45513
-2020-07-13,United Kingdom,291691,44915,1384
+2020-07-13,United Kingdom,291691,40940,1384
 2020-07-13,Uruguay,989,31,903
 2020-07-13,Uzbekistan,13591,64,8030
 2020-07-13,Venezuela,9707,93,2671
@@ -32889,7 +32889,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-14,Uganda,1040,0,984
 2020-07-14,Ukraine,55931,1429,28021
 2020-07-14,United Arab Emirates,55573,335,46025
-2020-07-14,United Kingdom,292931,45053,1385
+2020-07-14,United Kingdom,292931,40984,1385
 2020-07-14,Uruguay,997,31,905
 2020-07-14,Uzbekistan,14085,67,8327
 2020-07-14,Venezuela,10010,96,2671
@@ -33077,7 +33077,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-15,Uganda,1043,0,1004
 2020-07-15,Ukraine,56779,1444,29005
 2020-07-15,United Arab Emirates,55848,335,46418
-2020-07-15,United Kingdom,293469,45138,1386
+2020-07-15,United Kingdom,293469,41010,1386
 2020-07-15,Uruguay,1009,31,909
 2020-07-15,Uzbekistan,14581,71,8655
 2020-07-15,Venezuela,10428,100,3050
@@ -33265,7 +33265,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-16,Uganda,1051,0,1014
 2020-07-16,Ukraine,57640,1462,29822
 2020-07-16,United Arab Emirates,56129,335,47412
-2020-07-16,United Kingdom,294116,45204,1403
+2020-07-16,United Kingdom,294116,41034,1403
 2020-07-16,Uruguay,1026,32,916
 2020-07-16,Uzbekistan,15066,75,8783
 2020-07-16,Venezuela,10854,104,3255
@@ -33453,7 +33453,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-17,Uganda,1056,0,1023
 2020-07-17,Ukraine,58466,1473,30675
 2020-07-17,United Arab Emirates,56422,337,48448
-2020-07-17,United Kingdom,294803,45318,1403
+2020-07-17,United Kingdom,294803,41060,1403
 2020-07-17,Uruguay,1037,32,917
 2020-07-17,Uzbekistan,15607,79,9003
 2020-07-17,Venezuela,11191,107,3852
@@ -33641,7 +33641,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-18,Uganda,1062,0,1023
 2020-07-18,Ukraine,59333,1496,31479
 2020-07-18,United Arab Emirates,56711,338,48917
-2020-07-18,United Kingdom,295632,45358,1413
+2020-07-18,United Kingdom,295632,41069,1413
 2020-07-18,Uruguay,1044,33,921
 2020-07-18,Uzbekistan,16186,83,9127
 2020-07-18,Venezuela,11483,110,3972
@@ -33829,7 +33829,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-19,Uganda,1065,0,1023
 2020-07-19,Ukraine,60077,1504,31836
 2020-07-19,United Arab Emirates,56922,339,49269
-2020-07-19,United Kingdom,296358,45385,1413
+2020-07-19,United Kingdom,296358,41080,1413
 2020-07-19,Uruguay,1054,33,922
 2020-07-19,Uzbekistan,16752,87,9279
 2020-07-19,Venezuela,11891,112,3972
@@ -34017,7 +34017,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-20,Uganda,1069,0,1071
 2020-07-20,Ukraine,60767,1517,32397
 2020-07-20,United Arab Emirates,57193,340,49621
-2020-07-20,United Kingdom,296944,45397,1413
+2020-07-20,United Kingdom,296944,41090,1413
 2020-07-20,Uruguay,1064,33,927
 2020-07-20,Uzbekistan,17149,90,9387
 2020-07-20,Venezuela,12334,116,6844
@@ -34205,7 +34205,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-21,Uganda,1072,0,958
 2020-07-21,Ukraine,61454,1537,33186
 2020-07-21,United Arab Emirates,57498,341,49964
-2020-07-21,United Kingdom,297389,45507,1414
+2020-07-21,United Kingdom,297389,41115,1414
 2020-07-21,Uruguay,1096,33,929
 2020-07-21,Uzbekistan,17881,95,9521
 2020-07-21,Venezuela,12774,120,6983
@@ -34393,7 +34393,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-22,Uganda,1075,0,958
 2020-07-22,Ukraine,62295,1553,34176
 2020-07-22,United Arab Emirates,57734,342,50354
-2020-07-22,United Kingdom,297952,45586,1416
+2020-07-22,United Kingdom,297952,41132,1416
 2020-07-22,Uruguay,1117,34,934
 2020-07-22,Uzbekistan,18379,98,9872
 2020-07-22,Venezuela,13164,124,7471
@@ -34581,7 +34581,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-23,Uganda,1079,0,971
 2020-07-23,Ukraine,63169,1570,35035
 2020-07-23,United Arab Emirates,57988,342,50848
-2020-07-23,United Kingdom,298731,45639,1425
+2020-07-23,United Kingdom,298731,41141,1425
 2020-07-23,Uruguay,1141,34,940
 2020-07-23,Uzbekistan,18986,103,10149
 2020-07-23,Venezuela,13613,129,7752
@@ -34769,7 +34769,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-24,Uganda,1089,1,975
 2020-07-24,Ukraine,64173,1591,35932
 2020-07-24,United Arab Emirates,58249,343,51235
-2020-07-24,United Kingdom,299500,45762,1425
+2020-07-24,United Kingdom,299500,41173,1425
 2020-07-24,Uruguay,1166,34,946
 2020-07-24,Uzbekistan,19360,106,10472
 2020-07-24,Venezuela,14263,134,8127
@@ -34957,7 +34957,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-25,Uganda,1103,1,982
 2020-07-25,Ukraine,65317,1610,36573
 2020-07-25,United Arab Emirates,58562,343,51628
-2020-07-25,United Kingdom,300270,45823,1427
+2020-07-25,United Kingdom,300270,41188,1427
 2020-07-25,Uruguay,1174,34,947
 2020-07-25,Uzbekistan,19952,111,10831
 2020-07-25,Venezuela,14929,138,8795
@@ -35145,7 +35145,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-26,Uganda,1115,2,982
 2020-07-26,Ukraine,66261,1625,36885
 2020-07-26,United Arab Emirates,58913,344,52182
-2020-07-26,United Kingdom,301020,45837,1434
+2020-07-26,United Kingdom,301020,41196,1434
 2020-07-26,Uruguay,1192,34,948
 2020-07-26,Uzbekistan,20531,116,11105
 2020-07-26,Venezuela,15463,142,9746
@@ -35333,7 +35333,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-27,Uganda,1128,2,986
 2020-07-27,Ukraine,67096,1636,37202
 2020-07-27,United Arab Emirates,59177,345,52510
-2020-07-27,United Kingdom,301708,45844,1437
+2020-07-27,United Kingdom,301708,41199,1437
 2020-07-27,Uruguay,1202,35,951
 2020-07-27,Uzbekistan,21209,121,11674
 2020-07-27,Venezuela,15988,146,9959
@@ -35521,7 +35521,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-28,Uganda,1135,2,989
 2020-07-28,Ukraine,68030,1650,37852
 2020-07-28,United Arab Emirates,59546,347,52905
-2020-07-28,United Kingdom,302261,45963,1438
+2020-07-28,United Kingdom,302261,41220,1438
 2020-07-28,Uruguay,1218,35,958
 2020-07-28,Uzbekistan,21699,124,12026
 2020-07-28,Venezuela,16571,151,10195
@@ -35709,7 +35709,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-29,Uganda,1140,2,1028
 2020-07-29,Ukraine,69078,1673,38523
 2020-07-29,United Arab Emirates,59921,347,53202
-2020-07-29,United Kingdom,303063,46046,1438
+2020-07-29,United Kingdom,303063,41254,1438
 2020-07-29,Uruguay,1237,35,967
 2020-07-29,Uzbekistan,22585,131,12937
 2020-07-29,Venezuela,17158,156,10421
@@ -35897,7 +35897,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-30,Uganda,1147,2,1028
 2020-07-30,Ukraine,70300,1697,39327
 2020-07-30,United Arab Emirates,60223,349,53626
-2020-07-30,United Kingdom,303910,46084,1438
+2020-07-30,United Kingdom,303910,41254,1438
 2020-07-30,Uruguay,1243,35,978
 2020-07-30,Uzbekistan,23271,136,13680
 2020-07-30,Venezuela,17859,158,10421
@@ -36085,7 +36085,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-31,Uganda,1154,3,1028
 2020-07-31,Ukraine,71404,1717,39945
 2020-07-31,United Arab Emirates,60506,351,53909
-2020-07-31,United Kingdom,304793,46204,1439
+2020-07-31,United Kingdom,304793,41274,1439
 2020-07-31,Uruguay,1264,35,994
 2020-07-31,Uzbekistan,24009,141,14464
 2020-07-31,Venezuela,18574,164,10421
@@ -36273,7 +36273,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-01,Uganda,1176,4,1045
 2020-08-01,Ukraine,72609,1733,40516
 2020-08-01,United Arab Emirates,60760,351,54255
-2020-08-01,United Kingdom,305562,46278,1441
+2020-08-01,United Kingdom,305562,41287,1441
 2020-08-01,Uruguay,1278,35,1004
 2020-08-01,Uzbekistan,24783,147,15299
 2020-08-01,Venezuela,19443,169,11129
@@ -36461,7 +36461,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,Uganda,1182,4,1045
 2020-08-02,Ukraine,73761,1749,40755
 2020-08-02,United Arab Emirates,60999,351,54615
-2020-08-02,United Kingdom,306309,46286,1444
+2020-08-02,United Kingdom,306309,41292,1444
 2020-08-02,Uruguay,1286,36,1011
 2020-08-02,Uzbekistan,25336,151,15833
 2020-08-02,Venezuela,20206,174,11404
@@ -36649,7 +36649,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,Uganda,1195,5,1070
 2020-08-03,Ukraine,74781,1762,41097
 2020-08-03,United Arab Emirates,61163,351,54863
-2020-08-03,United Kingdom,307251,46295,1445
+2020-08-03,United Kingdom,307251,41293,1445
 2020-08-03,Uruguay,1291,36,1023
 2020-08-03,Uzbekistan,26066,157,16838
 2020-08-03,Venezuela,20754,180,11622
@@ -36837,7 +36837,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,Uganda,1203,5,1073
 2020-08-04,Ukraine,75880,1788,41849
 2020-08-04,United Arab Emirates,61352,351,55090
-2020-08-04,United Kingdom,307926,46314,1445
+2020-08-04,United Kingdom,307926,41311,1445
 2020-08-04,Uruguay,1300,37,1048
 2020-08-04,Uzbekistan,27047,165,18051
 2020-08-04,Venezuela,21438,187,11875
@@ -37025,7 +37025,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,Uganda,1213,5,1102
 2020-08-05,Ukraine,77169,1813,42784
 2020-08-05,United Arab Emirates,61606,353,55385
-2020-08-05,United Kingdom,308832,46449,1446
+2020-08-05,United Kingdom,308832,41325,1446
 2020-08-05,Uruguay,1309,37,1065
 2020-08-05,Uzbekistan,27793,171,18783
 2020-08-05,Venezuela,22299,195,12146
@@ -37213,7 +37213,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,Uganda,1223,5,1102
 2020-08-06,Ukraine,78515,1846,43812
 2020-08-06,United Arab Emirates,61845,354,55739
-2020-08-06,United Kingdom,309796,46498,1447
+2020-08-06,United Kingdom,309796,41343,1447
 2020-08-06,Uruguay,1318,37,1079
 2020-08-06,Uzbekistan,28315,175,19291
 2020-08-06,Venezuela,23280,202,12470
@@ -37401,7 +37401,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,Uganda,1254,6,1113
 2020-08-07,Ukraine,80018,1879,44369
 2020-08-07,United Arab Emirates,62061,356,56015
-2020-08-07,United Kingdom,310696,46596,1447
+2020-08-07,United Kingdom,310696,41355,1447
 2020-08-07,Uruguay,1325,37,1095
 2020-08-07,Uzbekistan,29057,181,20059
 2020-08-07,Venezuela,24166,208,12470
@@ -37589,7 +37589,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,Uganda,1267,6,1115
 2020-08-08,Ukraine,81534,1906,45006
 2020-08-08,United Arab Emirates,62300,356,56245
-2020-08-08,United Kingdom,311461,46651,1449
+2020-08-08,United Kingdom,311461,41358,1449
 2020-08-08,Uruguay,1335,37,1112
 2020-08-08,Uzbekistan,29652,187,21006
 2020-08-08,Venezuela,24961,215,13356
@@ -37777,7 +37777,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,Uganda,1283,7,1115
 2020-08-09,Ukraine,82767,1925,45335
 2020-08-09,United Arab Emirates,62525,357,56568
-2020-08-09,United Kingdom,312574,46659,1451
+2020-08-09,United Kingdom,312574,41363,1451
 2020-08-09,Uruguay,1353,37,1125
 2020-08-09,Uzbekistan,30609,194,22042
 2020-08-09,Venezuela,25805,223,13356
@@ -37965,7 +37965,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,Uganda,1297,9,1137
 2020-08-10,Ukraine,83812,1950,45723
 2020-08-10,United Arab Emirates,62704,357,56766
-2020-08-10,United Kingdom,313392,46611,1463
+2020-08-10,United Kingdom,313392,41381,1463
 2020-08-10,Uruguay,1364,37,1146
 2020-08-10,Uzbekistan,31304,200,22992
 2020-08-10,Venezuela,26800,229,16930
@@ -38153,7 +38153,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,Uganda,1313,9,1138
 2020-08-11,Ukraine,85023,1979,46313
 2020-08-11,United Arab Emirates,62966,358,56961
-2020-08-11,United Kingdom,314542,46714,1464
+2020-08-11,United Kingdom,314542,41394,1464
 2020-08-11,Uruguay,1385,37,1157
 2020-08-11,Uzbekistan,31747,204,23704
 2020-08-11,Venezuela,27938,238,19706
@@ -38341,7 +38341,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,Uganda,1332,9,1139
 2020-08-12,Ukraine,86504,1999,47084
 2020-08-12,United Arab Emirates,63212,358,57193
-2020-08-12,United Kingdom,315581,46791,1472
+2020-08-12,United Kingdom,315581,41414,1472
 2020-08-12,Uruguay,1393,37,1163
 2020-08-12,Uzbekistan,32654,211,25659
 2020-08-12,Venezuela,29088,247,21042
@@ -38529,7 +38529,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,Uganda,1353,11,1141
 2020-08-13,Ukraine,88136,2023,47678
 2020-08-13,United Arab Emirates,63489,358,57372
-2020-08-13,United Kingdom,316729,46791,1479
+2020-08-13,United Kingdom,316729,41432,1479
 2020-08-13,Uruguay,1409,37,1180
 2020-08-13,Uzbekistan,33323,216,27213
 2020-08-13,Venezuela,30369,259,21385
@@ -38562,7 +38562,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Bolivia,97950,3939,34723
 2020-08-14,Bosnia and Herzegovina,15535,469,9344
 2020-08-14,Botswana,1214,3,120
-2020-08-14,Brazil,3226443,105490,2616981
+2020-08-14,Brazil,3275520,106523,2616981
 2020-08-14,Brunei,142,3,138
 2020-08-14,Bulgaria,14243,492,9114
 2020-08-14,Burkina Faso,1238,54,1005
@@ -38717,7 +38717,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Uganda,1385,12,1142
 2020-08-14,Ukraine,89917,2042,48288
 2020-08-14,United Arab Emirates,63819,359,57473
-2020-08-14,United Kingdom,318190,46791,1481
+2020-08-14,United Kingdom,318190,41443,1481
 2020-08-14,Uruguay,1421,38,1182
 2020-08-14,Uzbekistan,33821,220,27825
 2020-08-14,Venezuela,31381,266,21580
@@ -38905,7 +38905,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,Uganda,1434,13,1142
 2020-08-15,Ukraine,91795,2076,48946
 2020-08-15,United Arab Emirates,64102,361,57571
-2020-08-15,United Kingdom,319232,46791,1486
+2020-08-15,United Kingdom,319232,41446,1486
 2020-08-15,Uruguay,1434,38,1194
 2020-08-15,Uzbekistan,34528,225,29328
 2020-08-15,Venezuela,32607,276,21747
@@ -39093,7 +39093,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Uganda,1500,13,1142
 2020-08-16,Ukraine,93490,2100,49346
 2020-08-16,United Arab Emirates,64312,364,57694
-2020-08-16,United Kingdom,320343,46791,1486
+2020-08-16,United Kingdom,320343,41451,1486
 2020-08-16,Uruguay,1440,38,1200
 2020-08-16,Uzbekistan,35329,232,30973
 2020-08-16,Venezuela,33755,281,22700
@@ -39103,3 +39103,191 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Yemen,1869,530,1013
 2020-08-16,Zambia,9343,260,8412
 2020-08-16,Zimbabwe,5261,132,2092
+2020-08-17,Afghanistan,37599,1375,27166
+2020-08-17,Albania,7499,230,3816
+2020-08-17,Algeria,39025,1379,27347
+2020-08-17,Andorra,1005,53,869
+2020-08-17,Angola,1935,88,632
+2020-08-17,Antigua and Barbuda,93,3,88
+2020-08-17,Argentina,299126,5814,217850
+2020-08-17,Armenia,41701,824,34655
+2020-08-17,Australia,23773,438,14536
+2020-08-17,Austria,23534,729,20765
+2020-08-17,Azerbaijan,34343,508,32042
+2020-08-17,Bahamas,1329,19,191
+2020-08-17,Bahrain,47185,173,43529
+2020-08-17,Bangladesh,279144,3694,160591
+2020-08-17,Barbados,152,7,122
+2020-08-17,Belarus,69589,613,67149
+2020-08-17,Belgium,78534,9944,18003
+2020-08-17,Belize,475,4,38
+2020-08-17,Benin,2063,39,1690
+2020-08-17,Bhutan,141,0,103
+2020-08-17,Bolivia,101223,4123,37471
+2020-08-17,Bosnia and Herzegovina,16111,486,9856
+2020-08-17,Botswana,1308,3,136
+2020-08-17,Brazil,3359570,108536,2699080
+2020-08-17,Brunei,142,3,139
+2020-08-17,Bulgaria,14500,512,9442
+2020-08-17,Burkina Faso,1280,55,1018
+2020-08-17,Burma,376,6,331
+2020-08-17,Burundi,413,1,336
+2020-08-17,Cabo Verde,3203,36,2336
+2020-08-17,Cambodia,273,0,238
+2020-08-17,Cameroon,18582,403,16540
+2020-08-17,Canada,124218,9075,110433
+2020-08-17,Central African Republic,4667,61,1748
+2020-08-17,Chad,959,76,865
+2020-08-17,Chile,387502,10513,360385
+2020-08-17,China,89441,4703,83283
+2020-08-17,Colombia,476660,15372,301525
+2020-08-17,Comoros,405,7,379
+2020-08-17,Congo (Brazzaville),3831,76,1625
+2020-08-17,Congo (Kinshasa),9706,243,8705
+2020-08-17,Costa Rica,29084,304,9233
+2020-08-17,Cote d'Ivoire,17107,110,13990
+2020-08-17,Croatia,6656,166,5254
+2020-08-17,Cuba,3364,88,2692
+2020-08-17,Cyprus,1351,20,870
+2020-08-17,Czechia,20202,399,14622
+2020-08-17,Denmark,16127,621,13660
+2020-08-17,Diamond Princess,712,13,651
+2020-08-17,Djibouti,5372,59,5211
+2020-08-17,Dominica,18,0,18
+2020-08-17,Dominican Republic,86737,1481,54108
+2020-08-17,Ecuador,101751,6083,87120
+2020-08-17,Egypt,96590,5173,60651
+2020-08-17,El Salvador,23193,618,10977
+2020-08-17,Equatorial Guinea,4821,83,2182
+2020-08-17,Eritrea,285,0,248
+2020-08-17,Estonia,2192,63,1976
+2020-08-17,Eswatini,3894,73,2371
+2020-08-17,Ethiopia,31336,544,12524
+2020-08-17,Fiji,28,1,20
+2020-08-17,Finland,7752,334,7050
+2020-08-17,France,256533,30434,84214
+2020-08-17,Gabon,8270,53,6404
+2020-08-17,Gambia,1872,63,401
+2020-08-17,Georgia,1341,17,1092
+2020-08-17,Germany,226700,9236,202249
+2020-08-17,Ghana,42653,239,40567
+2020-08-17,Greece,7222,230,1347
+2020-08-17,Grenada,24,0,24
+2020-08-17,Guatemala,62944,2389,51530
+2020-08-17,Guinea,8620,51,7472
+2020-08-17,Guinea-Bissau,2117,33,1015
+2020-08-17,Guyana,709,23,349
+2020-08-17,Haiti,7897,196,5235
+2020-08-17,Holy See,12,0,12
+2020-08-17,Honduras,50995,1583,7450
+2020-08-17,Hungary,4946,608,3630
+2020-08-17,Iceland,2014,10,1888
+2020-08-17,India,2702681,51797,1977671
+2020-08-17,Indonesia,141370,6207,94458
+2020-08-17,Iran,345450,19804,299157
+2020-08-17,Iraq,180133,5954,128945
+2020-08-17,Ireland,27313,1774,23364
+2020-08-17,Israel,94751,692,70291
+2020-08-17,Italy,254235,35400,203968
+2020-08-17,Jamaica,1129,14,764
+2020-08-17,Japan,56717,1112,41591
+2020-08-17,Jordan,1398,11,1241
+2020-08-17,Kazakhstan,103300,1269,84445
+2020-08-17,Kenya,30365,482,17160
+2020-08-17,"Korea, South",15761,306,13934
+2020-08-17,Kosovo,11275,390,6961
+2020-08-17,Kuwait,76827,502,68633
+2020-08-17,Kyrgyzstan,41991,1496,34537
+2020-08-17,Laos,22,0,19
+2020-08-17,Latvia,1323,32,1078
+2020-08-17,Lebanon,9337,105,2809
+2020-08-17,Lesotho,946,30,271
+2020-08-17,Liberia,1277,82,803
+2020-08-17,Libya,8579,157,969
+2020-08-17,Liechtenstein,94,1,87
+2020-08-17,Lithuania,2436,81,1705
+2020-08-17,Luxembourg,7469,124,6739
+2020-08-17,MS Zaandam,9,2,0
+2020-08-17,Madagascar,13886,171,12603
+2020-08-17,Malawi,5125,162,2690
+2020-08-17,Malaysia,9212,125,8876
+2020-08-17,Maldives,5909,23,3488
+2020-08-17,Mali,2640,125,1987
+2020-08-17,Malta,1375,9,759
+2020-08-17,Mauritania,6762,157,6018
+2020-08-17,Mauritius,346,10,334
+2020-08-17,Mexico,525733,57023,430840
+2020-08-17,Moldova,30377,908,21220
+2020-08-17,Monaco,148,4,114
+2020-08-17,Mongolia,298,0,278
+2020-08-17,Montenegro,4085,80,2986
+2020-08-17,Morocco,43558,681,29941
+2020-08-17,Mozambique,2914,19,1196
+2020-08-17,Namibia,4344,36,2379
+2020-08-17,Nepal,27241,107,17495
+2020-08-17,Netherlands,64980,6194,357
+2020-08-17,New Zealand,1643,22,1531
+2020-08-17,Nicaragua,4115,128,2913
+2020-08-17,Niger,1167,69,1078
+2020-08-17,Nigeria,49485,977,36834
+2020-08-17,North Macedonia,12840,547,9174
+2020-08-17,Norway,10060,261,8857
+2020-08-17,Oman,83226,588,77812
+2020-08-17,Pakistan,289215,6175,269087
+2020-08-17,Panama,82543,1788,55845
+2020-08-17,Papua New Guinea,333,3,110
+2020-08-17,Paraguay,10135,145,6210
+2020-08-17,Peru,535946,26281,370717
+2020-08-17,Philippines,164474,2681,112759
+2020-08-17,Poland,57279,1885,39359
+2020-08-17,Portugal,54234,1779,39800
+2020-08-17,Qatar,115368,193,112088
+2020-08-17,Romania,71194,3029,32759
+2020-08-17,Russia,925558,15707,734573
+2020-08-17,Rwanda,2540,8,1661
+2020-08-17,Saint Kitts and Nevis,17,0,17
+2020-08-17,Saint Lucia,25,0,25
+2020-08-17,Saint Vincent and the Grenadines,58,0,55
+2020-08-17,San Marino,699,42,657
+2020-08-17,Sao Tome and Principe,885,15,821
+2020-08-17,Saudi Arabia,299914,3436,268385
+2020-08-17,Senegal,12237,256,7728
+2020-08-17,Serbia,29782,677,0
+2020-08-17,Seychelles,127,0,126
+2020-08-17,Sierra Leone,1956,69,1506
+2020-08-17,Singapore,55838,27,52350
+2020-08-17,Slovakia,2907,31,1969
+2020-08-17,Slovenia,2429,129,2052
+2020-08-17,Somalia,3257,93,2374
+2020-08-17,South Africa,589886,11982,477671
+2020-08-17,South Sudan,2490,47,1175
+2020-08-17,Spain,359082,28646,150376
+2020-08-17,Sri Lanka,2900,11,2676
+2020-08-17,Sudan,12410,803,6385
+2020-08-17,Suriname,3077,48,2138
+2020-08-17,Sweden,85045,5787,0
+2020-08-17,Switzerland,38252,1991,33300
+2020-08-17,Syria,1764,68,425
+2020-08-17,Taiwan*,485,7,450
+2020-08-17,Tajikistan,8099,64,6897
+2020-08-17,Tanzania,509,21,183
+2020-08-17,Thailand,3378,58,3194
+2020-08-17,Timor-Leste,25,0,24
+2020-08-17,Togo,1154,27,858
+2020-08-17,Trinidad and Tobago,588,12,140
+2020-08-17,Tunisia,2185,56,1362
+2020-08-17,Turkey,250542,5996,231971
+2020-08-17,US,5438325,170497,1865580
+2020-08-17,Uganda,1560,15,1165
+2020-08-17,Ukraine,95007,2122,49692
+2020-08-17,United Arab Emirates,64541,364,57794
+2020-08-17,United Kingdom,321064,41454,1490
+2020-08-17,Uruguay,1457,40,1205
+2020-08-17,Uzbekistan,35702,236,30973
+2020-08-17,Venezuela,34802,288,23575
+2020-08-17,Vietnam,983,25,467
+2020-08-17,West Bank and Gaza,16844,113,9906
+2020-08-17,Western Sahara,10,1,8
+2020-08-17,Yemen,1882,535,1045
+2020-08-17,Zambia,9839,264,8575
+2020-08-17,Zimbabwe,5308,135,3848
