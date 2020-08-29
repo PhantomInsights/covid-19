@@ -1853,7 +1853,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Sri Lanka,1,0,0
 2020-01-31,Sudan,0,0,0
 2020-01-31,Suriname,0,0,0
-2020-01-31,Sweden,1,0,0
+2020-01-31,Sweden,0,0,0
 2020-01-31,Switzerland,0,0,0
 2020-01-31,Syria,0,0,0
 2020-01-31,Taiwan*,10,0,0
@@ -6929,7 +6929,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Sri Lanka,1,0,1
 2020-02-27,Sudan,0,0,0
 2020-02-27,Suriname,0,0,0
-2020-02-27,Sweden,7,0,0
+2020-02-27,Sweden,3,0,0
 2020-02-27,Switzerland,8,0,0
 2020-02-27,Syria,0,0,0
 2020-02-27,Taiwan*,32,1,5
@@ -7117,7 +7117,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Sri Lanka,1,0,1
 2020-02-28,Sudan,0,0,0
 2020-02-28,Suriname,0,0,0
-2020-02-28,Sweden,7,0,0
+2020-02-28,Sweden,11,0,0
 2020-02-28,Switzerland,8,0,0
 2020-02-28,Syria,0,0,0
 2020-02-28,Taiwan*,34,1,6
@@ -7305,7 +7305,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Sri Lanka,1,0,1
 2020-02-29,Sudan,0,0,0
 2020-02-29,Suriname,0,0,0
-2020-02-29,Sweden,12,0,0
+2020-02-29,Sweden,14,0,0
 2020-02-29,Switzerland,18,0,0
 2020-02-29,Syria,0,0,0
 2020-02-29,Taiwan*,39,1,9
@@ -7681,7 +7681,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Sri Lanka,1,0,1
 2020-03-02,Sudan,0,0,0
 2020-03-02,Suriname,0,0,0
-2020-03-02,Sweden,15,0,0
+2020-03-02,Sweden,19,0,0
 2020-03-02,Switzerland,42,0,0
 2020-03-02,Syria,0,0,0
 2020-03-02,Taiwan*,41,1,12
@@ -7869,7 +7869,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Sri Lanka,1,0,1
 2020-03-03,Sudan,0,0,0
 2020-03-03,Suriname,0,0,0
-2020-03-03,Sweden,21,0,0
+2020-03-03,Sweden,32,0,0
 2020-03-03,Switzerland,56,0,2
 2020-03-03,Syria,0,0,0
 2020-03-03,Taiwan*,42,1,12
@@ -8057,7 +8057,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Sri Lanka,1,0,1
 2020-03-04,Sudan,0,0,0
 2020-03-04,Suriname,0,0,0
-2020-03-04,Sweden,35,0,0
+2020-03-04,Sweden,62,0,0
 2020-03-04,Switzerland,90,0,3
 2020-03-04,Syria,0,0,0
 2020-03-04,Taiwan*,42,1,12
@@ -8245,7 +8245,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Sri Lanka,1,0,1
 2020-03-05,Sudan,0,0,0
 2020-03-05,Suriname,0,0,0
-2020-03-05,Sweden,94,0,0
+2020-03-05,Sweden,87,0,0
 2020-03-05,Switzerland,114,1,3
 2020-03-05,Syria,0,0,0
 2020-03-05,Taiwan*,44,1,12
@@ -8433,7 +8433,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Sri Lanka,1,0,1
 2020-03-06,Sudan,0,0,0
 2020-03-06,Suriname,0,0,0
-2020-03-06,Sweden,101,0,0
+2020-03-06,Sweden,146,0,0
 2020-03-06,Switzerland,214,1,3
 2020-03-06,Syria,0,0,0
 2020-03-06,Taiwan*,45,1,12
@@ -8621,7 +8621,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Sri Lanka,1,0,1
 2020-03-07,Sudan,0,0,0
 2020-03-07,Suriname,0,0,0
-2020-03-07,Sweden,161,0,0
+2020-03-07,Sweden,179,0,0
 2020-03-07,Switzerland,268,1,3
 2020-03-07,Syria,0,0,0
 2020-03-07,Taiwan*,45,1,12
@@ -8809,7 +8809,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Sri Lanka,1,0,1
 2020-03-08,Sudan,0,0,0
 2020-03-08,Suriname,0,0,0
-2020-03-08,Sweden,203,0,0
+2020-03-08,Sweden,225,0,0
 2020-03-08,Switzerland,337,2,3
 2020-03-08,Syria,0,0,0
 2020-03-08,Taiwan*,45,1,13
@@ -8997,7 +8997,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Sri Lanka,1,0,1
 2020-03-09,Sudan,0,0,0
 2020-03-09,Suriname,0,0,0
-2020-03-09,Sweden,248,0,0
+2020-03-09,Sweden,326,0,0
 2020-03-09,Switzerland,374,2,3
 2020-03-09,Syria,0,0,0
 2020-03-09,Taiwan*,45,1,15
@@ -9185,7 +9185,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Sri Lanka,1,0,1
 2020-03-10,Sudan,0,0,0
 2020-03-10,Suriname,0,0,0
-2020-03-10,Sweden,355,0,0
+2020-03-10,Sweden,424,1,0
 2020-03-10,Switzerland,491,3,3
 2020-03-10,Syria,0,0,0
 2020-03-10,Taiwan*,47,1,17
@@ -9373,7 +9373,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Sri Lanka,2,0,1
 2020-03-11,Sudan,0,0,0
 2020-03-11,Suriname,0,0,0
-2020-03-11,Sweden,500,1,0
+2020-03-11,Sweden,620,1,0
 2020-03-11,Switzerland,652,4,4
 2020-03-11,Syria,0,0,0
 2020-03-11,Taiwan*,48,1,17
@@ -9561,7 +9561,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Sri Lanka,2,0,1
 2020-03-12,Sudan,0,0,0
 2020-03-12,Suriname,0,0,0
-2020-03-12,Sweden,599,1,0
+2020-03-12,Sweden,771,2,0
 2020-03-12,Switzerland,652,4,4
 2020-03-12,Syria,0,0,0
 2020-03-12,Taiwan*,49,1,20
@@ -9749,7 +9749,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Sri Lanka,6,0,1
 2020-03-13,Sudan,1,1,0
 2020-03-13,Suriname,0,0,0
-2020-03-13,Sweden,814,1,0
+2020-03-13,Sweden,923,3,0
 2020-03-13,Switzerland,1139,11,4
 2020-03-13,Syria,0,0,0
 2020-03-13,Taiwan*,50,1,20
@@ -9937,7 +9937,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Sri Lanka,10,0,1
 2020-03-14,Sudan,1,1,0
 2020-03-14,Suriname,1,0,0
-2020-03-14,Sweden,961,2,0
+2020-03-14,Sweden,994,5,0
 2020-03-14,Switzerland,1359,13,4
 2020-03-14,Syria,0,0,0
 2020-03-14,Taiwan*,53,1,20
@@ -10125,7 +10125,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Sri Lanka,18,0,1
 2020-03-15,Sudan,1,1,0
 2020-03-15,Suriname,1,0,0
-2020-03-15,Sweden,1022,3,0
+2020-03-15,Sweden,1063,7,0
 2020-03-15,Switzerland,2200,14,4
 2020-03-15,Syria,0,0,0
 2020-03-15,Taiwan*,59,1,20
@@ -10313,7 +10313,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Sri Lanka,28,0,1
 2020-03-16,Sudan,1,1,0
 2020-03-16,Suriname,1,0,0
-2020-03-16,Sweden,1103,6,0
+2020-03-16,Sweden,1146,8,0
 2020-03-16,Switzerland,2200,14,4
 2020-03-16,Syria,0,0,0
 2020-03-16,Taiwan*,67,1,20
@@ -10501,7 +10501,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Sri Lanka,44,0,1
 2020-03-17,Sudan,1,1,0
 2020-03-17,Suriname,1,0,0
-2020-03-17,Sweden,1190,7,0
+2020-03-17,Sweden,1265,14,0
 2020-03-17,Switzerland,2700,27,4
 2020-03-17,Syria,0,0,0
 2020-03-17,Taiwan*,77,1,22
@@ -10689,7 +10689,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Sri Lanka,51,0,1
 2020-03-18,Sudan,2,1,0
 2020-03-18,Suriname,1,0,0
-2020-03-18,Sweden,1279,10,0
+2020-03-18,Sweden,1410,21,0
 2020-03-18,Switzerland,3028,28,15
 2020-03-18,Syria,0,0,0
 2020-03-18,Taiwan*,100,1,22
@@ -10877,7 +10877,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Sri Lanka,60,0,3
 2020-03-19,Sudan,2,1,0
 2020-03-19,Suriname,1,0,0
-2020-03-19,Sweden,1439,11,0
+2020-03-19,Sweden,1553,30,0
 2020-03-19,Switzerland,4075,41,15
 2020-03-19,Syria,0,0,0
 2020-03-19,Taiwan*,108,1,26
@@ -11065,7 +11065,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Sri Lanka,73,0,3
 2020-03-20,Sudan,2,1,0
 2020-03-20,Suriname,4,0,0
-2020-03-20,Sweden,1639,16,0
+2020-03-20,Sweden,1733,38,0
 2020-03-20,Switzerland,5294,54,15
 2020-03-20,Syria,0,0,0
 2020-03-20,Taiwan*,135,2,26
@@ -11253,7 +11253,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Sri Lanka,77,0,1
 2020-03-21,Sudan,2,1,0
 2020-03-21,Suriname,4,0,0
-2020-03-21,Sweden,1763,20,0
+2020-03-21,Sweden,1868,49,0
 2020-03-21,Switzerland,6575,75,15
 2020-03-21,Syria,0,0,0
 2020-03-21,Taiwan*,153,2,28
@@ -11441,7 +11441,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Sri Lanka,82,0,3
 2020-03-22,Sudan,2,1,0
 2020-03-22,Suriname,5,0,0
-2020-03-22,Sweden,1934,21,0
+2020-03-22,Sweden,1986,60,0
 2020-03-22,Switzerland,7474,98,131
 2020-03-22,Syria,1,0,0
 2020-03-22,Taiwan*,169,2,28
@@ -11629,7 +11629,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Sri Lanka,97,0,3
 2020-03-23,Sudan,2,1,0
 2020-03-23,Suriname,5,0,0
-2020-03-23,Sweden,2046,25,0
+2020-03-23,Sweden,2168,81,0
 2020-03-23,Switzerland,8795,120,131
 2020-03-23,Syria,1,0,0
 2020-03-23,Taiwan*,195,2,28
@@ -11817,7 +11817,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Sri Lanka,102,0,2
 2020-03-24,Sudan,3,1,0
 2020-03-24,Suriname,7,0,0
-2020-03-24,Sweden,2286,36,0
+2020-03-24,Sweden,2398,103,0
 2020-03-24,Switzerland,9877,122,131
 2020-03-24,Syria,1,0,0
 2020-03-24,Taiwan*,215,2,29
@@ -12005,7 +12005,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Sri Lanka,102,0,3
 2020-03-25,Sudan,3,1,0
 2020-03-25,Suriname,8,0,0
-2020-03-25,Sweden,2526,62,0
+2020-03-25,Sweden,2712,134,0
 2020-03-25,Switzerland,10897,153,131
 2020-03-25,Syria,5,0,0
 2020-03-25,Taiwan*,235,2,29
@@ -12193,7 +12193,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Sri Lanka,106,0,7
 2020-03-26,Sudan,3,1,0
 2020-03-26,Suriname,8,0,0
-2020-03-26,Sweden,2840,77,0
+2020-03-26,Sweden,2998,166,0
 2020-03-26,Switzerland,11811,191,131
 2020-03-26,Syria,5,0,0
 2020-03-26,Taiwan*,252,2,29
@@ -12381,7 +12381,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Sri Lanka,106,0,7
 2020-03-27,Sudan,3,1,0
 2020-03-27,Suriname,8,0,0
-2020-03-27,Sweden,3069,105,0
+2020-03-27,Sweden,3363,201,0
 2020-03-27,Switzerland,12928,231,1530
 2020-03-27,Syria,5,0,0
 2020-03-27,Taiwan*,267,2,29
@@ -12569,7 +12569,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Sri Lanka,113,1,9
 2020-03-28,Sudan,5,1,0
 2020-03-28,Suriname,8,0,0
-2020-03-28,Sweden,3447,105,0
+2020-03-28,Sweden,3663,239,0
 2020-03-28,Switzerland,14076,264,1530
 2020-03-28,Syria,5,0,0
 2020-03-28,Taiwan*,283,2,30
@@ -12757,7 +12757,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Sri Lanka,117,1,11
 2020-03-29,Sudan,6,1,0
 2020-03-29,Suriname,8,0,0
-2020-03-29,Sweden,3700,110,0
+2020-03-29,Sweden,3943,284,0
 2020-03-29,Switzerland,14829,300,1595
 2020-03-29,Syria,9,1,0
 2020-03-29,Taiwan*,298,2,30
@@ -12945,7 +12945,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Sri Lanka,122,2,15
 2020-03-30,Sudan,6,2,0
 2020-03-30,Suriname,8,0,0
-2020-03-30,Sweden,4028,146,0
+2020-03-30,Sweden,4359,332,0
 2020-03-30,Switzerland,15922,359,1823
 2020-03-30,Syria,10,2,0
 2020-03-30,Taiwan*,306,5,39
@@ -13133,7 +13133,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Sri Lanka,143,2,17
 2020-03-31,Sudan,7,2,1
 2020-03-31,Suriname,9,0,0
-2020-03-31,Sweden,4435,180,0
+2020-03-31,Sweden,4834,385,0
 2020-03-31,Switzerland,16605,433,1823
 2020-03-31,Syria,10,2,0
 2020-03-31,Taiwan*,322,5,39
@@ -13321,7 +13321,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Sri Lanka,146,3,21
 2020-04-01,Sudan,7,2,2
 2020-04-01,Suriname,10,0,0
-2020-04-01,Sweden,4947,239,0
+2020-04-01,Sweden,5320,455,0
 2020-04-01,Switzerland,17768,488,2967
 2020-04-01,Syria,10,2,0
 2020-04-01,Taiwan*,329,5,39
@@ -13509,7 +13509,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Sri Lanka,151,4,21
 2020-04-02,Sudan,8,2,2
 2020-04-02,Suriname,10,0,0
-2020-04-02,Sweden,5568,308,0
+2020-04-02,Sweden,5874,535,0
 2020-04-02,Switzerland,18827,536,4013
 2020-04-02,Syria,16,2,0
 2020-04-02,Taiwan*,339,5,45
@@ -13697,7 +13697,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Sri Lanka,159,4,24
 2020-04-03,Sudan,10,2,2
 2020-04-03,Suriname,10,1,0
-2020-04-03,Sweden,6131,358,0
+2020-04-03,Sweden,6475,605,0
 2020-04-03,Switzerland,19606,591,4846
 2020-04-03,Syria,16,2,0
 2020-04-03,Taiwan*,348,5,50
@@ -13885,7 +13885,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Sri Lanka,166,5,27
 2020-04-04,Sudan,10,2,2
 2020-04-04,Suriname,10,1,0
-2020-04-04,Sweden,6443,373,0
+2020-04-04,Sweden,6832,690,0
 2020-04-04,Switzerland,20505,666,6415
 2020-04-04,Syria,16,2,2
 2020-04-04,Taiwan*,355,5,50
@@ -14073,7 +14073,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Sri Lanka,176,5,33
 2020-04-05,Sudan,12,2,2
 2020-04-05,Suriname,10,1,0
-2020-04-05,Sweden,6830,401,0
+2020-04-05,Sweden,7172,780,0
 2020-04-05,Switzerland,21100,715,6415
 2020-04-05,Syria,19,2,2
 2020-04-05,Taiwan*,363,5,50
@@ -14261,7 +14261,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Sri Lanka,178,5,38
 2020-04-06,Sudan,12,2,2
 2020-04-06,Suriname,10,1,0
-2020-04-06,Sweden,7206,477,0
+2020-04-06,Sweden,7561,864,0
 2020-04-06,Switzerland,21657,765,8056
 2020-04-06,Syria,19,2,2
 2020-04-06,Taiwan*,373,5,57
@@ -14449,7 +14449,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Sri Lanka,185,6,42
 2020-04-07,Sudan,14,2,2
 2020-04-07,Suriname,10,1,0
-2020-04-07,Sweden,7693,591,0
+2020-04-07,Sweden,8299,979,0
 2020-04-07,Switzerland,22253,821,8704
 2020-04-07,Syria,19,2,3
 2020-04-07,Taiwan*,376,5,57
@@ -14637,7 +14637,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Sri Lanka,189,7,44
 2020-04-08,Sudan,14,2,2
 2020-04-08,Suriname,10,1,3
-2020-04-08,Sweden,8419,687,0
+2020-04-08,Sweden,8954,1065,0
 2020-04-08,Switzerland,23280,895,9800
 2020-04-08,Syria,19,2,4
 2020-04-08,Taiwan*,379,5,61
@@ -14825,7 +14825,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Sri Lanka,190,7,49
 2020-04-09,Sudan,15,2,2
 2020-04-09,Suriname,10,1,4
-2020-04-09,Sweden,9141,793,0
+2020-04-09,Sweden,9599,1155,0
 2020-04-09,Switzerland,24051,948,10600
 2020-04-09,Syria,19,2,4
 2020-04-09,Taiwan*,380,5,67
@@ -15013,7 +15013,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Sri Lanka,190,7,54
 2020-04-10,Sudan,17,2,2
 2020-04-10,Suriname,10,1,4
-2020-04-10,Sweden,9685,870,0
+2020-04-10,Sweden,10053,1258,0
 2020-04-10,Switzerland,24551,1002,11100
 2020-04-10,Syria,19,2,4
 2020-04-10,Taiwan*,382,6,91
@@ -15201,7 +15201,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Sri Lanka,198,7,54
 2020-04-11,Sudan,19,2,2
 2020-04-11,Suriname,10,1,4
-2020-04-11,Sweden,10151,887,0
+2020-04-11,Sweden,10448,1355,0
 2020-04-11,Switzerland,25107,1036,12100
 2020-04-11,Syria,25,2,5
 2020-04-11,Taiwan*,385,6,99
@@ -15389,7 +15389,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Sri Lanka,210,7,56
 2020-04-12,Sudan,19,2,2
 2020-04-12,Suriname,10,1,4
-2020-04-12,Sweden,10483,899,0
+2020-04-12,Sweden,10912,1440,0
 2020-04-12,Switzerland,25415,1106,12700
 2020-04-12,Syria,25,2,5
 2020-04-12,Taiwan*,388,6,109
@@ -15577,7 +15577,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Sri Lanka,217,7,56
 2020-04-13,Sudan,29,4,4
 2020-04-13,Suriname,10,1,6
-2020-04-13,Sweden,10948,919,0
+2020-04-13,Sweden,11349,1531,0
 2020-04-13,Switzerland,25688,1138,13700
 2020-04-13,Syria,25,2,5
 2020-04-13,Taiwan*,393,6,109
@@ -15765,7 +15765,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Sri Lanka,233,7,61
 2020-04-14,Sudan,32,5,4
 2020-04-14,Suriname,10,1,6
-2020-04-14,Sweden,11445,1033,0
+2020-04-14,Sweden,11828,1646,0
 2020-04-14,Switzerland,25936,1174,13700
 2020-04-14,Syria,29,2,5
 2020-04-14,Taiwan*,393,6,124
@@ -15953,7 +15953,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Sri Lanka,238,7,63
 2020-04-15,Sudan,32,5,4
 2020-04-15,Suriname,10,1,6
-2020-04-15,Sweden,11927,1203,0
+2020-04-15,Sweden,12432,1757,0
 2020-04-15,Switzerland,26336,1239,15400
 2020-04-15,Syria,33,2,5
 2020-04-15,Taiwan*,395,6,124
@@ -16141,7 +16141,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Sri Lanka,238,7,68
 2020-04-16,Sudan,32,5,4
 2020-04-16,Suriname,10,1,6
-2020-04-16,Sweden,12540,1333,0
+2020-04-16,Sweden,13055,1839,0
 2020-04-16,Switzerland,26732,1281,15900
 2020-04-16,Syria,33,2,5
 2020-04-16,Taiwan*,395,6,155
@@ -16329,7 +16329,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Sri Lanka,244,7,77
 2020-04-17,Sudan,33,6,4
 2020-04-17,Suriname,10,1,6
-2020-04-17,Sweden,13216,1400,0
+2020-04-17,Sweden,13743,1925,0
 2020-04-17,Switzerland,27078,1327,16400
 2020-04-17,Syria,38,2,5
 2020-04-17,Taiwan*,395,6,166
@@ -16517,7 +16517,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Sri Lanka,254,7,86
 2020-04-18,Sudan,66,10,6
 2020-04-18,Suriname,10,1,6
-2020-04-18,Sweden,13822,1511,0
+2020-04-18,Sweden,14275,2013,0
 2020-04-18,Switzerland,27404,1368,17100
 2020-04-18,Syria,38,2,5
 2020-04-18,Taiwan*,398,6,178
@@ -16705,7 +16705,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Sri Lanka,271,7,96
 2020-04-19,Sudan,66,10,6
 2020-04-19,Suriname,10,1,6
-2020-04-19,Sweden,14385,1540,0
+2020-04-19,Sweden,14663,2097,0
 2020-04-19,Switzerland,27740,1393,17800
 2020-04-19,Syria,39,3,5
 2020-04-19,Taiwan*,420,6,189
@@ -16893,7 +16893,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Sri Lanka,304,7,98
 2020-04-20,Sudan,107,12,8
 2020-04-20,Suriname,10,1,6
-2020-04-20,Sweden,14777,1580,0
+2020-04-20,Sweden,15124,2159,0
 2020-04-20,Switzerland,27944,1429,18600
 2020-04-20,Syria,39,3,5
 2020-04-20,Taiwan*,422,6,203
@@ -17081,7 +17081,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Sri Lanka,310,7,102
 2020-04-21,Sudan,107,12,8
 2020-04-21,Suriname,10,1,6
-2020-04-21,Sweden,15322,1765,0
+2020-04-21,Sweden,15831,2236,0
 2020-04-21,Switzerland,28063,1478,19400
 2020-04-21,Syria,42,3,6
 2020-04-21,Taiwan*,425,6,217
@@ -17269,7 +17269,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-22,Sri Lanka,330,7,105
 2020-04-22,Sudan,140,13,12
 2020-04-22,Suriname,10,1,6
-2020-04-22,Sweden,16004,1937,0
+2020-04-22,Sweden,16553,2322,0
 2020-04-22,Switzerland,28268,1509,19900
 2020-04-22,Syria,42,3,6
 2020-04-22,Taiwan*,426,6,236
@@ -17457,7 +17457,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-23,Sri Lanka,368,7,107
 2020-04-23,Sudan,174,16,14
 2020-04-23,Suriname,10,1,6
-2020-04-23,Sweden,16755,2021,0
+2020-04-23,Sweden,17311,2411,0
 2020-04-23,Switzerland,28496,1549,20600
 2020-04-23,Syria,42,3,6
 2020-04-23,Taiwan*,427,6,253
@@ -17645,7 +17645,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-24,Sri Lanka,420,7,109
 2020-04-24,Sudan,174,16,14
 2020-04-24,Suriname,10,1,7
-2020-04-24,Sweden,17567,2152,0
+2020-04-24,Sweden,18090,2484,0
 2020-04-24,Switzerland,28677,1589,21000
 2020-04-24,Syria,42,3,6
 2020-04-24,Taiwan*,428,6,264
@@ -17833,7 +17833,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-25,Sri Lanka,460,7,118
 2020-04-25,Sudan,213,17,19
 2020-04-25,Suriname,10,1,7
-2020-04-25,Sweden,18177,2192,0
+2020-04-25,Sweden,18563,2559,0
 2020-04-25,Switzerland,28894,1599,21300
 2020-04-25,Syria,42,3,11
 2020-04-25,Taiwan*,429,6,275
@@ -18021,7 +18021,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-26,Sri Lanka,523,7,120
 2020-04-26,Sudan,237,21,20
 2020-04-26,Suriname,10,1,7
-2020-04-26,Sweden,18640,2194,0
+2020-04-26,Sweden,18863,2632,0
 2020-04-26,Switzerland,29061,1610,21800
 2020-04-26,Syria,43,3,14
 2020-04-26,Taiwan*,429,6,281
@@ -18209,7 +18209,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-27,Sri Lanka,588,7,126
 2020-04-27,Sudan,275,22,21
 2020-04-27,Suriname,10,1,7
-2020-04-27,Sweden,18926,2274,0
+2020-04-27,Sweden,19426,2714,0
 2020-04-27,Switzerland,29164,1665,22200
 2020-04-27,Syria,43,3,19
 2020-04-27,Taiwan*,429,6,290
@@ -18397,7 +18397,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-28,Sri Lanka,619,7,134
 2020-04-28,Sudan,318,25,31
 2020-04-28,Suriname,10,1,7
-2020-04-28,Sweden,19621,2355,0
+2020-04-28,Sweden,20168,2798,0
 2020-04-28,Switzerland,29264,1699,22600
 2020-04-28,Syria,43,3,21
 2020-04-28,Taiwan*,429,6,307
@@ -18585,7 +18585,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-29,Sri Lanka,649,7,136
 2020-04-29,Sudan,375,28,32
 2020-04-29,Suriname,10,1,8
-2020-04-29,Sweden,20302,2462,0
+2020-04-29,Sweden,20966,2876,0
 2020-04-29,Switzerland,29407,1716,22600
 2020-04-29,Syria,43,3,21
 2020-04-29,Taiwan*,429,6,311
@@ -18773,7 +18773,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-30,Sri Lanka,663,7,154
 2020-04-30,Sudan,442,31,39
 2020-04-30,Suriname,10,1,8
-2020-04-30,Sweden,21092,2586,0
+2020-04-30,Sweden,21601,2954,0
 2020-04-30,Switzerland,29586,1737,23400
 2020-04-30,Syria,43,3,21
 2020-04-30,Taiwan*,429,6,322
@@ -18961,7 +18961,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-01,Sri Lanka,690,7,162
 2020-05-01,Sudan,533,36,46
 2020-05-01,Suriname,10,1,8
-2020-05-01,Sweden,21520,2653,0
+2020-05-01,Sweden,22133,3027,0
 2020-05-01,Switzerland,29705,1754,23900
 2020-05-01,Syria,44,3,27
 2020-05-01,Taiwan*,429,6,324
@@ -19149,7 +19149,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-02,Sri Lanka,705,7,172
 2020-05-02,Sudan,592,41,52
 2020-05-02,Suriname,10,1,8
-2020-05-02,Sweden,22082,2669,0
+2020-05-02,Sweden,22432,3102,0
 2020-05-02,Switzerland,29817,1762,24200
 2020-05-02,Syria,44,3,27
 2020-05-02,Taiwan*,432,6,324
@@ -19337,7 +19337,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-03,Sri Lanka,718,7,184
 2020-05-03,Sudan,592,41,52
 2020-05-03,Suriname,10,1,9
-2020-05-03,Sweden,22317,2679,0
+2020-05-03,Sweden,22693,3186,0
 2020-05-03,Switzerland,29905,1762,24500
 2020-05-03,Syria,44,3,27
 2020-05-03,Taiwan*,436,6,332
@@ -19525,7 +19525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-04,Sri Lanka,751,8,194
 2020-05-04,Sudan,678,41,61
 2020-05-04,Suriname,10,1,9
-2020-05-04,Sweden,22721,2769,0
+2020-05-04,Sweden,23169,3258,0
 2020-05-04,Switzerland,29981,1784,25200
 2020-05-04,Syria,44,3,27
 2020-05-04,Taiwan*,438,6,334
@@ -19713,7 +19713,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-05,Sri Lanka,771,9,213
 2020-05-05,Sudan,778,45,70
 2020-05-05,Suriname,10,1,9
-2020-05-05,Sweden,23216,2854,0
+2020-05-05,Sweden,23826,3331,0
 2020-05-05,Switzerland,30009,1795,25400
 2020-05-05,Syria,44,3,27
 2020-05-05,Taiwan*,438,6,334
@@ -19901,7 +19901,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-06,Sri Lanka,797,9,215
 2020-05-06,Sudan,852,49,80
 2020-05-06,Suriname,10,1,9
-2020-05-06,Sweden,23918,2941,0
+2020-05-06,Sweden,24572,3411,0
 2020-05-06,Switzerland,30060,1805,25700
 2020-05-06,Syria,45,3,27
 2020-05-06,Taiwan*,439,6,339
@@ -20089,7 +20089,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-07,Sri Lanka,824,9,232
 2020-05-07,Sudan,930,52,92
 2020-05-07,Suriname,10,1,9
-2020-05-07,Sweden,24623,3040,0
+2020-05-07,Sweden,25359,3471,0
 2020-05-07,Switzerland,30126,1810,25900
 2020-05-07,Syria,45,3,27
 2020-05-07,Taiwan*,440,6,347
@@ -20277,7 +20277,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-08,Sri Lanka,835,9,240
 2020-05-08,Sudan,1111,59,102
 2020-05-08,Suriname,10,1,9
-2020-05-08,Sweden,25265,3175,0
+2020-05-08,Sweden,26059,3540,0
 2020-05-08,Switzerland,30207,1823,26100
 2020-05-08,Syria,47,3,29
 2020-05-08,Taiwan*,440,6,355
@@ -20465,7 +20465,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-09,Sri Lanka,847,9,260
 2020-05-09,Sudan,1164,64,119
 2020-05-09,Suriname,10,1,9
-2020-05-09,Sweden,25921,3220,0
+2020-05-09,Sweden,26568,3614,0
 2020-05-09,Switzerland,30251,1830,26400
 2020-05-09,Syria,47,3,29
 2020-05-09,Taiwan*,440,6,361
@@ -20653,7 +20653,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-10,Sri Lanka,863,9,321
 2020-05-10,Sudan,1365,70,149
 2020-05-10,Suriname,10,1,9
-2020-05-10,Sweden,26322,3225,0
+2020-05-10,Sweden,26846,3678,0
 2020-05-10,Switzerland,30305,1833,26600
 2020-05-10,Syria,47,3,29
 2020-05-10,Taiwan*,440,6,366
@@ -20841,7 +20841,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-11,Sri Lanka,869,9,343
 2020-05-11,Sudan,1526,74,162
 2020-05-11,Suriname,10,1,9
-2020-05-11,Sweden,26670,3256,0
+2020-05-11,Sweden,27301,3739,0
 2020-05-11,Switzerland,30344,1845,26800
 2020-05-11,Syria,47,3,29
 2020-05-11,Taiwan*,440,7,368
@@ -21029,7 +21029,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-12,Sri Lanka,889,9,366
 2020-05-12,Sudan,1661,80,173
 2020-05-12,Suriname,10,1,9
-2020-05-12,Sweden,27272,3313,0
+2020-05-12,Sweden,28055,3789,0
 2020-05-12,Switzerland,30380,1867,26800
 2020-05-12,Syria,47,3,29
 2020-05-12,Taiwan*,440,7,372
@@ -21217,7 +21217,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-13,Sri Lanka,915,9,382
 2020-05-13,Sudan,1818,90,198
 2020-05-13,Suriname,10,1,9
-2020-05-13,Sweden,27909,3460,0
+2020-05-13,Sweden,28755,3835,0
 2020-05-13,Switzerland,30413,1870,27100
 2020-05-13,Syria,48,3,29
 2020-05-13,Taiwan*,440,7,375
@@ -21405,7 +21405,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-14,Sri Lanka,925,9,445
 2020-05-14,Sudan,1818,90,198
 2020-05-14,Suriname,10,1,9
-2020-05-14,Sweden,28582,3529,0
+2020-05-14,Sweden,29415,3893,0
 2020-05-14,Switzerland,30463,1872,27100
 2020-05-14,Syria,48,3,29
 2020-05-14,Taiwan*,440,7,383
@@ -21593,7 +21593,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-15,Sri Lanka,935,9,477
 2020-05-15,Sudan,1964,91,205
 2020-05-15,Suriname,10,1,9
-2020-05-15,Sweden,29207,3646,0
+2020-05-15,Sweden,30103,3942,0
 2020-05-15,Switzerland,30514,1878,27100
 2020-05-15,Syria,50,3,36
 2020-05-15,Taiwan*,440,7,387
@@ -21781,7 +21781,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-16,Sri Lanka,960,9,520
 2020-05-16,Sudan,2289,97,222
 2020-05-16,Suriname,10,1,9
-2020-05-16,Sweden,29677,3674,0
+2020-05-16,Sweden,30461,3995,0
 2020-05-16,Switzerland,30572,1879,27400
 2020-05-16,Syria,51,3,36
 2020-05-16,Taiwan*,440,7,389
@@ -21969,7 +21969,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-17,Sri Lanka,981,9,538
 2020-05-17,Sudan,2289,97,222
 2020-05-17,Suriname,10,1,9
-2020-05-17,Sweden,30143,3679,0
+2020-05-17,Sweden,30720,4056,0
 2020-05-17,Switzerland,30587,1881,27500
 2020-05-17,Syria,58,3,36
 2020-05-17,Taiwan*,440,7,395
@@ -22157,7 +22157,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-18,Sri Lanka,992,9,559
 2020-05-18,Sudan,2591,105,247
 2020-05-18,Suriname,11,1,9
-2020-05-18,Sweden,30377,3698,0
+2020-05-18,Sweden,31151,4096,0
 2020-05-18,Switzerland,30597,1886,27600
 2020-05-18,Syria,58,3,36
 2020-05-18,Taiwan*,440,7,398
@@ -22345,7 +22345,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-19,Sri Lanka,1027,9,569
 2020-05-19,Sudan,2728,111,286
 2020-05-19,Suriname,11,1,9
-2020-05-19,Sweden,30799,3743,0
+2020-05-19,Sweden,31818,4150,0
 2020-05-19,Switzerland,30618,1891,27700
 2020-05-19,Syria,58,3,36
 2020-05-19,Taiwan*,440,7,398
@@ -22533,7 +22533,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-20,Sri Lanka,1028,9,584
 2020-05-20,Sudan,2728,111,286
 2020-05-20,Suriname,11,1,9
-2020-05-20,Sweden,31523,3831,0
+2020-05-20,Sweden,32626,4204,0
 2020-05-20,Switzerland,30658,1892,27800
 2020-05-20,Syria,58,3,36
 2020-05-20,Taiwan*,440,7,398
@@ -22721,7 +22721,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-21,Sri Lanka,1055,9,604
 2020-05-21,Sudan,3138,121,309
 2020-05-21,Suriname,11,1,9
-2020-05-21,Sweden,32172,3871,0
+2020-05-21,Sweden,33236,4260,0
 2020-05-21,Switzerland,30694,1898,27900
 2020-05-21,Syria,58,3,36
 2020-05-21,Taiwan*,440,7,398
@@ -22909,7 +22909,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-22,Sri Lanka,1068,9,620
 2020-05-22,Sudan,3378,137,372
 2020-05-22,Suriname,11,1,9
-2020-05-22,Sweden,32809,3925,0
+2020-05-22,Sweden,33768,4316,0
 2020-05-22,Switzerland,30707,1903,27900
 2020-05-22,Syria,59,4,37
 2020-05-22,Taiwan*,441,7,408
@@ -23097,7 +23097,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-23,Sri Lanka,1089,9,660
 2020-05-23,Sudan,3628,146,424
 2020-05-23,Suriname,11,1,9
-2020-05-23,Sweden,33188,3992,0
+2020-05-23,Sweden,34171,4360,0
 2020-05-23,Switzerland,30725,1905,28000
 2020-05-23,Syria,70,4,37
 2020-05-23,Taiwan*,441,7,411
@@ -23285,7 +23285,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-24,Sri Lanka,1141,9,674
 2020-05-24,Sudan,3820,165,458
 2020-05-24,Suriname,11,1,9
-2020-05-24,Sweden,33459,3998,0
+2020-05-24,Sweden,34381,4402,0
 2020-05-24,Switzerland,30736,1906,28100
 2020-05-24,Syria,86,4,41
 2020-05-24,Taiwan*,441,7,414
@@ -23473,7 +23473,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-25,Sri Lanka,1182,10,695
 2020-05-25,Sudan,3976,170,503
 2020-05-25,Suriname,11,1,9
-2020-05-25,Sweden,33843,4029,0
+2020-05-25,Sweden,34871,4430,0
 2020-05-25,Switzerland,30746,1913,28200
 2020-05-25,Syria,106,4,41
 2020-05-25,Taiwan*,441,7,415
@@ -23661,7 +23661,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-26,Sri Lanka,1319,10,712
 2020-05-26,Sudan,3976,170,503
 2020-05-26,Suriname,11,1,9
-2020-05-26,Sweden,34440,4125,0
+2020-05-26,Sweden,35617,4469,0
 2020-05-26,Switzerland,30761,1915,28200
 2020-05-26,Syria,121,4,41
 2020-05-26,Taiwan*,441,7,416
@@ -23849,7 +23849,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-27,Sri Lanka,1469,10,732
 2020-05-27,Sudan,4346,195,749
 2020-05-27,Suriname,12,1,9
-2020-05-27,Sweden,35088,4220,0
+2020-05-27,Sweden,36417,4509,0
 2020-05-27,Switzerland,30776,1917,28300
 2020-05-27,Syria,121,4,43
 2020-05-27,Taiwan*,441,7,419
@@ -24037,7 +24037,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-28,Sri Lanka,1530,10,745
 2020-05-28,Sudan,4346,195,749
 2020-05-28,Suriname,12,1,9
-2020-05-28,Sweden,35727,4266,0
+2020-05-28,Sweden,37191,4549,0
 2020-05-28,Switzerland,30796,1919,28300
 2020-05-28,Syria,122,4,43
 2020-05-28,Taiwan*,441,7,420
@@ -24225,7 +24225,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-29,Sri Lanka,1558,10,754
 2020-05-29,Sudan,4521,233,816
 2020-05-29,Suriname,12,1,9
-2020-05-29,Sweden,36476,4350,0
+2020-05-29,Sweden,37964,4588,0
 2020-05-29,Switzerland,30828,1919,28300
 2020-05-29,Syria,122,4,43
 2020-05-29,Taiwan*,442,7,420
@@ -24413,7 +24413,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-30,Sri Lanka,1620,10,781
 2020-05-30,Sudan,4800,262,1272
 2020-05-30,Suriname,14,1,9
-2020-05-30,Sweden,37113,4395,0
+2020-05-30,Sweden,38396,4633,0
 2020-05-30,Switzerland,30845,1919,28400
 2020-05-30,Syria,122,4,43
 2020-05-30,Taiwan*,442,7,421
@@ -24601,7 +24601,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-31,Sri Lanka,1633,10,801
 2020-05-31,Sudan,5026,286,1423
 2020-05-31,Suriname,23,1,9
-2020-05-31,Sweden,37542,4395,0
+2020-05-31,Sweden,38661,4673,0
 2020-05-31,Switzerland,30862,1920,28500
 2020-05-31,Syria,122,5,46
 2020-05-31,Taiwan*,442,7,423
@@ -24789,7 +24789,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-01,Sri Lanka,1643,11,811
 2020-06-01,Sudan,5173,298,1522
 2020-06-01,Suriname,44,1,9
-2020-06-01,Sweden,37814,4403,0
+2020-06-01,Sweden,39309,4710,0
 2020-06-01,Switzerland,30871,1920,28500
 2020-06-01,Syria,123,5,46
 2020-06-01,Taiwan*,443,7,427
@@ -24977,7 +24977,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-02,Sri Lanka,1683,11,823
 2020-06-02,Sudan,5310,307,1625
 2020-06-02,Suriname,54,1,9
-2020-06-02,Sweden,38589,4468,0
+2020-06-02,Sweden,40210,4736,0
 2020-06-02,Switzerland,30874,1920,28500
 2020-06-02,Syria,123,6,50
 2020-06-02,Taiwan*,443,7,427
@@ -25165,7 +25165,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-03,Sri Lanka,1749,11,836
 2020-06-03,Sudan,5499,314,1711
 2020-06-03,Suriname,74,1,9
-2020-06-03,Sweden,40803,4542,0
+2020-06-03,Sweden,41256,4781,0
 2020-06-03,Switzerland,30893,1921,28600
 2020-06-03,Syria,123,6,53
 2020-06-03,Taiwan*,443,7,428
@@ -25353,7 +25353,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-04,Sri Lanka,1797,11,839
 2020-06-04,Sudan,5714,333,1825
 2020-06-04,Suriname,82,1,9
-2020-06-04,Sweden,41883,4562,0
+2020-06-04,Sweden,42295,4819,0
 2020-06-04,Switzerland,30913,1921,28600
 2020-06-04,Syria,124,6,53
 2020-06-04,Taiwan*,443,7,428
@@ -25541,7 +25541,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-05,Sri Lanka,1801,11,858
 2020-06-05,Sudan,5865,347,1924
 2020-06-05,Suriname,90,1,9
-2020-06-05,Sweden,42939,4639,0
+2020-06-05,Sweden,43441,4850,0
 2020-06-05,Switzerland,30936,1921,28600
 2020-06-05,Syria,124,6,53
 2020-06-05,Taiwan*,443,7,429
@@ -25729,7 +25729,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-06,Sri Lanka,1814,11,891
 2020-06-06,Sudan,6081,359,2014
 2020-06-06,Suriname,100,1,9
-2020-06-06,Sweden,43887,4656,0
+2020-06-06,Sweden,44224,4883,0
 2020-06-06,Switzerland,30956,1921,28700
 2020-06-06,Syria,125,6,58
 2020-06-06,Taiwan*,443,7,429
@@ -25917,7 +25917,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-07,Sri Lanka,1835,11,941
 2020-06-07,Sudan,6081,359,2014
 2020-06-07,Suriname,122,1,9
-2020-06-07,Sweden,44730,4659,0
+2020-06-07,Sweden,44686,4921,0
 2020-06-07,Switzerland,30965,1921,28700
 2020-06-07,Syria,141,6,58
 2020-06-07,Taiwan*,443,7,430
@@ -26105,7 +26105,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-08,Sri Lanka,1857,11,990
 2020-06-08,Sudan,6242,372,2059
 2020-06-08,Suriname,128,2,9
-2020-06-08,Sweden,45133,4694,0
+2020-06-08,Sweden,45363,4954,0
 2020-06-08,Switzerland,30972,1923,28700
 2020-06-08,Syria,144,6,62
 2020-06-08,Taiwan*,443,7,430
@@ -26293,7 +26293,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-09,Sri Lanka,1859,11,1057
 2020-06-09,Sudan,6427,389,2127
 2020-06-09,Suriname,137,2,9
-2020-06-09,Sweden,45924,4717,0
+2020-06-09,Sweden,46299,4994,0
 2020-06-09,Switzerland,30988,1934,28700
 2020-06-09,Syria,146,6,62
 2020-06-09,Taiwan*,443,7,431
@@ -26481,7 +26481,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-10,Sri Lanka,1869,11,1122
 2020-06-10,Sudan,6582,401,2202
 2020-06-10,Suriname,144,2,9
-2020-06-10,Sweden,46814,4795,0
+2020-06-10,Sweden,47736,5030,0
 2020-06-10,Switzerland,31011,1936,28700
 2020-06-10,Syria,152,6,68
 2020-06-10,Taiwan*,443,7,431
@@ -26669,7 +26669,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-11,Sri Lanka,1877,11,1150
 2020-06-11,Sudan,6730,413,2278
 2020-06-11,Suriname,168,2,9
-2020-06-11,Sweden,48288,4814,0
+2020-06-11,Sweden,49030,5060,0
 2020-06-11,Switzerland,31044,1937,28800
 2020-06-11,Syria,164,6,68
 2020-06-11,Taiwan*,443,7,431
@@ -26857,7 +26857,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-12,Sri Lanka,1880,11,1196
 2020-06-12,Sudan,6879,433,2416
 2020-06-12,Suriname,187,3,9
-2020-06-12,Sweden,49684,4854,0
+2020-06-12,Sweden,50367,5093,0
 2020-06-12,Switzerland,31063,1938,28800
 2020-06-12,Syria,164,6,68
 2020-06-12,Taiwan*,443,7,431
@@ -27045,7 +27045,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-13,Sri Lanka,1884,11,1252
 2020-06-13,Sudan,7007,447,2556
 2020-06-13,Suriname,196,3,9
-2020-06-13,Sweden,50931,4874,0
+2020-06-13,Sweden,51409,5120,0
 2020-06-13,Switzerland,31094,1938,28800
 2020-06-13,Syria,170,6,71
 2020-06-13,Taiwan*,443,7,431
@@ -27233,7 +27233,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-14,Sri Lanka,1889,11,1287
 2020-06-14,Sudan,7220,459,2610
 2020-06-14,Suriname,208,3,9
-2020-06-14,Sweden,51614,4874,0
+2020-06-14,Sweden,51827,5151,0
 2020-06-14,Switzerland,31117,1938,28800
 2020-06-14,Syria,177,6,74
 2020-06-14,Taiwan*,443,7,431
@@ -27421,7 +27421,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-15,Sri Lanka,1905,11,1342
 2020-06-15,Sudan,7435,468,2720
 2020-06-15,Suriname,229,5,48
-2020-06-15,Sweden,52383,4891,0
+2020-06-15,Sweden,52511,5179,0
 2020-06-15,Switzerland,31131,1939,28900
 2020-06-15,Syria,177,6,78
 2020-06-15,Taiwan*,445,7,433
@@ -27609,7 +27609,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-16,Sri Lanka,1915,11,1371
 2020-06-16,Sudan,7740,477,2820
 2020-06-16,Suriname,236,6,48
-2020-06-16,Sweden,53323,4939,0
+2020-06-16,Sweden,53729,5212,0
 2020-06-16,Switzerland,31154,1954,28900
 2020-06-16,Syria,177,6,78
 2020-06-16,Taiwan*,445,7,433
@@ -27797,7 +27797,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-17,Sri Lanka,1924,11,1397
 2020-06-17,Sudan,8020,487,2966
 2020-06-17,Suriname,261,6,48
-2020-06-17,Sweden,54562,5041,0
+2020-06-17,Sweden,55186,5241,0
 2020-06-17,Switzerland,31187,1956,28900
 2020-06-17,Syria,178,7,78
 2020-06-17,Taiwan*,445,7,434
@@ -27985,7 +27985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-18,Sri Lanka,1947,11,1421
 2020-06-18,Sudan,8020,487,2966
 2020-06-18,Suriname,277,7,74
-2020-06-18,Sweden,56043,5053,0
+2020-06-18,Sweden,56682,5270,0
 2020-06-18,Switzerland,31200,1956,28900
 2020-06-18,Syria,187,7,78
 2020-06-18,Taiwan*,446,7,434
@@ -28173,7 +28173,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-19,Sri Lanka,1950,11,1446
 2020-06-19,Sudan,8316,506,3086
 2020-06-19,Suriname,293,8,74
-2020-06-19,Sweden,58076,5105,0
+2020-06-19,Sweden,57895,5299,0
 2020-06-19,Switzerland,31235,1956,28900
 2020-06-19,Syria,187,7,78
 2020-06-19,Taiwan*,446,7,434
@@ -28361,7 +28361,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-20,Sri Lanka,1950,11,1472
 2020-06-20,Sudan,8580,521,3325
 2020-06-20,Suriname,303,8,74
-2020-06-20,Sweden,58591,5109,0
+2020-06-20,Sweden,58597,5320,0
 2020-06-20,Switzerland,31243,1956,28900
 2020-06-20,Syria,198,7,83
 2020-06-20,Taiwan*,446,7,434
@@ -28549,7 +28549,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-21,Sri Lanka,1950,11,1498
 2020-06-21,Sudan,8580,521,3325
 2020-06-21,Suriname,314,8,106
-2020-06-21,Sweden,58848,5111,0
+2020-06-21,Sweden,58918,5341,0
 2020-06-21,Switzerland,31292,1956,29000
 2020-06-21,Syria,204,7,83
 2020-06-21,Taiwan*,446,7,434
@@ -28737,7 +28737,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-22,Sri Lanka,1951,11,1526
 2020-06-22,Sudan,8698,533,3460
 2020-06-22,Suriname,319,8,132
-2020-06-22,Sweden,58932,5122,0
+2020-06-22,Sweden,59718,5366,0
 2020-06-22,Switzerland,31310,1956,29000
 2020-06-22,Syria,219,7,83
 2020-06-22,Taiwan*,446,7,435
@@ -28925,7 +28925,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-23,Sri Lanka,1991,11,1548
 2020-06-23,Sudan,8889,548,3699
 2020-06-23,Suriname,319,9,132
-2020-06-23,Sweden,60837,5161,0
+2020-06-23,Sweden,61030,5388,0
 2020-06-23,Switzerland,31332,1956,29000
 2020-06-23,Syria,231,7,94
 2020-06-23,Taiwan*,446,7,435
@@ -29113,7 +29113,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-24,Sri Lanka,2001,11,1562
 2020-06-24,Sudan,8889,548,3699
 2020-06-24,Suriname,357,10,154
-2020-06-24,Sweden,62324,5209,0
+2020-06-24,Sweden,62728,5412,0
 2020-06-24,Switzerland,31376,1958,29000
 2020-06-24,Syria,231,7,94
 2020-06-24,Taiwan*,446,7,435
@@ -29301,7 +29301,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-25,Sri Lanka,2010,11,1602
 2020-06-25,Sudan,8984,556,3806
 2020-06-25,Suriname,373,10,176
-2020-06-25,Sweden,63890,5230,0
+2020-06-25,Sweden,64009,5424,0
 2020-06-25,Switzerland,31428,1958,29000
 2020-06-25,Syria,242,7,96
 2020-06-25,Taiwan*,447,7,435
@@ -29489,7 +29489,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-26,Sri Lanka,2014,11,1619
 2020-06-26,Sudan,9257,572,4014
 2020-06-26,Suriname,389,10,181
-2020-06-26,Sweden,65137,5280,0
+2020-06-26,Sweden,65212,5438,0
 2020-06-26,Switzerland,31486,1962,29000
 2020-06-26,Syria,255,8,102
 2020-06-26,Taiwan*,447,7,435
@@ -29677,7 +29677,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-27,Sri Lanka,2033,11,1639
 2020-06-27,Sudan,9257,572,4014
 2020-06-27,Suriname,467,11,191
-2020-06-27,Sweden,65137,5280,0
+2020-06-27,Sweden,65972,5460,0
 2020-06-27,Switzerland,31555,1962,29100
 2020-06-27,Syria,256,9,102
 2020-06-27,Taiwan*,447,7,435
@@ -29865,7 +29865,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-28,Sri Lanka,2037,11,1661
 2020-06-28,Sudan,9257,572,4014
 2020-06-28,Suriname,490,11,199
-2020-06-28,Sweden,65137,5280,0
+2020-06-28,Sweden,66392,5478,0
 2020-06-28,Switzerland,31617,1962,29100
 2020-06-28,Syria,256,9,102
 2020-06-28,Taiwan*,447,7,435
@@ -30053,7 +30053,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-29,Sri Lanka,2039,11,1678
 2020-06-29,Sudan,9257,572,4014
 2020-06-29,Suriname,501,13,217
-2020-06-29,Sweden,67667,5310,0
+2020-06-29,Sweden,67119,5498,0
 2020-06-29,Switzerland,31652,1962,29100
 2020-06-29,Syria,269,9,102
 2020-06-29,Taiwan*,447,7,435
@@ -30241,7 +30241,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-30,Sri Lanka,2047,11,1711
 2020-06-30,Sudan,9257,572,4014
 2020-06-30,Suriname,515,13,227
-2020-06-30,Sweden,68451,5333,0
+2020-06-30,Sweden,67924,5515,0
 2020-06-30,Switzerland,31714,1963,29200
 2020-06-30,Syria,279,9,105
 2020-06-30,Taiwan*,447,7,437
@@ -30429,7 +30429,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-01,Sri Lanka,2054,11,1748
 2020-07-01,Sudan,9573,602,4606
 2020-07-01,Suriname,535,13,242
-2020-07-01,Sweden,69692,5370,0
+2020-07-01,Sweden,68608,5530,0
 2020-07-01,Switzerland,31851,1965,29200
 2020-07-01,Syria,293,9,110
 2020-07-01,Taiwan*,447,7,438
@@ -30617,7 +30617,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-02,Sri Lanka,2066,11,1827
 2020-07-02,Sudan,9573,602,4606
 2020-07-02,Suriname,547,13,252
-2020-07-02,Sweden,70639,5411,0
+2020-07-02,Sweden,69297,5538,0
 2020-07-02,Switzerland,31967,1965,29200
 2020-07-02,Syria,312,9,113
 2020-07-02,Taiwan*,448,7,438
@@ -30805,7 +30805,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-03,Sri Lanka,2069,11,1863
 2020-07-03,Sudan,9663,604,4624
 2020-07-03,Suriname,561,13,267
-2020-07-03,Sweden,71419,5420,0
+2020-07-03,Sweden,69996,5553,0
 2020-07-03,Switzerland,32101,1965,29200
 2020-07-03,Syria,328,10,123
 2020-07-03,Taiwan*,449,7,438
@@ -30993,7 +30993,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-04,Sri Lanka,2074,11,1885
 2020-07-04,Sudan,9767,608,4673
 2020-07-04,Suriname,565,14,276
-2020-07-04,Sweden,71419,5420,0
+2020-07-04,Sweden,70366,5562,0
 2020-07-04,Switzerland,32198,1965,29200
 2020-07-04,Syria,338,10,123
 2020-07-04,Taiwan*,449,7,438
@@ -31181,7 +31181,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-05,Sri Lanka,2076,11,1903
 2020-07-05,Sudan,9767,608,4673
 2020-07-05,Suriname,594,14,292
-2020-07-05,Sweden,71419,5420,0
+2020-07-05,Sweden,70681,5578,0
 2020-07-05,Switzerland,32268,1965,29300
 2020-07-05,Syria,358,13,126
 2020-07-05,Taiwan*,449,7,438
@@ -31369,7 +31369,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-06,Sri Lanka,2077,11,1917
 2020-07-06,Sudan,9894,616,4899
 2020-07-06,Suriname,614,14,315
-2020-07-06,Sweden,73061,5433,0
+2020-07-06,Sweden,70932,5590,0
 2020-07-06,Switzerland,32315,1965,29300
 2020-07-06,Syria,372,14,126
 2020-07-06,Taiwan*,449,7,438
@@ -31557,7 +31557,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-07,Sri Lanka,2081,11,1955
 2020-07-07,Sudan,9997,622,5034
 2020-07-07,Suriname,634,15,405
-2020-07-07,Sweden,73344,5447,0
+2020-07-07,Sweden,71210,5601,0
 2020-07-07,Switzerland,32369,1966,29300
 2020-07-07,Syria,372,14,126
 2020-07-07,Taiwan*,449,7,438
@@ -31745,7 +31745,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-08,Sri Lanka,2094,11,1967
 2020-07-08,Sudan,10084,636,5074
 2020-07-08,Suriname,665,17,434
-2020-07-08,Sweden,73858,5482,0
+2020-07-08,Sweden,71747,5616,0
 2020-07-08,Switzerland,32498,1966,29400
 2020-07-08,Syria,372,14,126
 2020-07-08,Taiwan*,449,7,438
@@ -31933,7 +31933,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-09,Sri Lanka,2154,11,1979
 2020-07-09,Sudan,10158,641,5200
 2020-07-09,Suriname,694,17,456
-2020-07-09,Sweden,74333,5500,0
+2020-07-09,Sweden,72082,5630,0
 2020-07-09,Switzerland,32586,1966,29400
 2020-07-09,Syria,372,14,126
 2020-07-09,Taiwan*,449,7,438
@@ -32121,7 +32121,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-10,Sri Lanka,2454,11,1980
 2020-07-10,Sudan,10204,649,5277
 2020-07-10,Suriname,726,18,481
-2020-07-10,Sweden,74898,5526,0
+2020-07-10,Sweden,72459,5641,0
 2020-07-10,Switzerland,32690,1966,29400
 2020-07-10,Syria,394,16,126
 2020-07-10,Taiwan*,449,7,438
@@ -32309,7 +32309,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-11,Sri Lanka,2511,11,1980
 2020-07-11,Sudan,10250,650,5341
 2020-07-11,Suriname,741,18,495
-2020-07-11,Sweden,74898,5526,0
+2020-07-11,Sweden,72773,5650,0
 2020-07-11,Switzerland,32817,1968,29500
 2020-07-11,Syria,394,16,126
 2020-07-11,Taiwan*,451,7,438
@@ -32497,7 +32497,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-12,Sri Lanka,2617,11,1981
 2020-07-12,Sudan,10250,650,5341
 2020-07-12,Suriname,741,18,495
-2020-07-12,Sweden,74898,5526,0
+2020-07-12,Sweden,72879,5664,0
 2020-07-12,Switzerland,32883,1968,29600
 2020-07-12,Syria,394,16,126
 2020-07-12,Taiwan*,451,7,438
@@ -32685,7 +32685,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-13,Sri Lanka,2646,11,1981
 2020-07-13,Sudan,10316,657,5403
 2020-07-13,Suriname,780,18,526
-2020-07-13,Sweden,75826,5536,0
+2020-07-13,Sweden,73049,5672,0
 2020-07-13,Switzerland,32946,1968,29600
 2020-07-13,Syria,417,19,136
 2020-07-13,Taiwan*,451,7,438
@@ -32873,7 +32873,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-14,Sri Lanka,2665,11,1988
 2020-07-14,Sudan,10417,659,5579
 2020-07-14,Suriname,801,18,543
-2020-07-14,Sweden,76001,5545,0
+2020-07-14,Sweden,73364,5678,0
 2020-07-14,Switzerland,33016,1968,29800
 2020-07-14,Syria,439,21,138
 2020-07-14,Taiwan*,451,7,440
@@ -33061,7 +33061,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-15,Sri Lanka,2671,11,2001
 2020-07-15,Sudan,10527,668,5601
 2020-07-15,Suriname,837,18,573
-2020-07-15,Sweden,76492,5572,0
+2020-07-15,Sweden,73663,5686,0
 2020-07-15,Switzerland,33148,1968,29800
 2020-07-15,Syria,458,22,140
 2020-07-15,Taiwan*,451,7,440
@@ -33249,7 +33249,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-16,Sri Lanka,2687,11,2007
 2020-07-16,Sudan,10527,668,5601
 2020-07-16,Suriname,904,18,581
-2020-07-16,Sweden,76877,5593,0
+2020-07-16,Sweden,73936,5694,0
 2020-07-16,Switzerland,33290,1969,29900
 2020-07-16,Syria,477,22,140
 2020-07-16,Taiwan*,451,7,440
@@ -33437,7 +33437,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-17,Sri Lanka,2697,11,2012
 2020-07-17,Sudan,10527,668,5601
 2020-07-17,Suriname,943,19,600
-2020-07-17,Sweden,77281,5619,0
+2020-07-17,Sweden,74235,5705,0
 2020-07-17,Switzerland,33382,1969,29900
 2020-07-17,Syria,496,25,144
 2020-07-17,Taiwan*,451,7,440
@@ -33625,7 +33625,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-18,Sri Lanka,2703,11,2023
 2020-07-18,Sudan,10682,673,5637
 2020-07-18,Suriname,1001,20,610
-2020-07-18,Sweden,77281,5619,0
+2020-07-18,Sweden,74435,5715,0
 2020-07-18,Switzerland,33492,1969,29900
 2020-07-18,Syria,496,25,144
 2020-07-18,Taiwan*,451,7,440
@@ -33813,7 +33813,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-19,Sri Lanka,2724,11,2035
 2020-07-19,Sudan,10992,693,5707
 2020-07-19,Suriname,1029,21,627
-2020-07-19,Sweden,77281,5619,0
+2020-07-19,Sweden,74545,5722,0
 2020-07-19,Switzerland,33591,1969,30300
 2020-07-19,Syria,496,25,144
 2020-07-19,Taiwan*,451,7,440
@@ -34001,7 +34001,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-20,Sri Lanka,2730,11,2041
 2020-07-20,Sudan,10992,693,5707
 2020-07-20,Suriname,1079,21,656
-2020-07-20,Sweden,78048,5639,0
+2020-07-20,Sweden,74676,5729,0
 2020-07-20,Switzerland,33634,1971,30300
 2020-07-20,Syria,522,29,154
 2020-07-20,Taiwan*,451,7,440
@@ -34189,7 +34189,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-21,Sri Lanka,2730,11,2048
 2020-07-21,Sudan,10992,693,5707
 2020-07-21,Suriname,1131,21,705
-2020-07-21,Sweden,78166,5646,0
+2020-07-21,Sweden,74902,5736,0
 2020-07-21,Switzerland,33742,1972,30300
 2020-07-21,Syria,540,31,160
 2020-07-21,Taiwan*,451,7,440
@@ -34377,7 +34377,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-22,Sri Lanka,2752,11,2064
 2020-07-22,Sudan,11237,708,5835
 2020-07-22,Suriname,1176,21,739
-2020-07-22,Sweden,78504,5667,0
+2020-07-22,Sweden,75199,5742,0
 2020-07-22,Switzerland,33883,1972,30500
 2020-07-22,Syria,561,32,165
 2020-07-22,Taiwan*,455,7,440
@@ -34565,7 +34565,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-23,Sri Lanka,2753,11,2077
 2020-07-23,Sudan,11237,708,5835
 2020-07-23,Suriname,1234,23,774
-2020-07-23,Sweden,78763,5676,0
+2020-07-23,Sweden,75419,5746,0
 2020-07-23,Switzerland,34000,1975,30500
 2020-07-23,Syria,584,35,174
 2020-07-23,Taiwan*,455,7,440
@@ -34753,7 +34753,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-24,Sri Lanka,2764,11,2094
 2020-07-24,Sudan,11302,715,5855
 2020-07-24,Suriname,1305,23,804
-2020-07-24,Sweden,78997,5697,0
+2020-07-24,Sweden,75681,5747,0
 2020-07-24,Switzerland,34154,1977,30500
 2020-07-24,Syria,608,35,184
 2020-07-24,Taiwan*,458,7,440
@@ -34941,7 +34941,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-25,Sri Lanka,2770,11,2103
 2020-07-25,Sudan,11385,717,5890
 2020-07-25,Suriname,1381,23,853
-2020-07-25,Sweden,78997,5697,0
+2020-07-25,Sweden,75819,5749,0
 2020-07-25,Switzerland,34302,1977,30500
 2020-07-25,Syria,627,36,191
 2020-07-25,Taiwan*,458,7,440
@@ -35129,7 +35129,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-26,Sri Lanka,2782,11,2106
 2020-07-26,Sudan,11385,717,5890
 2020-07-26,Suriname,1439,23,890
-2020-07-26,Sweden,78997,5697,0
+2020-07-26,Sweden,75861,5755,0
 2020-07-26,Switzerland,34412,1977,30700
 2020-07-26,Syria,650,38,200
 2020-07-26,Taiwan*,458,7,440
@@ -35317,7 +35317,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-27,Sri Lanka,2805,11,2121
 2020-07-27,Sudan,11424,720,5939
 2020-07-27,Suriname,1483,24,925
-2020-07-27,Sweden,79395,5700,0
+2020-07-27,Sweden,75932,5759,0
 2020-07-27,Switzerland,34477,1978,30900
 2020-07-27,Syria,674,40,210
 2020-07-27,Taiwan*,462,7,440
@@ -35505,7 +35505,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-28,Sri Lanka,2810,11,2296
 2020-07-28,Sudan,11496,725,6001
 2020-07-28,Suriname,1510,24,965
-2020-07-28,Sweden,79494,5702,0
+2020-07-28,Sweden,76215,5760,0
 2020-07-28,Switzerland,34609,1978,31000
 2020-07-28,Syria,694,40,220
 2020-07-28,Taiwan*,467,7,440
@@ -35693,7 +35693,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-29,Sri Lanka,2810,11,2317
 2020-07-29,Sudan,11496,725,6001
 2020-07-29,Suriname,1607,26,1003
-2020-07-29,Sweden,79782,5730,0
+2020-07-29,Sweden,76516,5760,0
 2020-07-29,Switzerland,34802,1979,31100
 2020-07-29,Syria,717,40,229
 2020-07-29,Taiwan*,467,7,440
@@ -35881,7 +35881,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-30,Sri Lanka,2814,11,2333
 2020-07-30,Sudan,11496,725,6001
 2020-07-30,Suriname,1607,26,1003
-2020-07-30,Sweden,80100,5739,0
+2020-07-30,Sweden,76818,5763,0
 2020-07-30,Switzerland,35022,1980,31100
 2020-07-30,Syria,738,41,229
 2020-07-30,Taiwan*,467,7,440
@@ -36069,7 +36069,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-31,Sri Lanka,2815,11,2391
 2020-07-31,Sudan,11644,746,6119
 2020-07-31,Suriname,1650,26,1080
-2020-07-31,Sweden,80422,5743,0
+2020-07-31,Sweden,77076,5766,0
 2020-07-31,Switzerland,35232,1981,31100
 2020-07-31,Syria,757,43,237
 2020-07-31,Taiwan*,467,7,440
@@ -36257,7 +36257,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-01,Sri Lanka,2815,11,2439
 2020-08-01,Sudan,11738,752,6137
 2020-08-01,Suriname,1760,26,1161
-2020-08-01,Sweden,80422,5743,0
+2020-08-01,Sweden,77379,5767,0
 2020-08-01,Switzerland,35412,1981,31300
 2020-08-01,Syria,780,43,237
 2020-08-01,Taiwan*,474,7,441
@@ -36445,7 +36445,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,Sri Lanka,2823,11,2514
 2020-08-02,Sudan,11738,752,6137
 2020-08-02,Suriname,1849,27,1194
-2020-08-02,Sweden,80422,5743,0
+2020-08-02,Sweden,77417,5772,0
 2020-08-02,Switzerland,35550,1981,31500
 2020-08-02,Syria,809,44,256
 2020-08-02,Taiwan*,475,7,441
@@ -36633,7 +36633,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,Sri Lanka,2828,11,2517
 2020-08-03,Sudan,11738,752,6137
 2020-08-03,Suriname,1893,27,1227
-2020-08-03,Sweden,81012,5744,0
+2020-08-03,Sweden,77582,5774,0
 2020-08-03,Switzerland,35616,1981,31500
 2020-08-03,Syria,847,46,268
 2020-08-03,Taiwan*,474,7,441
@@ -36821,7 +36821,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,Sri Lanka,2834,11,2524
 2020-08-04,Sudan,11780,763,6194
 2020-08-04,Suriname,1981,27,1278
-2020-08-04,Sweden,81181,5747,0
+2020-08-04,Sweden,77916,5775,0
 2020-08-04,Switzerland,35746,1981,31600
 2020-08-04,Syria,892,46,283
 2020-08-04,Taiwan*,476,7,441
@@ -37009,7 +37009,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,Sri Lanka,2839,11,2537
 2020-08-05,Sudan,11780,763,6194
 2020-08-05,Suriname,2050,27,1327
-2020-08-05,Sweden,81540,5760,0
+2020-08-05,Sweden,78341,5780,0
 2020-08-05,Switzerland,35927,1984,31600
 2020-08-05,Syria,944,48,296
 2020-08-05,Taiwan*,476,7,441
@@ -37197,7 +37197,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,Sri Lanka,2839,11,2541
 2020-08-06,Sudan,11780,763,6194
 2020-08-06,Suriname,2096,29,1446
-2020-08-06,Sweden,81967,5766,0
+2020-08-06,Sweden,78719,5783,0
 2020-08-06,Switzerland,36108,1985,31600
 2020-08-06,Syria,999,48,311
 2020-08-06,Taiwan*,477,7,441
@@ -37385,7 +37385,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,Sri Lanka,2839,11,2564
 2020-08-07,Sudan,11894,773,6243
 2020-08-07,Suriname,2203,29,1505
-2020-08-07,Sweden,82323,5763,0
+2020-08-07,Sweden,79099,5785,0
 2020-08-07,Switzerland,36269,1986,31600
 2020-08-07,Syria,1060,48,311
 2020-08-07,Taiwan*,477,7,441
@@ -37573,7 +37573,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,Sri Lanka,2841,11,2576
 2020-08-08,Sudan,11894,773,6243
 2020-08-08,Suriname,2306,29,1558
-2020-08-08,Sweden,82323,5763,0
+2020-08-08,Sweden,79359,5789,0
 2020-08-08,Switzerland,36451,1986,31900
 2020-08-08,Syria,1125,50,331
 2020-08-08,Taiwan*,479,7,441
@@ -37761,7 +37761,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,Sri Lanka,2844,11,2579
 2020-08-09,Sudan,11956,781,6266
 2020-08-09,Suriname,2391,29,1635
-2020-08-09,Sweden,82323,5763,0
+2020-08-09,Sweden,79432,5791,0
 2020-08-09,Switzerland,36603,1986,32300
 2020-08-09,Syria,1188,52,346
 2020-08-09,Taiwan*,477,7,441
@@ -37949,7 +37949,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,Sri Lanka,2871,11,2593
 2020-08-10,Sudan,11956,781,6266
 2020-08-10,Suriname,2489,30,1674
-2020-08-10,Sweden,82972,5766,0
+2020-08-10,Sweden,79628,5795,0
 2020-08-10,Switzerland,36708,1987,32400
 2020-08-10,Syria,1255,52,364
 2020-08-10,Taiwan*,477,7,441
@@ -38137,7 +38137,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,Sri Lanka,2880,11,2622
 2020-08-11,Sudan,12033,786,6282
 2020-08-11,Suriname,2559,39,1712
-2020-08-11,Sweden,83126,5770,0
+2020-08-11,Sweden,80045,5798,0
 2020-08-11,Switzerland,36895,1990,32400
 2020-08-11,Syria,1327,53,385
 2020-08-11,Taiwan*,480,7,443
@@ -38325,7 +38325,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,Sri Lanka,2881,11,2638
 2020-08-12,Sudan,12033,786,6282
 2020-08-12,Suriname,2653,39,1789
-2020-08-12,Sweden,83455,5774,0
+2020-08-12,Sweden,80489,5803,0
 2020-08-12,Switzerland,37169,1991,32700
 2020-08-12,Syria,1327,53,385
 2020-08-12,Taiwan*,481,7,450
@@ -38513,7 +38513,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,Sri Lanka,2882,11,2646
 2020-08-13,Sudan,12115,792,6305
 2020-08-13,Suriname,2761,40,1830
-2020-08-13,Sweden,83852,5776,0
+2020-08-13,Sweden,80851,5803,0
 2020-08-13,Switzerland,37403,1991,32700
 2020-08-13,Syria,1432,55,395
 2020-08-13,Taiwan*,481,7,450
@@ -38701,7 +38701,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Sri Lanka,2886,11,2658
 2020-08-14,Sudan,12162,793,6325
 2020-08-14,Suriname,2838,41,1894
-2020-08-14,Sweden,84294,5783,0
+2020-08-14,Sweden,81195,5804,0
 2020-08-14,Switzerland,37671,1991,32900
 2020-08-14,Syria,1515,58,403
 2020-08-14,Taiwan*,481,7,450
@@ -38889,7 +38889,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,Sri Lanka,2890,11,2666
 2020-08-15,Sudan,12211,796,6340
 2020-08-15,Suriname,2961,42,1990
-2020-08-15,Sweden,84294,5783,0
+2020-08-15,Sweden,81421,5804,0
 2020-08-15,Switzerland,37924,1991,33200
 2020-08-15,Syria,1593,60,408
 2020-08-15,Taiwan*,482,7,450
@@ -39077,7 +39077,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Sri Lanka,2893,11,2670
 2020-08-16,Sudan,12314,798,6350
 2020-08-16,Suriname,3016,47,2036
-2020-08-16,Sweden,84294,5783,0
+2020-08-16,Sweden,81484,5806,0
 2020-08-16,Switzerland,38124,1991,33300
 2020-08-16,Syria,1677,64,417
 2020-08-16,Taiwan*,484,7,450
@@ -39265,7 +39265,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-17,Sri Lanka,2900,11,2676
 2020-08-17,Sudan,12410,803,6385
 2020-08-17,Suriname,3077,48,2138
-2020-08-17,Sweden,85045,5787,0
+2020-08-17,Sweden,81658,5812,0
 2020-08-17,Switzerland,38252,1991,33300
 2020-08-17,Syria,1764,68,425
 2020-08-17,Taiwan*,485,7,450
@@ -39453,7 +39453,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-18,Sri Lanka,2902,11,2755
 2020-08-18,Sudan,12485,805,6398
 2020-08-18,Suriname,3216,54,2196
-2020-08-18,Sweden,85219,5790,0
+2020-08-18,Sweden,81972,5813,0
 2020-08-18,Switzerland,38449,1992,33500
 2020-08-18,Syria,1844,73,425
 2020-08-18,Taiwan*,486,7,450
@@ -39641,7 +39641,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-19,Sri Lanka,2902,11,2760
 2020-08-19,Sudan,12546,808,6429
 2020-08-19,Suriname,3295,54,2227
-2020-08-19,Sweden,85411,5802,0
+2020-08-19,Sweden,82323,5814,0
 2020-08-19,Switzerland,38760,1996,33500
 2020-08-19,Syria,1927,78,445
 2020-08-19,Taiwan*,486,7,457
@@ -39829,7 +39829,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-20,Sri Lanka,2918,11,2765
 2020-08-20,Sudan,12582,812,6456
 2020-08-20,Suriname,3366,55,2383
-2020-08-20,Sweden,85810,5805,0
+2020-08-20,Sweden,82656,5815,0
 2020-08-20,Switzerland,39026,1998,33900
 2020-08-20,Syria,2008,82,460
 2020-08-20,Taiwan*,486,7,457
@@ -40017,7 +40017,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-21,Sri Lanka,2941,11,2789
 2020-08-21,Sudan,12623,812,6476
 2020-08-21,Suriname,3460,56,2498
-2020-08-21,Sweden,86068,5810,0
+2020-08-21,Sweden,82954,5816,0
 2020-08-21,Switzerland,39332,2000,33900
 2020-08-21,Syria,2073,83,475
 2020-08-21,Taiwan*,487,7,457
@@ -40205,7 +40205,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-22,Sri Lanka,2947,12,2798
 2020-08-22,Sudan,12682,815,6492
 2020-08-22,Suriname,3569,57,2559
-2020-08-22,Sweden,86068,5810,0
+2020-08-22,Sweden,83114,5816,0
 2020-08-22,Switzerland,39627,2000,34100
 2020-08-22,Syria,2143,85,490
 2020-08-22,Taiwan*,487,7,457
@@ -40393,7 +40393,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-23,Sri Lanka,2953,12,2805
 2020-08-23,Sudan,12836,815,6497
 2020-08-23,Suriname,3607,58,2688
-2020-08-23,Sweden,86068,5810,0
+2020-08-23,Sweden,83171,5816,0
 2020-08-23,Switzerland,39903,2001,34400
 2020-08-23,Syria,2217,89,505
 2020-08-23,Taiwan*,487,7,457
@@ -40581,7 +40581,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-24,Sri Lanka,2959,12,2811
 2020-08-24,Sudan,12903,818,6538
 2020-08-24,Suriname,3632,60,2758
-2020-08-24,Sweden,86721,5813,0
+2020-08-24,Sweden,83353,5816,0
 2020-08-24,Switzerland,40060,2001,34400
 2020-08-24,Syria,2293,92,519
 2020-08-24,Taiwan*,487,7,457
@@ -40769,7 +40769,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-25,Sri Lanka,2971,12,2816
 2020-08-25,Sudan,12974,819,6557
 2020-08-25,Suriname,3698,61,2818
-2020-08-25,Sweden,86891,5814,0
+2020-08-25,Sweden,83578,5816,0
 2020-08-25,Switzerland,40262,2002,34400
 2020-08-25,Syria,2365,95,533
 2020-08-25,Taiwan*,487,7,457
@@ -40957,7 +40957,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-26,Sri Lanka,2984,12,2819
 2020-08-26,Sudan,12974,819,6557
 2020-08-26,Suriname,3724,62,2863
-2020-08-26,Sweden,87072,5817,0
+2020-08-26,Sweden,83824,5816,0
 2020-08-26,Switzerland,40645,2003,34800
 2020-08-26,Syria,2440,98,550
 2020-08-26,Taiwan*,487,7,462
@@ -41145,7 +41145,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,Sri Lanka,2986,12,2830
 2020-08-27,Sudan,13045,823,6594
 2020-08-27,Suriname,3793,66,2893
-2020-08-27,Sweden,83898,5820,0
+2020-08-27,Sweden,83958,5820,0
 2020-08-27,Switzerland,41006,2003,34800
 2020-08-27,Syria,2504,100,569
 2020-08-27,Taiwan*,487,7,462
@@ -41171,3 +41171,191 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,Yemen,1933,562,1098
 2020-08-27,Zambia,11601,282,10840
 2020-08-27,Zimbabwe,6292,189,5010
+2020-08-28,Afghanistan,38140,1402,29059
+2020-08-28,Albania,9195,271,4923
+2020-08-28,Algeria,43403,1483,30436
+2020-08-28,Andorra,1124,53,902
+2020-08-28,Angola,2471,106,1028
+2020-08-28,Antigua and Barbuda,94,3,89
+2020-08-28,Argentina,392009,8271,280165
+2020-08-28,Armenia,43451,869,37264
+2020-08-28,Australia,25547,600,20631
+2020-08-28,Austria,26590,733,22594
+2020-08-28,Azerbaijan,35986,527,33461
+2020-08-28,Bahamas,2057,50,755
+2020-08-28,Bahrain,51113,189,47760
+2020-08-28,Bangladesh,306794,4174,196836
+2020-08-28,Barbados,166,7,141
+2020-08-28,Belarus,71346,667,69887
+2020-08-28,Belgium,83952,9886,18360
+2020-08-28,Belize,870,12,93
+2020-08-28,Benin,2145,40,1738
+2020-08-28,Bhutan,195,0,120
+2020-08-28,Bolivia,114409,4846,54914
+2020-08-28,Bosnia and Herzegovina,19214,591,12733
+2020-08-28,Botswana,1562,3,199
+2020-08-28,Brazil,3804803,119504,3158783
+2020-08-28,Brunei,144,3,139
+2020-08-28,Bulgaria,16065,603,11231
+2020-08-28,Burkina Faso,1352,55,1058
+2020-08-28,Burma,643,6,349
+2020-08-28,Burundi,433,1,345
+2020-08-28,Cabo Verde,3745,38,2807
+2020-08-28,Cambodia,273,0,265
+2020-08-28,Cameroon,19142,411,17651
+2020-08-28,Canada,129342,9155,115029
+2020-08-28,Central African Republic,4700,61,1784
+2020-08-28,Chad,1008,77,878
+2020-08-28,Chile,405972,11132,379452
+2020-08-28,China,89836,4718,84419
+2020-08-28,Colombia,590492,18766,429608
+2020-08-28,Comoros,422,7,399
+2020-08-28,Congo (Brazzaville),3979,78,1742
+2020-08-28,Congo (Kinshasa),9994,255,9035
+2020-08-28,Costa Rica,38485,407,14664
+2020-08-28,Cote d'Ivoire,17797,115,16315
+2020-08-28,Croatia,9549,180,6809
+2020-08-28,Cuba,3866,92,3222
+2020-08-28,Cyprus,1481,20,935
+2020-08-28,Czechia,23777,419,17497
+2020-08-28,Denmark,17125,624,15252
+2020-08-28,Diamond Princess,712,13,651
+2020-08-28,Djibouti,5383,60,5307
+2020-08-28,Dominica,20,0,18
+2020-08-28,Dominican Republic,93390,1648,65285
+2020-08-28,Ecuador,112141,6504,95311
+2020-08-28,Egypt,98285,5362,70419
+2020-08-28,El Salvador,25415,702,13570
+2020-08-28,Equatorial Guinea,4941,83,3884
+2020-08-28,Eritrea,317,0,284
+2020-08-28,Estonia,2343,64,2076
+2020-08-28,Eswatini,4461,91,3210
+2020-08-28,Ethiopia,48140,758,17415
+2020-08-28,Fiji,28,2,23
+2020-08-28,Finland,8042,335,7200
+2020-08-28,France,304947,30601,86495
+2020-08-28,Gabon,8505,53,7187
+2020-08-28,Gambia,2797,96,743
+2020-08-28,Georgia,1455,19,1196
+2020-08-28,Germany,242126,9290,214186
+2020-08-28,Ghana,43949,270,42392
+2020-08-28,Greece,9800,259,1347
+2020-08-28,Grenada,24,0,24
+2020-08-28,Guatemala,72921,2709,60534
+2020-08-28,Guinea,9251,59,8282
+2020-08-28,Guinea-Bissau,2205,34,1127
+2020-08-28,Guyana,1180,35,633
+2020-08-28,Haiti,8161,201,5743
+2020-08-28,Holy See,12,0,12
+2020-08-28,Honduras,58810,1827,10076
+2020-08-28,Hungary,5511,614,3759
+2020-08-28,Iceland,2092,10,1964
+2020-08-28,India,3463972,62550,2648998
+2020-08-28,Indonesia,165887,7169,120900
+2020-08-28,Iran,369911,21249,318270
+2020-08-28,Iraq,223612,6814,164874
+2020-08-28,Ireland,28578,1777,23364
+2020-08-28,Israel,112000,894,91051
+2020-08-28,Italy,265409,35472,206902
+2020-08-28,Jamaica,2011,19,888
+2020-08-28,Japan,66499,1251,53691
+2020-08-28,Jordan,1869,15,1367
+2020-08-28,Kazakhstan,105558,1523,95888
+2020-08-28,Kenya,33630,567,19434
+2020-08-28,"Korea, South",19400,321,14765
+2020-08-28,Kosovo,12683,488,8788
+2020-08-28,Kuwait,83578,525,75320
+2020-08-28,Kyrgyzstan,43587,1057,37726
+2020-08-28,Laos,22,0,21
+2020-08-28,Latvia,1375,34,1163
+2020-08-28,Lebanon,15613,148,4260
+2020-08-28,Lesotho,1051,31,526
+2020-08-28,Liberia,1298,82,832
+2020-08-28,Libya,12629,226,1310
+2020-08-28,Liechtenstein,106,1,96
+2020-08-28,Lithuania,2810,86,1816
+2020-08-28,Luxembourg,6580,124,7140
+2020-08-28,MS Zaandam,9,2,0
+2020-08-28,Madagascar,14696,187,13709
+2020-08-28,Malawi,5523,174,3143
+2020-08-28,Malaysia,9306,125,9030
+2020-08-28,Maldives,7469,28,4873
+2020-08-28,Mali,2736,126,2055
+2020-08-28,Malta,1820,10,1186
+2020-08-28,Mauritania,7012,158,6407
+2020-08-28,Mauritius,355,10,335
+2020-08-28,Mexico,585738,63146,479770
+2020-08-28,Moldova,35904,981,24156
+2020-08-28,Monaco,154,4,116
+2020-08-28,Mongolia,301,0,291
+2020-08-28,Montenegro,4663,92,3731
+2020-08-28,Morocco,58489,1052,43049
+2020-08-28,Mozambique,3697,21,2055
+2020-08-28,Namibia,6906,65,2789
+2020-08-28,Nepal,36456,195,20242
+2020-08-28,Netherlands,71557,6247,964
+2020-08-28,New Zealand,1727,22,1568
+2020-08-28,Nicaragua,4494,137,2913
+2020-08-28,Niger,1175,69,1085
+2020-08-28,Nigeria,53477,1011,41017
+2020-08-28,North Macedonia,14163,590,10933
+2020-08-28,Norway,10582,264,9348
+2020-08-28,Oman,85005,650,79608
+2020-08-28,Pakistan,295053,6283,279937
+2020-08-28,Panama,90624,1966,64602
+2020-08-28,Papua New Guinea,453,5,232
+2020-08-28,Paraguay,15873,280,8595
+2020-08-28,Peru,621997,28277,429662
+2020-08-28,Philippines,209544,3325,134474
+2020-08-28,Poland,65480,2018,44785
+2020-08-28,Portugal,57074,1815,41556
+2020-08-28,Qatar,118196,196,115017
+2020-08-28,Romania,84468,3507,37056
+2020-08-28,Russia,977730,16866,796498
+2020-08-28,Rwanda,3742,16,1866
+2020-08-28,Saint Kitts and Nevis,17,0,17
+2020-08-28,Saint Lucia,26,0,25
+2020-08-28,Saint Vincent and the Grenadines,60,0,57
+2020-08-28,San Marino,710,42,658
+2020-08-28,Sao Tome and Principe,895,15,848
+2020-08-28,Saudi Arabia,312924,3813,287403
+2020-08-28,Senegal,13384,279,9091
+2020-08-28,Serbia,31207,709,0
+2020-08-28,Seychelles,136,0,127
+2020-08-28,Sierra Leone,2013,70,1581
+2020-08-28,Singapore,56666,27,55337
+2020-08-28,Slovakia,3728,33,2225
+2020-08-28,Slovenia,2797,133,2236
+2020-08-28,Somalia,3275,95,2443
+2020-08-28,South Africa,620132,13743,533935
+2020-08-28,South Sudan,2518,47,1290
+2020-08-28,Spain,439286,29011,150376
+2020-08-28,Sri Lanka,2989,12,2842
+2020-08-28,Sudan,13082,823,6603
+2020-08-28,Suriname,3848,66,2971
+2020-08-28,Sweden,83958,5821,0
+2020-08-28,Switzerland,41346,2004,34800
+2020-08-28,Syria,2563,103,584
+2020-08-28,Taiwan*,487,7,462
+2020-08-28,Tajikistan,8481,68,7276
+2020-08-28,Tanzania,509,21,183
+2020-08-28,Thailand,3411,58,3242
+2020-08-28,Timor-Leste,27,0,25
+2020-08-28,Togo,1365,27,981
+2020-08-28,Trinidad and Tobago,1554,19,628
+2020-08-28,Tunisia,3461,74,1522
+2020-08-28,Turkey,265515,6245,241809
+2020-08-28,US,5913941,181800,2118367
+2020-08-28,Uganda,2756,28,1288
+2020-08-28,Ukraine,117172,2499,57051
+2020-08-28,United Arab Emirates,68901,379,59861
+2020-08-28,United Kingdom,333806,41573,1615
+2020-08-28,Uruguay,1556,43,1352
+2020-08-28,Uzbekistan,40720,302,37873
+2020-08-28,Venezuela,43879,366,34972
+2020-08-28,Vietnam,1038,30,663
+2020-08-28,West Bank and Gaza,21251,145,14291
+2020-08-28,Western Sahara,10,1,8
+2020-08-28,Yemen,1943,563,1107
+2020-08-28,Zambia,11779,283,10945
+2020-08-28,Zimbabwe,6388,195,5043
