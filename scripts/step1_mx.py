@@ -25,9 +25,10 @@ SEXO_DICT = dict()
 TIPO_PACIENTE_DICT = dict()
 SI_NO_DICT = dict()
 NACIONALIDAD_DICT = dict()
-RESULTADO_DICT = dict()
+RESULTADO_LAB_DICT = dict()
 ENTIDADES_DICT = dict()
 MUNICIPIOS_DICT = dict()
+CLASIFICACION_FINAL_DICT = dict()
 
 # Used to fix encoding issues.
 FIXERS = {
@@ -66,7 +67,7 @@ def convert():
     with zipfile.ZipFile(CATALOG_FILE) as catalog_zip:
         print("Reading catalog file...")
 
-        with catalog_zip.open(catalog_zip.namelist()[0]) as cat_file:
+        with catalog_zip.open(catalog_zip.namelist()[1]) as cat_file:
             print("Processing catalog file...")
 
             workbook = load_workbook(io.BytesIO(
@@ -110,15 +111,31 @@ def convert():
                 NACIONALIDAD_DICT[str(row[0].value)] = str(
                     row[1].value).strip()
 
-            # Resultado
-            sheet = workbook["Catálogo RESULTADO"]
+            # Resultado Lab
+            sheet = workbook["Catálogo RESULTADO_LAB"]
 
             for row in sheet.rows:
 
                 # This one has an issue with rows that are not empty.
                 if len(row) > 0:
-                    RESULTADO_DICT[str(row[0].value)] = str(
+                    RESULTADO_LAB_DICT[str(row[0].value)] = str(
                         row[1].value).strip()
+
+            # Clasificación Final
+            sheet = workbook["Catálogo CLASIFICACION_FINAL"]
+
+            for row in sheet.rows:
+
+                # Skip None row.
+                if row[0].value:
+
+                    row_value = row[1].value
+
+                    # Fix enc#ding issues.
+                    for k, v in FIXERS.items():
+                        row_value = row_value.replace(k, v).strip()
+
+                    CLASIFICACION_FINAL_DICT[str(row[0].value)] = row_value
 
             # Entidades Federativas
             sheet = workbook["Catálogo de ENTIDADES"]
@@ -166,7 +183,8 @@ def convert():
                 row["SEXO"] = SEXO_DICT[row["SEXO"]]
                 row["TIPO_PACIENTE"] = TIPO_PACIENTE_DICT[row["TIPO_PACIENTE"]]
                 row["NACIONALIDAD"] = NACIONALIDAD_DICT[row["NACIONALIDAD"]]
-                row["RESULTADO"] = RESULTADO_DICT[row["RESULTADO"]]
+                row["RESULTADO_LAB"] = RESULTADO_LAB_DICT[row["RESULTADO_LAB"]]
+                row["CLASIFICACION_FINAL"] = CLASIFICACION_FINAL_DICT[row["CLASIFICACION_FINAL"]]
 
                 # Yes or No fields.
                 row["MIGRANTE"] = SI_NO_DICT[row["MIGRANTE"]]
@@ -174,6 +192,8 @@ def convert():
                 row["NEUMONIA"] = SI_NO_DICT[row["NEUMONIA"]]
                 row["EMBARAZO"] = SI_NO_DICT[row["EMBARAZO"]]
                 row["HABLA_LENGUA_INDIG"] = SI_NO_DICT[row["HABLA_LENGUA_INDIG"]]
+                row["INDIGENA"] = SI_NO_DICT[row["INDIGENA"]]
+                row["TOMA_MUESTRA"] = SI_NO_DICT[row["TOMA_MUESTRA"]] 
                 row["DIABETES"] = SI_NO_DICT[row["DIABETES"]]
                 row["EPOC"] = SI_NO_DICT[row["EPOC"]]
                 row["ASMA"] = SI_NO_DICT[row["ASMA"]]
@@ -206,7 +226,7 @@ def convert():
         writer.writerows(data_list)
         print("Dataset saved.")
 
-    # Clean up
+    # Clean up.
     os.remove(DATA_FILE)
     os.remove(CATALOG_FILE)
 
