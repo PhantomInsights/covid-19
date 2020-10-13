@@ -154,6 +154,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22,Singapore,0,0,0
 2020-01-22,Slovakia,0,0,0
 2020-01-22,Slovenia,0,0,0
+2020-01-22,Solomon Islands,0,0,0
 2020-01-22,Somalia,0,0,0
 2020-01-22,South Africa,0,0,0
 2020-01-22,South Sudan,0,0,0
@@ -342,6 +343,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23,Singapore,1,0,0
 2020-01-23,Slovakia,0,0,0
 2020-01-23,Slovenia,0,0,0
+2020-01-23,Solomon Islands,0,0,0
 2020-01-23,Somalia,0,0,0
 2020-01-23,South Africa,0,0,0
 2020-01-23,South Sudan,0,0,0
@@ -530,6 +532,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24,Singapore,3,0,0
 2020-01-24,Slovakia,0,0,0
 2020-01-24,Slovenia,0,0,0
+2020-01-24,Solomon Islands,0,0,0
 2020-01-24,Somalia,0,0,0
 2020-01-24,South Africa,0,0,0
 2020-01-24,South Sudan,0,0,0
@@ -718,6 +721,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25,Singapore,3,0,0
 2020-01-25,Slovakia,0,0,0
 2020-01-25,Slovenia,0,0,0
+2020-01-25,Solomon Islands,0,0,0
 2020-01-25,Somalia,0,0,0
 2020-01-25,South Africa,0,0,0
 2020-01-25,South Sudan,0,0,0
@@ -906,6 +910,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26,Singapore,4,0,0
 2020-01-26,Slovakia,0,0,0
 2020-01-26,Slovenia,0,0,0
+2020-01-26,Solomon Islands,0,0,0
 2020-01-26,Somalia,0,0,0
 2020-01-26,South Africa,0,0,0
 2020-01-26,South Sudan,0,0,0
@@ -1094,6 +1099,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27,Singapore,5,0,0
 2020-01-27,Slovakia,0,0,0
 2020-01-27,Slovenia,0,0,0
+2020-01-27,Solomon Islands,0,0,0
 2020-01-27,Somalia,0,0,0
 2020-01-27,South Africa,0,0,0
 2020-01-27,South Sudan,0,0,0
@@ -1282,6 +1288,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28,Singapore,7,0,0
 2020-01-28,Slovakia,0,0,0
 2020-01-28,Slovenia,0,0,0
+2020-01-28,Solomon Islands,0,0,0
 2020-01-28,Somalia,0,0,0
 2020-01-28,South Africa,0,0,0
 2020-01-28,South Sudan,0,0,0
@@ -1470,6 +1477,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29,Singapore,7,0,0
 2020-01-29,Slovakia,0,0,0
 2020-01-29,Slovenia,0,0,0
+2020-01-29,Solomon Islands,0,0,0
 2020-01-29,Somalia,0,0,0
 2020-01-29,South Africa,0,0,0
 2020-01-29,South Sudan,0,0,0
@@ -1658,6 +1666,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30,Singapore,10,0,0
 2020-01-30,Slovakia,0,0,0
 2020-01-30,Slovenia,0,0,0
+2020-01-30,Solomon Islands,0,0,0
 2020-01-30,Somalia,0,0,0
 2020-01-30,South Africa,0,0,0
 2020-01-30,South Sudan,0,0,0
@@ -1846,6 +1855,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,Singapore,13,0,0
 2020-01-31,Slovakia,0,0,0
 2020-01-31,Slovenia,0,0,0
+2020-01-31,Solomon Islands,0,0,0
 2020-01-31,Somalia,0,0,0
 2020-01-31,South Africa,0,0,0
 2020-01-31,South Sudan,0,0,0
@@ -2034,6 +2044,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,Singapore,16,0,0
 2020-02-01,Slovakia,0,0,0
 2020-02-01,Slovenia,0,0,0
+2020-02-01,Solomon Islands,0,0,0
 2020-02-01,Somalia,0,0,0
 2020-02-01,South Africa,0,0,0
 2020-02-01,South Sudan,0,0,0
@@ -2222,6 +2233,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,Singapore,18,0,0
 2020-02-02,Slovakia,0,0,0
 2020-02-02,Slovenia,0,0,0
+2020-02-02,Solomon Islands,0,0,0
 2020-02-02,Somalia,0,0,0
 2020-02-02,South Africa,0,0,0
 2020-02-02,South Sudan,0,0,0
@@ -2410,6 +2422,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,Singapore,18,0,0
 2020-02-03,Slovakia,0,0,0
 2020-02-03,Slovenia,0,0,0
+2020-02-03,Solomon Islands,0,0,0
 2020-02-03,Somalia,0,0,0
 2020-02-03,South Africa,0,0,0
 2020-02-03,South Sudan,0,0,0
@@ -2598,6 +2611,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,Singapore,24,0,0
 2020-02-04,Slovakia,0,0,0
 2020-02-04,Slovenia,0,0,0
+2020-02-04,Solomon Islands,0,0,0
 2020-02-04,Somalia,0,0,0
 2020-02-04,South Africa,0,0,0
 2020-02-04,South Sudan,0,0,0
@@ -2786,6 +2800,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,Singapore,28,0,0
 2020-02-05,Slovakia,0,0,0
 2020-02-05,Slovenia,0,0,0
+2020-02-05,Solomon Islands,0,0,0
 2020-02-05,Somalia,0,0,0
 2020-02-05,South Africa,0,0,0
 2020-02-05,South Sudan,0,0,0
@@ -2974,6 +2989,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,Singapore,28,0,0
 2020-02-06,Slovakia,0,0,0
 2020-02-06,Slovenia,0,0,0
+2020-02-06,Solomon Islands,0,0,0
 2020-02-06,Somalia,0,0,0
 2020-02-06,South Africa,0,0,0
 2020-02-06,South Sudan,0,0,0
@@ -3162,6 +3178,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,Singapore,30,0,0
 2020-02-07,Slovakia,0,0,0
 2020-02-07,Slovenia,0,0,0
+2020-02-07,Solomon Islands,0,0,0
 2020-02-07,Somalia,0,0,0
 2020-02-07,South Africa,0,0,0
 2020-02-07,South Sudan,0,0,0
@@ -3350,6 +3367,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,Singapore,33,0,2
 2020-02-08,Slovakia,0,0,0
 2020-02-08,Slovenia,0,0,0
+2020-02-08,Solomon Islands,0,0,0
 2020-02-08,Somalia,0,0,0
 2020-02-08,South Africa,0,0,0
 2020-02-08,South Sudan,0,0,0
@@ -3538,6 +3556,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,Singapore,40,0,2
 2020-02-09,Slovakia,0,0,0
 2020-02-09,Slovenia,0,0,0
+2020-02-09,Solomon Islands,0,0,0
 2020-02-09,Somalia,0,0,0
 2020-02-09,South Africa,0,0,0
 2020-02-09,South Sudan,0,0,0
@@ -3726,6 +3745,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,Singapore,45,0,2
 2020-02-10,Slovakia,0,0,0
 2020-02-10,Slovenia,0,0,0
+2020-02-10,Solomon Islands,0,0,0
 2020-02-10,Somalia,0,0,0
 2020-02-10,South Africa,0,0,0
 2020-02-10,South Sudan,0,0,0
@@ -3914,6 +3934,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,Singapore,47,0,9
 2020-02-11,Slovakia,0,0,0
 2020-02-11,Slovenia,0,0,0
+2020-02-11,Solomon Islands,0,0,0
 2020-02-11,Somalia,0,0,0
 2020-02-11,South Africa,0,0,0
 2020-02-11,South Sudan,0,0,0
@@ -4102,6 +4123,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,Singapore,50,0,15
 2020-02-12,Slovakia,0,0,0
 2020-02-12,Slovenia,0,0,0
+2020-02-12,Solomon Islands,0,0,0
 2020-02-12,Somalia,0,0,0
 2020-02-12,South Africa,0,0,0
 2020-02-12,South Sudan,0,0,0
@@ -4290,6 +4312,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,Singapore,58,0,15
 2020-02-13,Slovakia,0,0,0
 2020-02-13,Slovenia,0,0,0
+2020-02-13,Solomon Islands,0,0,0
 2020-02-13,Somalia,0,0,0
 2020-02-13,South Africa,0,0,0
 2020-02-13,South Sudan,0,0,0
@@ -4478,6 +4501,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,Singapore,67,0,17
 2020-02-14,Slovakia,0,0,0
 2020-02-14,Slovenia,0,0,0
+2020-02-14,Solomon Islands,0,0,0
 2020-02-14,Somalia,0,0,0
 2020-02-14,South Africa,0,0,0
 2020-02-14,South Sudan,0,0,0
@@ -4666,6 +4690,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,Singapore,72,0,18
 2020-02-15,Slovakia,0,0,0
 2020-02-15,Slovenia,0,0,0
+2020-02-15,Solomon Islands,0,0,0
 2020-02-15,Somalia,0,0,0
 2020-02-15,South Africa,0,0,0
 2020-02-15,South Sudan,0,0,0
@@ -4854,6 +4879,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,Singapore,75,0,18
 2020-02-16,Slovakia,0,0,0
 2020-02-16,Slovenia,0,0,0
+2020-02-16,Solomon Islands,0,0,0
 2020-02-16,Somalia,0,0,0
 2020-02-16,South Africa,0,0,0
 2020-02-16,South Sudan,0,0,0
@@ -5042,6 +5068,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,Singapore,77,0,24
 2020-02-17,Slovakia,0,0,0
 2020-02-17,Slovenia,0,0,0
+2020-02-17,Solomon Islands,0,0,0
 2020-02-17,Somalia,0,0,0
 2020-02-17,South Africa,0,0,0
 2020-02-17,South Sudan,0,0,0
@@ -5230,6 +5257,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,Singapore,81,0,29
 2020-02-18,Slovakia,0,0,0
 2020-02-18,Slovenia,0,0,0
+2020-02-18,Solomon Islands,0,0,0
 2020-02-18,Somalia,0,0,0
 2020-02-18,South Africa,0,0,0
 2020-02-18,South Sudan,0,0,0
@@ -5418,6 +5446,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,Singapore,84,0,34
 2020-02-19,Slovakia,0,0,0
 2020-02-19,Slovenia,0,0,0
+2020-02-19,Solomon Islands,0,0,0
 2020-02-19,Somalia,0,0,0
 2020-02-19,South Africa,0,0,0
 2020-02-19,South Sudan,0,0,0
@@ -5606,6 +5635,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,Singapore,84,0,34
 2020-02-20,Slovakia,0,0,0
 2020-02-20,Slovenia,0,0,0
+2020-02-20,Solomon Islands,0,0,0
 2020-02-20,Somalia,0,0,0
 2020-02-20,South Africa,0,0,0
 2020-02-20,South Sudan,0,0,0
@@ -5794,6 +5824,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,Singapore,85,0,37
 2020-02-21,Slovakia,0,0,0
 2020-02-21,Slovenia,0,0,0
+2020-02-21,Solomon Islands,0,0,0
 2020-02-21,Somalia,0,0,0
 2020-02-21,South Africa,0,0,0
 2020-02-21,South Sudan,0,0,0
@@ -5982,6 +6013,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,Singapore,85,0,37
 2020-02-22,Slovakia,0,0,0
 2020-02-22,Slovenia,0,0,0
+2020-02-22,Solomon Islands,0,0,0
 2020-02-22,Somalia,0,0,0
 2020-02-22,South Africa,0,0,0
 2020-02-22,South Sudan,0,0,0
@@ -6170,6 +6202,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,Singapore,89,0,51
 2020-02-23,Slovakia,0,0,0
 2020-02-23,Slovenia,0,0,0
+2020-02-23,Solomon Islands,0,0,0
 2020-02-23,Somalia,0,0,0
 2020-02-23,South Africa,0,0,0
 2020-02-23,South Sudan,0,0,0
@@ -6358,6 +6391,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,Singapore,89,0,51
 2020-02-24,Slovakia,0,0,0
 2020-02-24,Slovenia,0,0,0
+2020-02-24,Solomon Islands,0,0,0
 2020-02-24,Somalia,0,0,0
 2020-02-24,South Africa,0,0,0
 2020-02-24,South Sudan,0,0,0
@@ -6546,6 +6580,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,Singapore,91,0,53
 2020-02-25,Slovakia,0,0,0
 2020-02-25,Slovenia,0,0,0
+2020-02-25,Solomon Islands,0,0,0
 2020-02-25,Somalia,0,0,0
 2020-02-25,South Africa,0,0,0
 2020-02-25,South Sudan,0,0,0
@@ -6734,6 +6769,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,Singapore,93,0,62
 2020-02-26,Slovakia,0,0,0
 2020-02-26,Slovenia,0,0,0
+2020-02-26,Solomon Islands,0,0,0
 2020-02-26,Somalia,0,0,0
 2020-02-26,South Africa,0,0,0
 2020-02-26,South Sudan,0,0,0
@@ -6922,6 +6958,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,Singapore,93,0,62
 2020-02-27,Slovakia,0,0,0
 2020-02-27,Slovenia,0,0,0
+2020-02-27,Solomon Islands,0,0,0
 2020-02-27,Somalia,0,0,0
 2020-02-27,South Africa,0,0,0
 2020-02-27,South Sudan,0,0,0
@@ -7110,6 +7147,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,Singapore,93,0,62
 2020-02-28,Slovakia,0,0,0
 2020-02-28,Slovenia,0,0,0
+2020-02-28,Solomon Islands,0,0,0
 2020-02-28,Somalia,0,0,0
 2020-02-28,South Africa,0,0,0
 2020-02-28,South Sudan,0,0,0
@@ -7298,6 +7336,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,Singapore,102,0,72
 2020-02-29,Slovakia,0,0,0
 2020-02-29,Slovenia,0,0,0
+2020-02-29,Solomon Islands,0,0,0
 2020-02-29,Somalia,0,0,0
 2020-02-29,South Africa,0,0,0
 2020-02-29,South Sudan,0,0,0
@@ -7486,6 +7525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,Singapore,106,0,72
 2020-03-01,Slovakia,0,0,0
 2020-03-01,Slovenia,0,0,0
+2020-03-01,Solomon Islands,0,0,0
 2020-03-01,Somalia,0,0,0
 2020-03-01,South Africa,0,0,0
 2020-03-01,South Sudan,0,0,0
@@ -7674,6 +7714,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Singapore,108,0,78
 2020-03-02,Slovakia,0,0,0
 2020-03-02,Slovenia,0,0,0
+2020-03-02,Solomon Islands,0,0,0
 2020-03-02,Somalia,0,0,0
 2020-03-02,South Africa,0,0,0
 2020-03-02,South Sudan,0,0,0
@@ -7862,6 +7903,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Singapore,110,0,78
 2020-03-03,Slovakia,0,0,0
 2020-03-03,Slovenia,0,0,0
+2020-03-03,Solomon Islands,0,0,0
 2020-03-03,Somalia,0,0,0
 2020-03-03,South Africa,0,0,0
 2020-03-03,South Sudan,0,0,0
@@ -8050,6 +8092,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Singapore,110,0,78
 2020-03-04,Slovakia,0,0,0
 2020-03-04,Slovenia,0,0,0
+2020-03-04,Solomon Islands,0,0,0
 2020-03-04,Somalia,0,0,0
 2020-03-04,South Africa,0,0,0
 2020-03-04,South Sudan,0,0,0
@@ -8238,6 +8281,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Singapore,117,0,78
 2020-03-05,Slovakia,0,0,0
 2020-03-05,Slovenia,2,0,0
+2020-03-05,Solomon Islands,0,0,0
 2020-03-05,Somalia,0,0,0
 2020-03-05,South Africa,1,0,0
 2020-03-05,South Sudan,0,0,0
@@ -8426,6 +8470,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Singapore,130,0,78
 2020-03-06,Slovakia,1,0,0
 2020-03-06,Slovenia,7,0,0
+2020-03-06,Solomon Islands,0,0,0
 2020-03-06,Somalia,0,0,0
 2020-03-06,South Africa,1,0,0
 2020-03-06,South Sudan,0,0,0
@@ -8614,6 +8659,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Singapore,138,0,78
 2020-03-07,Slovakia,1,0,0
 2020-03-07,Slovenia,7,0,0
+2020-03-07,Solomon Islands,0,0,0
 2020-03-07,Somalia,0,0,0
 2020-03-07,South Africa,1,0,0
 2020-03-07,South Sudan,0,0,0
@@ -8802,6 +8848,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Singapore,150,0,78
 2020-03-08,Slovakia,3,0,0
 2020-03-08,Slovenia,16,0,0
+2020-03-08,Solomon Islands,0,0,0
 2020-03-08,Somalia,0,0,0
 2020-03-08,South Africa,3,0,0
 2020-03-08,South Sudan,0,0,0
@@ -8990,6 +9037,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Singapore,150,0,78
 2020-03-09,Slovakia,3,0,0
 2020-03-09,Slovenia,16,0,0
+2020-03-09,Solomon Islands,0,0,0
 2020-03-09,Somalia,0,0,0
 2020-03-09,South Africa,3,0,0
 2020-03-09,South Sudan,0,0,0
@@ -9178,6 +9226,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Singapore,160,0,78
 2020-03-10,Slovakia,7,0,0
 2020-03-10,Slovenia,31,0,0
+2020-03-10,Solomon Islands,0,0,0
 2020-03-10,Somalia,0,0,0
 2020-03-10,South Africa,7,0,0
 2020-03-10,South Sudan,0,0,0
@@ -9366,6 +9415,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Singapore,178,0,96
 2020-03-11,Slovakia,10,0,0
 2020-03-11,Slovenia,57,0,0
+2020-03-11,Solomon Islands,0,0,0
 2020-03-11,Somalia,0,0,0
 2020-03-11,South Africa,13,0,0
 2020-03-11,South Sudan,0,0,0
@@ -9554,6 +9604,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Singapore,178,0,96
 2020-03-12,Slovakia,16,0,0
 2020-03-12,Slovenia,89,0,0
+2020-03-12,Solomon Islands,0,0,0
 2020-03-12,Somalia,0,0,0
 2020-03-12,South Africa,17,0,0
 2020-03-12,South Sudan,0,0,0
@@ -9742,6 +9793,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Singapore,200,0,97
 2020-03-13,Slovakia,32,0,0
 2020-03-13,Slovenia,141,0,0
+2020-03-13,Solomon Islands,0,0,0
 2020-03-13,Somalia,0,0,0
 2020-03-13,South Africa,24,0,0
 2020-03-13,South Sudan,0,0,0
@@ -9930,6 +9982,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,Singapore,212,0,105
 2020-03-14,Slovakia,44,0,0
 2020-03-14,Slovenia,181,1,0
+2020-03-14,Solomon Islands,0,0,0
 2020-03-14,Somalia,0,0,0
 2020-03-14,South Africa,38,0,0
 2020-03-14,South Sudan,0,0,0
@@ -10118,6 +10171,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Singapore,226,0,105
 2020-03-15,Slovakia,54,0,0
 2020-03-15,Slovenia,219,1,0
+2020-03-15,Solomon Islands,0,0,0
 2020-03-15,Somalia,0,0,0
 2020-03-15,South Africa,51,0,0
 2020-03-15,South Sudan,0,0,0
@@ -10306,6 +10360,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Singapore,243,0,109
 2020-03-16,Slovakia,63,0,0
 2020-03-16,Slovenia,253,1,0
+2020-03-16,Solomon Islands,0,0,0
 2020-03-16,Somalia,1,0,0
 2020-03-16,South Africa,62,0,0
 2020-03-16,South Sudan,0,0,0
@@ -10494,6 +10549,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Singapore,266,0,114
 2020-03-17,Slovakia,72,0,0
 2020-03-17,Slovenia,275,1,0
+2020-03-17,Solomon Islands,0,0,0
 2020-03-17,Somalia,1,0,0
 2020-03-17,South Africa,62,0,0
 2020-03-17,South Sudan,0,0,0
@@ -10682,6 +10738,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Singapore,313,0,114
 2020-03-18,Slovakia,105,1,0
 2020-03-18,Slovenia,275,1,0
+2020-03-18,Solomon Islands,0,0,0
 2020-03-18,Somalia,1,0,0
 2020-03-18,South Africa,116,0,0
 2020-03-18,South Sudan,0,0,0
@@ -10870,6 +10927,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Singapore,345,0,114
 2020-03-19,Slovakia,123,1,0
 2020-03-19,Slovenia,286,1,0
+2020-03-19,Solomon Islands,0,0,0
 2020-03-19,Somalia,1,0,0
 2020-03-19,South Africa,150,0,0
 2020-03-19,South Sudan,0,0,0
@@ -11058,6 +11116,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Singapore,385,0,124
 2020-03-20,Slovakia,137,1,0
 2020-03-20,Slovenia,341,1,0
+2020-03-20,Solomon Islands,0,0,0
 2020-03-20,Somalia,1,0,0
 2020-03-20,South Africa,202,0,0
 2020-03-20,South Sudan,0,0,0
@@ -11246,6 +11305,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Singapore,432,2,140
 2020-03-21,Slovakia,178,1,0
 2020-03-21,Slovenia,383,1,0
+2020-03-21,Solomon Islands,0,0,0
 2020-03-21,Somalia,1,0,0
 2020-03-21,South Africa,240,0,0
 2020-03-21,South Sudan,0,0,0
@@ -11434,6 +11494,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Singapore,455,2,144
 2020-03-22,Slovakia,185,0,7
 2020-03-22,Slovenia,414,2,0
+2020-03-22,Solomon Islands,0,0,0
 2020-03-22,Somalia,1,0,0
 2020-03-22,South Africa,274,0,0
 2020-03-22,South Sudan,0,0,0
@@ -11622,6 +11683,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Singapore,509,2,144
 2020-03-23,Slovakia,186,0,7
 2020-03-23,Slovenia,442,3,0
+2020-03-23,Solomon Islands,0,0,0
 2020-03-23,Somalia,1,0,0
 2020-03-23,South Africa,402,0,0
 2020-03-23,South Sudan,0,0,0
@@ -11810,6 +11872,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Singapore,558,2,156
 2020-03-24,Slovakia,204,0,7
 2020-03-24,Slovenia,480,4,0
+2020-03-24,Solomon Islands,0,0,0
 2020-03-24,Somalia,1,0,0
 2020-03-24,South Africa,554,0,4
 2020-03-24,South Sudan,0,0,0
@@ -11998,6 +12061,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Singapore,631,2,160
 2020-03-25,Slovakia,216,0,7
 2020-03-25,Slovenia,528,5,10
+2020-03-25,Solomon Islands,0,0,0
 2020-03-25,Somalia,1,0,0
 2020-03-25,South Africa,709,0,12
 2020-03-25,South Sudan,0,0,0
@@ -12186,6 +12250,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Singapore,683,2,172
 2020-03-26,Slovakia,226,0,2
 2020-03-26,Slovenia,562,6,10
+2020-03-26,Solomon Islands,0,0,0
 2020-03-26,Somalia,2,0,0
 2020-03-26,South Africa,927,0,12
 2020-03-26,South Sudan,0,0,0
@@ -12374,6 +12439,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Singapore,732,2,183
 2020-03-27,Slovakia,269,0,2
 2020-03-27,Slovenia,632,9,10
+2020-03-27,Solomon Islands,0,0,0
 2020-03-27,Somalia,3,0,0
 2020-03-27,South Africa,1170,1,31
 2020-03-27,South Sudan,0,0,0
@@ -12562,6 +12628,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Singapore,802,2,198
 2020-03-28,Slovakia,292,0,2
 2020-03-28,Slovenia,684,9,10
+2020-03-28,Solomon Islands,0,0,0
 2020-03-28,Somalia,3,0,0
 2020-03-28,South Africa,1187,1,31
 2020-03-28,South Sudan,0,0,0
@@ -12750,6 +12817,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Singapore,844,3,212
 2020-03-29,Slovakia,314,0,2
 2020-03-29,Slovenia,730,11,10
+2020-03-29,Solomon Islands,0,0,0
 2020-03-29,Somalia,3,0,0
 2020-03-29,South Africa,1280,2,31
 2020-03-29,South Sudan,0,0,0
@@ -12938,6 +13006,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Singapore,879,3,228
 2020-03-30,Slovakia,336,0,7
 2020-03-30,Slovenia,756,11,10
+2020-03-30,Solomon Islands,0,0,0
 2020-03-30,Somalia,3,0,0
 2020-03-30,South Africa,1326,3,31
 2020-03-30,South Sudan,0,0,0
@@ -13126,6 +13195,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Singapore,926,3,240
 2020-03-31,Slovakia,363,0,3
 2020-03-31,Slovenia,802,15,10
+2020-03-31,Solomon Islands,0,0,0
 2020-03-31,Somalia,5,0,1
 2020-03-31,South Africa,1353,5,31
 2020-03-31,South Sudan,0,0,0
@@ -13314,6 +13384,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Singapore,1000,3,245
 2020-04-01,Slovakia,400,1,3
 2020-04-01,Slovenia,841,15,10
+2020-04-01,Solomon Islands,0,0,0
 2020-04-01,Somalia,5,0,1
 2020-04-01,South Africa,1380,5,50
 2020-04-01,South Sudan,0,0,0
@@ -13502,6 +13573,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Singapore,1049,4,266
 2020-04-02,Slovakia,426,1,5
 2020-04-02,Slovenia,897,17,70
+2020-04-02,Solomon Islands,0,0,0
 2020-04-02,Somalia,5,0,1
 2020-04-02,South Africa,1462,5,50
 2020-04-02,South Sudan,0,0,0
@@ -13690,6 +13762,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Singapore,1114,5,282
 2020-04-03,Slovakia,450,1,10
 2020-04-03,Slovenia,934,20,70
+2020-04-03,Solomon Islands,0,0,0
 2020-04-03,Somalia,7,0,1
 2020-04-03,South Africa,1505,9,95
 2020-04-03,South Sudan,0,0,0
@@ -13878,6 +13951,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Singapore,1189,6,297
 2020-04-04,Slovakia,471,1,10
 2020-04-04,Slovenia,977,22,79
+2020-04-04,Solomon Islands,0,0,0
 2020-04-04,Somalia,7,0,1
 2020-04-04,South Africa,1585,9,95
 2020-04-04,South Sudan,0,0,0
@@ -14066,6 +14140,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Singapore,1309,6,320
 2020-04-05,Slovakia,485,1,10
 2020-04-05,Slovenia,997,28,79
+2020-04-05,Solomon Islands,0,0,0
 2020-04-05,Somalia,7,0,1
 2020-04-05,South Africa,1655,11,95
 2020-04-05,South Sudan,1,0,0
@@ -14254,6 +14329,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Singapore,1375,6,344
 2020-04-06,Slovakia,534,2,8
 2020-04-06,Slovenia,1021,30,102
+2020-04-06,Solomon Islands,0,0,0
 2020-04-06,Somalia,7,0,1
 2020-04-06,South Africa,1686,12,95
 2020-04-06,South Sudan,1,0,0
@@ -14442,6 +14518,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Singapore,1481,6,377
 2020-04-07,Slovakia,581,2,13
 2020-04-07,Slovenia,1059,36,102
+2020-04-07,Solomon Islands,0,0,0
 2020-04-07,Somalia,8,0,1
 2020-04-07,South Africa,1749,13,95
 2020-04-07,South Sudan,2,0,0
@@ -14630,6 +14707,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Singapore,1623,6,406
 2020-04-08,Slovakia,682,2,16
 2020-04-08,Slovenia,1091,40,120
+2020-04-08,Solomon Islands,0,0,0
 2020-04-08,Somalia,12,1,1
 2020-04-08,South Africa,1845,18,95
 2020-04-08,South Sudan,2,0,0
@@ -14818,6 +14896,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Singapore,1910,6,460
 2020-04-09,Slovakia,701,2,23
 2020-04-09,Slovenia,1124,43,128
+2020-04-09,Solomon Islands,0,0,0
 2020-04-09,Somalia,12,1,1
 2020-04-09,South Africa,1934,18,95
 2020-04-09,South Sudan,3,0,0
@@ -15006,6 +15085,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Singapore,2108,7,492
 2020-04-10,Slovakia,715,2,23
 2020-04-10,Slovenia,1160,45,137
+2020-04-10,Solomon Islands,0,0,0
 2020-04-10,Somalia,21,1,1
 2020-04-10,South Africa,2003,24,410
 2020-04-10,South Sudan,4,0,0
@@ -15194,6 +15274,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Singapore,2299,8,528
 2020-04-11,Slovakia,728,2,23
 2020-04-11,Slovenia,1188,50,148
+2020-04-11,Solomon Islands,0,0,0
 2020-04-11,Somalia,21,1,1
 2020-04-11,South Africa,2028,25,410
 2020-04-11,South Sudan,4,0,0
@@ -15382,6 +15463,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Singapore,2532,8,560
 2020-04-12,Slovakia,742,2,23
 2020-04-12,Slovenia,1205,53,150
+2020-04-12,Solomon Islands,0,0,0
 2020-04-12,Somalia,25,1,2
 2020-04-12,South Africa,2173,25,410
 2020-04-12,South Sudan,4,0,0
@@ -15570,6 +15652,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Singapore,2918,9,586
 2020-04-13,Slovakia,769,2,107
 2020-04-13,Slovenia,1212,55,152
+2020-04-13,Solomon Islands,0,0,0
 2020-04-13,Somalia,60,2,2
 2020-04-13,South Africa,2272,27,410
 2020-04-13,South Sudan,4,0,0
@@ -15758,6 +15841,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Singapore,3252,10,611
 2020-04-14,Slovakia,835,2,113
 2020-04-14,Slovenia,1220,56,152
+2020-04-14,Solomon Islands,0,0,0
 2020-04-14,Somalia,60,2,2
 2020-04-14,South Africa,2415,27,410
 2020-04-14,South Sudan,4,0,0
@@ -15946,6 +16030,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Singapore,3699,10,652
 2020-04-15,Slovakia,863,6,151
 2020-04-15,Slovenia,1248,61,165
+2020-04-15,Solomon Islands,0,0,0
 2020-04-15,Somalia,80,5,2
 2020-04-15,South Africa,2506,34,410
 2020-04-15,South Sudan,4,0,0
@@ -16134,6 +16219,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Singapore,4427,10,683
 2020-04-16,Slovakia,977,8,167
 2020-04-16,Slovenia,1268,61,174
+2020-04-16,Solomon Islands,0,0,0
 2020-04-16,Somalia,80,5,2
 2020-04-16,South Africa,2605,48,903
 2020-04-16,South Sudan,4,0,0
@@ -16322,6 +16408,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Singapore,5050,11,708
 2020-04-17,Slovakia,1049,9,175
 2020-04-17,Slovenia,1304,66,174
+2020-04-17,Solomon Islands,0,0,0
 2020-04-17,Somalia,116,6,2
 2020-04-17,South Africa,2783,50,903
 2020-04-17,South Sudan,4,0,0
@@ -16510,6 +16597,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Singapore,5992,11,740
 2020-04-18,Slovakia,1089,11,213
 2020-04-18,Slovenia,1317,70,190
+2020-04-18,Solomon Islands,0,0,0
 2020-04-18,Somalia,135,7,2
 2020-04-18,South Africa,3034,52,903
 2020-04-18,South Sudan,4,0,0
@@ -16698,6 +16786,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Singapore,6588,11,768
 2020-04-19,Slovakia,1161,12,229
 2020-04-19,Slovenia,1330,74,192
+2020-04-19,Solomon Islands,0,0,0
 2020-04-19,Somalia,164,7,3
 2020-04-19,South Africa,3158,54,903
 2020-04-19,South Sudan,4,0,0
@@ -16886,6 +16975,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Singapore,8014,11,801
 2020-04-20,Slovakia,1173,13,251
 2020-04-20,Slovenia,1335,77,193
+2020-04-20,Solomon Islands,0,0,0
 2020-04-20,Somalia,237,8,4
 2020-04-20,South Africa,3300,58,1055
 2020-04-20,South Sudan,4,0,0
@@ -17074,6 +17164,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Singapore,9125,11,839
 2020-04-21,Slovakia,1199,14,258
 2020-04-21,Slovenia,1344,77,197
+2020-04-21,Solomon Islands,0,0,0
 2020-04-21,Somalia,286,8,4
 2020-04-21,South Africa,3465,58,1055
 2020-04-21,South Sudan,4,0,0
@@ -17262,6 +17353,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-22,Singapore,10141,12,896
 2020-04-22,Slovakia,1244,14,284
 2020-04-22,Slovenia,1353,79,205
+2020-04-22,Solomon Islands,0,0,0
 2020-04-22,Somalia,286,8,4
 2020-04-22,South Africa,3635,65,1055
 2020-04-22,South Sudan,4,0,0
@@ -17450,6 +17542,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-23,Singapore,11178,12,924
 2020-04-23,Slovakia,1325,15,288
 2020-04-23,Slovenia,1366,79,211
+2020-04-23,Solomon Islands,0,0,0
 2020-04-23,Somalia,328,16,8
 2020-04-23,South Africa,3953,75,1473
 2020-04-23,South Sudan,5,0,0
@@ -17638,6 +17731,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-24,Singapore,12075,12,956
 2020-04-24,Slovakia,1360,17,355
 2020-04-24,Slovenia,1373,80,211
+2020-04-24,Solomon Islands,0,0,0
 2020-04-24,Somalia,328,16,8
 2020-04-24,South Africa,4220,79,1473
 2020-04-24,South Sudan,5,0,0
@@ -17826,6 +17920,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-25,Singapore,12693,12,1002
 2020-04-25,Slovakia,1373,17,386
 2020-04-25,Slovenia,1388,81,219
+2020-04-25,Solomon Islands,0,0,0
 2020-04-25,Somalia,390,18,8
 2020-04-25,South Africa,4361,86,1473
 2020-04-25,South Sudan,5,0,0
@@ -18014,6 +18109,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-26,Singapore,13624,12,1060
 2020-04-26,Slovakia,1379,18,394
 2020-04-26,Slovenia,1396,82,221
+2020-04-26,Solomon Islands,0,0,0
 2020-04-26,Somalia,436,23,10
 2020-04-26,South Africa,4546,87,1473
 2020-04-26,South Sudan,6,0,0
@@ -18202,6 +18298,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-27,Singapore,14423,14,1095
 2020-04-27,Slovakia,1381,18,403
 2020-04-27,Slovenia,1402,83,221
+2020-04-27,Solomon Islands,0,0,0
 2020-04-27,Somalia,480,26,10
 2020-04-27,South Africa,4793,90,1473
 2020-04-27,South Sudan,6,0,0
@@ -18390,6 +18487,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-28,Singapore,14951,14,1128
 2020-04-28,Slovakia,1384,20,423
 2020-04-28,Slovenia,1408,86,223
+2020-04-28,Solomon Islands,0,0,0
 2020-04-28,Somalia,528,28,19
 2020-04-28,South Africa,4996,93,2073
 2020-04-28,South Sudan,34,0,0
@@ -18578,6 +18676,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-29,Singapore,15641,14,1188
 2020-04-29,Slovakia,1391,22,484
 2020-04-29,Slovenia,1418,89,230
+2020-04-29,Solomon Islands,0,0,0
 2020-04-29,Somalia,582,28,20
 2020-04-29,South Africa,5350,103,2073
 2020-04-29,South Sudan,34,0,0
@@ -18766,6 +18865,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-30,Singapore,16169,15,1244
 2020-04-30,Slovakia,1396,23,524
 2020-04-30,Slovenia,1429,91,233
+2020-04-30,Solomon Islands,0,0,0
 2020-04-30,Somalia,601,28,31
 2020-04-30,South Africa,5647,103,2073
 2020-04-30,South Sudan,35,0,0
@@ -18954,6 +19054,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-01,Singapore,17101,16,1268
 2020-05-01,Slovakia,1403,23,558
 2020-05-01,Slovenia,1434,92,233
+2020-05-01,Solomon Islands,0,0,0
 2020-05-01,Somalia,601,28,31
 2020-05-01,South Africa,5951,116,2382
 2020-05-01,South Sudan,45,0,0
@@ -19142,6 +19243,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-02,Singapore,17548,17,1347
 2020-05-02,Slovakia,1407,24,608
 2020-05-02,Slovenia,1439,94,239
+2020-05-02,Solomon Islands,0,0,0
 2020-05-02,Somalia,671,31,34
 2020-05-02,South Africa,6336,123,2549
 2020-05-02,South Sudan,45,0,0
@@ -19330,6 +19432,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-03,Singapore,18205,18,1408
 2020-05-03,Slovakia,1408,24,619
 2020-05-03,Slovenia,1439,96,241
+2020-05-03,Solomon Islands,0,0,0
 2020-05-03,Somalia,722,32,44
 2020-05-03,South Africa,6783,131,2549
 2020-05-03,South Sudan,46,0,0
@@ -19518,6 +19621,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-04,Singapore,18778,18,1457
 2020-05-04,Slovakia,1413,25,643
 2020-05-04,Slovenia,1439,97,241
+2020-05-04,Solomon Islands,0,0,0
 2020-05-04,Somalia,756,35,61
 2020-05-04,South Africa,7220,138,2746
 2020-05-04,South Sudan,46,0,0
@@ -19706,6 +19810,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-05,Singapore,19410,18,1519
 2020-05-05,Slovakia,1421,25,741
 2020-05-05,Slovenia,1445,98,244
+2020-05-05,Solomon Islands,0,0,0
 2020-05-05,Somalia,835,38,75
 2020-05-05,South Africa,7572,148,2746
 2020-05-05,South Sudan,52,0,0
@@ -19894,6 +19999,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-06,Singapore,20198,20,1634
 2020-05-06,Slovakia,1429,25,762
 2020-05-06,Slovenia,1448,99,246
+2020-05-06,Solomon Islands,0,0,0
 2020-05-06,Somalia,873,39,87
 2020-05-06,South Africa,7808,153,3153
 2020-05-06,South Sudan,58,0,0
@@ -20082,6 +20188,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-07,Singapore,20939,20,1712
 2020-05-07,Slovakia,1445,26,806
 2020-05-07,Slovenia,1449,99,247
+2020-05-07,Solomon Islands,0,0,0
 2020-05-07,Somalia,928,44,106
 2020-05-07,South Africa,8232,161,3153
 2020-05-07,South Sudan,74,0,0
@@ -20270,6 +20377,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-08,Singapore,21707,20,2040
 2020-05-08,Slovakia,1455,26,905
 2020-05-08,Slovenia,1450,100,252
+2020-05-08,Solomon Islands,0,0,0
 2020-05-08,Somalia,928,44,106
 2020-05-08,South Africa,8895,178,3153
 2020-05-08,South Sudan,120,0,2
@@ -20458,6 +20566,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-09,Singapore,22460,20,2296
 2020-05-09,Slovakia,1455,26,919
 2020-05-09,Slovenia,1454,101,255
+2020-05-09,Solomon Islands,0,0,0
 2020-05-09,Somalia,997,48,110
 2020-05-09,South Africa,9420,186,3983
 2020-05-09,South Sudan,120,0,2
@@ -20646,6 +20755,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-10,Singapore,23336,20,2721
 2020-05-10,Slovakia,1457,26,941
 2020-05-10,Slovenia,1457,102,256
+2020-05-10,Solomon Islands,0,0,0
 2020-05-10,Somalia,1054,51,118
 2020-05-10,South Africa,10015,194,4173
 2020-05-10,South Sudan,120,0,2
@@ -20834,6 +20944,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-11,Singapore,23822,21,3225
 2020-05-11,Slovakia,1457,26,959
 2020-05-11,Slovenia,1460,102,256
+2020-05-11,Solomon Islands,0,0,0
 2020-05-11,Somalia,1089,52,121
 2020-05-11,South Africa,10652,206,4357
 2020-05-11,South Sudan,156,0,2
@@ -21022,6 +21133,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-12,Singapore,24671,21,3851
 2020-05-12,Slovakia,1465,27,983
 2020-05-12,Slovenia,1461,102,259
+2020-05-12,Solomon Islands,0,0,0
 2020-05-12,Somalia,1170,52,126
 2020-05-12,South Africa,11350,206,4357
 2020-05-12,South Sudan,194,0,2
@@ -21210,6 +21322,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-13,Singapore,25346,21,4809
 2020-05-13,Slovakia,1469,27,1060
 2020-05-13,Slovenia,1463,103,260
+2020-05-13,Solomon Islands,0,0,0
 2020-05-13,Somalia,1219,52,130
 2020-05-13,South Africa,12074,219,4745
 2020-05-13,South Sudan,203,0,2
@@ -21398,6 +21511,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-14,Singapore,26098,21,5973
 2020-05-14,Slovakia,1477,27,1112
 2020-05-14,Slovenia,1464,103,267
+2020-05-14,Solomon Islands,0,0,0
 2020-05-14,Somalia,1284,53,135
 2020-05-14,South Africa,12739,238,5676
 2020-05-14,South Sudan,203,0,3
@@ -21586,6 +21700,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-15,Singapore,26891,21,7248
 2020-05-15,Slovakia,1480,27,1131
 2020-05-15,Slovenia,1465,103,270
+2020-05-15,Solomon Islands,0,0,0
 2020-05-15,Somalia,1284,53,135
 2020-05-15,South Africa,13524,247,6083
 2020-05-15,South Sudan,236,4,4
@@ -21774,6 +21889,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-16,Singapore,27356,22,8342
 2020-05-16,Slovakia,1493,28,1151
 2020-05-16,Slovenia,1465,103,272
+2020-05-16,Solomon Islands,0,0,0
 2020-05-16,Somalia,1357,55,148
 2020-05-16,South Africa,14355,261,6478
 2020-05-16,South Sudan,236,4,4
@@ -21962,6 +22078,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-17,Singapore,28038,22,9340
 2020-05-17,Slovakia,1494,28,1163
 2020-05-17,Slovenia,1466,104,273
+2020-05-17,Solomon Islands,0,0,0
 2020-05-17,Somalia,1421,56,152
 2020-05-17,South Africa,15515,264,7006
 2020-05-17,South Sudan,290,4,4
@@ -22150,6 +22267,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-18,Singapore,28343,22,9835
 2020-05-18,Slovakia,1495,28,1185
 2020-05-18,Slovenia,1466,104,1335
+2020-05-18,Solomon Islands,0,0,0
 2020-05-18,Somalia,1455,57,163
 2020-05-18,South Africa,16433,286,7298
 2020-05-18,South Sudan,290,4,4
@@ -22338,6 +22456,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-19,Singapore,28794,22,10365
 2020-05-19,Slovakia,1495,28,1192
 2020-05-19,Slovenia,1467,104,1338
+2020-05-19,Solomon Islands,0,0,0
 2020-05-19,Somalia,1502,59,178
 2020-05-19,South Africa,17200,312,7960
 2020-05-19,South Sudan,290,4,4
@@ -22526,6 +22645,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-20,Singapore,29364,22,11207
 2020-05-20,Slovakia,1496,28,1231
 2020-05-20,Slovenia,1468,105,1340
+2020-05-20,Solomon Islands,0,0,0
 2020-05-20,Somalia,1573,61,188
 2020-05-20,South Africa,18003,339,8950
 2020-05-20,South Sudan,290,4,4
@@ -22714,6 +22834,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-21,Singapore,29812,23,12117
 2020-05-21,Slovakia,1502,28,1245
 2020-05-21,Slovenia,1468,106,1340
+2020-05-21,Solomon Islands,0,0,0
 2020-05-21,Somalia,1594,61,204
 2020-05-21,South Africa,19137,369,8950
 2020-05-21,South Sudan,481,4,4
@@ -22902,6 +23023,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-22,Singapore,30426,23,12995
 2020-05-22,Slovakia,1503,28,1256
 2020-05-22,Slovenia,1468,106,1340
+2020-05-22,Solomon Islands,0,0,0
 2020-05-22,Somalia,1594,61,204
 2020-05-22,South Africa,20125,397,10104
 2020-05-22,South Sudan,563,6,6
@@ -23090,6 +23212,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-23,Singapore,31068,23,13882
 2020-05-23,Slovakia,1504,28,1280
 2020-05-23,Slovenia,1468,106,1340
+2020-05-23,Solomon Islands,0,0,0
 2020-05-23,Somalia,1594,61,204
 2020-05-23,South Africa,21343,407,10104
 2020-05-23,South Sudan,655,8,6
@@ -23278,6 +23401,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-24,Singapore,31616,23,14876
 2020-05-24,Slovakia,1509,28,1301
 2020-05-24,Slovenia,1468,107,1340
+2020-05-24,Solomon Islands,0,0,0
 2020-05-24,Somalia,1594,61,204
 2020-05-24,South Africa,22583,429,11100
 2020-05-24,South Sudan,655,8,6
@@ -23466,6 +23590,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-25,Singapore,31960,23,15738
 2020-05-25,Slovakia,1511,28,1307
 2020-05-25,Slovenia,1469,107,1346
+2020-05-25,Solomon Islands,0,0,0
 2020-05-25,Somalia,1689,66,235
 2020-05-25,South Africa,23615,481,11917
 2020-05-25,South Sudan,806,8,6
@@ -23654,6 +23779,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-26,Singapore,32343,23,16444
 2020-05-26,Slovakia,1513,28,1322
 2020-05-26,Slovenia,1469,108,1346
+2020-05-26,Solomon Islands,0,0,0
 2020-05-26,Somalia,1711,67,253
 2020-05-26,South Africa,24264,524,12741
 2020-05-26,South Sudan,806,8,6
@@ -23842,6 +23968,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-27,Singapore,32876,23,17276
 2020-05-27,Slovakia,1515,28,1327
 2020-05-27,Slovenia,1471,108,1354
+2020-05-27,Solomon Islands,0,0,0
 2020-05-27,Somalia,1731,67,265
 2020-05-27,South Africa,25937,552,13451
 2020-05-27,South Sudan,994,10,6
@@ -24030,6 +24157,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-28,Singapore,33249,23,18294
 2020-05-28,Slovakia,1520,28,1332
 2020-05-28,Slovenia,1473,108,1356
+2020-05-28,Solomon Islands,0,0,0
 2020-05-28,Somalia,1828,72,310
 2020-05-28,South Africa,27403,577,14370
 2020-05-28,South Sudan,994,10,6
@@ -24218,6 +24346,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-29,Singapore,33860,23,19631
 2020-05-29,Slovakia,1520,28,1338
 2020-05-29,Slovenia,1473,108,1357
+2020-05-29,Solomon Islands,0,0,0
 2020-05-29,Somalia,1828,72,310
 2020-05-29,South Africa,29240,611,15093
 2020-05-29,South Sudan,994,10,6
@@ -24406,6 +24535,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-30,Singapore,34366,23,20727
 2020-05-30,Slovakia,1521,28,1356
 2020-05-30,Slovenia,1473,108,1357
+2020-05-30,Solomon Islands,0,0,0
 2020-05-30,Somalia,1916,73,327
 2020-05-30,South Africa,30967,643,16116
 2020-05-30,South Sudan,994,10,6
@@ -24594,6 +24724,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-31,Singapore,34884,23,21699
 2020-05-31,Slovakia,1521,28,1366
 2020-05-31,Slovenia,1473,108,1358
+2020-05-31,Solomon Islands,0,0,0
 2020-05-31,Somalia,1976,78,348
 2020-05-31,South Africa,32683,683,16809
 2020-05-31,South Sudan,994,10,6
@@ -24782,6 +24913,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-01,Singapore,35292,24,22466
 2020-06-01,Slovakia,1522,28,1368
 2020-06-01,Slovenia,1473,109,1358
+2020-06-01,Solomon Islands,0,0,0
 2020-06-01,Somalia,2023,79,361
 2020-06-01,South Africa,34357,705,17291
 2020-06-01,South Sudan,994,10,6
@@ -24970,6 +25102,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-02,Singapore,35836,24,23175
 2020-06-02,Slovakia,1522,28,1372
 2020-06-02,Slovenia,1475,109,1358
+2020-06-02,Solomon Islands,0,0,0
 2020-06-02,Somalia,2089,79,361
 2020-06-02,South Africa,35812,755,18313
 2020-06-02,South Sudan,994,10,6
@@ -25158,6 +25291,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-03,Singapore,36405,24,23582
 2020-06-03,Slovakia,1525,28,1375
 2020-06-03,Slovenia,1477,109,1358
+2020-06-03,Solomon Islands,0,0,0
 2020-06-03,Somalia,2146,79,406
 2020-06-03,South Africa,37525,792,19682
 2020-06-03,South Sudan,994,10,6
@@ -25346,6 +25480,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-04,Singapore,36922,24,23904
 2020-06-04,Slovakia,1526,28,1376
 2020-06-04,Slovenia,1477,109,1359
+2020-06-04,Solomon Islands,0,0,0
 2020-06-04,Somalia,2204,79,418
 2020-06-04,South Africa,40792,848,21311
 2020-06-04,South Sudan,994,10,6
@@ -25534,6 +25669,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-05,Singapore,37183,24,24209
 2020-06-05,Slovakia,1526,28,1379
 2020-06-05,Slovenia,1479,109,1359
+2020-06-05,Solomon Islands,0,0,0
 2020-06-05,Somalia,2204,79,418
 2020-06-05,South Africa,43434,908,23088
 2020-06-05,South Sudan,994,10,6
@@ -25722,6 +25858,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-06,Singapore,37527,25,24559
 2020-06-06,Slovakia,1528,28,1379
 2020-06-06,Slovenia,1484,109,1359
+2020-06-06,Solomon Islands,0,0,0
 2020-06-06,Somalia,2289,82,431
 2020-06-06,South Africa,45973,952,24258
 2020-06-06,South Sudan,994,10,6
@@ -25910,6 +26047,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-07,Singapore,37910,25,24886
 2020-06-07,Slovakia,1528,28,1389
 2020-06-07,Slovenia,1485,109,1359
+2020-06-07,Solomon Islands,0,0,0
 2020-06-07,Somalia,2334,83,441
 2020-06-07,South Africa,48285,998,24364
 2020-06-07,South Sudan,1317,14,6
@@ -26098,6 +26236,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-08,Singapore,38296,25,25368
 2020-06-08,Slovakia,1530,28,1396
 2020-06-08,Slovenia,1485,109,1359
+2020-06-08,Solomon Islands,0,0,0
 2020-06-08,Somalia,2368,84,470
 2020-06-08,South Africa,50879,1080,26099
 2020-06-08,South Sudan,1604,19,15
@@ -26286,6 +26425,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-09,Singapore,38514,25,25877
 2020-06-09,Slovakia,1531,28,1402
 2020-06-09,Slovenia,1486,109,1359
+2020-06-09,Solomon Islands,0,0,0
 2020-06-09,Somalia,2416,85,489
 2020-06-09,South Africa,52991,1162,29006
 2020-06-09,South Sudan,1604,19,15
@@ -26474,6 +26614,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-10,Singapore,38965,25,26532
 2020-06-10,Slovakia,1533,28,1404
 2020-06-10,Slovenia,1488,109,1359
+2020-06-10,Solomon Islands,0,0,0
 2020-06-10,Somalia,2452,85,506
 2020-06-10,South Africa,55421,1210,31505
 2020-06-10,South Sudan,1604,19,15
@@ -26662,6 +26803,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-11,Singapore,39387,25,27286
 2020-06-11,Slovakia,1541,28,1409
 2020-06-11,Slovenia,1488,109,1359
+2020-06-11,Solomon Islands,0,0,0
 2020-06-11,Somalia,2513,85,532
 2020-06-11,South Africa,58568,1284,33252
 2020-06-11,South Sudan,1670,24,48
@@ -26850,6 +26992,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-12,Singapore,39850,25,28040
 2020-06-12,Slovakia,1542,28,1409
 2020-06-12,Slovenia,1490,109,1359
+2020-06-12,Solomon Islands,0,0,0
 2020-06-12,Somalia,2513,85,532
 2020-06-12,South Africa,61927,1354,35006
 2020-06-12,South Sudan,1670,24,48
@@ -27038,6 +27181,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-13,Singapore,40197,26,28808
 2020-06-13,Slovakia,1545,28,1410
 2020-06-13,Slovenia,1492,109,1359
+2020-06-13,Solomon Islands,0,0,0
 2020-06-13,Somalia,2579,87,559
 2020-06-13,South Africa,65736,1423,36850
 2020-06-13,South Sudan,1693,27,49
@@ -27226,6 +27370,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-14,Singapore,40604,26,29589
 2020-06-14,Slovakia,1548,28,1410
 2020-06-14,Slovenia,1495,109,1359
+2020-06-14,Solomon Islands,0,0,0
 2020-06-14,Somalia,2618,88,577
 2020-06-14,South Africa,70038,1480,38531
 2020-06-14,South Sudan,1693,27,49
@@ -27414,6 +27559,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-15,Singapore,40818,26,30366
 2020-06-15,Slovakia,1552,28,1410
 2020-06-15,Slovenia,1496,109,1359
+2020-06-15,Solomon Islands,0,0,0
 2020-06-15,Somalia,2642,88,622
 2020-06-15,South Africa,73533,1568,39867
 2020-06-15,South Sudan,1693,27,49
@@ -27602,6 +27748,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-16,Singapore,40969,26,31163
 2020-06-16,Slovakia,1552,28,1426
 2020-06-16,Slovenia,1499,109,1359
+2020-06-16,Solomon Islands,0,0,0
 2020-06-16,Somalia,2658,88,649
 2020-06-16,South Africa,76334,1625,42063
 2020-06-16,South Sudan,1776,30,58
@@ -27790,6 +27937,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-17,Singapore,41216,26,31938
 2020-06-17,Slovakia,1561,28,1437
 2020-06-17,Slovenia,1503,109,1359
+2020-06-17,Solomon Islands,0,0,0
 2020-06-17,Somalia,2696,88,685
 2020-06-17,South Africa,80412,1674,44331
 2020-06-17,South Sudan,1813,31,89
@@ -27978,6 +28126,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-18,Singapore,41473,26,32712
 2020-06-18,Slovakia,1562,28,1443
 2020-06-18,Slovenia,1511,109,1359
+2020-06-18,Solomon Islands,0,0,0
 2020-06-18,Somalia,2719,88,724
 2020-06-18,South Africa,83890,1737,44920
 2020-06-18,South Sudan,1830,32,117
@@ -28166,6 +28315,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-19,Singapore,41615,26,33459
 2020-06-19,Slovakia,1576,28,1447
 2020-06-19,Slovenia,1513,109,1359
+2020-06-19,Solomon Islands,0,0,0
 2020-06-19,Somalia,2719,88,724
 2020-06-19,South Africa,87715,1831,47825
 2020-06-19,South Sudan,1864,34,122
@@ -28354,6 +28504,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-20,Singapore,41833,26,34224
 2020-06-20,Slovakia,1586,28,1447
 2020-06-20,Slovenia,1519,109,1359
+2020-06-20,Solomon Islands,0,0,0
 2020-06-20,Somalia,2755,88,751
 2020-06-20,South Africa,92681,1877,50326
 2020-06-20,South Sudan,1882,34,122
@@ -28542,6 +28693,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-21,Singapore,42095,26,34942
 2020-06-21,Slovakia,1587,28,1447
 2020-06-21,Slovenia,1520,109,1376
+2020-06-21,Solomon Islands,0,0,0
 2020-06-21,Somalia,2779,90,782
 2020-06-21,South Africa,97302,1930,51608
 2020-06-21,South Sudan,1892,34,169
@@ -28730,6 +28882,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-22,Singapore,42313,26,35590
 2020-06-22,Slovakia,1588,28,1447
 2020-06-22,Slovenia,1521,109,1376
+2020-06-22,Solomon Islands,0,0,0
 2020-06-22,Somalia,2812,90,818
 2020-06-22,South Africa,101590,1991,53444
 2020-06-22,South Sudan,1916,35,190
@@ -28918,6 +29071,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-23,Singapore,42432,26,35995
 2020-06-23,Slovakia,1589,28,1448
 2020-06-23,Slovenia,1534,109,1376
+2020-06-23,Solomon Islands,0,0,0
 2020-06-23,Somalia,2812,90,818
 2020-06-23,South Africa,106108,2102,55045
 2020-06-23,South Sudan,1930,36,217
@@ -29106,6 +29260,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-24,Singapore,42623,26,36299
 2020-06-24,Slovakia,1607,28,1448
 2020-06-24,Slovenia,1541,109,1376
+2020-06-24,Solomon Islands,0,0,0
 2020-06-24,Somalia,2835,90,829
 2020-06-24,South Africa,111796,2205,56874
 2020-06-24,South Sudan,1942,36,224
@@ -29294,6 +29449,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-25,Singapore,42736,26,36604
 2020-06-25,Slovakia,1630,28,1452
 2020-06-25,Slovenia,1547,109,1376
+2020-06-25,Solomon Islands,0,0,0
 2020-06-25,Somalia,2878,90,868
 2020-06-25,South Africa,118375,2292,59974
 2020-06-25,South Sudan,1942,36,224
@@ -29482,6 +29638,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-26,Singapore,42955,26,36825
 2020-06-26,Slovakia,1643,28,1455
 2020-06-26,Slovenia,1558,109,1376
+2020-06-26,Solomon Islands,0,0,0
 2020-06-26,Somalia,2878,90,868
 2020-06-26,South Africa,124590,2340,64111
 2020-06-26,South Sudan,1942,36,224
@@ -29670,6 +29827,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-27,Singapore,43246,26,37163
 2020-06-27,Slovakia,1657,28,1455
 2020-06-27,Slovenia,1572,109,1376
+2020-06-27,Solomon Islands,0,0,0
 2020-06-27,Somalia,2878,90,868
 2020-06-27,South Africa,131800,2413,67094
 2020-06-27,South Sudan,1942,36,224
@@ -29858,6 +30016,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-28,Singapore,43459,26,37508
 2020-06-28,Slovakia,1664,28,1461
 2020-06-28,Slovenia,1581,111,1384
+2020-06-28,Solomon Islands,0,0,0
 2020-06-28,Somalia,2894,90,887
 2020-06-28,South Africa,138134,2456,68925
 2020-06-28,South Sudan,1989,36,246
@@ -30046,6 +30205,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-29,Singapore,43661,26,37985
 2020-06-29,Slovakia,1665,28,1464
 2020-06-29,Slovenia,1585,111,1384
+2020-06-29,Solomon Islands,0,0,0
 2020-06-29,Somalia,2904,90,910
 2020-06-29,South Africa,144264,2529,70614
 2020-06-29,South Sudan,1989,36,246
@@ -30234,6 +30394,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-30,Singapore,43907,26,38500
 2020-06-30,Slovakia,1667,28,1464
 2020-06-30,Slovenia,1600,111,1384
+2020-06-30,Solomon Islands,0,0,0
 2020-06-30,Somalia,2924,90,910
 2020-06-30,South Africa,151209,2657,73543
 2020-06-30,South Sudan,2007,38,279
@@ -30422,6 +30583,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-01,Singapore,44122,26,39011
 2020-07-01,Slovakia,1687,28,1466
 2020-07-01,Slovenia,1613,111,1384
+2020-07-01,Solomon Islands,0,0,0
 2020-07-01,Somalia,2924,90,932
 2020-07-01,South Africa,159333,2749,76025
 2020-07-01,South Sudan,2021,38,333
@@ -30610,6 +30772,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-02,Singapore,44310,26,39429
 2020-07-02,Slovakia,1700,28,1466
 2020-07-02,Slovenia,1634,111,1384
+2020-07-02,Solomon Islands,0,0,0
 2020-07-02,Somalia,2944,90,951
 2020-07-02,South Africa,168061,2844,81999
 2020-07-02,South Sudan,2021,38,333
@@ -30798,6 +30961,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-03,Singapore,44479,26,39769
 2020-07-03,Slovakia,1720,28,1466
 2020-07-03,Slovenia,1650,111,1384
+2020-07-03,Solomon Islands,0,0,0
 2020-07-03,Somalia,2944,90,951
 2020-07-03,South Africa,177124,2952,86298
 2020-07-03,South Sudan,2021,38,333
@@ -30986,6 +31150,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-04,Singapore,44664,26,40117
 2020-07-04,Slovakia,1749,28,1466
 2020-07-04,Slovenia,1679,111,1384
+2020-07-04,Solomon Islands,0,0,0
 2020-07-04,Somalia,2961,92,973
 2020-07-04,South Africa,187977,3026,91227
 2020-07-04,South Sudan,2021,38,333
@@ -31174,6 +31339,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-05,Singapore,44800,26,40441
 2020-07-05,Slovakia,1764,28,1466
 2020-07-05,Slovenia,1700,111,1384
+2020-07-05,Solomon Islands,0,0,0
 2020-07-05,Somalia,2997,92,1014
 2020-07-05,South Africa,196750,3199,93315
 2020-07-05,South Sudan,2021,38,333
@@ -31362,6 +31528,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-06,Singapore,44983,26,40717
 2020-07-06,Slovakia,1765,28,1466
 2020-07-06,Slovenia,1716,111,1384
+2020-07-06,Solomon Islands,0,0,0
 2020-07-06,Somalia,3006,92,1051
 2020-07-06,South Africa,205721,3310,97848
 2020-07-06,South Sudan,2021,38,333
@@ -31550,6 +31717,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-07,Singapore,45140,26,41002
 2020-07-07,Slovakia,1767,28,1473
 2020-07-07,Slovenia,1739,111,1423
+2020-07-07,Solomon Islands,0,0,0
 2020-07-07,Somalia,3015,92,1096
 2020-07-07,South Africa,215855,3502,102299
 2020-07-07,South Sudan,2021,38,333
@@ -31738,6 +31906,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-08,Singapore,45298,26,41323
 2020-07-08,Slovakia,1798,28,1473
 2020-07-08,Slovenia,1763,111,1429
+2020-07-08,Solomon Islands,0,0,0
 2020-07-08,Somalia,3028,92,1147
 2020-07-08,South Africa,224665,3602,106842
 2020-07-08,South Sudan,2021,38,333
@@ -31926,6 +32095,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-09,Singapore,45423,26,41645
 2020-07-09,Slovakia,1851,28,1477
 2020-07-09,Slovenia,1776,111,1429
+2020-07-09,Solomon Islands,0,0,0
 2020-07-09,Somalia,3038,92,1209
 2020-07-09,South Africa,238339,3720,113061
 2020-07-09,South Sudan,2021,38,333
@@ -32114,6 +32284,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-10,Singapore,45614,26,41780
 2020-07-10,Slovakia,1870,28,1481
 2020-07-10,Slovenia,1793,111,1429
+2020-07-10,Solomon Islands,0,0,0
 2020-07-10,Somalia,3038,92,1209
 2020-07-10,South Africa,250687,3860,118232
 2020-07-10,South Sudan,2021,38,333
@@ -32302,6 +32473,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-11,Singapore,45783,26,42026
 2020-07-11,Slovakia,1893,28,1493
 2020-07-11,Slovenia,1827,111,1429
+2020-07-11,Solomon Islands,0,0,0
 2020-07-11,Somalia,3051,92,1264
 2020-07-11,South Africa,264184,3971,127715
 2020-07-11,South Sudan,2021,38,333
@@ -32490,6 +32662,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-12,Singapore,45961,26,42285
 2020-07-12,Slovakia,1901,28,1493
 2020-07-12,Slovenia,1841,111,1469
+2020-07-12,Solomon Islands,0,0,0
 2020-07-12,Somalia,3059,93,1264
 2020-07-12,South Africa,276242,4079,134874
 2020-07-12,South Sudan,2021,38,333
@@ -32678,6 +32851,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-13,Singapore,46283,26,42541
 2020-07-13,Slovakia,1902,28,1493
 2020-07-13,Slovenia,1849,111,1473
+2020-07-13,Solomon Islands,0,0,0
 2020-07-13,Somalia,3072,93,1343
 2020-07-13,South Africa,287796,4172,138241
 2020-07-13,South Sudan,2148,41,333
@@ -32866,6 +33040,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-14,Singapore,46630,27,42737
 2020-07-14,Slovakia,1908,28,1493
 2020-07-14,Slovenia,1859,111,1488
+2020-07-14,Solomon Islands,0,0,0
 2020-07-14,Somalia,3076,93,1380
 2020-07-14,South Africa,298292,4346,146279
 2020-07-14,South Sudan,2148,41,333
@@ -33054,6 +33229,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-15,Singapore,46878,27,42988
 2020-07-15,Slovakia,1927,28,1507
 2020-07-15,Slovenia,1878,111,1501
+2020-07-15,Solomon Islands,0,0,0
 2020-07-15,Somalia,3083,93,1425
 2020-07-15,South Africa,311049,4453,160693
 2020-07-15,South Sudan,2153,41,1175
@@ -33242,6 +33418,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-16,Singapore,47126,27,43256
 2020-07-16,Slovakia,1951,28,1514
 2020-07-16,Slovenia,1897,111,1522
+2020-07-16,Solomon Islands,0,0,0
 2020-07-16,Somalia,3106,93,1444
 2020-07-16,South Africa,324221,4669,165591
 2020-07-16,South Sudan,2171,41,1175
@@ -33430,6 +33607,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-17,Singapore,47453,27,43577
 2020-07-17,Slovakia,1965,28,1523
 2020-07-17,Slovenia,1916,111,1522
+2020-07-17,Solomon Islands,0,0,0
 2020-07-17,Somalia,3106,93,1444
 2020-07-17,South Africa,337594,4804,178183
 2020-07-17,South Sudan,2191,43,1175
@@ -33618,6 +33796,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-18,Singapore,47655,27,43833
 2020-07-18,Slovakia,1976,28,1523
 2020-07-18,Slovenia,1940,111,1568
+2020-07-18,Solomon Islands,0,0,0
 2020-07-18,Somalia,3111,93,1452
 2020-07-18,South Africa,350879,4948,182230
 2020-07-18,South Sudan,2191,43,1175
@@ -33806,6 +33985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-19,Singapore,47912,27,44086
 2020-07-19,Slovakia,1979,28,1530
 2020-07-19,Slovenia,1946,112,1568
+2020-07-19,Solomon Islands,0,0,0
 2020-07-19,Somalia,3119,93,1457
 2020-07-19,South Africa,364328,5033,191059
 2020-07-19,South Sudan,2200,43,1175
@@ -33994,6 +34174,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-20,Singapore,48035,27,44371
 2020-07-20,Slovakia,1980,28,1538
 2020-07-20,Slovenia,1953,113,1603
+2020-07-20,Solomon Islands,0,0,0
 2020-07-20,Somalia,3130,93,1462
 2020-07-20,South Africa,373628,5173,194865
 2020-07-20,South Sudan,2211,45,1175
@@ -34182,6 +34363,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-21,Singapore,48434,27,44584
 2020-07-21,Slovakia,2021,28,1538
 2020-07-21,Slovenia,1977,114,1625
+2020-07-21,Solomon Islands,0,0,0
 2020-07-21,Somalia,3135,93,1464
 2020-07-21,South Africa,381798,5368,208144
 2020-07-21,South Sudan,2211,45,1175
@@ -34370,6 +34552,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-22,Singapore,48744,27,44795
 2020-07-22,Slovakia,2058,28,1556
 2020-07-22,Slovenia,2006,115,1648
+2020-07-22,Solomon Islands,0,0,0
 2020-07-22,Somalia,3161,93,1495
 2020-07-22,South Africa,394948,5940,229175
 2020-07-22,South Sudan,2211,45,1175
@@ -34558,6 +34741,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-23,Singapore,49098,27,45015
 2020-07-23,Slovakia,2089,28,1556
 2020-07-23,Slovenia,2033,115,1661
+2020-07-23,Solomon Islands,0,0,0
 2020-07-23,Somalia,3171,93,1499
 2020-07-23,South Africa,408052,6093,236260
 2020-07-23,South Sudan,2239,45,1175
@@ -34746,6 +34930,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-24,Singapore,49375,27,45172
 2020-07-24,Slovakia,2118,28,1577
 2020-07-24,Slovenia,2052,115,1678
+2020-07-24,Solomon Islands,0,0,0
 2020-07-24,Somalia,3171,93,1499
 2020-07-24,South Africa,421996,6343,245771
 2020-07-24,South Sudan,2258,45,1175
@@ -34934,6 +35119,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-25,Singapore,49888,27,45352
 2020-07-25,Slovakia,2141,28,1577
 2020-07-25,Slovenia,2066,116,1678
+2020-07-25,Solomon Islands,0,0,0
 2020-07-25,Somalia,3178,93,1521
 2020-07-25,South Africa,434200,6655,263054
 2020-07-25,South Sudan,2258,45,1175
@@ -35122,6 +35308,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-26,Singapore,50369,27,45521
 2020-07-26,Slovakia,2179,28,1577
 2020-07-26,Slovenia,2082,116,1678
+2020-07-26,Solomon Islands,0,0,0
 2020-07-26,Somalia,3178,93,1521
 2020-07-26,South Africa,445433,6769,265077
 2020-07-26,South Sudan,2262,45,1175
@@ -35310,6 +35497,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-27,Singapore,50838,27,45692
 2020-07-27,Slovakia,2181,28,1616
 2020-07-27,Slovenia,2087,116,1733
+2020-07-27,Solomon Islands,0,0,0
 2020-07-27,Somalia,3196,93,1543
 2020-07-27,South Africa,452529,7067,274925
 2020-07-27,South Sudan,2305,46,1175
@@ -35498,6 +35686,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-28,Singapore,51197,27,45893
 2020-07-28,Slovakia,2204,28,1644
 2020-07-28,Slovenia,2101,117,1742
+2020-07-28,Solomon Islands,0,0,0
 2020-07-28,Somalia,3212,93,1562
 2020-07-28,South Africa,459761,7257,287313
 2020-07-28,South Sudan,2305,46,1175
@@ -35686,6 +35875,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-29,Singapore,51531,27,46098
 2020-07-29,Slovakia,2245,28,1660
 2020-07-29,Slovenia,2115,117,1761
+2020-07-29,Solomon Islands,0,0,0
 2020-07-29,Somalia,3212,93,1562
 2020-07-29,South Africa,471123,7497,297967
 2020-07-29,South Sudan,2322,46,1175
@@ -35874,6 +36064,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-30,Singapore,51809,27,46308
 2020-07-30,Slovakia,2265,28,1675
 2020-07-30,Slovenia,2139,117,1780
+2020-07-30,Solomon Islands,0,0,0
 2020-07-30,Somalia,3212,93,1562
 2020-07-30,South Africa,482169,7812,309601
 2020-07-30,South Sudan,2322,46,1175
@@ -36062,6 +36253,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-31,Singapore,52205,27,46491
 2020-07-31,Slovakia,2292,29,1695
 2020-07-31,Slovenia,2156,119,1797
+2020-07-31,Solomon Islands,0,0,0
 2020-07-31,Somalia,3212,93,1562
 2020-07-31,South Africa,493183,8005,326171
 2020-07-31,South Sudan,2322,46,1175
@@ -36250,6 +36442,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-01,Singapore,52512,27,46740
 2020-08-01,Slovakia,2337,29,1742
 2020-08-01,Slovenia,2171,119,1821
+2020-08-01,Solomon Islands,0,0,0
 2020-08-01,Somalia,3212,93,1562
 2020-08-01,South Africa,503290,8153,342461
 2020-08-01,South Sudan,2352,46,1175
@@ -36438,6 +36631,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,Singapore,52825,27,46926
 2020-08-02,Slovakia,2344,29,1742
 2020-08-02,Slovenia,2180,120,1826
+2020-08-02,Solomon Islands,0,0,0
 2020-08-02,Somalia,3220,93,1598
 2020-08-02,South Africa,511485,8366,347227
 2020-08-02,South Sudan,2429,46,1175
@@ -36626,6 +36820,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,Singapore,53051,27,47179
 2020-08-03,Slovakia,2354,29,1746
 2020-08-03,Slovenia,2181,122,1831
+2020-08-03,Solomon Islands,0,0,0
 2020-08-03,Somalia,3220,93,1598
 2020-08-03,South Africa,516862,8539,358037
 2020-08-03,South Sudan,2429,46,1175
@@ -36814,6 +37009,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,Singapore,53346,27,47454
 2020-08-04,Slovakia,2368,29,1771
 2020-08-04,Slovenia,2190,123,1854
+2020-08-04,Solomon Islands,0,0,0
 2020-08-04,Somalia,3220,93,1598
 2020-08-04,South Africa,521318,8884,363751
 2020-08-04,South Sudan,2437,47,1175
@@ -37002,6 +37198,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,Singapore,54254,27,47768
 2020-08-05,Slovakia,2417,29,1777
 2020-08-05,Slovenia,2208,124,1884
+2020-08-05,Solomon Islands,0,0,0
 2020-08-05,Somalia,3227,93,1728
 2020-08-05,South Africa,529877,9298,377266
 2020-08-05,South Sudan,2437,47,1175
@@ -37190,6 +37387,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,Singapore,54555,27,48031
 2020-08-06,Slovakia,2480,29,1824
 2020-08-06,Slovenia,2223,125,1909
+2020-08-06,Solomon Islands,0,0,0
 2020-08-06,Somalia,3227,93,1728
 2020-08-06,South Africa,538184,9604,387316
 2020-08-06,South Sudan,2450,47,1175
@@ -37378,6 +37576,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,Singapore,54797,27,48312
 2020-08-07,Slovakia,2523,31,1846
 2020-08-07,Slovenia,2233,125,1927
+2020-08-07,Solomon Islands,0,0,0
 2020-08-07,Somalia,3227,93,1728
 2020-08-07,South Africa,545476,9909,394759
 2020-08-07,South Sudan,2450,47,1175
@@ -37566,6 +37765,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,Singapore,54929,27,48583
 2020-08-08,Slovakia,2566,31,1861
 2020-08-08,Slovenia,2247,126,1927
+2020-08-08,Solomon Islands,0,0,0
 2020-08-08,Somalia,3227,93,1728
 2020-08-08,South Africa,553188,10210,404568
 2020-08-08,South Sudan,2463,47,1175
@@ -37754,6 +37954,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,Singapore,55104,27,48915
 2020-08-09,Slovakia,2596,31,1864
 2020-08-09,Slovenia,2249,127,1927
+2020-08-09,Solomon Islands,0,0,0
 2020-08-09,Somalia,3227,93,1728
 2020-08-09,South Africa,559859,10408,411474
 2020-08-09,South Sudan,2470,47,1175
@@ -37942,6 +38143,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,Singapore,55292,27,49609
 2020-08-10,Slovakia,2599,31,1866
 2020-08-10,Slovenia,2255,128,1960
+2020-08-10,Solomon Islands,0,0,0
 2020-08-10,Somalia,3227,93,1728
 2020-08-10,South Africa,563598,10621,417200
 2020-08-10,South Sudan,2470,47,1175
@@ -38130,6 +38332,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,Singapore,55353,27,50128
 2020-08-11,Slovakia,2615,31,1874
 2020-08-11,Slovenia,2272,129,1960
+2020-08-11,Solomon Islands,0,0,0
 2020-08-11,Somalia,3227,93,1728
 2020-08-11,South Africa,566109,10751,426125
 2020-08-11,South Sudan,2472,47,1175
@@ -38318,6 +38521,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,Singapore,55395,27,50520
 2020-08-12,Slovakia,2690,31,1884
 2020-08-12,Slovenia,2303,129,1960
+2020-08-12,Solomon Islands,0,0,0
 2020-08-12,Somalia,3227,93,1728
 2020-08-12,South Africa,568919,11010,432029
 2020-08-12,South Sudan,2477,47,1175
@@ -38506,6 +38710,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,Singapore,55497,27,50736
 2020-08-13,Slovakia,2739,31,1939
 2020-08-13,Slovenia,2332,129,1960
+2020-08-13,Solomon Islands,0,0,0
 2020-08-13,Somalia,3227,93,1728
 2020-08-13,South Africa,572865,11270,437617
 2020-08-13,South Sudan,2478,47,1175
@@ -38694,6 +38899,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Singapore,55580,27,51049
 2020-08-14,Slovakia,2801,31,1944
 2020-08-14,Slovenia,2369,129,2027
+2020-08-14,Solomon Islands,0,0,0
 2020-08-14,Somalia,3250,93,2268
 2020-08-14,South Africa,579140,11556,461734
 2020-08-14,South Sudan,2482,47,1175
@@ -38882,6 +39088,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,Singapore,55661,27,51521
 2020-08-15,Slovakia,2855,31,1969
 2020-08-15,Slovenia,2401,129,2042
+2020-08-15,Solomon Islands,0,0,0
 2020-08-15,Somalia,3250,93,2268
 2020-08-15,South Africa,583653,11677,466941
 2020-08-15,South Sudan,2488,47,1175
@@ -39070,6 +39277,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Singapore,55747,27,51953
 2020-08-16,Slovakia,2902,31,1969
 2020-08-16,Slovenia,2416,129,2051
+2020-08-16,Solomon Islands,0,0,0
 2020-08-16,Somalia,3256,93,2374
 2020-08-16,South Africa,587345,11839,472377
 2020-08-16,South Sudan,2489,47,1175
@@ -39258,6 +39466,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-17,Singapore,55838,27,52350
 2020-08-17,Slovakia,2907,31,1969
 2020-08-17,Slovenia,2429,129,2052
+2020-08-17,Solomon Islands,0,0,0
 2020-08-17,Somalia,3257,93,2374
 2020-08-17,South Africa,589886,11982,477671
 2020-08-17,South Sudan,2490,47,1175
@@ -39446,6 +39655,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-18,Singapore,55938,27,52533
 2020-08-18,Slovakia,2922,31,1980
 2020-08-18,Slovenia,2456,129,2052
+2020-08-18,Solomon Islands,0,0,0
 2020-08-18,Somalia,3257,93,2374
 2020-08-18,South Africa,592144,12264,485468
 2020-08-18,South Sudan,2490,47,1175
@@ -39634,6 +39844,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-19,Singapore,56031,27,52810
 2020-08-19,Slovakia,3022,33,1997
 2020-08-19,Slovenia,2493,129,2079
+2020-08-19,Solomon Islands,0,0,0
 2020-08-19,Somalia,3265,93,2396
 2020-08-19,South Africa,596060,12423,491441
 2020-08-19,South Sudan,2494,47,1290
@@ -39822,6 +40033,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-20,Singapore,56099,27,53119
 2020-08-20,Slovakia,3102,33,2014
 2020-08-20,Slovenia,2536,129,2079
+2020-08-20,Solomon Islands,0,0,0
 2020-08-20,Somalia,3265,93,2396
 2020-08-20,South Africa,599940,12618,497169
 2020-08-20,South Sudan,2494,47,1290
@@ -40010,6 +40222,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-21,Singapore,56216,27,53651
 2020-08-21,Slovakia,3225,33,2045
 2020-08-21,Slovenia,2574,130,2079
+2020-08-21,Solomon Islands,0,0,0
 2020-08-21,Somalia,3265,93,2396
 2020-08-21,South Africa,603338,12843,500102
 2020-08-21,South Sudan,2497,47,1290
@@ -40198,6 +40411,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-22,Singapore,56266,27,53920
 2020-08-22,Slovakia,3316,33,2147
 2020-08-22,Slovenia,2617,131,2079
+2020-08-22,Solomon Islands,0,0,0
 2020-08-22,Somalia,3269,93,2396
 2020-08-22,South Africa,607045,12987,504127
 2020-08-22,South Sudan,2497,47,1290
@@ -40386,6 +40600,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-23,Singapore,56353,27,54164
 2020-08-23,Slovakia,3356,33,2148
 2020-08-23,Slovenia,2651,131,2079
+2020-08-23,Solomon Islands,0,0,0
 2020-08-23,Somalia,3269,93,2396
 2020-08-23,South Africa,609773,13059,506470
 2020-08-23,South Sudan,2499,47,1290
@@ -40574,6 +40789,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-24,Singapore,56404,27,54587
 2020-08-24,Slovakia,3424,33,2153
 2020-08-24,Slovenia,2665,133,2122
+2020-08-24,Solomon Islands,0,0,0
 2020-08-24,Somalia,3269,93,2443
 2020-08-24,South Africa,611450,13159,516494
 2020-08-24,South Sudan,2504,47,1290
@@ -40762,6 +40978,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-25,Singapore,56435,27,54816
 2020-08-25,Slovakia,3452,33,2167
 2020-08-25,Slovenia,2686,133,2139
+2020-08-25,Solomon Islands,0,0,0
 2020-08-25,Somalia,3275,95,2443
 2020-08-25,South Africa,613017,13308,520381
 2020-08-25,South Sudan,2507,47,1290
@@ -40950,6 +41167,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-26,Singapore,56495,27,54971
 2020-08-26,Slovakia,3536,33,2192
 2020-08-26,Slovenia,2722,133,2170
+2020-08-26,Solomon Islands,0,0,0
 2020-08-26,Somalia,3275,95,2443
 2020-08-26,South Africa,615701,13502,525242
 2020-08-26,South Sudan,2510,47,1290
@@ -41138,6 +41356,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,Singapore,56572,27,55139
 2020-08-27,Slovakia,3626,33,2206
 2020-08-27,Slovenia,2755,133,2199
+2020-08-27,Solomon Islands,0,0,0
 2020-08-27,Somalia,3275,95,2443
 2020-08-27,South Africa,618286,13628,531338
 2020-08-27,South Sudan,2514,47,1290
@@ -41326,6 +41545,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-28,Singapore,56666,27,55337
 2020-08-28,Slovakia,3728,33,2225
 2020-08-28,Slovenia,2797,133,2236
+2020-08-28,Solomon Islands,0,0,0
 2020-08-28,Somalia,3275,95,2443
 2020-08-28,South Africa,620132,13743,533935
 2020-08-28,South Sudan,2518,47,1290
@@ -41514,6 +41734,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-29,Singapore,56717,27,55447
 2020-08-29,Slovakia,3842,33,2254
 2020-08-29,Slovenia,2834,133,2268
+2020-08-29,Solomon Islands,0,0,0
 2020-08-29,Somalia,3310,97,2481
 2020-08-29,South Africa,622551,13981,536694
 2020-08-29,South Sudan,2519,47,1290
@@ -41702,6 +41923,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-30,Singapore,56771,27,55586
 2020-08-30,Slovakia,3876,33,2278
 2020-08-30,Slovenia,2865,133,2283
+2020-08-30,Solomon Islands,0,0,0
 2020-08-30,Somalia,3310,98,2481
 2020-08-30,South Africa,625056,14028,538604
 2020-08-30,South Sudan,2519,47,1290
@@ -41890,6 +42112,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-31,Singapore,56812,27,55658
 2020-08-31,Slovakia,3917,33,2377
 2020-08-31,Slovenia,2883,133,2296
+2020-08-31,Solomon Islands,0,0,0
 2020-08-31,Somalia,3310,98,2481
 2020-08-31,South Africa,627041,14149,540923
 2020-08-31,South Sudan,2527,47,1290
@@ -42078,6 +42301,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-01,Singapore,56852,27,55749
 2020-09-01,Slovakia,3989,33,2478
 2020-09-01,Slovenia,2924,133,2323
+2020-09-01,Solomon Islands,0,0,0
 2020-09-01,Somalia,3310,98,2481
 2020-09-01,South Africa,628259,14263,549993
 2020-09-01,South Sudan,2527,47,1290
@@ -42266,6 +42490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-02,Singapore,56860,27,55891
 2020-09-02,Slovakia,4042,33,2523
 2020-09-02,Slovenia,2979,134,2359
+2020-09-02,Solomon Islands,0,0,0
 2020-09-02,Somalia,3310,98,2481
 2020-09-02,South Africa,630595,14389,553456
 2020-09-02,South Sudan,2532,47,1290
@@ -42454,6 +42679,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-03,Singapore,56908,27,56028
 2020-09-03,Slovakia,4163,37,2617
 2020-09-03,Slovenia,3032,134,2402
+2020-09-03,Solomon Islands,0,0,0
 2020-09-03,Somalia,3310,98,2481
 2020-09-03,South Africa,633015,14563,554887
 2020-09-03,South Sudan,2533,47,1290
@@ -42642,6 +42868,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-04,Singapore,56948,27,56174
 2020-09-04,Slovakia,4300,37,2693
 2020-09-04,Slovenia,3079,134,2440
+2020-09-04,Solomon Islands,0,0,0
 2020-09-04,Somalia,3332,97,2696
 2020-09-04,South Africa,635078,14678,557818
 2020-09-04,South Sudan,2536,47,1290
@@ -42830,6 +43057,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-05,Singapore,56982,27,56267
 2020-09-05,Slovakia,4526,37,2797
 2020-09-05,Slovenia,3122,135,2483
+2020-09-05,Solomon Islands,0,0,0
 2020-09-05,Somalia,3332,97,2696
 2020-09-05,South Africa,636884,14779,561204
 2020-09-05,South Sudan,2544,48,1290
@@ -43018,6 +43246,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-06,Singapore,57022,27,56333
 2020-09-06,Slovakia,4614,37,2802
 2020-09-06,Slovenia,3165,135,2483
+2020-09-06,Solomon Islands,0,0,0
 2020-09-06,Somalia,3362,97,2696
 2020-09-06,South Africa,638517,14889,563891
 2020-09-06,South Sudan,2544,48,1290
@@ -43206,6 +43435,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-07,Singapore,57044,27,56408
 2020-09-07,Slovakia,4636,37,2836
 2020-09-07,Slovenia,3190,135,2530
+2020-09-07,Solomon Islands,0,0,0
 2020-09-07,Somalia,3362,97,2696
 2020-09-07,South Africa,639362,15004,566555
 2020-09-07,South Sudan,2545,48,1290
@@ -43394,6 +43624,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-08,Singapore,57091,27,56461
 2020-09-08,Slovakia,4727,37,2913
 2020-09-08,Slovenia,3232,135,2533
+2020-09-08,Solomon Islands,0,0,0
 2020-09-08,Somalia,3371,97,2738
 2020-09-08,South Africa,640441,15086,567729
 2020-09-08,South Sudan,2552,49,1290
@@ -43582,6 +43813,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-09,Singapore,57166,27,56492
 2020-09-09,Slovakia,4888,37,2947
 2020-09-09,Slovenia,3312,135,2587
+2020-09-09,Solomon Islands,0,0,0
 2020-09-09,Somalia,3371,97,2738
 2020-09-09,South Africa,642431,15168,569935
 2020-09-09,South Sudan,2555,49,1290
@@ -43770,6 +44002,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-10,Singapore,57229,27,56558
 2020-09-10,Slovakia,5066,37,3001
 2020-09-10,Slovenia,3389,135,2620
+2020-09-10,Solomon Islands,0,0,0
 2020-09-10,Somalia,3371,97,2738
 2020-09-10,South Africa,644438,15265,573003
 2020-09-10,South Sudan,2555,49,1290
@@ -43958,6 +44191,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-11,Singapore,57315,27,56607
 2020-09-11,Slovakia,5252,37,3081
 2020-09-11,Slovenia,3497,135,2662
+2020-09-11,Solomon Islands,0,0,0
 2020-09-11,Somalia,3376,98,2791
 2020-09-11,South Africa,646398,15378,574587
 2020-09-11,South Sudan,2568,49,1290
@@ -44146,6 +44380,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-12,Singapore,57357,27,56699
 2020-09-12,Slovakia,5453,38,3114
 2020-09-12,Slovenia,3603,135,2699
+2020-09-12,Solomon Islands,0,0,0
 2020-09-12,Somalia,3376,98,2791
 2020-09-12,South Africa,648214,15427,576423
 2020-09-12,South Sudan,2578,49,1290
@@ -44334,6 +44569,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-13,Singapore,57406,27,56764
 2020-09-13,Slovakia,5532,38,3124
 2020-09-13,Slovenia,3702,135,2730
+2020-09-13,Solomon Islands,0,0,0
 2020-09-13,Somalia,3389,98,2803
 2020-09-13,South Africa,649793,15447,577906
 2020-09-13,South Sudan,2578,49,1290
@@ -44522,6 +44758,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-14,Singapore,57454,27,56802
 2020-09-14,Slovakia,5580,38,3129
 2020-09-14,Slovenia,3749,135,2730
+2020-09-14,Solomon Islands,0,0,0
 2020-09-14,Somalia,3389,98,2803
 2020-09-14,South Africa,650749,15499,579289
 2020-09-14,South Sudan,2587,49,1290
@@ -44710,6 +44947,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-15,Singapore,57488,27,56884
 2020-09-15,Slovakia,5768,38,3214
 2020-09-15,Slovenia,3831,135,2789
+2020-09-15,Solomon Islands,0,0,0
 2020-09-15,Somalia,3390,98,2812
 2020-09-15,South Africa,651521,15641,583126
 2020-09-15,South Sudan,2592,49,1290
@@ -44898,6 +45136,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-16,Singapore,57514,27,56955
 2020-09-16,Slovakia,5860,38,3220
 2020-09-16,Slovenia,3954,135,2844
+2020-09-16,Solomon Islands,0,0,0
 2020-09-16,Somalia,3390,98,2812
 2020-09-16,South Africa,653444,15705,584195
 2020-09-16,South Sudan,2594,49,1290
@@ -45086,6 +45325,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-17,Singapore,57532,27,57039
 2020-09-17,Slovakia,6021,39,3288
 2020-09-17,Slovenia,4058,136,2897
+2020-09-17,Solomon Islands,0,0,0
 2020-09-17,Somalia,3390,98,2812
 2020-09-17,South Africa,655572,15772,585303
 2020-09-17,South Sudan,2599,49,1290
@@ -45274,6 +45514,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-18,Singapore,57543,27,57071
 2020-09-18,Slovakia,6256,39,3390
 2020-09-18,Slovenia,4195,140,2939
+2020-09-18,Solomon Islands,0,0,0
 2020-09-18,Somalia,3390,98,2812
 2020-09-18,South Africa,657627,15857,586844
 2020-09-18,South Sudan,2609,49,1290
@@ -45462,6 +45703,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-19,Singapore,57558,27,57142
 2020-09-19,Slovakia,6546,39,3519
 2020-09-19,Slovenia,4309,141,2981
+2020-09-19,Solomon Islands,0,0,0
 2020-09-19,Somalia,3401,98,2812
 2020-09-19,South Africa,659656,15940,589434
 2020-09-19,South Sudan,2642,49,1290
@@ -45650,6 +45892,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-20,Singapore,57576,27,57181
 2020-09-20,Slovakia,6677,39,3548
 2020-09-20,Slovenia,4420,142,3023
+2020-09-20,Solomon Islands,0,0,0
 2020-09-20,Somalia,3442,98,2877
 2020-09-20,South Africa,661211,15953,590071
 2020-09-20,South Sudan,2642,49,1290
@@ -45838,6 +46081,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-21,Singapore,57606,27,57241
 2020-09-21,Slovakia,6756,39,3571
 2020-09-21,Slovenia,4470,142,3048
+2020-09-21,Solomon Islands,0,0,0
 2020-09-21,Somalia,3465,98,2877
 2020-09-21,South Africa,661936,15992,591208
 2020-09-21,South Sudan,2649,49,1290
@@ -46026,6 +46270,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-22,Singapore,57627,27,57262
 2020-09-22,Slovakia,6931,40,3668
 2020-09-22,Slovenia,4558,142,3048
+2020-09-22,Solomon Islands,0,0,0
 2020-09-22,Somalia,3465,98,2877
 2020-09-22,South Africa,663282,16118,592904
 2020-09-22,South Sudan,2660,49,1290
@@ -46214,6 +46459,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-23,Singapore,57639,27,57291
 2020-09-23,Slovakia,7269,41,3888
 2020-09-23,Slovenia,4694,143,3168
+2020-09-23,Solomon Islands,0,0,0
 2020-09-23,Somalia,3465,98,2877
 2020-09-23,South Africa,665188,16206,594229
 2020-09-23,South Sudan,2664,49,1290
@@ -46402,6 +46648,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-24,Singapore,57654,27,57333
 2020-09-24,Slovakia,7629,41,3978
 2020-09-24,Slovenia,4816,145,3245
+2020-09-24,Solomon Islands,0,0,0
 2020-09-24,Somalia,3465,98,2877
 2020-09-24,South Africa,667049,16283,595916
 2020-09-24,South Sudan,2669,49,1290
@@ -46590,6 +46837,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-25,Singapore,57665,27,57341
 2020-09-25,Slovakia,8048,41,4036
 2020-09-25,Slovenia,5007,145,3353
+2020-09-25,Solomon Islands,0,0,0
 2020-09-25,Somalia,3465,98,2877
 2020-09-25,South Africa,668529,16312,599149
 2020-09-25,South Sudan,2676,49,1290
@@ -46778,6 +47026,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-26,Singapore,57685,27,57359
 2020-09-26,Slovakia,8600,44,4098
 2020-09-26,Slovenia,5191,146,3457
+2020-09-26,Solomon Islands,0,0,0
 2020-09-26,Somalia,3588,99,2943
 2020-09-26,South Africa,669498,16376,601818
 2020-09-26,South Sudan,2676,49,1290
@@ -46966,6 +47215,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-27,Singapore,57700,27,57367
 2020-09-27,Slovakia,9078,44,4178
 2020-09-27,Slovenia,5350,147,3555
+2020-09-27,Solomon Islands,0,0,0
 2020-09-27,Somalia,3588,99,2946
 2020-09-27,South Africa,670766,16398,603721
 2020-09-27,South Sudan,2686,49,1290
@@ -47154,6 +47404,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-28,Singapore,57715,27,57393
 2020-09-28,Slovakia,9343,44,4213
 2020-09-28,Slovenia,5388,149,3600
+2020-09-28,Solomon Islands,0,0,0
 2020-09-28,Somalia,3588,99,2946
 2020-09-28,South Africa,671669,16586,604478
 2020-09-28,South Sudan,2692,49,1290
@@ -47342,6 +47593,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-29,Singapore,57742,27,57466
 2020-09-29,Slovakia,9574,45,4329
 2020-09-29,Slovenia,5487,149,3682
+2020-09-29,Solomon Islands,0,0,0
 2020-09-29,Somalia,3588,99,2946
 2020-09-29,South Africa,672572,16667,606520
 2020-09-29,South Sudan,2700,49,1290
@@ -47530,6 +47782,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-30,Singapore,57765,27,57488
 2020-09-30,Slovakia,10141,48,4395
 2020-09-30,Slovenia,5690,150,3804
+2020-09-30,Solomon Islands,0,0,0
 2020-09-30,Somalia,3588,99,2946
 2020-09-30,South Africa,674339,16734,608112
 2020-09-30,South Sudan,2704,49,1290
@@ -47718,6 +47971,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-01,Singapore,57784,27,57512
 2020-10-01,Slovakia,10938,48,4620
 2020-10-01,Slovenia,5865,152,3906
+2020-10-01,Solomon Islands,0,0,0
 2020-10-01,Somalia,3593,99,3001
 2020-10-01,South Africa,676084,16866,609584
 2020-10-01,South Sudan,2704,49,1290
@@ -47906,6 +48160,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-02,Singapore,57794,27,57534
 2020-10-02,Slovakia,11617,54,4756
 2020-10-02,Slovenia,6103,154,4041
+2020-10-02,Solomon Islands,0,0,0
 2020-10-02,Somalia,3593,99,3001
 2020-10-02,South Africa,677833,16909,611044
 2020-10-02,South Sudan,2715,50,1290
@@ -48094,6 +48349,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-03,Singapore,57800,27,57562
 2020-10-03,Slovakia,12321,54,4793
 2020-10-03,Slovenia,6330,155,4041
+2020-10-03,Solomon Islands,0,0,0
 2020-10-03,Somalia,3593,99,3001
 2020-10-03,South Africa,679716,16938,612763
 2020-10-03,South Sudan,2715,50,1290
@@ -48282,6 +48538,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-04,Singapore,57812,27,57575
 2020-10-04,Slovakia,13139,55,4828
 2020-10-04,Slovenia,6498,155,4265
+2020-10-04,Solomon Islands,0,0,0
 2020-10-04,Somalia,3745,99,3010
 2020-10-04,South Africa,681289,16976,614781
 2020-10-04,South Sudan,2726,50,1290
@@ -48470,6 +48727,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-05,Singapore,57819,27,57597
 2020-10-05,Slovakia,13492,55,4865
 2020-10-05,Slovenia,6673,156,4265
+2020-10-05,Solomon Islands,0,0,0
 2020-10-05,Somalia,3745,99,3010
 2020-10-05,South Africa,682215,17016,615684
 2020-10-05,South Sudan,2726,50,1290
@@ -48658,6 +48916,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-06,Singapore,57830,27,57612
 2020-10-06,Slovakia,13812,55,5027
 2020-10-06,Slovenia,6764,159,4399
+2020-10-06,Solomon Islands,0,0,0
 2020-10-06,Somalia,3745,99,3010
 2020-10-06,South Africa,683242,17103,616857
 2020-10-06,South Sudan,2734,50,1290
@@ -48846,6 +49105,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-07,Singapore,57840,27,57624
 2020-10-07,Slovakia,14689,55,5200
 2020-10-07,Slovenia,7120,159,4535
+2020-10-07,Solomon Islands,0,0,0
 2020-10-07,Somalia,3745,99,3010
 2020-10-07,South Africa,685155,17248,618127
 2020-10-07,South Sudan,2748,50,1290
@@ -49034,6 +49294,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-08,Singapore,57849,27,57668
 2020-10-08,Slovakia,15726,57,5353
 2020-10-08,Slovenia,7507,160,4655
+2020-10-08,Solomon Islands,0,0,0
 2020-10-08,Somalia,3745,99,3010
 2020-10-08,South Africa,686891,17408,618771
 2020-10-08,South Sudan,2749,53,1290
@@ -49222,6 +49483,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-09,Singapore,57859,27,57675
 2020-10-09,Slovakia,16910,57,5452
 2020-10-09,Slovenia,7872,165,4842
+2020-10-09,Solomon Islands,0,0,0
 2020-10-09,Somalia,3745,99,3010
 2020-10-09,South Africa,688352,17547,620081
 2020-10-09,South Sudan,2761,54,1290
@@ -49278,7 +49540,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-10,Bolivia,138463,8292,100786
 2020-10-10,Bosnia and Herzegovina,30345,927,23370
 2020-10-10,Botswana,3219,18,834
-2020-10-10,Brazil,5055888,149639,4502854
+2020-10-10,Brazil,5082637,150198,4502854
 2020-10-10,Brunei,146,3,143
 2020-10-10,Bulgaria,24319,891,15818
 2020-10-10,Burkina Faso,2271,61,1542
@@ -49410,6 +49672,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-10,Singapore,57866,27,57698
 2020-10-10,Slovakia,18797,61,5553
 2020-10-10,Slovenia,8252,167,5024
+2020-10-10,Solomon Islands,0,0,0
 2020-10-10,Somalia,3847,99,3079
 2020-10-10,South Africa,690896,17673,622153
 2020-10-10,South Sudan,2761,54,1290
@@ -49522,7 +49785,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,Honduras,84081,2512,32012
 2020-10-11,Hungary,37664,954,10848
 2020-10-11,Iceland,3526,10,2499
-2020-10-11,India,7053806,108334,6077976
+2020-10-11,India,7120538,109150,6149535
 2020-10-11,Indonesia,333449,11844,255027
 2020-10-11,Iran,500075,28544,406389
 2020-10-11,Iraq,402330,9852,336157
@@ -49598,6 +49861,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,Singapore,57876,27,57705
 2020-10-11,Slovakia,19851,61,5631
 2020-10-11,Slovenia,8663,167,5182
+2020-10-11,Solomon Islands,0,0,0
 2020-10-11,Somalia,3864,99,3089
 2020-10-11,South Africa,692471,17780,623765
 2020-10-11,South Sudan,2777,55,1290
@@ -49631,3 +49895,192 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,Yemen,2052,595,1329
 2020-10-11,Zambia,15458,337,14599
 2020-10-11,Zimbabwe,8011,230,6504
+2020-10-12,Afghanistan,39870,1479,33118
+2020-10-12,Albania,15570,424,9585
+2020-10-12,Algeria,53325,1809,37382
+2020-10-12,Andorra,2995,57,1928
+2020-10-12,Angola,6488,219,2744
+2020-10-12,Antigua and Barbuda,111,3,97
+2020-10-12,Argentina,903730,24186,732582
+2020-10-12,Armenia,56821,1026,45891
+2020-10-12,Australia,27310,899,25029
+2020-10-12,Austria,56298,855,44065
+2020-10-12,Azerbaijan,42104,609,39404
+2020-10-12,Bahamas,5163,108,2978
+2020-10-12,Bahrain,75948,280,71687
+2020-10-12,Bangladesh,379738,5555,294391
+2020-10-12,Barbados,208,7,186
+2020-10-12,Belarus,83998,901,77423
+2020-10-12,Belgium,165880,10211,20324
+2020-10-12,Belize,2569,37,1566
+2020-10-12,Benin,2411,41,1973
+2020-10-12,Bhutan,309,0,291
+2020-10-12,Bolivia,138695,8326,101523
+2020-10-12,Bosnia and Herzegovina,30837,936,23587
+2020-10-12,Botswana,3515,20,853
+2020-10-12,Brazil,5103408,150689,4526393
+2020-10-12,Brunei,146,3,143
+2020-10-12,Bulgaria,24989,915,15975
+2020-10-12,Burkina Faso,2294,63,1571
+2020-10-12,Burma,29314,664,10260
+2020-10-12,Burundi,525,1,472
+2020-10-12,Cabo Verde,7155,75,6075
+2020-10-12,Cambodia,283,0,278
+2020-10-12,Cameroon,21203,423,20117
+2020-10-12,Canada,185378,9680,156940
+2020-10-12,Central African Republic,4854,62,1924
+2020-10-12,Chad,1308,92,1117
+2020-10-12,Chile,482832,13376,454434
+2020-10-12,China,90830,4739,85690
+2020-10-12,Colombia,919084,27985,798396
+2020-10-12,Comoros,495,7,475
+2020-10-12,Congo (Brazzaville),5118,90,3887
+2020-10-12,Congo (Kinshasa),10868,276,10249
+2020-10-12,Costa Rica,89223,1108,53247
+2020-10-12,Cote d'Ivoire,20155,120,19831
+2020-10-12,Croatia,20621,327,17582
+2020-10-12,Cuba,6000,123,5574
+2020-10-12,Cyprus,2047,25,1444
+2020-10-12,Czechia,121421,1051,58200
+2020-10-12,Denmark,33304,671,27218
+2020-10-12,Diamond Princess,712,13,659
+2020-10-12,Djibouti,5426,61,5360
+2020-10-12,Dominica,32,0,24
+2020-10-12,Dominican Republic,118843,2179,94532
+2020-10-12,Ecuador,147315,12218,128134
+2020-10-12,Egypt,104648,6062,97743
+2020-10-12,El Salvador,30196,894,25438
+2020-10-12,Equatorial Guinea,5066,83,4954
+2020-10-12,Eritrea,414,0,372
+2020-10-12,Estonia,3883,68,2967
+2020-10-12,Eswatini,5683,113,5322
+2020-10-12,Ethiopia,85136,1301,38904
+2020-10-12,Fiji,32,2,28
+2020-10-12,Finland,12212,346,8500
+2020-10-12,France,776097,32703,104035
+2020-10-12,Gabon,8860,54,8298
+2020-10-12,Gambia,3636,118,2593
+2020-10-12,Georgia,12272,93,6538
+2020-10-12,Germany,332850,9640,278391
+2020-10-12,Ghana,47030,308,46424
+2020-10-12,Greece,22652,456,1347
+2020-10-12,Grenada,25,0,24
+2020-10-12,Guatemala,97826,3387,87016
+2020-10-12,Guinea,11062,70,10337
+2020-10-12,Guinea-Bissau,2389,41,1782
+2020-10-12,Guyana,3521,104,2391
+2020-10-12,Haiti,8882,230,7104
+2020-10-12,Holy See,19,0,12
+2020-10-12,Honduras,84413,2521,32214
+2020-10-12,Hungary,38837,968,11037
+2020-10-12,Iceland,3582,10,2550
+2020-10-12,India,7175880,109856,6227295
+2020-10-12,Indonesia,336716,11935,258519
+2020-10-12,Iran,504281,28816,409121
+2020-10-12,Iraq,405437,9912,340050
+2020-10-12,Ireland,43351,1827,23364
+2020-10-12,Israel,294031,2021,238681
+2020-10-12,Italy,359569,36205,240600
+2020-10-12,Jamaica,7813,146,3237
+2020-10-12,Japan,89652,1631,81552
+2020-10-12,Jordan,26073,207,6219
+2020-10-12,Kazakhstan,108901,1746,104203
+2020-10-12,Kenya,41619,777,32000
+2020-10-12,"Korea, South",24805,434,22863
+2020-10-12,Kosovo,16247,648,14368
+2020-10-12,Kuwait,111893,664,103802
+2020-10-12,Kyrgyzstan,49528,1090,44522
+2020-10-12,Laos,23,0,22
+2020-10-12,Latvia,2765,40,1325
+2020-10-12,Lebanon,54624,466,23941
+2020-10-12,Lesotho,1805,42,961
+2020-10-12,Liberia,1371,82,1250
+2020-10-12,Libya,43821,644,24466
+2020-10-12,Liechtenstein,148,1,124
+2020-10-12,Lithuania,6248,103,2793
+2020-10-12,Luxembourg,9119,128,7900
+2020-10-12,MS Zaandam,9,2,0
+2020-10-12,Madagascar,16726,237,16081
+2020-10-12,Malawi,5824,180,4659
+2020-10-12,Malaysia,16220,159,11022
+2020-10-12,Maldives,10943,35,9783
+2020-10-12,Mali,3296,132,2533
+2020-10-12,Malta,3844,43,2981
+2020-10-12,Mauritania,7554,163,7297
+2020-10-12,Mauritius,404,10,359
+2020-10-12,Mexico,821045,83945,700826
+2020-10-12,Moldova,62618,1478,44728
+2020-10-12,Monaco,236,2,213
+2020-10-12,Mongolia,320,0,311
+2020-10-12,Montenegro,14050,211,9920
+2020-10-12,Morocco,153761,2636,129498
+2020-10-12,Mozambique,10088,72,7550
+2020-10-12,Namibia,11989,129,9913
+2020-10-12,Nepal,111802,645,77277
+2020-10-12,Netherlands,187138,6654,4832
+2020-10-12,New Zealand,1872,25,1808
+2020-10-12,Nicaragua,5264,153,4225
+2020-10-12,Niger,1202,69,1124
+2020-10-12,Nigeria,60430,1115,51943
+2020-10-12,North Macedonia,21113,797,16301
+2020-10-12,Norway,15639,276,11863
+2020-10-12,Oman,106575,1046,93222
+2020-10-12,Pakistan,319848,6588,304609
+2020-10-12,Panama,120802,2502,96675
+2020-10-12,Papua New Guinea,565,7,537
+2020-10-12,Paraguay,50344,1096,32751
+2020-10-12,Peru,851171,33357,743969
+2020-10-12,Philippines,342816,6332,293152
+2020-10-12,Poland,130210,3039,81201
+2020-10-12,Portugal,87913,2094,53498
+2020-10-12,Qatar,128191,220,125176
+2020-10-12,Romania,157352,5467,118912
+2020-10-12,Russia,1305093,22594,1019905
+2020-10-12,Rwanda,4905,32,3877
+2020-10-12,Saint Kitts and Nevis,19,0,18
+2020-10-12,Saint Lucia,29,0,27
+2020-10-12,Saint Vincent and the Grenadines,64,0,64
+2020-10-12,San Marino,741,42,682
+2020-10-12,Sao Tome and Principe,929,15,895
+2020-10-12,Saudi Arabia,339615,5068,325839
+2020-10-12,Senegal,15292,315,13390
+2020-10-12,Serbia,34854,765,0
+2020-10-12,Seychelles,148,0,144
+2020-10-12,Sierra Leone,2306,72,1736
+2020-10-12,Singapore,57880,28,57728
+2020-10-12,Slovakia,20355,61,6031
+2020-10-12,Slovenia,8832,169,5219
+2020-10-12,Solomon Islands,2,0,0
+2020-10-12,Somalia,3864,99,3089
+2020-10-12,South Africa,693359,17863,624659
+2020-10-12,South Sudan,2787,55,1290
+2020-10-12,Spain,888968,33124,150376
+2020-10-12,Sri Lanka,4844,13,3317
+2020-10-12,Sudan,13691,836,6764
+2020-10-12,Suriname,5058,107,4862
+2020-10-12,Sweden,98451,5894,0
+2020-10-12,Switzerland,64436,2096,49500
+2020-10-12,Syria,4774,228,1331
+2020-10-12,Taiwan*,529,7,489
+2020-10-12,Tajikistan,10260,79,9103
+2020-10-12,Tanzania,509,21,183
+2020-10-12,Thailand,3643,59,3457
+2020-10-12,Timor-Leste,29,0,28
+2020-10-12,Togo,1949,49,1461
+2020-10-12,Trinidad and Tobago,5116,92,3303
+2020-10-12,Tunisia,32556,478,5032
+2020-10-12,Turkey,337147,8895,295658
+2020-10-12,US,7804199,215085,3106728
+2020-10-12,Uganda,9864,94,6109
+2020-10-12,Ukraine,272671,5143,118740
+2020-10-12,United Arab Emirates,107293,446,98555
+2020-10-12,United Kingdom,620458,42965,2511
+2020-10-12,Uruguay,2313,51,1950
+2020-10-12,Uzbekistan,61319,509,58306
+2020-10-12,Venezuela,83756,704,75400
+2020-10-12,Vietnam,1110,35,1025
+2020-10-12,West Bank and Gaza,44684,387,38228
+2020-10-12,Western Sahara,10,1,8
+2020-10-12,Yemen,2052,596,1329
+2020-10-12,Zambia,15549,345,14682
+2020-10-12,Zimbabwe,8021,230,7627
