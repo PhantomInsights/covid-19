@@ -182,6 +182,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-22,United Kingdom,0,0,0
 2020-01-22,Uruguay,0,0,0
 2020-01-22,Uzbekistan,0,0,0
+2020-01-22,Vanuatu,0,0,0
 2020-01-22,Venezuela,0,0,0
 2020-01-22,Vietnam,0,0,0
 2020-01-22,West Bank and Gaza,0,0,0
@@ -372,6 +373,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-23,United Kingdom,0,0,0
 2020-01-23,Uruguay,0,0,0
 2020-01-23,Uzbekistan,0,0,0
+2020-01-23,Vanuatu,0,0,0
 2020-01-23,Venezuela,0,0,0
 2020-01-23,Vietnam,2,0,0
 2020-01-23,West Bank and Gaza,0,0,0
@@ -562,6 +564,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-24,United Kingdom,0,0,0
 2020-01-24,Uruguay,0,0,0
 2020-01-24,Uzbekistan,0,0,0
+2020-01-24,Vanuatu,0,0,0
 2020-01-24,Venezuela,0,0,0
 2020-01-24,Vietnam,2,0,0
 2020-01-24,West Bank and Gaza,0,0,0
@@ -752,6 +755,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-25,United Kingdom,0,0,0
 2020-01-25,Uruguay,0,0,0
 2020-01-25,Uzbekistan,0,0,0
+2020-01-25,Vanuatu,0,0,0
 2020-01-25,Venezuela,0,0,0
 2020-01-25,Vietnam,2,0,0
 2020-01-25,West Bank and Gaza,0,0,0
@@ -942,6 +946,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-26,United Kingdom,0,0,0
 2020-01-26,Uruguay,0,0,0
 2020-01-26,Uzbekistan,0,0,0
+2020-01-26,Vanuatu,0,0,0
 2020-01-26,Venezuela,0,0,0
 2020-01-26,Vietnam,2,0,0
 2020-01-26,West Bank and Gaza,0,0,0
@@ -1132,6 +1137,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-27,United Kingdom,0,0,0
 2020-01-27,Uruguay,0,0,0
 2020-01-27,Uzbekistan,0,0,0
+2020-01-27,Vanuatu,0,0,0
 2020-01-27,Venezuela,0,0,0
 2020-01-27,Vietnam,2,0,0
 2020-01-27,West Bank and Gaza,0,0,0
@@ -1322,6 +1328,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-28,United Kingdom,0,0,0
 2020-01-28,Uruguay,0,0,0
 2020-01-28,Uzbekistan,0,0,0
+2020-01-28,Vanuatu,0,0,0
 2020-01-28,Venezuela,0,0,0
 2020-01-28,Vietnam,2,0,0
 2020-01-28,West Bank and Gaza,0,0,0
@@ -1512,6 +1519,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-29,United Kingdom,0,0,0
 2020-01-29,Uruguay,0,0,0
 2020-01-29,Uzbekistan,0,0,0
+2020-01-29,Vanuatu,0,0,0
 2020-01-29,Venezuela,0,0,0
 2020-01-29,Vietnam,2,0,0
 2020-01-29,West Bank and Gaza,0,0,0
@@ -1702,6 +1710,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-30,United Kingdom,0,0,0
 2020-01-30,Uruguay,0,0,0
 2020-01-30,Uzbekistan,0,0,0
+2020-01-30,Vanuatu,0,0,0
 2020-01-30,Venezuela,0,0,0
 2020-01-30,Vietnam,2,0,0
 2020-01-30,West Bank and Gaza,0,0,0
@@ -1892,6 +1901,7 @@ isodate,country,confirmed,deaths,recovered
 2020-01-31,United Kingdom,2,0,0
 2020-01-31,Uruguay,0,0,0
 2020-01-31,Uzbekistan,0,0,0
+2020-01-31,Vanuatu,0,0,0
 2020-01-31,Venezuela,0,0,0
 2020-01-31,Vietnam,2,0,0
 2020-01-31,West Bank and Gaza,0,0,0
@@ -2082,6 +2092,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-01,United Kingdom,2,0,0
 2020-02-01,Uruguay,0,0,0
 2020-02-01,Uzbekistan,0,0,0
+2020-02-01,Vanuatu,0,0,0
 2020-02-01,Venezuela,0,0,0
 2020-02-01,Vietnam,6,0,1
 2020-02-01,West Bank and Gaza,0,0,0
@@ -2272,6 +2283,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-02,United Kingdom,2,0,0
 2020-02-02,Uruguay,0,0,0
 2020-02-02,Uzbekistan,0,0,0
+2020-02-02,Vanuatu,0,0,0
 2020-02-02,Venezuela,0,0,0
 2020-02-02,Vietnam,6,0,1
 2020-02-02,West Bank and Gaza,0,0,0
@@ -2462,6 +2474,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-03,United Kingdom,8,0,0
 2020-02-03,Uruguay,0,0,0
 2020-02-03,Uzbekistan,0,0,0
+2020-02-03,Vanuatu,0,0,0
 2020-02-03,Venezuela,0,0,0
 2020-02-03,Vietnam,8,0,1
 2020-02-03,West Bank and Gaza,0,0,0
@@ -2652,6 +2665,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-04,United Kingdom,8,0,0
 2020-02-04,Uruguay,0,0,0
 2020-02-04,Uzbekistan,0,0,0
+2020-02-04,Vanuatu,0,0,0
 2020-02-04,Venezuela,0,0,0
 2020-02-04,Vietnam,8,0,1
 2020-02-04,West Bank and Gaza,0,0,0
@@ -2842,6 +2856,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-05,United Kingdom,9,0,0
 2020-02-05,Uruguay,0,0,0
 2020-02-05,Uzbekistan,0,0,0
+2020-02-05,Vanuatu,0,0,0
 2020-02-05,Venezuela,0,0,0
 2020-02-05,Vietnam,8,0,1
 2020-02-05,West Bank and Gaza,0,0,0
@@ -3032,6 +3047,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-06,United Kingdom,9,0,0
 2020-02-06,Uruguay,0,0,0
 2020-02-06,Uzbekistan,0,0,0
+2020-02-06,Vanuatu,0,0,0
 2020-02-06,Venezuela,0,0,0
 2020-02-06,Vietnam,10,0,1
 2020-02-06,West Bank and Gaza,0,0,0
@@ -3222,6 +3238,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-07,United Kingdom,9,0,0
 2020-02-07,Uruguay,0,0,0
 2020-02-07,Uzbekistan,0,0,0
+2020-02-07,Vanuatu,0,0,0
 2020-02-07,Venezuela,0,0,0
 2020-02-07,Vietnam,10,0,1
 2020-02-07,West Bank and Gaza,0,0,0
@@ -3412,6 +3429,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-08,United Kingdom,13,0,0
 2020-02-08,Uruguay,0,0,0
 2020-02-08,Uzbekistan,0,0,0
+2020-02-08,Vanuatu,0,0,0
 2020-02-08,Venezuela,0,0,0
 2020-02-08,Vietnam,13,0,1
 2020-02-08,West Bank and Gaza,0,0,0
@@ -3602,6 +3620,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-09,United Kingdom,14,0,0
 2020-02-09,Uruguay,0,0,0
 2020-02-09,Uzbekistan,0,0,0
+2020-02-09,Vanuatu,0,0,0
 2020-02-09,Venezuela,0,0,0
 2020-02-09,Vietnam,13,0,1
 2020-02-09,West Bank and Gaza,0,0,0
@@ -3792,6 +3811,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-10,United Kingdom,14,0,0
 2020-02-10,Uruguay,0,0,0
 2020-02-10,Uzbekistan,0,0,0
+2020-02-10,Vanuatu,0,0,0
 2020-02-10,Venezuela,0,0,0
 2020-02-10,Vietnam,14,0,1
 2020-02-10,West Bank and Gaza,0,0,0
@@ -3982,6 +4002,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-11,United Kingdom,15,0,0
 2020-02-11,Uruguay,0,0,0
 2020-02-11,Uzbekistan,0,0,0
+2020-02-11,Vanuatu,0,0,0
 2020-02-11,Venezuela,0,0,0
 2020-02-11,Vietnam,15,0,6
 2020-02-11,West Bank and Gaza,0,0,0
@@ -4172,6 +4193,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-12,United Kingdom,16,0,1
 2020-02-12,Uruguay,0,0,0
 2020-02-12,Uzbekistan,0,0,0
+2020-02-12,Vanuatu,0,0,0
 2020-02-12,Venezuela,0,0,0
 2020-02-12,Vietnam,15,0,6
 2020-02-12,West Bank and Gaza,0,0,0
@@ -4362,6 +4384,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-13,United Kingdom,17,0,1
 2020-02-13,Uruguay,0,0,0
 2020-02-13,Uzbekistan,0,0,0
+2020-02-13,Vanuatu,0,0,0
 2020-02-13,Venezuela,0,0,0
 2020-02-13,Vietnam,16,0,7
 2020-02-13,West Bank and Gaza,0,0,0
@@ -4552,6 +4575,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-14,United Kingdom,18,0,1
 2020-02-14,Uruguay,0,0,0
 2020-02-14,Uzbekistan,0,0,0
+2020-02-14,Vanuatu,0,0,0
 2020-02-14,Venezuela,0,0,0
 2020-02-14,Vietnam,16,0,7
 2020-02-14,West Bank and Gaza,0,0,0
@@ -4742,6 +4766,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-15,United Kingdom,18,0,1
 2020-02-15,Uruguay,0,0,0
 2020-02-15,Uzbekistan,0,0,0
+2020-02-15,Vanuatu,0,0,0
 2020-02-15,Venezuela,0,0,0
 2020-02-15,Vietnam,16,0,7
 2020-02-15,West Bank and Gaza,0,0,0
@@ -4932,6 +4957,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-16,United Kingdom,18,0,8
 2020-02-16,Uruguay,0,0,0
 2020-02-16,Uzbekistan,0,0,0
+2020-02-16,Vanuatu,0,0,0
 2020-02-16,Venezuela,0,0,0
 2020-02-16,Vietnam,16,0,7
 2020-02-16,West Bank and Gaza,0,0,0
@@ -5122,6 +5148,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-17,United Kingdom,19,0,8
 2020-02-17,Uruguay,0,0,0
 2020-02-17,Uzbekistan,0,0,0
+2020-02-17,Vanuatu,0,0,0
 2020-02-17,Venezuela,0,0,0
 2020-02-17,Vietnam,16,0,7
 2020-02-17,West Bank and Gaza,0,0,0
@@ -5312,6 +5339,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-18,United Kingdom,19,0,8
 2020-02-18,Uruguay,0,0,0
 2020-02-18,Uzbekistan,0,0,0
+2020-02-18,Vanuatu,0,0,0
 2020-02-18,Venezuela,0,0,0
 2020-02-18,Vietnam,16,0,7
 2020-02-18,West Bank and Gaza,0,0,0
@@ -5502,6 +5530,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-19,United Kingdom,20,0,8
 2020-02-19,Uruguay,0,0,0
 2020-02-19,Uzbekistan,0,0,0
+2020-02-19,Vanuatu,0,0,0
 2020-02-19,Venezuela,0,0,0
 2020-02-19,Vietnam,16,0,7
 2020-02-19,West Bank and Gaza,0,0,0
@@ -5692,6 +5721,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-20,United Kingdom,22,0,8
 2020-02-20,Uruguay,0,0,0
 2020-02-20,Uzbekistan,0,0,0
+2020-02-20,Vanuatu,0,0,0
 2020-02-20,Venezuela,0,0,0
 2020-02-20,Vietnam,16,0,7
 2020-02-20,West Bank and Gaza,0,0,0
@@ -5882,6 +5912,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-21,United Kingdom,23,0,8
 2020-02-21,Uruguay,0,0,0
 2020-02-21,Uzbekistan,0,0,0
+2020-02-21,Vanuatu,0,0,0
 2020-02-21,Venezuela,0,0,0
 2020-02-21,Vietnam,16,0,14
 2020-02-21,West Bank and Gaza,0,0,0
@@ -6072,6 +6103,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-22,United Kingdom,23,0,8
 2020-02-22,Uruguay,0,0,0
 2020-02-22,Uzbekistan,0,0,0
+2020-02-22,Vanuatu,0,0,0
 2020-02-22,Venezuela,0,0,0
 2020-02-22,Vietnam,16,0,14
 2020-02-22,West Bank and Gaza,0,0,0
@@ -6262,6 +6294,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-23,United Kingdom,28,0,8
 2020-02-23,Uruguay,0,0,0
 2020-02-23,Uzbekistan,0,0,0
+2020-02-23,Vanuatu,0,0,0
 2020-02-23,Venezuela,0,0,0
 2020-02-23,Vietnam,16,0,14
 2020-02-23,West Bank and Gaza,0,0,0
@@ -6452,6 +6485,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-24,United Kingdom,30,0,8
 2020-02-24,Uruguay,0,0,0
 2020-02-24,Uzbekistan,0,0,0
+2020-02-24,Vanuatu,0,0,0
 2020-02-24,Venezuela,0,0,0
 2020-02-24,Vietnam,16,0,14
 2020-02-24,West Bank and Gaza,0,0,0
@@ -6642,6 +6676,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-25,United Kingdom,34,0,8
 2020-02-25,Uruguay,0,0,0
 2020-02-25,Uzbekistan,0,0,0
+2020-02-25,Vanuatu,0,0,0
 2020-02-25,Venezuela,0,0,0
 2020-02-25,Vietnam,16,0,16
 2020-02-25,West Bank and Gaza,0,0,0
@@ -6832,6 +6867,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-26,United Kingdom,37,0,8
 2020-02-26,Uruguay,0,0,0
 2020-02-26,Uzbekistan,0,0,0
+2020-02-26,Vanuatu,0,0,0
 2020-02-26,Venezuela,0,0,0
 2020-02-26,Vietnam,16,0,16
 2020-02-26,West Bank and Gaza,0,0,0
@@ -7022,6 +7058,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-27,United Kingdom,44,0,8
 2020-02-27,Uruguay,0,0,0
 2020-02-27,Uzbekistan,0,0,0
+2020-02-27,Vanuatu,0,0,0
 2020-02-27,Venezuela,0,0,0
 2020-02-27,Vietnam,16,0,16
 2020-02-27,West Bank and Gaza,0,0,0
@@ -7212,6 +7249,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-28,United Kingdom,56,0,8
 2020-02-28,Uruguay,0,0,0
 2020-02-28,Uzbekistan,0,0,0
+2020-02-28,Vanuatu,0,0,0
 2020-02-28,Venezuela,0,0,0
 2020-02-28,Vietnam,16,0,16
 2020-02-28,West Bank and Gaza,0,0,0
@@ -7402,6 +7440,7 @@ isodate,country,confirmed,deaths,recovered
 2020-02-29,United Kingdom,61,0,8
 2020-02-29,Uruguay,0,0,0
 2020-02-29,Uzbekistan,0,0,0
+2020-02-29,Vanuatu,0,0,0
 2020-02-29,Venezuela,0,0,0
 2020-02-29,Vietnam,16,0,16
 2020-02-29,West Bank and Gaza,0,0,0
@@ -7592,6 +7631,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-01,United Kingdom,94,0,8
 2020-03-01,Uruguay,0,0,0
 2020-03-01,Uzbekistan,0,0,0
+2020-03-01,Vanuatu,0,0,0
 2020-03-01,Venezuela,0,0,0
 2020-03-01,Vietnam,16,0,16
 2020-03-01,West Bank and Gaza,0,0,0
@@ -7782,6 +7822,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,United Kingdom,134,0,8
 2020-03-02,Uruguay,0,0,0
 2020-03-02,Uzbekistan,0,0,0
+2020-03-02,Vanuatu,0,0,0
 2020-03-02,Venezuela,0,0,0
 2020-03-02,Vietnam,16,0,16
 2020-03-02,West Bank and Gaza,0,0,0
@@ -7972,6 +8013,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,United Kingdom,189,0,8
 2020-03-03,Uruguay,0,0,0
 2020-03-03,Uzbekistan,0,0,0
+2020-03-03,Vanuatu,0,0,0
 2020-03-03,Venezuela,0,0,0
 2020-03-03,Vietnam,16,0,16
 2020-03-03,West Bank and Gaza,0,0,0
@@ -8162,6 +8204,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,United Kingdom,246,0,8
 2020-03-04,Uruguay,0,0,0
 2020-03-04,Uzbekistan,0,0,0
+2020-03-04,Vanuatu,0,0,0
 2020-03-04,Venezuela,0,0,0
 2020-03-04,Vietnam,16,0,16
 2020-03-04,West Bank and Gaza,0,0,0
@@ -8352,6 +8395,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,United Kingdom,295,0,8
 2020-03-05,Uruguay,0,0,0
 2020-03-05,Uzbekistan,0,0,0
+2020-03-05,Vanuatu,0,0,0
 2020-03-05,Venezuela,0,0,0
 2020-03-05,Vietnam,16,0,16
 2020-03-05,West Bank and Gaza,4,0,0
@@ -8542,6 +8586,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,United Kingdom,374,1,8
 2020-03-06,Uruguay,0,0,0
 2020-03-06,Uzbekistan,0,0,0
+2020-03-06,Vanuatu,0,0,0
 2020-03-06,Venezuela,0,0,0
 2020-03-06,Vietnam,16,0,16
 2020-03-06,West Bank and Gaza,7,0,0
@@ -8732,6 +8777,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,United Kingdom,429,2,18
 2020-03-07,Uruguay,0,0,0
 2020-03-07,Uzbekistan,0,0,0
+2020-03-07,Vanuatu,0,0,0
 2020-03-07,Venezuela,0,0,0
 2020-03-07,Vietnam,18,0,16
 2020-03-07,West Bank and Gaza,16,0,0
@@ -8922,6 +8968,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,United Kingdom,483,2,18
 2020-03-08,Uruguay,0,0,0
 2020-03-08,Uzbekistan,0,0,0
+2020-03-08,Vanuatu,0,0,0
 2020-03-08,Venezuela,0,0,0
 2020-03-08,Vietnam,30,0,16
 2020-03-08,West Bank and Gaza,16,0,0
@@ -9112,6 +9159,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,United Kingdom,630,3,18
 2020-03-09,Uruguay,0,0,0
 2020-03-09,Uzbekistan,0,0,0
+2020-03-09,Vanuatu,0,0,0
 2020-03-09,Venezuela,0,0,0
 2020-03-09,Vietnam,30,0,16
 2020-03-09,West Bank and Gaza,19,0,0
@@ -9302,6 +9350,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,United Kingdom,889,7,19
 2020-03-10,Uruguay,0,0,0
 2020-03-10,Uzbekistan,0,0,0
+2020-03-10,Vanuatu,0,0,0
 2020-03-10,Venezuela,0,0,0
 2020-03-10,Vietnam,31,0,16
 2020-03-10,West Bank and Gaza,26,0,0
@@ -9492,6 +9541,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,United Kingdom,1301,7,19
 2020-03-11,Uruguay,0,0,0
 2020-03-11,Uzbekistan,0,0,0
+2020-03-11,Vanuatu,0,0,0
 2020-03-11,Venezuela,0,0,0
 2020-03-11,Vietnam,38,0,16
 2020-03-11,West Bank and Gaza,30,0,0
@@ -9682,6 +9732,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,United Kingdom,1790,9,19
 2020-03-12,Uruguay,0,0,0
 2020-03-12,Uzbekistan,0,0,0
+2020-03-12,Vanuatu,0,0,0
 2020-03-12,Venezuela,0,0,0
 2020-03-12,Vietnam,39,0,16
 2020-03-12,West Bank and Gaza,30,0,0
@@ -9872,6 +9923,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,United Kingdom,2270,10,19
 2020-03-13,Uruguay,4,0,0
 2020-03-13,Uzbekistan,0,0,0
+2020-03-13,Vanuatu,0,0,0
 2020-03-13,Venezuela,0,0,0
 2020-03-13,Vietnam,47,0,16
 2020-03-13,West Bank and Gaza,31,0,0
@@ -10062,6 +10114,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-14,United Kingdom,2634,29,19
 2020-03-14,Uruguay,6,0,0
 2020-03-14,Uzbekistan,0,0,0
+2020-03-14,Vanuatu,0,0,0
 2020-03-14,Venezuela,2,0,0
 2020-03-14,Vietnam,53,0,16
 2020-03-14,West Bank and Gaza,35,0,0
@@ -10252,6 +10305,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,United Kingdom,3077,43,19
 2020-03-15,Uruguay,8,0,0
 2020-03-15,Uzbekistan,1,0,0
+2020-03-15,Vanuatu,0,0,0
 2020-03-15,Venezuela,10,0,0
 2020-03-15,Vietnam,56,0,16
 2020-03-15,West Bank and Gaza,38,0,0
@@ -10442,6 +10496,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,United Kingdom,3692,66,21
 2020-03-16,Uruguay,29,0,0
 2020-03-16,Uzbekistan,6,0,0
+2020-03-16,Vanuatu,0,0,0
 2020-03-16,Venezuela,17,0,0
 2020-03-16,Vietnam,61,0,16
 2020-03-16,West Bank and Gaza,38,0,0
@@ -10632,6 +10687,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,United Kingdom,4462,83,53
 2020-03-17,Uruguay,50,0,0
 2020-03-17,Uzbekistan,10,0,0
+2020-03-17,Vanuatu,0,0,0
 2020-03-17,Venezuela,33,0,0
 2020-03-17,Vietnam,66,0,16
 2020-03-17,West Bank and Gaza,39,0,0
@@ -10822,6 +10878,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,United Kingdom,5467,117,67
 2020-03-18,Uruguay,79,0,0
 2020-03-18,Uzbekistan,15,0,0
+2020-03-18,Vanuatu,0,0,0
 2020-03-18,Venezuela,36,0,0
 2020-03-18,Vietnam,75,0,16
 2020-03-18,West Bank and Gaza,41,0,0
@@ -11012,6 +11069,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,United Kingdom,6533,163,67
 2020-03-19,Uruguay,94,0,0
 2020-03-19,Uzbekistan,23,0,0
+2020-03-19,Vanuatu,0,0,0
 2020-03-19,Venezuela,42,0,0
 2020-03-19,Vietnam,85,0,16
 2020-03-19,West Bank and Gaza,44,0,0
@@ -11202,6 +11260,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,United Kingdom,7791,195,67
 2020-03-20,Uruguay,110,0,0
 2020-03-20,Uzbekistan,33,0,0
+2020-03-20,Vanuatu,0,0,0
 2020-03-20,Venezuela,42,0,0
 2020-03-20,Vietnam,91,0,16
 2020-03-20,West Bank and Gaza,47,0,17
@@ -11392,6 +11451,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,United Kingdom,9006,253,67
 2020-03-21,Uruguay,135,0,0
 2020-03-21,Uzbekistan,43,0,0
+2020-03-21,Vanuatu,0,0,0
 2020-03-21,Venezuela,70,0,0
 2020-03-21,Vietnam,94,0,17
 2020-03-21,West Bank and Gaza,48,0,17
@@ -11582,6 +11642,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,United Kingdom,10395,289,67
 2020-03-22,Uruguay,158,0,0
 2020-03-22,Uzbekistan,43,0,0
+2020-03-22,Vanuatu,0,0,0
 2020-03-22,Venezuela,70,0,15
 2020-03-22,Vietnam,113,0,17
 2020-03-22,West Bank and Gaza,52,0,17
@@ -11772,6 +11833,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,United Kingdom,12744,365,67
 2020-03-23,Uruguay,162,0,0
 2020-03-23,Uzbekistan,46,0,0
+2020-03-23,Vanuatu,0,0,0
 2020-03-23,Venezuela,77,0,15
 2020-03-23,Vietnam,123,0,17
 2020-03-23,West Bank and Gaza,59,0,17
@@ -11962,6 +12024,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,United Kingdom,15126,513,140
 2020-03-24,Uruguay,189,0,0
 2020-03-24,Uzbekistan,50,0,0
+2020-03-24,Vanuatu,0,0,0
 2020-03-24,Venezuela,84,0,15
 2020-03-24,Vietnam,134,0,17
 2020-03-24,West Bank and Gaza,59,0,17
@@ -12152,6 +12215,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,United Kingdom,17843,704,140
 2020-03-25,Uruguay,217,0,0
 2020-03-25,Uzbekistan,60,0,0
+2020-03-25,Vanuatu,0,0,0
 2020-03-25,Venezuela,91,0,15
 2020-03-25,Vietnam,141,0,17
 2020-03-25,West Bank and Gaza,59,0,17
@@ -12342,6 +12406,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,United Kingdom,20970,886,150
 2020-03-26,Uruguay,238,0,0
 2020-03-26,Uzbekistan,75,0,0
+2020-03-26,Vanuatu,0,0,0
 2020-03-26,Venezuela,107,0,15
 2020-03-26,Vietnam,153,0,20
 2020-03-26,West Bank and Gaza,84,1,17
@@ -12532,6 +12597,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,United Kingdom,24219,1174,151
 2020-03-27,Uruguay,274,0,0
 2020-03-27,Uzbekistan,88,1,5
+2020-03-27,Vanuatu,0,0,0
 2020-03-27,Venezuela,107,1,31
 2020-03-27,Vietnam,163,0,20
 2020-03-27,West Bank and Gaza,91,1,17
@@ -12722,6 +12788,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,United Kingdom,27062,1466,151
 2020-03-28,Uruguay,303,1,0
 2020-03-28,Uzbekistan,104,2,5
+2020-03-28,Vanuatu,0,0,0
 2020-03-28,Venezuela,119,2,39
 2020-03-28,Vietnam,174,0,21
 2020-03-28,West Bank and Gaza,98,1,18
@@ -12912,6 +12979,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,United Kingdom,29954,1679,151
 2020-03-29,Uruguay,309,1,0
 2020-03-29,Uzbekistan,144,2,7
+2020-03-29,Vanuatu,0,0,0
 2020-03-29,Venezuela,119,2,39
 2020-03-29,Vietnam,188,0,25
 2020-03-29,West Bank and Gaza,109,1,18
@@ -13102,6 +13170,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,United Kingdom,34281,2053,171
 2020-03-30,Uruguay,320,1,0
 2020-03-30,Uzbekistan,149,2,7
+2020-03-30,Vanuatu,0,0,0
 2020-03-30,Venezuela,135,3,39
 2020-03-30,Vietnam,203,0,55
 2020-03-30,West Bank and Gaza,116,1,18
@@ -13292,6 +13361,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,United Kingdom,38815,2457,179
 2020-03-31,Uruguay,338,1,41
 2020-03-31,Uzbekistan,172,2,7
+2020-03-31,Vanuatu,0,0,0
 2020-03-31,Venezuela,135,3,39
 2020-03-31,Vietnam,212,0,58
 2020-03-31,West Bank and Gaza,119,1,18
@@ -13482,6 +13552,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,United Kingdom,43789,3130,179
 2020-04-01,Uruguay,350,2,62
 2020-04-01,Uzbekistan,181,2,12
+2020-04-01,Vanuatu,0,0,0
 2020-04-01,Venezuela,143,3,41
 2020-04-01,Vietnam,218,0,63
 2020-04-01,West Bank and Gaza,134,1,18
@@ -13672,6 +13743,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,United Kingdom,48718,3787,192
 2020-04-02,Uruguay,369,4,68
 2020-04-02,Uzbekistan,205,2,25
+2020-04-02,Vanuatu,0,0,0
 2020-04-02,Venezuela,146,5,43
 2020-04-02,Vietnam,233,0,75
 2020-04-02,West Bank and Gaza,161,1,18
@@ -13862,6 +13934,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,United Kingdom,53699,4524,208
 2020-04-03,Uruguay,386,4,86
 2020-04-03,Uzbekistan,227,2,25
+2020-04-03,Vanuatu,0,0,0
 2020-04-03,Venezuela,153,7,52
 2020-04-03,Vietnam,237,0,85
 2020-04-03,West Bank and Gaza,194,1,21
@@ -14052,6 +14125,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,United Kingdom,57772,5281,215
 2020-04-04,Uruguay,400,5,93
 2020-04-04,Uzbekistan,266,2,25
+2020-04-04,Vanuatu,0,0,0
 2020-04-04,Venezuela,155,7,52
 2020-04-04,Vietnam,240,0,90
 2020-04-04,West Bank and Gaza,217,1,21
@@ -14242,6 +14316,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,United Kingdom,61422,5882,229
 2020-04-05,Uruguay,406,6,104
 2020-04-05,Uzbekistan,342,2,30
+2020-04-05,Vanuatu,0,0,0
 2020-04-05,Venezuela,159,7,52
 2020-04-05,Vietnam,241,0,90
 2020-04-05,West Bank and Gaza,237,1,25
@@ -14432,6 +14507,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,United Kingdom,66738,6452,287
 2020-04-06,Uruguay,415,6,123
 2020-04-06,Uzbekistan,457,2,30
+2020-04-06,Vanuatu,0,0,0
 2020-04-06,Venezuela,165,7,65
 2020-04-06,Vietnam,245,0,95
 2020-04-06,West Bank and Gaza,254,1,24
@@ -14622,6 +14698,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,United Kingdom,72224,7557,325
 2020-04-07,Uruguay,424,7,150
 2020-04-07,Uzbekistan,520,2,30
+2020-04-07,Vanuatu,0,0,0
 2020-04-07,Venezuela,165,7,65
 2020-04-07,Vietnam,249,0,123
 2020-04-07,West Bank and Gaza,261,1,42
@@ -14812,6 +14889,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,United Kingdom,77387,8589,345
 2020-04-08,Uruguay,456,7,192
 2020-04-08,Uzbekistan,545,3,30
+2020-04-08,Vanuatu,0,0,0
 2020-04-08,Venezuela,167,9,65
 2020-04-08,Vietnam,251,0,126
 2020-04-08,West Bank and Gaza,263,1,44
@@ -15002,6 +15080,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,United Kingdom,82293,9706,359
 2020-04-09,Uruguay,473,7,206
 2020-04-09,Uzbekistan,582,3,38
+2020-04-09,Vanuatu,0,0,0
 2020-04-09,Venezuela,171,9,84
 2020-04-09,Vietnam,255,0,128
 2020-04-09,West Bank and Gaza,263,1,44
@@ -15192,6 +15271,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,United Kingdom,86660,10829,588
 2020-04-10,Uruguay,494,7,214
 2020-04-10,Uzbekistan,624,3,42
+2020-04-10,Vanuatu,0,0,0
 2020-04-10,Venezuela,171,9,84
 2020-04-10,Vietnam,257,0,144
 2020-04-10,West Bank and Gaza,267,2,45
@@ -15382,6 +15462,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,United Kingdom,90273,11673,622
 2020-04-11,Uruguay,501,7,224
 2020-04-11,Uzbekistan,767,4,42
+2020-04-11,Vanuatu,0,0,0
 2020-04-11,Venezuela,175,9,93
 2020-04-11,Vietnam,258,0,144
 2020-04-11,West Bank and Gaza,268,2,57
@@ -15572,6 +15653,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,United Kingdom,93812,12330,626
 2020-04-12,Uruguay,480,7,231
 2020-04-12,Uzbekistan,865,4,66
+2020-04-12,Vanuatu,0,0,0
 2020-04-12,Venezuela,181,9,93
 2020-04-12,Vietnam,262,0,144
 2020-04-12,West Bank and Gaza,271,2,58
@@ -15762,6 +15844,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,United Kingdom,98017,13055,304
 2020-04-13,Uruguay,483,8,248
 2020-04-13,Uzbekistan,998,4,85
+2020-04-13,Vanuatu,0,0,0
 2020-04-13,Venezuela,189,9,110
 2020-04-13,Vietnam,265,0,146
 2020-04-13,West Bank and Gaza,273,2,58
@@ -15952,6 +16035,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,United Kingdom,102365,14135,323
 2020-04-14,Uruguay,492,8,260
 2020-04-14,Uzbekistan,1165,4,99
+2020-04-14,Vanuatu,0,0,0
 2020-04-14,Venezuela,189,9,110
 2020-04-14,Vietnam,266,0,169
 2020-04-14,West Bank and Gaza,284,2,62
@@ -16142,6 +16226,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,United Kingdom,107465,15019,368
 2020-04-15,Uruguay,493,9,272
 2020-04-15,Uzbekistan,1302,4,107
+2020-04-15,Vanuatu,0,0,0
 2020-04-15,Venezuela,197,9,111
 2020-04-15,Vietnam,267,0,171
 2020-04-15,West Bank and Gaza,291,2,63
@@ -16332,6 +16417,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,United Kingdom,112808,16059,375
 2020-04-16,Uruguay,502,9,286
 2020-04-16,Uzbekistan,1349,4,129
+2020-04-16,Vanuatu,0,0,0
 2020-04-16,Venezuela,204,9,111
 2020-04-16,Vietnam,268,0,177
 2020-04-16,West Bank and Gaza,294,2,63
@@ -16522,6 +16608,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,United Kingdom,117798,16973,394
 2020-04-17,Uruguay,508,9,294
 2020-04-17,Uzbekistan,1405,4,156
+2020-04-17,Vanuatu,0,0,0
 2020-04-17,Venezuela,204,9,111
 2020-04-17,Vietnam,268,0,198
 2020-04-17,West Bank and Gaza,307,2,69
@@ -16712,6 +16799,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,United Kingdom,122534,18081,414
 2020-04-18,Uruguay,517,9,298
 2020-04-18,Uzbekistan,1490,5,194
+2020-04-18,Vanuatu,0,0,0
 2020-04-18,Venezuela,227,9,113
 2020-04-18,Vietnam,268,0,201
 2020-04-18,West Bank and Gaza,313,2,69
@@ -16902,6 +16990,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,United Kingdom,126394,18514,436
 2020-04-19,Uruguay,528,10,298
 2020-04-19,Uzbekistan,1565,5,225
+2020-04-19,Vanuatu,0,0,0
 2020-04-19,Venezuela,256,9,117
 2020-04-19,Vietnam,268,0,202
 2020-04-19,West Bank and Gaza,319,2,71
@@ -17092,6 +17181,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,United Kingdom,131260,19090,446
 2020-04-20,Uruguay,535,10,313
 2020-04-20,Uzbekistan,1627,5,261
+2020-04-20,Vanuatu,0,0,0
 2020-04-20,Venezuela,256,9,117
 2020-04-20,Vietnam,268,0,214
 2020-04-20,West Bank and Gaza,329,2,71
@@ -17282,6 +17372,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,United Kingdom,136035,20314,638
 2020-04-21,Uruguay,543,12,324
 2020-04-21,Uzbekistan,1678,6,357
+2020-04-21,Vanuatu,0,0,0
 2020-04-21,Venezuela,285,10,117
 2020-04-21,Vietnam,268,0,216
 2020-04-21,West Bank and Gaza,329,2,71
@@ -17472,6 +17563,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-22,United Kingdom,141540,21171,683
 2020-04-22,Uruguay,549,12,337
 2020-04-22,Uzbekistan,1716,7,450
+2020-04-22,Vanuatu,0,0,0
 2020-04-22,Venezuela,288,10,122
 2020-04-22,Vietnam,268,0,223
 2020-04-22,West Bank and Gaza,335,2,71
@@ -17662,6 +17754,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-23,United Kingdom,146708,21855,712
 2020-04-23,Uruguay,557,12,354
 2020-04-23,Uzbekistan,1758,7,561
+2020-04-23,Vanuatu,0,0,0
 2020-04-23,Venezuela,311,10,126
 2020-04-23,Vietnam,268,0,224
 2020-04-23,West Bank and Gaza,336,2,74
@@ -17852,6 +17945,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-24,United Kingdom,151689,22873,724
 2020-04-24,Uruguay,563,12,369
 2020-04-24,Uzbekistan,1804,8,621
+2020-04-24,Vanuatu,0,0,0
 2020-04-24,Venezuela,318,10,132
 2020-04-24,Vietnam,270,0,220
 2020-04-24,West Bank and Gaza,340,2,81
@@ -18042,6 +18136,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-25,United Kingdom,155453,23689,774
 2020-04-25,Uruguay,596,14,370
 2020-04-25,Uzbekistan,1862,8,707
+2020-04-25,Vanuatu,0,0,0
 2020-04-25,Venezuela,323,10,132
 2020-04-25,Vietnam,270,0,225
 2020-04-25,West Bank and Gaza,342,2,83
@@ -18232,6 +18327,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-26,United Kingdom,158926,24053,778
 2020-04-26,Uruguay,606,15,375
 2020-04-26,Uzbekistan,1869,8,789
+2020-04-26,Vanuatu,0,0,0
 2020-04-26,Venezuela,325,10,137
 2020-04-26,Vietnam,270,0,225
 2020-04-26,West Bank and Gaza,342,2,83
@@ -18422,6 +18518,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-27,United Kingdom,163630,24376,807
 2020-04-27,Uruguay,620,15,386
 2020-04-27,Uzbekistan,1904,8,892
+2020-04-27,Vanuatu,0,0,0
 2020-04-27,Venezuela,329,10,142
 2020-04-27,Vietnam,270,0,225
 2020-04-27,West Bank and Gaza,342,2,83
@@ -18612,6 +18709,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-28,United Kingdom,168357,25347,813
 2020-04-28,Uruguay,625,15,394
 2020-04-28,Uzbekistan,1939,8,992
+2020-04-28,Vanuatu,0,0,0
 2020-04-28,Venezuela,329,10,142
 2020-04-28,Vietnam,270,0,222
 2020-04-28,West Bank and Gaza,343,2,71
@@ -18802,6 +18900,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-29,United Kingdom,173807,26118,857
 2020-04-29,Uruguay,630,15,412
 2020-04-29,Uzbekistan,2002,9,1096
+2020-04-29,Vanuatu,0,0,0
 2020-04-29,Venezuela,331,10,142
 2020-04-29,Vietnam,270,0,222
 2020-04-29,West Bank and Gaza,344,2,71
@@ -18992,6 +19091,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-30,United Kingdom,178771,26754,859
 2020-04-30,Uruguay,643,17,417
 2020-04-30,Uzbekistan,2039,9,1133
+2020-04-30,Vanuatu,0,0,0
 2020-04-30,Venezuela,333,16,142
 2020-04-30,Vietnam,270,0,219
 2020-04-30,West Bank and Gaza,344,2,76
@@ -19182,6 +19282,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-01,United Kingdom,183501,27454,892
 2020-05-01,Uruguay,648,17,435
 2020-05-01,Uzbekistan,2086,9,1212
+2020-05-01,Vanuatu,0,0,0
 2020-05-01,Venezuela,335,10,148
 2020-05-01,Vietnam,270,0,219
 2020-05-01,West Bank and Gaza,353,2,76
@@ -19372,6 +19473,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-02,United Kingdom,186731,28039,896
 2020-05-02,Uruguay,652,17,440
 2020-05-02,Uzbekistan,2118,9,1271
+2020-05-02,Vanuatu,0,0,0
 2020-05-02,Venezuela,345,10,148
 2020-05-02,Vietnam,270,0,219
 2020-05-02,West Bank and Gaza,353,2,76
@@ -19562,6 +19664,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-03,United Kingdom,189708,28292,901
 2020-05-03,Uruguay,655,17,442
 2020-05-03,Uzbekistan,2149,10,1319
+2020-05-03,Vanuatu,0,0,0
 2020-05-03,Venezuela,357,10,158
 2020-05-03,Vietnam,271,0,219
 2020-05-03,West Bank and Gaza,353,2,77
@@ -19752,6 +19855,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-04,United Kingdom,193091,28565,910
 2020-05-04,Uruguay,657,17,447
 2020-05-04,Uzbekistan,2189,10,1405
+2020-05-04,Vanuatu,0,0,0
 2020-05-04,Venezuela,357,10,158
 2020-05-04,Vietnam,271,0,219
 2020-05-04,West Bank and Gaza,362,2,102
@@ -19942,6 +20046,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-05,United Kingdom,196780,29290,926
 2020-05-05,Uruguay,670,17,468
 2020-05-05,Uzbekistan,2207,10,1501
+2020-05-05,Vanuatu,0,0,0
 2020-05-05,Venezuela,361,10,158
 2020-05-05,Vietnam,271,0,232
 2020-05-05,West Bank and Gaza,371,2,127
@@ -20132,6 +20237,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-06,United Kingdom,200616,29937,934
 2020-05-06,Uruguay,673,17,486
 2020-05-06,Uzbekistan,2233,10,1577
+2020-05-06,Vanuatu,0,0,0
 2020-05-06,Venezuela,379,10,176
 2020-05-06,Vietnam,271,0,232
 2020-05-06,West Bank and Gaza,374,2,174
@@ -20322,6 +20428,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-07,United Kingdom,204387,30395,970
 2020-05-07,Uruguay,684,17,492
 2020-05-07,Uzbekistan,2298,10,1656
+2020-05-07,Vanuatu,0,0,0
 2020-05-07,Venezuela,381,10,185
 2020-05-07,Vietnam,288,0,233
 2020-05-07,West Bank and Gaza,375,2,176
@@ -20512,6 +20619,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-08,United Kingdom,207439,30975,997
 2020-05-08,Uruguay,694,18,506
 2020-05-08,Uzbekistan,2325,10,1775
+2020-05-08,Vanuatu,0,0,0
 2020-05-08,Venezuela,388,10,190
 2020-05-08,Vietnam,288,0,241
 2020-05-08,West Bank and Gaza,375,2,228
@@ -20702,6 +20810,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-09,United Kingdom,209589,31250,1001
 2020-05-09,Uruguay,702,18,513
 2020-05-09,Uzbekistan,2349,10,1846
+2020-05-09,Vanuatu,0,0,0
 2020-05-09,Venezuela,402,10,190
 2020-05-09,Vietnam,288,0,241
 2020-05-09,West Bank and Gaza,375,2,228
@@ -20892,6 +21001,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-10,United Kingdom,211911,31467,1002
 2020-05-10,Uruguay,707,19,517
 2020-05-10,Uzbekistan,2418,10,1881
+2020-05-10,Vanuatu,0,0,0
 2020-05-10,Venezuela,414,10,193
 2020-05-10,Vietnam,288,0,241
 2020-05-10,West Bank and Gaza,375,2,263
@@ -21082,6 +21192,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-11,United Kingdom,215500,31655,1015
 2020-05-11,Uruguay,711,19,523
 2020-05-11,Uzbekistan,2486,10,1988
+2020-05-11,Vanuatu,0,0,0
 2020-05-11,Venezuela,422,10,205
 2020-05-11,Vietnam,288,0,249
 2020-05-11,West Bank and Gaza,375,2,301
@@ -21272,6 +21383,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-12,United Kingdom,218895,32270,1023
 2020-05-12,Uruguay,717,19,532
 2020-05-12,Uzbekistan,2519,10,2010
+2020-05-12,Vanuatu,0,0,0
 2020-05-12,Venezuela,423,10,220
 2020-05-12,Vietnam,288,0,252
 2020-05-12,West Bank and Gaza,375,2,308
@@ -21462,6 +21574,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-13,United Kingdom,222195,32718,1032
 2020-05-13,Uruguay,719,19,545
 2020-05-13,Uzbekistan,2612,11,2076
+2020-05-13,Vanuatu,0,0,0
 2020-05-13,Venezuela,423,10,220
 2020-05-13,Vietnam,288,0,252
 2020-05-13,West Bank and Gaza,375,2,310
@@ -21652,6 +21765,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-14,United Kingdom,224813,33071,1043
 2020-05-14,Uruguay,724,19,547
 2020-05-14,Uzbekistan,2645,11,2136
+2020-05-14,Vanuatu,0,0,0
 2020-05-14,Venezuela,455,10,220
 2020-05-14,Vietnam,312,0,260
 2020-05-14,West Bank and Gaza,375,2,310
@@ -21842,6 +21956,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-15,United Kingdom,227334,33422,1047
 2020-05-15,Uruguay,732,19,553
 2020-05-15,Uzbekistan,2686,11,2158
+2020-05-15,Vanuatu,0,0,0
 2020-05-15,Venezuela,459,10,229
 2020-05-15,Vietnam,314,0,260
 2020-05-15,West Bank and Gaza,375,2,315
@@ -22032,6 +22147,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-16,United Kingdom,229406,33833,1058
 2020-05-16,Uruguay,733,19,558
 2020-05-16,Uzbekistan,2738,11,2213
+2020-05-16,Vanuatu,0,0,0
 2020-05-16,Venezuela,504,10,241
 2020-05-16,Vietnam,318,0,260
 2020-05-16,West Bank and Gaza,376,2,329
@@ -22222,6 +22338,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-17,United Kingdom,231232,33900,1058
 2020-05-17,Uruguay,734,20,564
 2020-05-17,Uzbekistan,2753,12,2247
+2020-05-17,Vanuatu,0,0,0
 2020-05-17,Venezuela,541,10,241
 2020-05-17,Vietnam,320,0,260
 2020-05-17,West Bank and Gaza,381,2,335
@@ -22412,6 +22529,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-18,United Kingdom,233809,34046,1090
 2020-05-18,Uruguay,737,20,569
 2020-05-18,Uzbekistan,2791,13,2314
+2020-05-18,Vanuatu,0,0,0
 2020-05-18,Venezuela,618,10,253
 2020-05-18,Vietnam,324,0,263
 2020-05-18,West Bank and Gaza,388,2,337
@@ -22602,6 +22720,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-19,United Kingdom,236867,34547,1099
 2020-05-19,Uruguay,738,20,579
 2020-05-19,Uzbekistan,2855,13,2338
+2020-05-19,Vanuatu,0,0,0
 2020-05-19,Venezuela,749,10,253
 2020-05-19,Vietnam,324,0,263
 2020-05-19,West Bank and Gaza,391,2,346
@@ -22792,6 +22911,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-20,United Kingdom,239579,34876,1116
 2020-05-20,Uruguay,746,20,588
 2020-05-20,Uzbekistan,2939,13,2372
+2020-05-20,Vanuatu,0,0,0
 2020-05-20,Venezuela,824,10,262
 2020-05-20,Vietnam,324,0,263
 2020-05-20,West Bank and Gaza,398,2,346
@@ -22982,6 +23102,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-21,United Kingdom,242133,35149,1134
 2020-05-21,Uruguay,749,20,594
 2020-05-21,Uzbekistan,2964,13,2407
+2020-05-21,Vanuatu,0,0,0
 2020-05-21,Venezuela,882,10,262
 2020-05-21,Vietnam,324,0,266
 2020-05-21,West Bank and Gaza,423,2,346
@@ -23172,6 +23293,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-22,United Kingdom,244174,35440,1142
 2020-05-22,Uruguay,753,20,603
 2020-05-22,Uzbekistan,3028,13,2492
+2020-05-22,Vanuatu,0,0,0
 2020-05-22,Venezuela,944,10,262
 2020-05-22,Vietnam,324,0,267
 2020-05-22,West Bank and Gaza,423,2,346
@@ -23362,6 +23484,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-23,United Kingdom,245682,35660,1149
 2020-05-23,Uruguay,764,22,616
 2020-05-23,Uzbekistan,3115,13,2532
+2020-05-23,Vanuatu,0,0,0
 2020-05-23,Venezuela,1010,10,262
 2020-05-23,Vietnam,325,0,267
 2020-05-23,West Bank and Gaza,423,3,348
@@ -23552,6 +23675,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-24,United Kingdom,247037,36039,1151
 2020-05-24,Uruguay,769,22,618
 2020-05-24,Uzbekistan,3164,13,2565
+2020-05-24,Vanuatu,0,0,0
 2020-05-24,Venezuela,1121,10,262
 2020-05-24,Vietnam,325,0,267
 2020-05-24,West Bank and Gaza,423,3,357
@@ -23742,6 +23866,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-25,United Kingdom,248650,36143,1161
 2020-05-25,Uruguay,787,22,629
 2020-05-25,Uzbekistan,3189,13,2607
+2020-05-25,Vanuatu,0,0,0
 2020-05-25,Venezuela,1177,10,302
 2020-05-25,Vietnam,326,0,272
 2020-05-25,West Bank and Gaza,423,3,357
@@ -23932,6 +24057,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-26,United Kingdom,250309,36274,1161
 2020-05-26,Uruguay,789,22,638
 2020-05-26,Uzbekistan,3290,14,2636
+2020-05-26,Vanuatu,0,0,0
 2020-05-26,Venezuela,1211,11,302
 2020-05-26,Vietnam,327,0,272
 2020-05-26,West Bank and Gaza,429,3,365
@@ -24122,6 +24248,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-27,United Kingdom,252118,36696,1166
 2020-05-27,Uruguay,803,22,650
 2020-05-27,Uzbekistan,3369,14,2668
+2020-05-27,Vanuatu,0,0,0
 2020-05-27,Venezuela,1245,11,302
 2020-05-27,Vietnam,327,0,278
 2020-05-27,West Bank and Gaza,434,3,365
@@ -24312,6 +24439,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-28,United Kingdom,253854,37039,1167
 2020-05-28,Uruguay,811,22,654
 2020-05-28,Uzbekistan,3444,14,2694
+2020-05-28,Vanuatu,0,0,0
 2020-05-28,Venezuela,1325,11,302
 2020-05-28,Vietnam,327,0,278
 2020-05-28,West Bank and Gaza,446,3,368
@@ -24502,6 +24630,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-29,United Kingdom,255362,37313,1172
 2020-05-29,Uruguay,816,22,680
 2020-05-29,Uzbekistan,3468,14,2728
+2020-05-29,Vanuatu,0,0,0
 2020-05-29,Venezuela,1370,14,302
 2020-05-29,Vietnam,328,0,279
 2020-05-29,West Bank and Gaza,446,3,368
@@ -24692,6 +24821,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-30,United Kingdom,256469,37467,1187
 2020-05-30,Uruguay,821,22,682
 2020-05-30,Uzbekistan,3546,14,2783
+2020-05-30,Vanuatu,0,0,0
 2020-05-30,Venezuela,1459,14,302
 2020-05-30,Vietnam,328,0,279
 2020-05-30,West Bank and Gaza,447,3,368
@@ -24882,6 +25012,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-31,United Kingdom,257539,37527,1190
 2020-05-31,Uruguay,823,22,685
 2020-05-31,Uzbekistan,3623,15,2837
+2020-05-31,Vanuatu,0,0,0
 2020-05-31,Venezuela,1510,14,302
 2020-05-31,Vietnam,328,0,279
 2020-05-31,West Bank and Gaza,448,3,372
@@ -25072,6 +25203,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-01,United Kingdom,258983,37613,1221
 2020-06-01,Uruguay,825,23,689
 2020-06-01,Uzbekistan,3702,15,2859
+2020-06-01,Vanuatu,0,0,0
 2020-06-01,Venezuela,1662,17,302
 2020-06-01,Vietnam,328,0,293
 2020-06-01,West Bank and Gaza,449,3,372
@@ -25262,6 +25394,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-02,United Kingdom,260453,37863,1224
 2020-06-02,Uruguay,826,23,691
 2020-06-02,Uzbekistan,3760,15,2908
+2020-06-02,Vanuatu,0,0,0
 2020-06-02,Venezuela,1819,18,334
 2020-06-02,Vietnam,328,0,298
 2020-06-02,West Bank and Gaza,451,3,372
@@ -25452,6 +25585,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-03,United Kingdom,261802,38117,1212
 2020-06-03,Uruguay,828,23,698
 2020-06-03,Uzbekistan,3843,16,3014
+2020-06-03,Vanuatu,0,0,0
 2020-06-03,Venezuela,1952,20,334
 2020-06-03,Vietnam,328,0,302
 2020-06-03,West Bank and Gaza,457,3,372
@@ -25642,6 +25776,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-04,United Kingdom,263040,38247,1219
 2020-06-04,Uruguay,832,23,709
 2020-06-04,Uzbekistan,3939,16,3087
+2020-06-04,Vanuatu,0,0,0
 2020-06-04,Venezuela,2087,20,334
 2020-06-04,Vietnam,328,0,302
 2020-06-04,West Bank and Gaza,464,3,377
@@ -25832,6 +25967,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-05,United Kingdom,264150,38505,1228
 2020-06-05,Uruguay,834,23,721
 2020-06-05,Uzbekistan,4007,16,3247
+2020-06-05,Vanuatu,0,0,0
 2020-06-05,Venezuela,2145,20,334
 2020-06-05,Vietnam,328,0,307
 2020-06-05,West Bank and Gaza,464,3,377
@@ -26022,6 +26158,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-06,United Kingdom,264944,38648,1230
 2020-06-06,Uruguay,845,23,726
 2020-06-06,Uzbekistan,4094,17,3268
+2020-06-06,Vanuatu,0,0,0
 2020-06-06,Venezuela,2316,22,385
 2020-06-06,Vietnam,329,0,307
 2020-06-06,West Bank and Gaza,464,3,400
@@ -26212,6 +26349,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-07,United Kingdom,265662,38702,1239
 2020-06-07,Uruguay,845,23,730
 2020-06-07,Uzbekistan,4331,17,3354
+2020-06-07,Vanuatu,0,0,0
 2020-06-07,Venezuela,2377,22,487
 2020-06-07,Vietnam,331,0,307
 2020-06-07,West Bank and Gaza,472,3,403
@@ -26402,6 +26540,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-08,United Kingdom,266756,38749,1255
 2020-06-08,Uruguay,845,23,738
 2020-06-08,Uzbekistan,4440,18,3357
+2020-06-08,Vanuatu,0,0,0
 2020-06-08,Venezuela,2473,22,487
 2020-06-08,Vietnam,332,0,316
 2020-06-08,West Bank and Gaza,473,3,404
@@ -26592,6 +26731,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-09,United Kingdom,267915,38946,1257
 2020-06-09,Uruguay,846,23,754
 2020-06-09,Uzbekistan,4520,18,3459
+2020-06-09,Vanuatu,0,0,0
 2020-06-09,Venezuela,2632,23,487
 2020-06-09,Vietnam,332,0,316
 2020-06-09,West Bank and Gaza,481,3,404
@@ -26782,6 +26922,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-10,United Kingdom,269101,39110,1269
 2020-06-10,Uruguay,847,23,758
 2020-06-10,Uzbekistan,4623,19,3532
+2020-06-10,Vanuatu,0,0,0
 2020-06-10,Venezuela,2738,23,487
 2020-06-10,Vietnam,332,0,320
 2020-06-10,West Bank and Gaza,485,3,410
@@ -26972,6 +27113,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-11,United Kingdom,270108,39186,1278
 2020-06-11,Uruguay,847,23,772
 2020-06-11,Uzbekistan,4741,19,3637
+2020-06-11,Vanuatu,0,0,0
 2020-06-11,Venezuela,2814,23,487
 2020-06-11,Vietnam,332,0,321
 2020-06-11,West Bank and Gaza,487,3,410
@@ -27162,6 +27304,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-12,United Kingdom,271162,39317,1282
 2020-06-12,Uruguay,847,23,780
 2020-06-12,Uzbekistan,4869,19,3758
+2020-06-12,Vanuatu,0,0,0
 2020-06-12,Venezuela,2879,23,487
 2020-06-12,Vietnam,333,0,323
 2020-06-12,West Bank and Gaza,489,3,414
@@ -27352,6 +27495,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-13,United Kingdom,272050,39424,1283
 2020-06-13,Uruguay,847,23,784
 2020-06-13,Uzbekistan,4966,19,3874
+2020-06-13,Vanuatu,0,0,0
 2020-06-13,Venezuela,2904,24,487
 2020-06-13,Vietnam,334,0,323
 2020-06-13,West Bank and Gaza,489,3,415
@@ -27542,6 +27686,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-14,United Kingdom,272857,39451,1283
 2020-06-14,Uruguay,848,23,788
 2020-06-14,Uzbekistan,5080,19,3943
+2020-06-14,Vanuatu,0,0,0
 2020-06-14,Venezuela,2978,25,835
 2020-06-14,Vietnam,334,0,323
 2020-06-14,West Bank and Gaza,492,3,415
@@ -27732,6 +27877,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-15,United Kingdom,273888,39480,1284
 2020-06-15,Uruguay,848,23,792
 2020-06-15,Uzbekistan,5263,19,4019
+2020-06-15,Vanuatu,0,0,0
 2020-06-15,Venezuela,3062,26,835
 2020-06-15,Vietnam,334,0,323
 2020-06-15,West Bank and Gaza,505,3,415
@@ -27922,6 +28068,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-16,United Kingdom,274971,39600,1293
 2020-06-16,Uruguay,849,24,801
 2020-06-16,Uzbekistan,5493,19,4096
+2020-06-16,Vanuatu,0,0,0
 2020-06-16,Venezuela,3150,27,835
 2020-06-16,Vietnam,334,0,325
 2020-06-16,West Bank and Gaza,514,3,415
@@ -28112,6 +28259,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-17,United Kingdom,275970,39710,1304
 2020-06-17,Uruguay,849,24,810
 2020-06-17,Uzbekistan,5682,19,4131
+2020-06-17,Vanuatu,0,0,0
 2020-06-17,Venezuela,3386,28,835
 2020-06-17,Vietnam,335,0,325
 2020-06-17,West Bank and Gaza,555,3,415
@@ -28302,6 +28450,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-18,United Kingdom,276990,39777,1313
 2020-06-18,Uruguay,850,24,814
 2020-06-18,Uzbekistan,5767,19,4166
+2020-06-18,Vanuatu,0,0,0
 2020-06-18,Venezuela,3483,28,835
 2020-06-18,Vietnam,342,0,325
 2020-06-18,West Bank and Gaza,600,3,415
@@ -28492,6 +28641,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-19,United Kingdom,277974,39861,1319
 2020-06-19,Uruguay,853,24,814
 2020-06-19,Uzbekistan,5946,19,4273
+2020-06-19,Vanuatu,0,0,0
 2020-06-19,Venezuela,3591,30,835
 2020-06-19,Vietnam,349,0,326
 2020-06-19,West Bank and Gaza,675,3,437
@@ -28682,6 +28832,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-20,United Kingdom,278640,39932,1319
 2020-06-20,Uruguay,859,25,815
 2020-06-20,Uzbekistan,6153,19,4290
+2020-06-20,Vanuatu,0,0,0
 2020-06-20,Venezuela,3789,33,835
 2020-06-20,Vietnam,349,0,327
 2020-06-20,West Bank and Gaza,784,3,437
@@ -28872,6 +29023,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-21,United Kingdom,279264,39963,1319
 2020-06-21,Uruguay,876,25,814
 2020-06-21,Uzbekistan,6315,19,4377
+2020-06-21,Vanuatu,0,0,0
 2020-06-21,Venezuela,3917,33,835
 2020-06-21,Vietnam,349,0,327
 2020-06-21,West Bank and Gaza,833,3,439
@@ -29062,6 +29214,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-22,United Kingdom,280156,39976,1322
 2020-06-22,Uruguay,882,25,815
 2020-06-22,Uzbekistan,6461,19,4450
+2020-06-22,Vanuatu,0,0,0
 2020-06-22,Venezuela,4048,35,1327
 2020-06-22,Vietnam,349,0,328
 2020-06-22,West Bank and Gaza,1001,3,442
@@ -29252,6 +29405,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-23,United Kingdom,281038,40070,1330
 2020-06-23,Uruguay,885,25,815
 2020-06-23,Uzbekistan,6662,19,4560
+2020-06-23,Vanuatu,0,0,0
 2020-06-23,Venezuela,4187,35,1327
 2020-06-23,Vietnam,349,0,329
 2020-06-23,West Bank and Gaza,1169,3,442
@@ -29442,6 +29596,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-24,United Kingdom,281815,40157,1345
 2020-06-24,Uruguay,902,26,815
 2020-06-24,Uzbekistan,6990,19,4685
+2020-06-24,Vanuatu,0,0,0
 2020-06-24,Venezuela,4366,38,1327
 2020-06-24,Vietnam,352,0,329
 2020-06-24,West Bank and Gaza,1328,3,442
@@ -29632,6 +29787,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-25,United Kingdom,282512,40256,1361
 2020-06-25,Uruguay,907,26,818
 2020-06-25,Uzbekistan,7177,20,4877
+2020-06-25,Vanuatu,0,0,0
 2020-06-25,Venezuela,4563,39,1327
 2020-06-25,Vietnam,352,0,329
 2020-06-25,West Bank and Gaza,1382,3,446
@@ -29822,6 +29978,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-26,United Kingdom,283151,40333,1363
 2020-06-26,Uruguay,919,26,818
 2020-06-26,Uzbekistan,7427,20,5038
+2020-06-26,Vanuatu,0,0,0
 2020-06-26,Venezuela,4779,41,1327
 2020-06-26,Vietnam,353,0,330
 2020-06-26,West Bank and Gaza,1557,3,446
@@ -30012,6 +30169,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-27,United Kingdom,283785,40373,1364
 2020-06-27,Uruguay,924,26,818
 2020-06-27,Uzbekistan,7682,20,5240
+2020-06-27,Vanuatu,0,0,0
 2020-06-27,Venezuela,5130,42,1327
 2020-06-27,Vietnam,355,0,330
 2020-06-27,West Bank and Gaza,1815,4,446
@@ -30202,6 +30360,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-28,United Kingdom,284192,40404,1364
 2020-06-28,Uruguay,929,27,818
 2020-06-28,Uzbekistan,7948,22,5329
+2020-06-28,Vanuatu,0,0,0
 2020-06-28,Venezuela,5297,44,1649
 2020-06-28,Vietnam,355,0,330
 2020-06-28,West Bank and Gaza,1990,4,447
@@ -30392,6 +30551,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-29,United Kingdom,284812,40425,1368
 2020-06-29,Uruguay,932,27,822
 2020-06-29,Uzbekistan,8222,23,5496
+2020-06-29,Vanuatu,0,0,0
 2020-06-29,Venezuela,5530,48,1649
 2020-06-29,Vietnam,355,0,335
 2020-06-29,West Bank and Gaza,2185,5,447
@@ -30582,6 +30742,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-30,United Kingdom,285216,40479,1370
 2020-06-30,Uruguay,936,27,824
 2020-06-30,Uzbekistan,8503,26,5682
+2020-06-30,Vanuatu,0,0,0
 2020-06-30,Venezuela,5832,51,1649
 2020-06-30,Vietnam,355,0,335
 2020-06-30,West Bank and Gaza,2428,8,451
@@ -30772,6 +30933,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-01,United Kingdom,285279,40576,1372
 2020-07-01,Uruguay,943,28,825
 2020-07-01,Uzbekistan,8781,26,5847
+2020-07-01,Vanuatu,0,0,0
 2020-07-01,Venezuela,6062,54,1649
 2020-07-01,Vietnam,355,0,336
 2020-07-01,West Bank and Gaza,2758,8,460
@@ -30962,6 +31124,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-02,United Kingdom,285285,40617,1373
 2020-07-02,Uruguay,947,28,828
 2020-07-02,Uzbekistan,9078,27,6034
+2020-07-02,Vanuatu,0,0,0
 2020-07-02,Venezuela,6273,57,2100
 2020-07-02,Vietnam,355,0,340
 2020-07-02,West Bank and Gaza,3080,9,460
@@ -31152,6 +31315,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-03,United Kingdom,285787,40666,1375
 2020-07-03,Uruguay,952,28,837
 2020-07-03,Uzbekistan,9396,29,6251
+2020-07-03,Vanuatu,0,0,0
 2020-07-03,Venezuela,6537,59,2100
 2020-07-03,Vietnam,355,0,340
 2020-07-03,West Bank and Gaza,3334,11,463
@@ -31342,6 +31506,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-04,United Kingdom,286412,40698,1375
 2020-07-04,Uruguay,955,28,840
 2020-07-04,Uzbekistan,9708,31,6425
+2020-07-04,Vanuatu,0,0,0
 2020-07-04,Venezuela,6750,62,2100
 2020-07-04,Vietnam,355,0,340
 2020-07-04,West Bank and Gaza,3835,13,463
@@ -31532,6 +31697,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-05,United Kingdom,286931,40717,1375
 2020-07-05,Uruguay,956,28,849
 2020-07-05,Uzbekistan,10020,34,6584
+2020-07-05,Vanuatu,0,0,0
 2020-07-05,Venezuela,7169,65,2100
 2020-07-05,Vietnam,355,0,340
 2020-07-05,West Bank and Gaza,4277,16,491
@@ -31722,6 +31888,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-06,United Kingdom,287290,40728,1375
 2020-07-06,Uruguay,960,29,858
 2020-07-06,Uzbekistan,10362,37,6628
+2020-07-06,Vanuatu,0,0,0
 2020-07-06,Venezuela,7411,68,2100
 2020-07-06,Vietnam,369,0,341
 2020-07-06,West Bank and Gaza,4341,17,491
@@ -31912,6 +32079,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-07,United Kingdom,287874,40782,1375
 2020-07-07,Uruguay,965,29,865
 2020-07-07,Uzbekistan,10838,41,6811
+2020-07-07,Vanuatu,0,0,0
 2020-07-07,Venezuela,7693,71,2100
 2020-07-07,Vietnam,369,0,342
 2020-07-07,West Bank and Gaza,4647,18,494
@@ -32102,6 +32270,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-08,United Kingdom,288511,40839,1378
 2020-07-08,Uruguay,974,29,871
 2020-07-08,Uzbekistan,11092,45,7060
+2020-07-08,Vanuatu,0,0,0
 2020-07-08,Venezuela,8008,75,2100
 2020-07-08,Vietnam,369,0,347
 2020-07-08,West Bank and Gaza,5029,20,494
@@ -32292,6 +32461,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-09,United Kingdom,289154,40870,1378
 2020-07-09,Uruguay,977,29,878
 2020-07-09,Uzbekistan,11564,51,7287
+2020-07-09,Vanuatu,0,0,0
 2020-07-09,Venezuela,8372,80,2544
 2020-07-09,Vietnam,369,0,347
 2020-07-09,West Bank and Gaza,5220,24,525
@@ -32482,6 +32652,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-10,United Kingdom,289678,40904,1378
 2020-07-10,Uruguay,985,29,886
 2020-07-10,Uzbekistan,12027,54,7530
+2020-07-10,Vanuatu,0,0,0
 2020-07-10,Venezuela,8803,83,2671
 2020-07-10,Vietnam,370,0,350
 2020-07-10,West Bank and Gaza,5551,27,536
@@ -32672,6 +32843,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-11,United Kingdom,290504,40921,1378
 2020-07-11,Uruguay,986,30,896
 2020-07-11,Uzbekistan,12513,57,7723
+2020-07-11,Vanuatu,0,0,0
 2020-07-11,Venezuela,9178,85,2671
 2020-07-11,Vietnam,370,0,350
 2020-07-11,West Bank and Gaza,5931,33,536
@@ -32862,6 +33034,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-12,United Kingdom,291154,40930,1378
 2020-07-12,Uruguay,987,31,896
 2020-07-12,Uzbekistan,12997,60,7852
+2020-07-12,Vanuatu,0,0,0
 2020-07-12,Venezuela,9465,89,2671
 2020-07-12,Vietnam,372,0,350
 2020-07-12,West Bank and Gaza,6230,36,942
@@ -33052,6 +33225,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-13,United Kingdom,291691,40940,1384
 2020-07-13,Uruguay,989,31,903
 2020-07-13,Uzbekistan,13591,64,8030
+2020-07-13,Vanuatu,0,0,0
 2020-07-13,Venezuela,9707,93,2671
 2020-07-13,Vietnam,373,0,352
 2020-07-13,West Bank and Gaza,6566,39,1084
@@ -33242,6 +33416,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-14,United Kingdom,292931,40984,1385
 2020-07-14,Uruguay,997,31,905
 2020-07-14,Uzbekistan,14085,67,8327
+2020-07-14,Vanuatu,0,0,0
 2020-07-14,Venezuela,10010,96,2671
 2020-07-14,Vietnam,373,0,352
 2020-07-14,West Bank and Gaza,6764,44,1084
@@ -33432,6 +33607,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-15,United Kingdom,293469,41010,1386
 2020-07-15,Uruguay,1009,31,909
 2020-07-15,Uzbekistan,14581,71,8655
+2020-07-15,Vanuatu,0,0,0
 2020-07-15,Venezuela,10428,100,3050
 2020-07-15,Vietnam,381,0,353
 2020-07-15,West Bank and Gaza,7064,44,1084
@@ -33622,6 +33798,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-16,United Kingdom,294116,41034,1403
 2020-07-16,Uruguay,1026,32,916
 2020-07-16,Uzbekistan,15066,75,8783
+2020-07-16,Vanuatu,0,0,0
 2020-07-16,Venezuela,10854,104,3255
 2020-07-16,Vietnam,381,0,356
 2020-07-16,West Bank and Gaza,7412,51,1313
@@ -33812,6 +33989,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-17,United Kingdom,294803,41060,1403
 2020-07-17,Uruguay,1037,32,917
 2020-07-17,Uzbekistan,15607,79,9003
+2020-07-17,Vanuatu,0,0,0
 2020-07-17,Venezuela,11191,107,3852
 2020-07-17,Vietnam,382,0,356
 2020-07-17,West Bank and Gaza,7764,53,1492
@@ -34002,6 +34180,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-18,United Kingdom,295632,41069,1413
 2020-07-18,Uruguay,1044,33,921
 2020-07-18,Uzbekistan,16186,83,9127
+2020-07-18,Vanuatu,0,0,0
 2020-07-18,Venezuela,11483,110,3972
 2020-07-18,Vietnam,382,0,357
 2020-07-18,West Bank and Gaza,8204,59,1596
@@ -34192,6 +34371,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-19,United Kingdom,296358,41080,1413
 2020-07-19,Uruguay,1054,33,922
 2020-07-19,Uzbekistan,16752,87,9279
+2020-07-19,Vanuatu,0,0,0
 2020-07-19,Venezuela,11891,112,3972
 2020-07-19,Vietnam,383,0,357
 2020-07-19,West Bank and Gaza,8549,62,1921
@@ -34382,6 +34562,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-20,United Kingdom,296944,41090,1413
 2020-07-20,Uruguay,1064,33,927
 2020-07-20,Uzbekistan,17149,90,9387
+2020-07-20,Vanuatu,0,0,0
 2020-07-20,Venezuela,12334,116,6844
 2020-07-20,Vietnam,384,0,360
 2020-07-20,West Bank and Gaza,8916,63,1921
@@ -34572,6 +34753,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-21,United Kingdom,297389,41115,1414
 2020-07-21,Uruguay,1096,33,929
 2020-07-21,Uzbekistan,17881,95,9521
+2020-07-21,Vanuatu,0,0,0
 2020-07-21,Venezuela,12774,120,6983
 2020-07-21,Vietnam,401,0,365
 2020-07-21,West Bank and Gaza,9228,64,1932
@@ -34762,6 +34944,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-22,United Kingdom,297952,41132,1416
 2020-07-22,Uruguay,1117,34,934
 2020-07-22,Uzbekistan,18379,98,9872
+2020-07-22,Vanuatu,0,0,0
 2020-07-22,Venezuela,13164,124,7471
 2020-07-22,Vietnam,408,0,365
 2020-07-22,West Bank and Gaza,9398,66,1950
@@ -34952,6 +35135,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-23,United Kingdom,298731,41141,1425
 2020-07-23,Uruguay,1141,34,940
 2020-07-23,Uzbekistan,18986,103,10149
+2020-07-23,Vanuatu,0,0,0
 2020-07-23,Venezuela,13613,129,7752
 2020-07-23,Vietnam,412,0,365
 2020-07-23,West Bank and Gaza,9744,67,2720
@@ -35142,6 +35326,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-24,United Kingdom,299500,41173,1425
 2020-07-24,Uruguay,1166,34,946
 2020-07-24,Uzbekistan,19360,106,10472
+2020-07-24,Vanuatu,0,0,0
 2020-07-24,Venezuela,14263,134,8127
 2020-07-24,Vietnam,415,0,365
 2020-07-24,West Bank and Gaza,10093,70,2720
@@ -35332,6 +35517,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-25,United Kingdom,300270,41188,1427
 2020-07-25,Uruguay,1174,34,947
 2020-07-25,Uzbekistan,19952,111,10831
+2020-07-25,Vanuatu,0,0,0
 2020-07-25,Venezuela,14929,138,8795
 2020-07-25,Vietnam,417,0,365
 2020-07-25,West Bank and Gaza,10306,75,3282
@@ -35522,6 +35708,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-26,United Kingdom,301020,41196,1434
 2020-07-26,Uruguay,1192,34,948
 2020-07-26,Uzbekistan,20531,116,11105
+2020-07-26,Vanuatu,0,0,0
 2020-07-26,Venezuela,15463,142,9746
 2020-07-26,Vietnam,420,0,365
 2020-07-26,West Bank and Gaza,10469,76,3752
@@ -35712,6 +35899,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-27,United Kingdom,301708,41199,1437
 2020-07-27,Uruguay,1202,35,951
 2020-07-27,Uzbekistan,21209,121,11674
+2020-07-27,Vanuatu,0,0,0
 2020-07-27,Venezuela,15988,146,9959
 2020-07-27,Vietnam,431,0,365
 2020-07-27,West Bank and Gaza,10621,78,3752
@@ -35902,6 +36090,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-28,United Kingdom,302261,41220,1438
 2020-07-28,Uruguay,1218,35,958
 2020-07-28,Uzbekistan,21699,124,12026
+2020-07-28,Vanuatu,0,0,0
 2020-07-28,Venezuela,16571,151,10195
 2020-07-28,Vietnam,446,0,369
 2020-07-28,West Bank and Gaza,10938,79,3752
@@ -36092,6 +36281,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-29,United Kingdom,303063,41254,1438
 2020-07-29,Uruguay,1237,35,967
 2020-07-29,Uzbekistan,22585,131,12937
+2020-07-29,Vanuatu,0,0,0
 2020-07-29,Venezuela,17158,156,10421
 2020-07-29,Vietnam,459,0,369
 2020-07-29,West Bank and Gaza,11284,80,4833
@@ -36282,6 +36472,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-30,United Kingdom,303910,41254,1438
 2020-07-30,Uruguay,1243,35,978
 2020-07-30,Uzbekistan,23271,136,13680
+2020-07-30,Vanuatu,0,0,0
 2020-07-30,Venezuela,17859,158,10421
 2020-07-30,Vietnam,509,0,373
 2020-07-30,West Bank and Gaza,11548,81,5016
@@ -36472,6 +36663,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-31,United Kingdom,304793,41274,1439
 2020-07-31,Uruguay,1264,35,994
 2020-07-31,Uzbekistan,24009,141,14464
+2020-07-31,Vanuatu,0,0,0
 2020-07-31,Venezuela,18574,164,10421
 2020-07-31,Vietnam,558,3,373
 2020-07-31,West Bank and Gaza,11837,82,5077
@@ -36662,6 +36854,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-01,United Kingdom,305562,41287,1441
 2020-08-01,Uruguay,1278,35,1004
 2020-08-01,Uzbekistan,24783,147,15299
+2020-08-01,Vanuatu,0,0,0
 2020-08-01,Venezuela,19443,169,11129
 2020-08-01,Vietnam,590,3,373
 2020-08-01,West Bank and Gaza,12160,83,5324
@@ -36852,6 +37045,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,United Kingdom,306309,41292,1444
 2020-08-02,Uruguay,1286,36,1011
 2020-08-02,Uzbekistan,25336,151,15833
+2020-08-02,Vanuatu,0,0,0
 2020-08-02,Venezuela,20206,174,11404
 2020-08-02,Vietnam,621,6,373
 2020-08-02,West Bank and Gaza,12297,84,5390
@@ -37042,6 +37236,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,United Kingdom,307251,41293,1445
 2020-08-03,Uruguay,1291,36,1023
 2020-08-03,Uzbekistan,26066,157,16838
+2020-08-03,Vanuatu,0,0,0
 2020-08-03,Venezuela,20754,180,11622
 2020-08-03,Vietnam,652,7,374
 2020-08-03,West Bank and Gaza,12541,84,5390
@@ -37232,6 +37427,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,United Kingdom,307926,41311,1445
 2020-08-04,Uruguay,1300,37,1048
 2020-08-04,Uzbekistan,27047,165,18051
+2020-08-04,Vanuatu,0,0,0
 2020-08-04,Venezuela,21438,187,11875
 2020-08-04,Vietnam,672,8,378
 2020-08-04,West Bank and Gaza,12770,86,6419
@@ -37422,6 +37618,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,United Kingdom,308832,41325,1446
 2020-08-05,Uruguay,1309,37,1065
 2020-08-05,Uzbekistan,27793,171,18783
+2020-08-05,Vanuatu,0,0,0
 2020-08-05,Venezuela,22299,195,12146
 2020-08-05,Vietnam,717,9,381
 2020-08-05,West Bank and Gaza,13065,89,6618
@@ -37612,6 +37809,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,United Kingdom,309796,41343,1447
 2020-08-06,Uruguay,1318,37,1079
 2020-08-06,Uzbekistan,28315,175,19291
+2020-08-06,Vanuatu,0,0,0
 2020-08-06,Venezuela,23280,202,12470
 2020-08-06,Vietnam,750,10,392
 2020-08-06,West Bank and Gaza,13398,92,6907
@@ -37802,6 +38000,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,United Kingdom,310696,41355,1447
 2020-08-07,Uruguay,1325,37,1095
 2020-08-07,Uzbekistan,29057,181,20059
+2020-08-07,Vanuatu,0,0,0
 2020-08-07,Venezuela,24166,208,12470
 2020-08-07,Vietnam,789,10,395
 2020-08-07,West Bank and Gaza,13722,94,7210
@@ -37992,6 +38191,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,United Kingdom,311461,41358,1449
 2020-08-08,Uruguay,1335,37,1112
 2020-08-08,Uzbekistan,29652,187,21006
+2020-08-08,Vanuatu,0,0,0
 2020-08-08,Venezuela,24961,215,13356
 2020-08-08,Vietnam,812,10,395
 2020-08-08,West Bank and Gaza,13928,96,7706
@@ -38182,6 +38382,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,United Kingdom,312574,41363,1451
 2020-08-09,Uruguay,1353,37,1125
 2020-08-09,Uzbekistan,30609,194,22042
+2020-08-09,Vanuatu,0,0,0
 2020-08-09,Venezuela,25805,223,13356
 2020-08-09,Vietnam,841,13,395
 2020-08-09,West Bank and Gaza,14208,97,7945
@@ -38372,6 +38573,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,United Kingdom,313392,41381,1463
 2020-08-10,Uruguay,1364,37,1146
 2020-08-10,Uzbekistan,31304,200,22992
+2020-08-10,Vanuatu,0,0,0
 2020-08-10,Venezuela,26800,229,16930
 2020-08-10,Vietnam,847,15,399
 2020-08-10,West Bank and Gaza,14510,100,8045
@@ -38562,6 +38764,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,United Kingdom,314542,41394,1464
 2020-08-11,Uruguay,1385,37,1157
 2020-08-11,Uzbekistan,31747,204,23704
+2020-08-11,Vanuatu,0,0,0
 2020-08-11,Venezuela,27938,238,19706
 2020-08-11,Vietnam,866,16,451
 2020-08-11,West Bank and Gaza,14875,104,8181
@@ -38752,6 +38955,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,United Kingdom,315581,41414,1472
 2020-08-12,Uruguay,1393,37,1163
 2020-08-12,Uzbekistan,32654,211,25659
+2020-08-12,Vanuatu,0,0,0
 2020-08-12,Venezuela,29088,247,21042
 2020-08-12,Vietnam,883,18,409
 2020-08-12,West Bank and Gaza,15184,105,8369
@@ -38942,6 +39146,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,United Kingdom,316729,41432,1479
 2020-08-13,Uruguay,1409,37,1180
 2020-08-13,Uzbekistan,33323,216,27213
+2020-08-13,Vanuatu,0,0,0
 2020-08-13,Venezuela,30369,259,21385
 2020-08-13,Vietnam,911,21,425
 2020-08-13,West Bank and Gaza,15491,106,9186
@@ -39132,6 +39337,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,United Kingdom,318190,41443,1481
 2020-08-14,Uruguay,1421,38,1182
 2020-08-14,Uzbekistan,33821,220,27825
+2020-08-14,Vanuatu,0,0,0
 2020-08-14,Venezuela,31381,266,21580
 2020-08-14,Vietnam,930,22,437
 2020-08-14,West Bank and Gaza,15834,106,9382
@@ -39322,6 +39528,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,United Kingdom,319232,41446,1486
 2020-08-15,Uruguay,1434,38,1194
 2020-08-15,Uzbekistan,34528,225,29328
+2020-08-15,Vanuatu,0,0,0
 2020-08-15,Venezuela,32607,276,21747
 2020-08-15,Vietnam,951,24,447
 2020-08-15,West Bank and Gaza,16153,108,9388
@@ -39512,6 +39719,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,United Kingdom,320343,41451,1486
 2020-08-16,Uruguay,1440,38,1200
 2020-08-16,Uzbekistan,35329,232,30973
+2020-08-16,Vanuatu,0,0,0
 2020-08-16,Venezuela,33755,281,22700
 2020-08-16,Vietnam,964,24,456
 2020-08-16,West Bank and Gaza,16534,110,9838
@@ -39702,6 +39910,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-17,United Kingdom,321064,41454,1490
 2020-08-17,Uruguay,1457,40,1205
 2020-08-17,Uzbekistan,35702,236,30973
+2020-08-17,Vanuatu,0,0,0
 2020-08-17,Venezuela,34802,288,23575
 2020-08-17,Vietnam,983,25,467
 2020-08-17,West Bank and Gaza,16844,113,9906
@@ -39892,6 +40101,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-18,United Kingdom,322177,41466,1493
 2020-08-18,Uruguay,1485,40,1219
 2020-08-18,Uzbekistan,36352,242,32062
+2020-08-18,Vanuatu,0,0,0
 2020-08-18,Venezuela,35697,297,24561
 2020-08-18,Vietnam,989,26,526
 2020-08-18,West Bank and Gaza,17306,113,9939
@@ -40082,6 +40292,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-19,United Kingdom,323008,41483,1495
 2020-08-19,Uruguay,1493,40,1228
 2020-08-19,Uzbekistan,37112,248,32944
+2020-08-19,Vanuatu,0,0,0
 2020-08-19,Venezuela,36868,303,25416
 2020-08-19,Vietnam,994,25,533
 2020-08-19,West Bank and Gaza,17606,119,10312
@@ -40272,6 +40483,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-20,United Kingdom,324203,41489,1544
 2020-08-20,Uruguay,1506,41,1242
 2020-08-20,Uzbekistan,37547,252,33261
+2020-08-20,Vanuatu,0,0,0
 2020-08-20,Venezuela,37567,311,26330
 2020-08-20,Vietnam,1007,25,542
 2020-08-20,West Bank and Gaza,17989,120,10682
@@ -40462,6 +40674,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-21,United Kingdom,325263,41491,1544
 2020-08-21,Uruguay,1516,42,1249
 2020-08-21,Uzbekistan,38074,260,33989
+2020-08-21,Vanuatu,0,0,0
 2020-08-21,Venezuela,38219,317,27306
 2020-08-21,Vietnam,1009,25,545
 2020-08-21,West Bank and Gaza,18313,122,11102
@@ -40652,6 +40865,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-22,United Kingdom,326595,41509,1547
 2020-08-22,Uruguay,1521,42,1264
 2020-08-22,Uzbekistan,38532,267,34576
+2020-08-22,Vanuatu,0,0,0
 2020-08-22,Venezuela,38957,323,28453
 2020-08-22,Vietnam,1014,26,563
 2020-08-22,West Bank and Gaza,18476,125,11103
@@ -40842,6 +41056,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-23,United Kingdom,327643,41515,1547
 2020-08-23,Uruguay,1527,42,1276
 2020-08-23,Uzbekistan,38946,273,34987
+2020-08-23,Vanuatu,0,0,0
 2020-08-23,Venezuela,39564,329,29966
 2020-08-23,Vietnam,1016,27,568
 2020-08-23,West Bank and Gaza,18802,128,11843
@@ -41032,6 +41247,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-24,United Kingdom,328620,41519,1550
 2020-08-24,Uruguay,1533,42,1295
 2020-08-24,Uzbekistan,39348,280,35551
+2020-08-24,Vanuatu,0,0,0
 2020-08-24,Venezuela,40338,337,31080
 2020-08-24,Vietnam,1022,27,587
 2020-08-24,West Bank and Gaza,19213,133,11870
@@ -41222,6 +41438,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-25,United Kingdom,329821,41535,1551
 2020-08-25,Uruguay,1536,43,1309
 2020-08-25,Uzbekistan,39641,284,35869
+2020-08-25,Vanuatu,0,0,0
 2020-08-25,Venezuela,41158,343,32015
 2020-08-25,Vietnam,1029,27,592
 2020-08-25,West Bank and Gaza,19678,133,13162
@@ -41412,6 +41629,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-26,United Kingdom,330967,41552,1551
 2020-08-26,Uruguay,1543,43,1322
 2020-08-26,Uzbekistan,39964,291,36402
+2020-08-26,Vanuatu,0,0,0
 2020-08-26,Venezuela,41965,351,32931
 2020-08-26,Vietnam,1034,30,632
 2020-08-26,West Bank and Gaza,20155,137,13929
@@ -41602,6 +41820,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,United Kingdom,332509,41564,1564
 2020-08-27,Uruguay,1551,43,1333
 2020-08-27,Uzbekistan,40447,298,37200
+2020-08-27,Vanuatu,0,0,0
 2020-08-27,Venezuela,42898,358,34147
 2020-08-27,Vietnam,1036,30,637
 2020-08-27,West Bank and Gaza,20677,141,14194
@@ -41792,6 +42011,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-28,United Kingdom,333806,41573,1615
 2020-08-28,Uruguay,1556,43,1352
 2020-08-28,Uzbekistan,40720,302,37873
+2020-08-28,Vanuatu,0,0,0
 2020-08-28,Venezuela,43879,366,34972
 2020-08-28,Vietnam,1038,30,663
 2020-08-28,West Bank and Gaza,21251,145,14291
@@ -41982,6 +42202,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-29,United Kingdom,334916,41585,1622
 2020-08-29,Uruguay,1570,44,1364
 2020-08-29,Uzbekistan,41067,307,38250
+2020-08-29,Vanuatu,0,0,0
 2020-08-29,Venezuela,44946,375,36175
 2020-08-29,Vietnam,1040,32,677
 2020-08-29,West Bank and Gaza,21668,147,14631
@@ -42172,6 +42393,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-30,United Kingdom,336668,41586,1624
 2020-08-30,Uruguay,1585,44,1378
 2020-08-30,Uzbekistan,41424,313,38655
+2020-08-30,Vanuatu,0,0,0
 2020-08-30,Venezuela,45868,381,37091
 2020-08-30,Vietnam,1040,32,695
 2020-08-30,West Bank and Gaza,22204,152,14787
@@ -42362,6 +42584,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-31,United Kingdom,338083,41589,1682
 2020-08-31,Uruguay,1595,44,1409
 2020-08-31,Uzbekistan,41893,320,39275
+2020-08-31,Vanuatu,0,0,0
 2020-08-31,Venezuela,46728,386,38112
 2020-08-31,Vietnam,1044,34,707
 2020-08-31,West Bank and Gaza,22729,152,15056
@@ -42552,6 +42775,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-01,United Kingdom,339415,41592,1709
 2020-09-01,Uruguay,1611,44,1419
 2020-09-01,Uzbekistan,42127,323,39538
+2020-09-01,Vanuatu,0,0,0
 2020-09-01,Venezuela,47756,391,39027
 2020-09-01,Vietnam,1044,34,735
 2020-09-01,West Bank and Gaza,23281,159,15338
@@ -42742,6 +42966,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-02,United Kingdom,340929,41602,1742
 2020-09-02,Uruguay,1626,44,1433
 2020-09-02,Uzbekistan,42437,327,39664
+2020-09-02,Vanuatu,0,0,0
 2020-09-02,Venezuela,48883,398,39912
 2020-09-02,Vietnam,1046,34,746
 2020-09-02,West Bank and Gaza,23875,162,15483
@@ -42932,6 +43157,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-03,United Kingdom,342708,41616,1750
 2020-09-03,Uruguay,1636,44,1437
 2020-09-03,Uzbekistan,42688,331,40081
+2020-09-03,Vanuatu,0,0,0
 2020-09-03,Venezuela,49877,402,40574
 2020-09-03,Vietnam,1046,35,755
 2020-09-03,West Bank and Gaza,24471,167,16095
@@ -43122,6 +43348,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-04,United Kingdom,344686,41626,1756
 2020-09-04,Uruguay,1653,45,1446
 2020-09-04,Uzbekistan,42998,338,40392
+2020-09-04,Vanuatu,0,0,0
 2020-09-04,Venezuela,50973,412,41249
 2020-09-04,Vietnam,1049,35,772
 2020-09-04,West Bank and Gaza,25142,170,16437
@@ -43312,6 +43539,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-05,United Kingdom,346513,41638,1806
 2020-09-05,Uruguay,1669,45,1459
 2020-09-05,Uzbekistan,43293,343,40774
+2020-09-05,Vanuatu,0,0,0
 2020-09-05,Venezuela,52165,420,42006
 2020-09-05,Vietnam,1049,35,805
 2020-09-05,West Bank and Gaza,25575,177,16661
@@ -43502,6 +43730,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-06,United Kingdom,349500,41640,1824
 2020-09-06,Uruguay,1679,45,1459
 2020-09-06,Uzbekistan,43587,347,41225
+2020-09-06,Vanuatu,0,0,0
 2020-09-06,Venezuela,53289,428,42006
 2020-09-06,Vietnam,1049,35,815
 2020-09-06,West Bank and Gaza,26127,181,16843
@@ -43692,6 +43921,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-07,United Kingdom,352451,41643,1824
 2020-09-07,Uruguay,1693,45,1466
 2020-09-07,Uzbekistan,43893,352,41531
+2020-09-07,Vanuatu,0,0,0
 2020-09-07,Venezuela,54350,436,43753
 2020-09-07,Vietnam,1049,35,853
 2020-09-07,West Bank and Gaza,26779,184,17270
@@ -43882,6 +44112,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-08,United Kingdom,354932,41675,1827
 2020-09-08,Uruguay,1712,45,1476
 2020-09-08,Uzbekistan,44281,358,41594
+2020-09-08,Vanuatu,0,0,0
 2020-09-08,Venezuela,55563,444,44435
 2020-09-08,Vietnam,1054,35,868
 2020-09-08,West Bank and Gaza,27363,190,17779
@@ -44072,6 +44303,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-09,United Kingdom,357613,41683,1831
 2020-09-09,Uruguay,1741,45,1478
 2020-09-09,Uzbekistan,44930,366,42212
+2020-09-09,Vanuatu,0,0,0
 2020-09-09,Venezuela,56751,452,45318
 2020-09-09,Vietnam,1059,35,890
 2020-09-09,West Bank and Gaza,27919,192,18466
@@ -44262,6 +44494,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-10,United Kingdom,360544,41697,1845
 2020-09-10,Uruguay,1759,45,1484
 2020-09-10,Uzbekistan,45473,370,42509
+2020-09-10,Vanuatu,0,0,0
 2020-09-10,Venezuela,57823,460,46125
 2020-09-10,Vietnam,1059,35,893
 2020-09-10,West Bank and Gaza,28664,198,18821
@@ -44452,6 +44685,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-11,United Kingdom,364088,41703,1848
 2020-09-11,Uruguay,1773,45,1490
 2020-09-11,Uzbekistan,46160,377,42857
+2020-09-11,Vanuatu,0,0,0
 2020-09-11,Venezuela,58663,468,46960
 2020-09-11,Vietnam,1060,35,902
 2020-09-11,West Bank and Gaza,29256,204,19788
@@ -44642,6 +44876,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-12,United Kingdom,367592,41712,1880
 2020-09-12,Uruguay,1780,45,1502
 2020-09-12,Uzbekistan,46721,384,43359
+2020-09-12,Vanuatu,0,0,0
 2020-09-12,Venezuela,59630,477,47729
 2020-09-12,Vietnam,1060,35,910
 2020-09-12,West Bank and Gaza,29906,210,19979
@@ -44832,6 +45067,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-13,United Kingdom,370930,41717,2146
 2020-09-13,Uruguay,1808,45,1513
 2020-09-13,Uzbekistan,47287,390,43866
+2020-09-13,Vanuatu,0,0,0
 2020-09-13,Venezuela,60540,485,48644
 2020-09-13,Vietnam,1063,35,918
 2020-09-13,West Bank and Gaza,30574,221,20082
@@ -45022,6 +45258,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-14,United Kingdom,373555,41726,2152
 2020-09-14,Uruguay,1812,45,1528
 2020-09-14,Uzbekistan,47836,396,44375
+2020-09-14,Vanuatu,0,0,0
 2020-09-14,Venezuela,61569,494,49371
 2020-09-14,Vietnam,1063,35,926
 2020-09-14,West Bank and Gaza,31362,226,21406
@@ -45212,6 +45449,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-15,United Kingdom,376670,41753,2184
 2020-09-15,Uruguay,1827,45,1545
 2020-09-15,Uzbekistan,48429,402,44942
+2020-09-15,Vanuatu,0,0,0
 2020-09-15,Venezuela,62655,502,50361
 2020-09-15,Vietnam,1063,35,931
 2020-09-15,West Bank and Gaza,32250,229,21804
@@ -45402,6 +45640,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-16,United Kingdom,380677,41773,2190
 2020-09-16,Uruguay,1856,45,1559
 2020-09-16,Uzbekistan,49015,407,45422
+2020-09-16,Vanuatu,0,0,0
 2020-09-16,Venezuela,63416,511,51274
 2020-09-16,Vietnam,1063,35,936
 2020-09-16,West Bank and Gaza,33006,243,22209
@@ -45592,6 +45831,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-17,United Kingdom,384087,41794,2201
 2020-09-17,Uruguay,1876,46,1582
 2020-09-17,Uzbekistan,49627,413,45970
+2020-09-17,Vanuatu,0,0,0
 2020-09-17,Venezuela,64284,520,52564
 2020-09-17,Vietnam,1066,35,940
 2020-09-17,West Bank and Gaza,33843,244,23060
@@ -45782,6 +46022,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-18,United Kingdom,388416,41821,2213
 2020-09-18,Uruguay,1890,46,1603
 2020-09-18,Uzbekistan,50253,419,46527
+2020-09-18,Vanuatu,0,0,0
 2020-09-18,Venezuela,65174,530,54218
 2020-09-18,Vietnam,1068,35,941
 2020-09-18,West Bank and Gaza,34401,250,23333
@@ -45972,6 +46213,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-19,United Kingdom,392845,41848,2227
 2020-09-19,Uruguay,1904,46,1612
 2020-09-19,Uzbekistan,50992,427,47271
+2020-09-19,Vanuatu,0,0,0
 2020-09-19,Venezuela,65949,539,55155
 2020-09-19,Vietnam,1068,35,942
 2020-09-19,West Bank and Gaza,35003,253,23446
@@ -46162,6 +46404,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-20,United Kingdom,396744,41866,2228
 2020-09-20,Uruguay,1917,46,1621
 2020-09-20,Uzbekistan,51640,433,47932
+2020-09-20,Vanuatu,0,0,0
 2020-09-20,Venezuela,66656,547,56096
 2020-09-20,Vietnam,1068,35,942
 2020-09-20,West Bank and Gaza,35686,262,23700
@@ -46352,6 +46595,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-21,United Kingdom,401122,41877,2228
 2020-09-21,Uruguay,1927,46,1634
 2020-09-21,Uzbekistan,52070,437,48369
+2020-09-21,Vanuatu,0,0,0
 2020-09-21,Venezuela,67443,555,56726
 2020-09-21,Vietnam,1068,35,947
 2020-09-21,West Bank and Gaza,36151,265,24428
@@ -46542,6 +46786,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-22,United Kingdom,406058,41914,2238
 2020-09-22,Uruguay,1934,46,1645
 2020-09-22,Uzbekistan,52685,442,49067
+2020-09-22,Vanuatu,0,0,0
 2020-09-22,Venezuela,68453,564,57774
 2020-09-22,Vietnam,1068,35,957
 2020-09-22,West Bank and Gaza,36580,269,25469
@@ -46732,6 +46977,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-23,United Kingdom,412245,41951,2247
 2020-09-23,Uruguay,1946,47,1661
 2020-09-23,Uzbekistan,53275,444,49649
+2020-09-23,Vanuatu,0,0,0
 2020-09-23,Venezuela,69439,574,58759
 2020-09-23,Vietnam,1069,35,991
 2020-09-23,West Bank and Gaza,37083,272,26288
@@ -46922,6 +47168,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-24,United Kingdom,418889,41991,2282
 2020-09-24,Uruguay,1959,47,1679
 2020-09-24,Uzbekistan,53834,446,50230
+2020-09-24,Vanuatu,0,0,0
 2020-09-24,Venezuela,70406,581,59745
 2020-09-24,Vietnam,1069,35,991
 2020-09-24,West Bank and Gaza,37591,274,26934
@@ -47112,6 +47359,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-25,United Kingdom,425767,42025,2303
 2020-09-25,Uruguay,1967,47,1710
 2020-09-25,Uzbekistan,54392,449,50879
+2020-09-25,Vanuatu,0,0,0
 2020-09-25,Venezuela,71273,591,60709
 2020-09-25,Vietnam,1069,35,999
 2020-09-25,West Bank and Gaza,37963,278,27183
@@ -47302,6 +47550,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-26,United Kingdom,431817,42060,2333
 2020-09-26,Uruguay,1998,47,1716
 2020-09-26,Uzbekistan,54819,452,51322
+2020-09-26,Vanuatu,0,0,0
 2020-09-26,Venezuela,71940,600,61528
 2020-09-26,Vietnam,1069,35,999
 2020-09-26,West Bank and Gaza,38253,285,27704
@@ -47492,6 +47741,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-27,United Kingdom,437517,42077,2339
 2020-09-27,Uruguay,2008,47,1728
 2020-09-27,Uzbekistan,55320,458,51829
+2020-09-27,Vanuatu,0,0,0
 2020-09-27,Venezuela,72691,606,62427
 2020-09-27,Vietnam,1074,35,999
 2020-09-27,West Bank and Gaza,38703,291,29068
@@ -47682,6 +47932,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-28,United Kingdom,441573,42090,2352
 2020-09-28,Uruguay,2010,47,1755
 2020-09-28,Uzbekistan,55776,460,52324
+2020-09-28,Vanuatu,0,0,0
 2020-09-28,Venezuela,73528,614,63346
 2020-09-28,Vietnam,1077,35,999
 2020-09-28,West Bank and Gaza,39121,299,30220
@@ -47872,6 +48123,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-29,United Kingdom,448729,42162,2368
 2020-09-29,Uruguay,2033,48,1771
 2020-09-29,Uzbekistan,56354,466,52970
+2020-09-29,Vanuatu,0,0,0
 2020-09-29,Venezuela,74363,621,64200
 2020-09-29,Vietnam,1094,35,1007
 2020-09-29,West Bank and Gaza,39541,306,31047
@@ -48062,6 +48314,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-30,United Kingdom,455846,42233,2373
 2020-09-30,Uruguay,2046,48,1791
 2020-09-30,Uzbekistan,56717,470,53366
+2020-09-30,Vanuatu,0,0,0
 2020-09-30,Venezuela,75122,628,65225
 2020-09-30,Vietnam,1094,35,1010
 2020-09-30,West Bank and Gaza,39899,311,31743
@@ -48252,6 +48505,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-01,United Kingdom,462775,42292,2383
 2020-10-01,Uruguay,2061,48,1809
 2020-10-01,Uzbekistan,57190,471,53835
+2020-10-01,Vanuatu,0,0,0
 2020-10-01,Venezuela,76029,635,66245
 2020-10-01,Vietnam,1095,35,1010
 2020-10-01,West Bank and Gaza,40322,318,32577
@@ -48442,6 +48696,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-02,United Kingdom,469769,42358,2389
 2020-10-02,Uruguay,2097,48,1824
 2020-10-02,Uzbekistan,57454,472,53955
+2020-10-02,Vanuatu,0,0,0
 2020-10-02,Venezuela,76820,643,67216
 2020-10-02,Vietnam,1096,35,1020
 2020-10-02,West Bank and Gaza,40766,321,32944
@@ -48632,6 +48887,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-03,United Kingdom,482654,42407,2396
 2020-10-03,Uruguay,2122,48,1831
 2020-10-03,Uzbekistan,58238,477,54854
+2020-10-03,Vanuatu,0,0,0
 2020-10-03,Venezuela,77646,649,68098
 2020-10-03,Vietnam,1096,35,1020
 2020-10-03,West Bank and Gaza,41078,329,33442
@@ -48822,6 +49078,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-04,United Kingdom,505619,42440,2403
 2020-10-04,Uruguay,2145,48,1844
 2020-10-04,Uzbekistan,58612,480,55281
+2020-10-04,Vanuatu,0,0,0
 2020-10-04,Venezuela,78434,653,68917
 2020-10-04,Vietnam,1096,35,1020
 2020-10-04,West Bank and Gaza,41498,330,34698
@@ -49012,6 +49269,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-05,United Kingdom,518222,42459,2409
 2020-10-05,Uruguay,2155,48,1862
 2020-10-05,Uzbekistan,58946,485,55633
+2020-10-05,Vanuatu,0,0,0
 2020-10-05,Venezuela,79117,658,69832
 2020-10-05,Vietnam,1097,35,1022
 2020-10-05,West Bank and Gaza,41957,339,35182
@@ -49202,6 +49460,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-06,United Kingdom,532779,42535,2417
 2020-10-06,Uruguay,2177,49,1878
 2020-10-06,Uzbekistan,59343,489,56058
+2020-10-06,Vanuatu,0,0,0
 2020-10-06,Venezuela,79796,665,70719
 2020-10-06,Vietnam,1098,35,1023
 2020-10-06,West Bank and Gaza,42432,349,35599
@@ -49392,6 +49651,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-07,United Kingdom,546952,42605,2425
 2020-10-07,Uruguay,2206,49,1890
 2020-10-07,Uzbekistan,59579,491,56165
+2020-10-07,Vanuatu,0,0,0
 2020-10-07,Venezuela,80404,671,71531
 2020-10-07,Vietnam,1099,35,1023
 2020-10-07,West Bank and Gaza,42840,355,35953
@@ -49582,6 +49842,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-08,United Kingdom,564502,42682,2474
 2020-10-08,Uruguay,2226,49,1904
 2020-10-08,Uzbekistan,60026,496,56837
+2020-10-08,Vanuatu,0,0,0
 2020-10-08,Venezuela,81019,678,72196
 2020-10-08,Vietnam,1100,35,1023
 2020-10-08,West Bank and Gaza,43256,359,36584
@@ -49772,6 +50033,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-09,United Kingdom,578390,42769,2488
 2020-10-09,Uruguay,2251,49,1917
 2020-10-09,Uzbekistan,60342,498,57221
+2020-10-09,Vanuatu,0,0,0
 2020-10-09,Venezuela,81696,684,73020
 2020-10-09,Vietnam,1105,35,1024
 2020-10-09,West Bank and Gaza,43664,367,36922
@@ -49962,6 +50224,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-10,United Kingdom,593565,42850,2495
 2020-10-10,Uruguay,2268,50,1930
 2020-10-10,Uzbekistan,60776,502,57704
+2020-10-10,Vanuatu,0,0,0
 2020-10-10,Venezuela,82453,691,73919
 2020-10-10,Vietnam,1107,35,1024
 2020-10-10,West Bank and Gaza,43945,378,37240
@@ -50152,6 +50415,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,United Kingdom,606447,42915,2503
 2020-10-11,Uruguay,2294,50,1942
 2020-10-11,Uzbekistan,61098,505,58069
+2020-10-11,Vanuatu,0,0,0
 2020-10-11,Venezuela,83137,697,74664
 2020-10-11,Vietnam,1109,35,1024
 2020-10-11,West Bank and Gaza,44299,381,37942
@@ -50342,6 +50606,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-12,United Kingdom,620458,42965,2511
 2020-10-12,Uruguay,2313,51,1950
 2020-10-12,Uzbekistan,61319,509,58306
+2020-10-12,Vanuatu,0,0,0
 2020-10-12,Venezuela,83756,704,75400
 2020-10-12,Vietnam,1110,35,1025
 2020-10-12,West Bank and Gaza,44684,387,38228
@@ -50532,6 +50797,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-13,United Kingdom,637708,43108,2535
 2020-10-13,Uruguay,2337,51,1987
 2020-10-13,Uzbekistan,61642,511,58613
+2020-10-13,Vanuatu,0,0,0
 2020-10-13,Venezuela,84391,710,76262
 2020-10-13,Vietnam,1113,35,1025
 2020-10-13,West Bank and Gaza,45200,391,38841
@@ -50722,6 +50988,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-14,United Kingdom,657459,43245,2551
 2020-10-14,Uruguay,2388,51,2007
 2020-10-14,Uzbekistan,61950,514,58951
+2020-10-14,Vanuatu,0,0,0
 2020-10-14,Venezuela,85005,714,76262
 2020-10-14,Vietnam,1122,35,1029
 2020-10-14,West Bank and Gaza,45658,393,39304
@@ -50912,6 +51179,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-15,United Kingdom,676455,43383,2561
 2020-10-15,Uruguay,2417,51,2025
 2020-10-15,Uzbekistan,62278,518,59291
+2020-10-15,Vanuatu,0,0,0
 2020-10-15,Venezuela,85469,720,77689
 2020-10-15,Vietnam,1124,35,1030
 2020-10-15,West Bank and Gaza,46100,401,39585
@@ -51102,6 +51370,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-16,United Kingdom,692112,43519,2565
 2020-10-16,Uruguay,2450,51,2042
 2020-10-16,Uzbekistan,62588,520,59624
+2020-10-16,Vanuatu,0,0,0
 2020-10-16,Venezuela,85758,725,78294
 2020-10-16,Vietnam,1124,35,1031
 2020-10-16,West Bank and Gaza,46434,402,39921
@@ -51292,6 +51561,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-17,United Kingdom,708298,43669,2572
 2020-10-17,Uruguay,2501,51,2052
 2020-10-17,Uzbekistan,62809,522,59756
+2020-10-17,Vanuatu,0,0,0
 2020-10-17,Venezuela,86289,731,78847
 2020-10-17,Vietnam,1126,35,1031
 2020-10-17,West Bank and Gaza,46746,402,40162
@@ -51482,6 +51752,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-18,United Kingdom,725292,43736,2589
 2020-10-18,Uruguay,2531,51,2105
 2020-10-18,Uzbekistan,63124,525,60080
+2020-10-18,Vanuatu,0,0,0
 2020-10-18,Venezuela,86636,736,79694
 2020-10-18,Vietnam,1134,35,1031
 2020-10-18,West Bank and Gaza,47135,408,40498
@@ -51672,6 +51943,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-19,United Kingdom,744122,43816,2613
 2020-10-19,Uruguay,2560,51,2121
 2020-10-19,Uzbekistan,63523,531,60604
+2020-10-19,Vanuatu,0,0,0
 2020-10-19,Venezuela,86636,736,79694
 2020-10-19,Vietnam,1140,35,1046
 2020-10-19,West Bank and Gaza,47616,413,40861
@@ -51862,6 +52134,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-20,United Kingdom,765487,44057,2626
 2020-10-20,Uruguay,2623,52,2142
 2020-10-20,Uzbekistan,63831,534,60910
+2020-10-20,Vanuatu,0,0,0
 2020-10-20,Venezuela,87644,747,80316
 2020-10-20,Vietnam,1141,35,1046
 2020-10-20,West Bank and Gaza,48129,421,41455
@@ -52052,6 +52325,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-21,United Kingdom,792194,44248,2636
 2020-10-21,Uruguay,2663,53,2172
 2020-10-21,Uzbekistan,64010,534,61068
+2020-10-21,Vanuatu,0,0,0
 2020-10-21,Venezuela,88035,753,81626
 2020-10-21,Vietnam,1144,35,1046
 2020-10-21,West Bank and Gaza,48628,427,41935
@@ -52242,6 +52516,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-22,United Kingdom,813451,44437,2652
 2020-10-22,Uruguay,2701,53,2204
 2020-10-22,Uzbekistan,64439,540,61658
+2020-10-22,Vanuatu,0,0,0
 2020-10-22,Venezuela,88416,759,82284
 2020-10-22,Vietnam,1148,35,1049
 2020-10-22,West Bank and Gaza,49134,435,42544
@@ -52432,6 +52707,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-23,United Kingdom,834010,44661,2657
 2020-10-23,Uruguay,2759,53,2241
 2020-10-23,Uzbekistan,64724,542,61957
+2020-10-23,Vanuatu,0,0,0
 2020-10-23,Venezuela,88718,764,82899
 2020-10-23,Vietnam,1148,35,1049
 2020-10-23,West Bank and Gaza,49579,439,42850
@@ -52622,6 +52898,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-24,United Kingdom,857043,44835,2676
 2020-10-24,Uruguay,2807,53,2301
 2020-10-24,Uzbekistan,64923,544,62033
+2020-10-24,Vanuatu,0,0,0
 2020-10-24,Venezuela,89142,770,83443
 2020-10-24,Vietnam,1160,35,1051
 2020-10-24,West Bank and Gaza,49989,443,43232
@@ -52812,6 +53089,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-25,United Kingdom,876840,44986,2685
 2020-10-25,Uruguay,2851,53,2351
 2020-10-25,Uzbekistan,65307,549,62509
+2020-10-25,Vanuatu,0,0,0
 2020-10-25,Venezuela,89565,773,83947
 2020-10-25,Vietnam,1168,35,1057
 2020-10-25,West Bank and Gaza,50442,448,43592
@@ -53002,6 +53280,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-26,United Kingdom,897740,45088,2702
 2020-10-26,Uruguay,2872,54,2411
 2020-10-26,Uzbekistan,65667,552,62876
+2020-10-26,Vanuatu,0,0,0
 2020-10-26,Venezuela,90047,777,84444
 2020-10-26,Vietnam,1169,35,1061
 2020-10-26,West Bank and Gaza,50952,454,44055
@@ -53192,6 +53471,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-27,United Kingdom,920664,45455,2719
 2020-10-27,Uruguay,2916,54,2455
 2020-10-27,Uzbekistan,65881,556,63044
+2020-10-27,Vanuatu,0,0,0
 2020-10-27,Venezuela,90400,780,84907
 2020-10-27,Vietnam,1172,35,1062
 2020-10-27,West Bank and Gaza,51528,458,44444
@@ -53382,6 +53662,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-28,United Kingdom,945378,45765,2773
 2020-10-28,Uruguay,2981,55,2481
 2020-10-28,Uzbekistan,66141,558,63323
+2020-10-28,Vanuatu,0,0,0
 2020-10-28,Venezuela,90876,784,85402
 2020-10-28,Vietnam,1173,35,1062
 2020-10-28,West Bank and Gaza,51948,465,44985
@@ -53572,6 +53853,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-29,United Kingdom,968456,46045,2799
 2020-10-29,Uruguay,3044,57,2504
 2020-10-29,Uzbekistan,66392,561,63581
+2020-10-29,Vanuatu,0,0,0
 2020-10-29,Venezuela,91280,789,85897
 2020-10-29,Vietnam,1177,35,1062
 2020-10-29,West Bank and Gaza,52571,473,45448
@@ -53762,6 +54044,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-30,United Kingdom,992874,46319,2811
 2020-10-30,Uruguay,3082,58,2532
 2020-10-30,Uzbekistan,66628,563,63864
+2020-10-30,Vanuatu,0,0,0
 2020-10-30,Venezuela,91589,793,86335
 2020-10-30,Vietnam,1177,35,1062
 2020-10-30,West Bank and Gaza,53075,481,45896
@@ -53952,6 +54235,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-31,United Kingdom,1014793,46645,2839
 2020-10-31,Uruguay,3124,58,2560
 2020-10-31,Uzbekistan,66932,566,64235
+2020-10-31,Vanuatu,0,0,0
 2020-10-31,Venezuela,92013,798,86773
 2020-10-31,Vietnam,1180,35,1062
 2020-10-31,West Bank and Gaza,53520,483,46309
@@ -54142,6 +54426,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-01,United Kingdom,1038054,46807,2841
 2020-11-01,Uruguay,3149,59,2601
 2020-11-01,Uzbekistan,67156,570,64466
+2020-11-01,Vanuatu,0,0,0
 2020-11-01,Venezuela,92325,801,87156
 2020-11-01,Vietnam,1180,35,1063
 2020-11-01,West Bank and Gaza,54060,489,46773
@@ -54332,6 +54617,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-02,United Kingdom,1057021,46943,2850
 2020-11-02,Uruguay,3165,60,2658
 2020-11-02,Uzbekistan,67254,571,64466
+2020-11-02,Vanuatu,0,0,0
 2020-11-02,Venezuela,92705,806,87547
 2020-11-02,Vietnam,1192,35,1065
 2020-11-02,West Bank and Gaza,54775,493,47169
@@ -54522,6 +54808,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-03,United Kingdom,1077099,47340,2906
 2020-11-03,Uruguay,3196,61,2727
 2020-11-03,Uzbekistan,67553,574,64815
+2020-11-03,Vanuatu,0,0,0
 2020-11-03,Venezuela,93100,810,87941
 2020-11-03,Vietnam,1202,35,1069
 2020-11-03,West Bank and Gaza,55408,501,47744
@@ -54712,6 +54999,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-04,United Kingdom,1102305,47832,2925
 2020-11-04,Uruguay,3245,61,2770
 2020-11-04,Uzbekistan,67779,577,65001
+2020-11-04,Vanuatu,0,0,0
 2020-11-04,Venezuela,93480,814,88326
 2020-11-04,Vietnam,1203,35,1069
 2020-11-04,West Bank and Gaza,56090,504,48224
@@ -54902,6 +55190,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-05,United Kingdom,1126469,48210,2931
 2020-11-05,Uruguay,3309,61,2814
 2020-11-05,Uzbekistan,68009,579,65254
+2020-11-05,Vanuatu,0,0,0
 2020-11-05,Venezuela,93921,819,88701
 2020-11-05,Vietnam,1207,35,1069
 2020-11-05,West Bank and Gaza,56672,508,48680
@@ -55092,6 +55381,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-06,United Kingdom,1149791,48565,2951
 2020-11-06,Uruguay,3370,61,2853
 2020-11-06,Uzbekistan,68139,579,65333
+2020-11-06,Vanuatu,0,0,0
 2020-11-06,Venezuela,94305,821,89099
 2020-11-06,Vietnam,1212,35,1070
 2020-11-06,West Bank and Gaza,57226,511,49537
@@ -55282,6 +55572,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-07,United Kingdom,1174770,48978,2965
 2020-11-07,Uruguay,3441,61,2903
 2020-11-07,Uzbekistan,68367,581,65550
+2020-11-07,Vanuatu,0,0,0
 2020-11-07,Venezuela,94698,824,89502
 2020-11-07,Vietnam,1213,35,1070
 2020-11-07,West Bank and Gaza,57657,512,49975
@@ -55472,6 +55763,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-08,United Kingdom,1195350,49134,2983
 2020-11-08,Uruguay,3514,62,2943
 2020-11-08,Uzbekistan,68730,585,65971
+2020-11-08,Vanuatu,0,0,0
 2020-11-08,Venezuela,94883,826,89755
 2020-11-08,Vietnam,1213,35,1070
 2020-11-08,West Bank and Gaza,58158,515,50407
@@ -55655,13 +55947,14 @@ isodate,country,confirmed,deaths,recovered
 2020-11-09,Trinidad and Tobago,5849,111,5203
 2020-11-09,Tunisia,71569,1920,48103
 2020-11-09,Turkey,396831,10972,340286
-2020-11-09,US,10115804,238256,3928845
+2020-11-09,US,10115804,238469,3928845
 2020-11-09,Uganda,14574,133,7771
 2020-11-09,Ukraine,483153,8812,217716
 2020-11-09,United Arab Emirates,143289,515,138959
 2020-11-09,United Kingdom,1216747,49329,2998
 2020-11-09,Uruguay,3560,62,2993
 2020-11-09,Uzbekistan,69027,588,66194
+2020-11-09,Vanuatu,0,0,0
 2020-11-09,Venezuela,95149,830,90054
 2020-11-09,Vietnam,1215,35,1087
 2020-11-09,West Bank and Gaza,58838,521,50877
@@ -55669,3 +55962,194 @@ isodate,country,confirmed,deaths,recovered
 2020-11-09,Yemen,2071,605,1394
 2020-11-09,Zambia,16971,349,16011
 2020-11-09,Zimbabwe,8561,254,8023
+2020-11-10,Afghanistan,42463,1577,34954
+2020-11-10,Albania,25294,579,12353
+2020-11-10,Algeria,63446,2077,42626
+2020-11-10,Andorra,5477,75,4405
+2020-11-10,Angola,12816,308,6036
+2020-11-10,Antigua and Barbuda,131,3,122
+2020-11-10,Argentina,1262476,34183,1081897
+2020-11-10,Armenia,108687,1609,66835
+2020-11-10,Australia,27671,907,25454
+2020-11-10,Austria,164866,1499,98663
+2020-11-10,Azerbaijan,67392,867,50009
+2020-11-10,Bahamas,7012,154,5035
+2020-11-10,Bahrain,83811,331,81415
+2020-11-10,Bangladesh,423620,6108,341416
+2020-11-10,Barbados,243,7,231
+2020-11-10,Belarus,108300,1016,91646
+2020-11-10,Belgium,507475,13561,30504
+2020-11-10,Belize,4414,73,2440
+2020-11-10,Benin,2781,43,2515
+2020-11-10,Bhutan,364,0,343
+2020-11-10,Bolivia,142664,8808,115199
+2020-11-10,Bosnia and Herzegovina,65024,1629,32261
+2020-11-10,Botswana,7835,27,5534
+2020-11-10,Brazil,5699005,162802,5183970
+2020-11-10,Brunei,148,3,145
+2020-11-10,Bulgaria,83366,1851,25799
+2020-11-10,Burkina Faso,2582,67,2410
+2020-11-10,Burma,63241,1461,47411
+2020-11-10,Burundi,615,1,549
+2020-11-10,Cabo Verde,9499,101,8738
+2020-11-10,Cambodia,300,0,288
+2020-11-10,Cameroon,22421,433,21510
+2020-11-10,Canada,276479,10693,224912
+2020-11-10,Central African Republic,4884,62,1924
+2020-11-10,Chad,1561,99,1413
+2020-11-10,Chile,523907,14611,500142
+2020-11-10,China,91719,4742,86421
+2020-11-10,Colombia,1155356,33128,980866
+2020-11-10,Comoros,569,7,541
+2020-11-10,Congo (Brazzaville),5379,92,3887
+2020-11-10,Congo (Kinshasa),11642,316,10928
+2020-11-10,Costa Rica,118566,1502,72941
+2020-11-10,Cote d'Ivoire,20847,126,20546
+2020-11-10,Croatia,70243,865,54854
+2020-11-10,Cuba,7392,130,6749
+2020-11-10,Cyprus,6296,29,1882
+2020-11-10,Czechia,429880,5323,277473
+2020-11-10,Denmark,57472,750,42759
+2020-11-10,Diamond Princess,712,13,659
+2020-11-10,Djibouti,5633,61,5497
+2020-11-10,Dominica,63,0,35
+2020-11-10,Dominican Republic,131131,2269,108765
+2020-11-10,Ecuador,175711,12849,154956
+2020-11-10,Egypt,109654,6394,100540
+2020-11-10,El Salvador,35145,1020,31172
+2020-11-10,Equatorial Guinea,5102,85,4971
+2020-11-10,Eritrea,491,0,438
+2020-11-10,Estonia,6376,76,4219
+2020-11-10,Eswatini,6024,117,5737
+2020-11-10,Ethiopia,100327,1537,61516
+2020-11-10,Fiji,34,2,31
+2020-11-10,Finland,18107,363,12700
+2020-11-10,France,1857309,41062,135216
+2020-11-10,Gabon,9029,57,8899
+2020-11-10,Gambia,3696,122,3543
+2020-11-10,Georgia,63650,521,47390
+2020-11-10,Germany,715693,11781,446402
+2020-11-10,Ghana,49302,320,47843
+2020-11-10,Greece,60570,866,23074
+2020-11-10,Grenada,32,0,27
+2020-11-10,Guatemala,112129,3832,102140
+2020-11-10,Guinea,12484,74,10857
+2020-11-10,Guinea-Bissau,2419,43,2255
+2020-11-10,Guyana,4530,135,3575
+2020-11-10,Haiti,9137,232,7683
+2020-11-10,Holy See,27,0,15
+2020-11-10,Honduras,100804,2780,43507
+2020-11-10,Hungary,118918,2596,27585
+2020-11-10,Iceland,5114,24,4521
+2020-11-10,India,8636011,127571,8013783
+2020-11-10,Indonesia,444348,14761,375741
+2020-11-10,Iran,703288,39202,530694
+2020-11-10,Iraq,505310,11432,434665
+2020-11-10,Ireland,65889,1963,23364
+2020-11-10,Israel,320661,2684,309840
+2020-11-10,Italy,995463,42330,363023
+2020-11-10,Jamaica,9573,224,4987
+2020-11-10,Japan,110487,1840,98487
+2020-11-10,Jordan,120982,1386,9249
+2020-11-10,Kazakhstan,117904,1857,108387
+2020-11-10,Kenya,64588,1154,43095
+2020-11-10,"Korea, South",27799,487,25266
+2020-11-10,Kosovo,25388,773,16362
+2020-11-10,Kuwait,133381,821,124156
+2020-11-10,Kyrgyzstan,64360,1188,55306
+2020-11-10,Laos,24,0,23
+2020-11-10,Latvia,8395,103,1471
+2020-11-10,Lebanon,96907,749,53360
+2020-11-10,Lesotho,2026,44,1029
+2020-11-10,Liberia,1461,82,1310
+2020-11-10,Libya,70010,957,41512
+2020-11-10,Liechtenstein,846,4,590
+2020-11-10,Lithuania,26841,221,5962
+2020-11-10,Luxembourg,23710,198,14094
+2020-11-10,MS Zaandam,9,2,0
+2020-11-10,Madagascar,17223,249,16516
+2020-11-10,Malawi,5953,185,5361
+2020-11-10,Malaysia,42050,300,30304
+2020-11-10,Maldives,12030,41,11182
+2020-11-10,Mali,3745,137,2905
+2020-11-10,Malta,7396,81,5274
+2020-11-10,Marshall Islands,1,0,0
+2020-11-10,Mauritania,7848,165,7498
+2020-11-10,Mauritius,453,10,416
+2020-11-10,Mexico,978531,95842,824355
+2020-11-10,Moldova,83592,1930,64826
+2020-11-10,Monaco,512,2,378
+2020-11-10,Mongolia,382,0,317
+2020-11-10,Montenegro,24154,349,16378
+2020-11-10,Morocco,265165,4425,216851
+2020-11-10,Mozambique,13892,99,11748
+2020-11-10,Namibia,13253,134,11701
+2020-11-10,Nepal,199760,1148,160577
+2020-11-10,Netherlands,426227,8211,6185
+2020-11-10,New Zealand,1988,25,1911
+2020-11-10,Nicaragua,5661,158,4225
+2020-11-10,Niger,1256,69,1144
+2020-11-10,Nigeria,64336,1160,60333
+2020-11-10,North Macedonia,41222,1186,24920
+2020-11-10,Norway,25887,285,11863
+2020-11-10,Oman,118884,1316,109330
+2020-11-10,Pakistan,348184,7021,320065
+2020-11-10,Panama,141302,2817,119707
+2020-11-10,Papua New Guinea,599,7,586
+2020-11-10,Paraguay,68497,1516,49039
+2020-11-10,Peru,923527,34943,850670
+2020-11-10,Philippines,399749,7661,361919
+2020-11-10,Poland,593592,8375,230661
+2020-11-10,Portugal,187237,3021,106878
+2020-11-10,Qatar,134663,233,131733
+2020-11-10,Romania,314295,8186,211408
+2020-11-10,Russia,1802762,30899,1341868
+2020-11-10,Rwanda,5262,40,4967
+2020-11-10,Saint Kitts and Nevis,19,0,19
+2020-11-10,Saint Lucia,148,1,32
+2020-11-10,Saint Vincent and the Grenadines,76,0,72
+2020-11-10,San Marino,1114,42,789
+2020-11-10,Sao Tome and Principe,962,16,914
+2020-11-10,Saudi Arabia,351455,5576,338281
+2020-11-10,Senegal,15720,326,15366
+2020-11-10,Serbia,66888,915,0
+2020-11-10,Seychelles,158,0,155
+2020-11-10,Sierra Leone,2386,74,1813
+2020-11-10,Singapore,58073,28,57985
+2020-11-10,Slovakia,77123,390,21718
+2020-11-10,Slovenia,46717,605,25007
+2020-11-10,Solomon Islands,16,0,5
+2020-11-10,Somalia,4301,107,3247
+2020-11-10,South Africa,740254,19951,683194
+2020-11-10,South Sudan,2960,59,1290
+2020-11-10,Spain,1381218,39345,150376
+2020-11-10,Sri Lanka,14715,41,9537
+2020-11-10,Sudan,14155,1116,9492
+2020-11-10,Suriname,5245,113,5115
+2020-11-10,Sweden,162240,6057,0
+2020-11-10,Switzerland,235202,3013,122600
+2020-11-10,Syria,6352,325,2454
+2020-11-10,Taiwan*,580,7,528
+2020-11-10,Tajikistan,11417,84,10763
+2020-11-10,Tanzania,509,21,183
+2020-11-10,Thailand,3847,60,3685
+2020-11-10,Timor-Leste,30,0,29
+2020-11-10,Togo,2558,57,1763
+2020-11-10,Trinidad and Tobago,5880,111,5238
+2020-11-10,Tunisia,72993,2006,48103
+2020-11-10,Turkey,399360,11059,342501
+2020-11-10,US,10256094,239905,3961873
+2020-11-10,Uganda,14704,133,7836
+2020-11-10,Ukraine,493544,9018,223530
+2020-11-10,United Arab Emirates,144385,518,139701
+2020-11-10,United Kingdom,1237198,49861,3008
+2020-11-10,Uruguay,3620,62,3034
+2020-11-10,Uzbekistan,69027,588,66194
+2020-11-10,Vanuatu,1,0,0
+2020-11-10,Venezuela,95445,834,90359
+2020-11-10,Vietnam,1226,35,1087
+2020-11-10,West Bank and Gaza,59422,533,51425
+2020-11-10,Western Sahara,10,1,8
+2020-11-10,Yemen,2071,605,1394
+2020-11-10,Zambia,16997,350,16019
+2020-11-10,Zimbabwe,8610,255,8040
