@@ -131,11 +131,14 @@ def convert():
 
                     row_value = row[1].value
 
-                    # Fix enc#ding issues.
+                    # Fix encoding issues.
                     for k, v in FIXERS.items():
                         row_value = row_value.replace(k, v).strip()
 
                     CLASIFICACION_FINAL_DICT[str(row[0].value)] = row_value
+
+            CLASIFICACION_FINAL_DICT["8"] = "CASO DE COVID-19 CONFIRMADO POR ASOCIACIÓN CLÍNICA EPIDEMIOLÓGICA"
+            CLASIFICACION_FINAL_DICT["9"] = "NA"
 
             # Entidades Federativas
             sheet = workbook["Catálogo de ENTIDADES"]
@@ -193,7 +196,7 @@ def convert():
                 row["EMBARAZO"] = SI_NO_DICT[row["EMBARAZO"]]
                 row["HABLA_LENGUA_INDIG"] = SI_NO_DICT[row["HABLA_LENGUA_INDIG"]]
                 row["INDIGENA"] = SI_NO_DICT[row["INDIGENA"]]
-                row["TOMA_MUESTRA"] = SI_NO_DICT[row["TOMA_MUESTRA"]] 
+                # row["TOMA_MUESTRA"] = SI_NO_DICT[row["TOMA_MUESTRA"]]
                 row["DIABETES"] = SI_NO_DICT[row["DIABETES"]]
                 row["EPOC"] = SI_NO_DICT[row["EPOC"]]
                 row["ASMA"] = SI_NO_DICT[row["ASMA"]]
