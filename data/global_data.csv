@@ -7830,7 +7830,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-02,Yemen,0,0,0
 2020-03-02,Zambia,0,0,0
 2020-03-02,Zimbabwe,0,0,0
-2020-03-03,Afghanistan,1,0,0
+2020-03-03,Afghanistan,2,0,0
 2020-03-03,Albania,0,0,0
 2020-03-03,Algeria,5,0,0
 2020-03-03,Andorra,1,0,0
@@ -8021,7 +8021,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-03,Yemen,0,0,0
 2020-03-03,Zambia,0,0,0
 2020-03-03,Zimbabwe,0,0,0
-2020-03-04,Afghanistan,1,0,0
+2020-03-04,Afghanistan,4,0,0
 2020-03-04,Albania,0,0,0
 2020-03-04,Algeria,12,0,0
 2020-03-04,Andorra,1,0,0
@@ -8212,7 +8212,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-04,Yemen,0,0,0
 2020-03-04,Zambia,0,0,0
 2020-03-04,Zimbabwe,0,0,0
-2020-03-05,Afghanistan,1,0,0
+2020-03-05,Afghanistan,4,0,0
 2020-03-05,Albania,0,0,0
 2020-03-05,Algeria,12,0,0
 2020-03-05,Andorra,1,0,0
@@ -8403,7 +8403,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-05,Yemen,0,0,0
 2020-03-05,Zambia,0,0,0
 2020-03-05,Zimbabwe,0,0,0
-2020-03-06,Afghanistan,1,0,0
+2020-03-06,Afghanistan,4,0,0
 2020-03-06,Albania,0,0,0
 2020-03-06,Algeria,17,0,0
 2020-03-06,Andorra,1,0,0
@@ -8594,7 +8594,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-06,Yemen,0,0,0
 2020-03-06,Zambia,0,0,0
 2020-03-06,Zimbabwe,0,0,0
-2020-03-07,Afghanistan,1,0,0
+2020-03-07,Afghanistan,4,0,0
 2020-03-07,Albania,0,0,0
 2020-03-07,Algeria,17,0,0
 2020-03-07,Andorra,1,0,0
@@ -8785,7 +8785,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-07,Yemen,0,0,0
 2020-03-07,Zambia,0,0,0
 2020-03-07,Zimbabwe,0,0,0
-2020-03-08,Afghanistan,4,0,0
+2020-03-08,Afghanistan,5,0,0
 2020-03-08,Albania,0,0,0
 2020-03-08,Algeria,19,0,0
 2020-03-08,Andorra,1,0,0
@@ -8976,7 +8976,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-08,Yemen,0,0,0
 2020-03-08,Zambia,0,0,0
 2020-03-08,Zimbabwe,0,0,0
-2020-03-09,Afghanistan,4,0,0
+2020-03-09,Afghanistan,7,0,0
 2020-03-09,Albania,2,0,0
 2020-03-09,Algeria,20,0,0
 2020-03-09,Andorra,1,0,0
@@ -9167,7 +9167,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-09,Yemen,0,0,0
 2020-03-09,Zambia,0,0,0
 2020-03-09,Zimbabwe,0,0,0
-2020-03-10,Afghanistan,5,0,0
+2020-03-10,Afghanistan,8,0,0
 2020-03-10,Albania,10,0,0
 2020-03-10,Algeria,20,0,0
 2020-03-10,Andorra,1,0,0
@@ -9358,7 +9358,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-10,Yemen,0,0,0
 2020-03-10,Zambia,0,0,0
 2020-03-10,Zimbabwe,0,0,0
-2020-03-11,Afghanistan,7,0,0
+2020-03-11,Afghanistan,11,0,0
 2020-03-11,Albania,12,1,0
 2020-03-11,Algeria,20,0,0
 2020-03-11,Andorra,1,0,0
@@ -9549,7 +9549,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-11,Yemen,0,0,0
 2020-03-11,Zambia,0,0,0
 2020-03-11,Zimbabwe,0,0,0
-2020-03-12,Afghanistan,7,0,0
+2020-03-12,Afghanistan,12,0,0
 2020-03-12,Albania,23,1,0
 2020-03-12,Algeria,24,1,8
 2020-03-12,Andorra,1,0,1
@@ -9740,7 +9740,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-12,Yemen,0,0,0
 2020-03-12,Zambia,0,0,0
 2020-03-12,Zimbabwe,0,0,0
-2020-03-13,Afghanistan,7,0,0
+2020-03-13,Afghanistan,13,0,0
 2020-03-13,Albania,33,1,0
 2020-03-13,Algeria,26,2,8
 2020-03-13,Andorra,1,0,0
@@ -9931,7 +9931,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-13,Yemen,0,0,0
 2020-03-13,Zambia,0,0,0
 2020-03-13,Zimbabwe,0,0,0
-2020-03-14,Afghanistan,11,0,0
+2020-03-14,Afghanistan,15,0,0
 2020-03-14,Albania,38,1,0
 2020-03-14,Algeria,37,3,12
 2020-03-14,Andorra,1,0,1
@@ -10313,7 +10313,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-15,Yemen,0,0,0
 2020-03-15,Zambia,0,0,0
 2020-03-15,Zimbabwe,0,0,0
-2020-03-16,Afghanistan,21,0,1
+2020-03-16,Afghanistan,18,0,1
 2020-03-16,Albania,51,1,0
 2020-03-16,Algeria,54,4,12
 2020-03-16,Andorra,2,0,1
@@ -10504,7 +10504,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-16,Yemen,0,0,0
 2020-03-16,Zambia,0,0,0
 2020-03-16,Zimbabwe,0,0,0
-2020-03-17,Afghanistan,22,0,1
+2020-03-17,Afghanistan,20,0,1
 2020-03-17,Albania,55,1,0
 2020-03-17,Algeria,60,4,12
 2020-03-17,Andorra,39,0,1
@@ -10695,7 +10695,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-17,Yemen,0,0,0
 2020-03-17,Zambia,0,0,0
 2020-03-17,Zimbabwe,0,0,0
-2020-03-18,Afghanistan,22,0,1
+2020-03-18,Afghanistan,24,0,1
 2020-03-18,Albania,59,2,0
 2020-03-18,Algeria,74,7,12
 2020-03-18,Andorra,39,0,1
@@ -10886,7 +10886,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-18,Yemen,0,0,0
 2020-03-18,Zambia,2,0,0
 2020-03-18,Zimbabwe,0,0,0
-2020-03-19,Afghanistan,22,0,1
+2020-03-19,Afghanistan,25,0,1
 2020-03-19,Albania,64,2,0
 2020-03-19,Algeria,87,9,32
 2020-03-19,Andorra,53,0,1
@@ -11077,7 +11077,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-19,Yemen,0,0,0
 2020-03-19,Zambia,2,0,0
 2020-03-19,Zimbabwe,0,0,0
-2020-03-20,Afghanistan,24,0,1
+2020-03-20,Afghanistan,29,0,1
 2020-03-20,Albania,70,2,0
 2020-03-20,Algeria,90,11,32
 2020-03-20,Andorra,75,0,1
@@ -11166,7 +11166,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Jamaica,16,1,2
 2020-03-20,Japan,1022,34,191
 2020-03-20,Jordan,85,0,1
-2020-03-20,Kazakhstan,49,3,0
+2020-03-20,Kazakhstan,49,0,0
 2020-03-20,Kenya,7,0,0
 2020-03-20,"Korea, South",8652,94,1540
 2020-03-20,Kosovo,21,0,0
@@ -11268,7 +11268,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-20,Yemen,0,0,0
 2020-03-20,Zambia,2,0,0
 2020-03-20,Zimbabwe,1,0,0
-2020-03-21,Afghanistan,24,0,1
+2020-03-21,Afghanistan,30,0,1
 2020-03-21,Albania,76,2,2
 2020-03-21,Algeria,139,15,32
 2020-03-21,Andorra,88,0,1
@@ -11459,7 +11459,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-21,Yemen,0,0,0
 2020-03-21,Zambia,2,0,0
 2020-03-21,Zimbabwe,3,0,0
-2020-03-22,Afghanistan,40,1,1
+2020-03-22,Afghanistan,34,1,1
 2020-03-22,Albania,89,2,2
 2020-03-22,Algeria,201,17,65
 2020-03-22,Andorra,113,1,1
@@ -11548,7 +11548,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Jamaica,19,1,2
 2020-03-22,Japan,1104,40,235
 2020-03-22,Jordan,112,0,1
-2020-03-22,Kazakhstan,60,0,0
+2020-03-22,Kazakhstan,61,0,0
 2020-03-22,Kenya,15,0,0
 2020-03-22,"Korea, South",8961,111,2909
 2020-03-22,Kosovo,31,0,0
@@ -11650,7 +11650,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-22,Yemen,0,0,0
 2020-03-22,Zambia,3,0,0
 2020-03-22,Zimbabwe,3,0,0
-2020-03-23,Afghanistan,40,1,1
+2020-03-23,Afghanistan,41,1,1
 2020-03-23,Albania,104,4,2
 2020-03-23,Algeria,230,17,65
 2020-03-23,Andorra,133,1,1
@@ -11841,7 +11841,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-23,Yemen,0,0,0
 2020-03-23,Zambia,3,0,0
 2020-03-23,Zimbabwe,3,1,0
-2020-03-24,Afghanistan,74,1,1
+2020-03-24,Afghanistan,43,1,1
 2020-03-24,Albania,123,5,10
 2020-03-24,Algeria,264,19,24
 2020-03-24,Andorra,164,1,1
@@ -12032,7 +12032,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-24,Yemen,0,0,0
 2020-03-24,Zambia,3,0,0
 2020-03-24,Zimbabwe,3,1,0
-2020-03-25,Afghanistan,84,2,2
+2020-03-25,Afghanistan,76,2,2
 2020-03-25,Albania,146,5,17
 2020-03-25,Algeria,302,21,65
 2020-03-25,Andorra,188,1,1
@@ -12223,7 +12223,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-25,Yemen,0,0,0
 2020-03-25,Zambia,12,0,0
 2020-03-25,Zimbabwe,3,1,0
-2020-03-26,Afghanistan,94,4,2
+2020-03-26,Afghanistan,80,3,2
 2020-03-26,Albania,174,6,17
 2020-03-26,Algeria,367,25,29
 2020-03-26,Andorra,224,3,1
@@ -12414,7 +12414,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-26,Yemen,0,0,0
 2020-03-26,Zambia,16,0,0
 2020-03-26,Zimbabwe,3,1,0
-2020-03-27,Afghanistan,110,4,2
+2020-03-27,Afghanistan,91,3,2
 2020-03-27,Albania,186,8,31
 2020-03-27,Algeria,409,26,29
 2020-03-27,Andorra,267,3,1
@@ -12605,7 +12605,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-27,Yemen,0,0,0
 2020-03-27,Zambia,22,0,0
 2020-03-27,Zimbabwe,5,1,0
-2020-03-28,Afghanistan,110,4,2
+2020-03-28,Afghanistan,107,4,2
 2020-03-28,Albania,197,10,31
 2020-03-28,Algeria,454,29,31
 2020-03-28,Andorra,308,3,1
@@ -12796,7 +12796,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-28,Yemen,0,0,0
 2020-03-28,Zambia,28,0,0
 2020-03-28,Zimbabwe,7,1,0
-2020-03-29,Afghanistan,120,4,2
+2020-03-29,Afghanistan,118,4,2
 2020-03-29,Albania,212,10,33
 2020-03-29,Algeria,511,31,31
 2020-03-29,Andorra,334,6,1
@@ -12987,7 +12987,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-29,Yemen,0,0,0
 2020-03-29,Zambia,29,0,0
 2020-03-29,Zimbabwe,7,1,0
-2020-03-30,Afghanistan,170,4,2
+2020-03-30,Afghanistan,146,4,2
 2020-03-30,Albania,223,11,44
 2020-03-30,Algeria,584,35,37
 2020-03-30,Andorra,370,8,10
@@ -13178,7 +13178,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-30,Yemen,0,0,0
 2020-03-30,Zambia,35,0,0
 2020-03-30,Zimbabwe,7,1,0
-2020-03-31,Afghanistan,174,4,5
+2020-03-31,Afghanistan,175,4,5
 2020-03-31,Albania,243,15,52
 2020-03-31,Algeria,716,44,46
 2020-03-31,Andorra,376,12,10
@@ -13369,7 +13369,7 @@ isodate,country,confirmed,deaths,recovered
 2020-03-31,Yemen,0,0,0
 2020-03-31,Zambia,35,0,0
 2020-03-31,Zimbabwe,8,1,0
-2020-04-01,Afghanistan,237,4,5
+2020-04-01,Afghanistan,197,4,5
 2020-04-01,Albania,259,15,67
 2020-04-01,Algeria,847,58,61
 2020-04-01,Andorra,390,14,10
@@ -13560,7 +13560,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-01,Yemen,0,0,0
 2020-04-01,Zambia,36,0,0
 2020-04-01,Zimbabwe,8,1,0
-2020-04-02,Afghanistan,273,6,10
+2020-04-02,Afghanistan,240,4,10
 2020-04-02,Albania,277,16,76
 2020-04-02,Algeria,986,86,61
 2020-04-02,Andorra,428,15,10
@@ -13751,7 +13751,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-02,Yemen,0,0,0
 2020-04-02,Zambia,39,1,0
 2020-04-02,Zimbabwe,9,1,0
-2020-04-03,Afghanistan,281,6,10
+2020-04-03,Afghanistan,275,8,10
 2020-04-03,Albania,304,17,89
 2020-04-03,Algeria,1171,105,62
 2020-04-03,Andorra,439,16,16
@@ -13942,7 +13942,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-03,Yemen,0,0,0
 2020-04-03,Zambia,39,1,2
 2020-04-03,Zimbabwe,9,1,0
-2020-04-04,Afghanistan,299,7,10
+2020-04-04,Afghanistan,300,10,10
 2020-04-04,Albania,333,20,99
 2020-04-04,Algeria,1251,130,90
 2020-04-04,Andorra,466,17,21
@@ -14133,7 +14133,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-04,Yemen,0,0,0
 2020-04-04,Zambia,39,1,2
 2020-04-04,Zimbabwe,9,1,0
-2020-04-05,Afghanistan,349,7,15
+2020-04-05,Afghanistan,338,12,15
 2020-04-05,Albania,361,20,104
 2020-04-05,Algeria,1320,152,90
 2020-04-05,Andorra,501,18,26
@@ -14324,7 +14324,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-05,Yemen,0,0,0
 2020-04-05,Zambia,39,1,3
 2020-04-05,Zimbabwe,9,1,0
-2020-04-06,Afghanistan,367,11,18
+2020-04-06,Afghanistan,368,15,18
 2020-04-06,Albania,377,21,116
 2020-04-06,Algeria,1423,173,90
 2020-04-06,Andorra,525,21,31
@@ -14515,7 +14515,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-06,Yemen,0,0,0
 2020-04-06,Zambia,39,1,5
 2020-04-06,Zimbabwe,10,1,0
-2020-04-07,Afghanistan,423,14,18
+2020-04-07,Afghanistan,424,16,18
 2020-04-07,Albania,383,22,131
 2020-04-07,Algeria,1468,193,113
 2020-04-07,Andorra,545,22,39
@@ -14706,7 +14706,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-07,Yemen,0,0,0
 2020-04-07,Zambia,39,1,7
 2020-04-07,Zimbabwe,11,2,0
-2020-04-08,Afghanistan,444,14,29
+2020-04-08,Afghanistan,445,16,29
 2020-04-08,Albania,400,22,154
 2020-04-08,Algeria,1572,205,237
 2020-04-08,Andorra,564,23,52
@@ -14897,7 +14897,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-08,Yemen,0,0,0
 2020-04-08,Zambia,39,1,7
 2020-04-08,Zimbabwe,11,3,0
-2020-04-09,Afghanistan,484,15,32
+2020-04-09,Afghanistan,485,17,32
 2020-04-09,Albania,409,23,165
 2020-04-09,Algeria,1666,235,347
 2020-04-09,Andorra,583,25,58
@@ -15088,7 +15088,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-09,Yemen,0,0,0
 2020-04-09,Zambia,39,1,24
 2020-04-09,Zimbabwe,11,3,0
-2020-04-10,Afghanistan,521,15,32
+2020-04-10,Afghanistan,532,18,32
 2020-04-10,Albania,416,23,182
 2020-04-10,Algeria,1761,256,405
 2020-04-10,Andorra,601,26,71
@@ -15279,7 +15279,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-10,Yemen,1,0,0
 2020-04-10,Zambia,40,2,25
 2020-04-10,Zimbabwe,13,3,0
-2020-04-11,Afghanistan,555,18,32
+2020-04-11,Afghanistan,556,18,32
 2020-04-11,Albania,433,23,197
 2020-04-11,Algeria,1825,275,460
 2020-04-11,Andorra,601,26,71
@@ -15470,7 +15470,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-11,Yemen,1,0,0
 2020-04-11,Zambia,40,2,28
 2020-04-11,Zimbabwe,14,3,0
-2020-04-12,Afghanistan,607,18,32
+2020-04-12,Afghanistan,608,19,32
 2020-04-12,Albania,446,23,217
 2020-04-12,Algeria,1914,293,591
 2020-04-12,Andorra,638,29,128
@@ -15661,7 +15661,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-12,Yemen,1,0,0
 2020-04-12,Zambia,43,2,30
 2020-04-12,Zimbabwe,14,3,0
-2020-04-13,Afghanistan,665,21,32
+2020-04-13,Afghanistan,666,22,32
 2020-04-13,Albania,467,23,232
 2020-04-13,Algeria,1983,313,601
 2020-04-13,Andorra,646,29,128
@@ -15852,7 +15852,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-13,Yemen,1,0,0
 2020-04-13,Zambia,45,2,30
 2020-04-13,Zimbabwe,17,3,0
-2020-04-14,Afghanistan,714,23,40
+2020-04-14,Afghanistan,715,23,40
 2020-04-14,Albania,475,24,248
 2020-04-14,Algeria,2070,326,691
 2020-04-14,Andorra,659,31,128
@@ -16043,7 +16043,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-14,Yemen,1,0,0
 2020-04-14,Zambia,45,2,30
 2020-04-14,Zimbabwe,17,3,0
-2020-04-15,Afghanistan,784,25,43
+2020-04-15,Afghanistan,785,29,43
 2020-04-15,Albania,494,25,251
 2020-04-15,Algeria,2160,336,708
 2020-04-15,Andorra,673,33,169
@@ -16234,7 +16234,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-15,Yemen,1,0,0
 2020-04-15,Zambia,48,2,30
 2020-04-15,Zimbabwe,23,3,1
-2020-04-16,Afghanistan,840,30,54
+2020-04-16,Afghanistan,841,30,54
 2020-04-16,Albania,518,26,277
 2020-04-16,Algeria,2268,348,783
 2020-04-16,Andorra,673,33,169
@@ -16425,7 +16425,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-16,Yemen,1,0,0
 2020-04-16,Zambia,48,2,30
 2020-04-16,Zimbabwe,23,3,1
-2020-04-17,Afghanistan,906,30,99
+2020-04-17,Afghanistan,907,30,99
 2020-04-17,Albania,539,26,283
 2020-04-17,Algeria,2418,364,846
 2020-04-17,Andorra,696,35,191
@@ -16616,7 +16616,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-17,Yemen,1,0,0
 2020-04-17,Zambia,52,2,30
 2020-04-17,Zimbabwe,24,3,2
-2020-04-18,Afghanistan,933,30,112
+2020-04-18,Afghanistan,934,30,112
 2020-04-18,Albania,548,26,302
 2020-04-18,Algeria,2534,367,894
 2020-04-18,Andorra,704,35,205
@@ -16807,7 +16807,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-18,Yemen,1,0,0
 2020-04-18,Zambia,57,2,33
 2020-04-18,Zimbabwe,25,3,2
-2020-04-19,Afghanistan,996,33,131
+2020-04-19,Afghanistan,997,33,131
 2020-04-19,Albania,562,26,314
 2020-04-19,Algeria,2629,375,1047
 2020-04-19,Andorra,713,36,235
@@ -16998,7 +16998,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-19,Yemen,1,0,0
 2020-04-19,Zambia,61,3,33
 2020-04-19,Zimbabwe,25,3,2
-2020-04-20,Afghanistan,1026,36,135
+2020-04-20,Afghanistan,1027,36,135
 2020-04-20,Albania,584,26,327
 2020-04-20,Algeria,2718,384,1099
 2020-04-20,Andorra,717,37,248
@@ -17189,7 +17189,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-20,Yemen,1,0,0
 2020-04-20,Zambia,65,3,35
 2020-04-20,Zimbabwe,25,3,2
-2020-04-21,Afghanistan,1092,36,150
+2020-04-21,Afghanistan,1093,36,150
 2020-04-21,Albania,609,26,345
 2020-04-21,Algeria,2811,392,1152
 2020-04-21,Andorra,717,37,282
@@ -17380,7 +17380,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-21,Yemen,1,0,0
 2020-04-21,Zambia,70,3,35
 2020-04-21,Zimbabwe,28,3,2
-2020-04-22,Afghanistan,1176,40,166
+2020-04-22,Afghanistan,1177,40,166
 2020-04-22,Albania,634,27,356
 2020-04-22,Algeria,2910,402,1204
 2020-04-22,Andorra,723,37,309
@@ -17571,7 +17571,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-22,Yemen,1,0,0
 2020-04-22,Zambia,74,3,35
 2020-04-22,Zimbabwe,28,4,2
-2020-04-23,Afghanistan,1279,42,179
+2020-04-23,Afghanistan,1236,40,179
 2020-04-23,Albania,663,27,385
 2020-04-23,Algeria,3007,407,1355
 2020-04-23,Andorra,723,37,333
@@ -17762,7 +17762,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-23,Yemen,1,0,0
 2020-04-23,Zambia,76,3,37
 2020-04-23,Zimbabwe,28,4,2
-2020-04-24,Afghanistan,1351,43,188
+2020-04-24,Afghanistan,1331,43,188
 2020-04-24,Albania,678,27,394
 2020-04-24,Algeria,3127,415,1408
 2020-04-24,Andorra,731,40,344
@@ -17953,7 +17953,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-24,Yemen,1,0,1
 2020-04-24,Zambia,84,3,37
 2020-04-24,Zimbabwe,29,4,2
-2020-04-25,Afghanistan,1463,47,188
+2020-04-25,Afghanistan,1464,47,188
 2020-04-25,Albania,712,27,403
 2020-04-25,Algeria,3256,419,1479
 2020-04-25,Andorra,738,40,344
@@ -18144,7 +18144,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-25,Yemen,1,0,1
 2020-04-25,Zambia,84,3,37
 2020-04-25,Zimbabwe,31,4,2
-2020-04-26,Afghanistan,1531,50,207
+2020-04-26,Afghanistan,1532,52,207
 2020-04-26,Albania,726,28,410
 2020-04-26,Algeria,3382,425,1508
 2020-04-26,Andorra,738,40,344
@@ -18335,7 +18335,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-26,Yemen,1,0,1
 2020-04-26,Zambia,88,3,42
 2020-04-26,Zimbabwe,31,4,2
-2020-04-27,Afghanistan,1703,57,220
+2020-04-27,Afghanistan,1704,58,220
 2020-04-27,Albania,736,28,422
 2020-04-27,Algeria,3517,432,1558
 2020-04-27,Andorra,743,40,385
@@ -18526,7 +18526,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-27,Yemen,1,0,1
 2020-04-27,Zambia,88,3,42
 2020-04-27,Zimbabwe,32,4,5
-2020-04-28,Afghanistan,1828,58,228
+2020-04-28,Afghanistan,1830,59,228
 2020-04-28,Albania,750,30,431
 2020-04-28,Algeria,3649,437,1651
 2020-04-28,Andorra,743,41,398
@@ -18717,7 +18717,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-28,Yemen,1,0,1
 2020-04-28,Zambia,95,3,42
 2020-04-28,Zimbabwe,32,4,5
-2020-04-29,Afghanistan,1939,60,252
+2020-04-29,Afghanistan,1940,61,252
 2020-04-29,Albania,766,30,455
 2020-04-29,Algeria,3848,444,1702
 2020-04-29,Andorra,743,42,423
@@ -18908,7 +18908,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-29,Yemen,6,0,1
 2020-04-29,Zambia,97,3,54
 2020-04-29,Zimbabwe,32,4,5
-2020-04-30,Afghanistan,2171,64,260
+2020-04-30,Afghanistan,2127,64,260
 2020-04-30,Albania,773,31,470
 2020-04-30,Algeria,4006,450,1779
 2020-04-30,Andorra,745,42,468
@@ -19099,7 +19099,7 @@ isodate,country,confirmed,deaths,recovered
 2020-04-30,Yemen,6,2,1
 2020-04-30,Zambia,106,3,55
 2020-04-30,Zimbabwe,40,4,5
-2020-05-01,Afghanistan,2335,68,310
+2020-05-01,Afghanistan,2291,68,310
 2020-05-01,Albania,782,31,488
 2020-05-01,Algeria,4154,453,1821
 2020-05-01,Andorra,745,43,468
@@ -19290,7 +19290,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-01,Yemen,7,2,1
 2020-05-01,Zambia,109,3,74
 2020-05-01,Zimbabwe,40,4,5
-2020-05-02,Afghanistan,2469,72,331
+2020-05-02,Afghanistan,2470,72,331
 2020-05-02,Albania,789,31,519
 2020-05-02,Algeria,4295,459,1872
 2020-05-02,Andorra,747,44,472
@@ -19481,7 +19481,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-02,Yemen,10,2,1
 2020-05-02,Zambia,119,3,75
 2020-05-02,Zimbabwe,34,4,5
-2020-05-03,Afghanistan,2704,85,345
+2020-05-03,Afghanistan,2705,85,345
 2020-05-03,Albania,795,31,531
 2020-05-03,Algeria,4474,463,1936
 2020-05-03,Andorra,748,45,493
@@ -19672,7 +19672,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-03,Yemen,10,2,1
 2020-05-03,Zambia,124,3,78
 2020-05-03,Zimbabwe,34,4,5
-2020-05-04,Afghanistan,2894,90,397
+2020-05-04,Afghanistan,2895,90,397
 2020-05-04,Albania,803,31,543
 2020-05-04,Algeria,4648,465,1998
 2020-05-04,Andorra,750,45,499
@@ -19863,7 +19863,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-04,Yemen,12,2,1
 2020-05-04,Zambia,137,3,78
 2020-05-04,Zimbabwe,34,4,5
-2020-05-05,Afghanistan,3224,95,421
+2020-05-05,Afghanistan,3225,95,421
 2020-05-05,Albania,820,31,570
 2020-05-05,Algeria,4838,470,2067
 2020-05-05,Andorra,751,46,514
@@ -20054,7 +20054,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-05,Yemen,22,4,1
 2020-05-05,Zambia,138,3,92
 2020-05-05,Zimbabwe,34,4,5
-2020-05-06,Afghanistan,3392,104,458
+2020-05-06,Afghanistan,3393,104,458
 2020-05-06,Albania,832,31,595
 2020-05-06,Algeria,4997,476,2197
 2020-05-06,Andorra,751,46,521
@@ -20245,7 +20245,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-06,Yemen,25,5,1
 2020-05-06,Zambia,146,4,101
 2020-05-06,Zimbabwe,34,4,5
-2020-05-07,Afghanistan,3563,106,468
+2020-05-07,Afghanistan,3564,106,468
 2020-05-07,Albania,842,31,605
 2020-05-07,Algeria,5182,483,2323
 2020-05-07,Andorra,752,47,526
@@ -20436,7 +20436,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-07,Yemen,25,5,1
 2020-05-07,Zambia,153,4,103
 2020-05-07,Zimbabwe,34,4,5
-2020-05-08,Afghanistan,3778,109,472
+2020-05-08,Afghanistan,3781,109,472
 2020-05-08,Albania,850,31,620
 2020-05-08,Algeria,5369,488,2467
 2020-05-08,Andorra,752,47,537
@@ -20627,7 +20627,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-08,Yemen,34,7,1
 2020-05-08,Zambia,167,4,111
 2020-05-08,Zimbabwe,34,4,9
-2020-05-09,Afghanistan,4033,115,502
+2020-05-09,Afghanistan,4042,115,502
 2020-05-09,Albania,856,31,627
 2020-05-09,Algeria,5558,494,2546
 2020-05-09,Andorra,754,48,545
@@ -20818,7 +20818,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-09,Yemen,34,7,1
 2020-05-09,Zambia,252,7,112
 2020-05-09,Zimbabwe,35,4,9
-2020-05-10,Afghanistan,4402,120,558
+2020-05-10,Afghanistan,4403,120,558
 2020-05-10,Albania,868,31,650
 2020-05-10,Algeria,5723,502,2678
 2020-05-10,Andorra,755,48,550
@@ -21200,7 +21200,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-11,Yemen,56,9,1
 2020-05-11,Zambia,267,7,117
 2020-05-11,Zimbabwe,36,4,9
-2020-05-12,Afghanistan,4963,127,610
+2020-05-12,Afghanistan,4968,127,610
 2020-05-12,Albania,876,31,682
 2020-05-12,Algeria,6067,515,2998
 2020-05-12,Andorra,758,48,568
@@ -21391,7 +21391,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-12,Yemen,65,10,1
 2020-05-12,Zambia,441,7,117
 2020-05-12,Zimbabwe,36,4,9
-2020-05-13,Afghanistan,5226,132,648
+2020-05-13,Afghanistan,5227,132,648
 2020-05-13,Albania,880,31,688
 2020-05-13,Algeria,6253,522,3058
 2020-05-13,Andorra,760,49,576
@@ -21582,7 +21582,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-13,Yemen,70,12,1
 2020-05-13,Zambia,446,7,124
 2020-05-13,Zimbabwe,37,4,12
-2020-05-14,Afghanistan,5639,136,691
+2020-05-14,Afghanistan,5640,136,691
 2020-05-14,Albania,898,31,694
 2020-05-14,Algeria,6442,529,3158
 2020-05-14,Andorra,761,49,596
@@ -21773,7 +21773,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-14,Yemen,85,12,1
 2020-05-14,Zambia,654,7,124
 2020-05-14,Zimbabwe,37,4,13
-2020-05-15,Afghanistan,6053,153,745
+2020-05-15,Afghanistan,6054,153,745
 2020-05-15,Albania,916,31,705
 2020-05-15,Algeria,6629,536,3271
 2020-05-15,Andorra,761,49,604
@@ -21964,7 +21964,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-15,Yemen,106,15,1
 2020-05-15,Zambia,654,7,124
 2020-05-15,Zimbabwe,42,4,13
-2020-05-16,Afghanistan,6402,168,745
+2020-05-16,Afghanistan,6403,168,745
 2020-05-16,Albania,933,31,714
 2020-05-16,Algeria,6821,542,3409
 2020-05-16,Andorra,761,51,615
@@ -22155,7 +22155,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-16,Yemen,122,18,1
 2020-05-16,Zambia,679,7,183
 2020-05-16,Zimbabwe,42,4,13
-2020-05-17,Afghanistan,6664,169,778
+2020-05-17,Afghanistan,6665,170,778
 2020-05-17,Albania,946,31,715
 2020-05-17,Algeria,7019,548,3507
 2020-05-17,Andorra,761,51,617
@@ -22346,7 +22346,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-17,Yemen,128,20,1
 2020-05-17,Zambia,753,7,188
 2020-05-17,Zimbabwe,44,4,17
-2020-05-18,Afghanistan,7072,173,801
+2020-05-18,Afghanistan,7073,173,801
 2020-05-18,Albania,948,31,727
 2020-05-18,Algeria,7201,555,3625
 2020-05-18,Andorra,761,51,624
@@ -22537,7 +22537,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-18,Yemen,130,20,1
 2020-05-18,Zambia,761,7,192
 2020-05-18,Zimbabwe,46,4,18
-2020-05-19,Afghanistan,7653,178,850
+2020-05-19,Afghanistan,7654,178,850
 2020-05-19,Albania,949,31,742
 2020-05-19,Algeria,7377,561,3746
 2020-05-19,Andorra,761,51,628
@@ -22728,7 +22728,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-19,Yemen,167,28,5
 2020-05-19,Zambia,772,7,192
 2020-05-19,Zimbabwe,46,4,18
-2020-05-20,Afghanistan,8145,187,930
+2020-05-20,Afghanistan,8146,188,930
 2020-05-20,Albania,964,31,758
 2020-05-20,Algeria,7542,568,3968
 2020-05-20,Andorra,762,51,639
@@ -22919,7 +22919,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-20,Yemen,184,30,5
 2020-05-20,Zambia,832,7,197
 2020-05-20,Zimbabwe,48,4,18
-2020-05-21,Afghanistan,8676,193,938
+2020-05-21,Afghanistan,8677,194,938
 2020-05-21,Albania,969,31,771
 2020-05-21,Algeria,7728,575,4062
 2020-05-21,Andorra,762,51,639
@@ -23110,7 +23110,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-21,Yemen,197,33,5
 2020-05-21,Zambia,866,7,302
 2020-05-21,Zimbabwe,51,4,18
-2020-05-22,Afghanistan,9216,205,996
+2020-05-22,Afghanistan,9219,206,996
 2020-05-22,Albania,981,31,777
 2020-05-22,Algeria,7918,582,4256
 2020-05-22,Andorra,762,51,652
@@ -23301,7 +23301,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-22,Yemen,209,33,11
 2020-05-22,Zambia,920,7,336
 2020-05-22,Zimbabwe,51,4,18
-2020-05-23,Afghanistan,9998,216,1040
+2020-05-23,Afghanistan,10001,217,1040
 2020-05-23,Albania,989,31,783
 2020-05-23,Algeria,8113,592,4426
 2020-05-23,Andorra,762,51,653
@@ -23492,7 +23492,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-23,Yemen,212,39,11
 2020-05-23,Zambia,920,7,336
 2020-05-23,Zimbabwe,56,4,18
-2020-05-24,Afghanistan,10582,218,1075
+2020-05-24,Afghanistan,10585,219,1075
 2020-05-24,Albania,998,32,789
 2020-05-24,Algeria,8306,600,4784
 2020-05-24,Andorra,762,51,653
@@ -23683,7 +23683,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-24,Yemen,222,42,10
 2020-05-24,Zambia,920,7,336
 2020-05-24,Zimbabwe,56,4,25
-2020-05-25,Afghanistan,11173,219,1097
+2020-05-25,Afghanistan,11176,220,1097
 2020-05-25,Albania,1004,32,795
 2020-05-25,Algeria,8503,609,4747
 2020-05-25,Andorra,763,51,663
@@ -23874,7 +23874,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-25,Yemen,233,44,10
 2020-05-25,Zambia,920,7,336
 2020-05-25,Zimbabwe,56,4,25
-2020-05-26,Afghanistan,11831,220,1128
+2020-05-26,Afghanistan,11834,221,1128
 2020-05-26,Albania,1029,33,803
 2020-05-26,Algeria,8697,617,4918
 2020-05-26,Andorra,763,51,676
@@ -24065,7 +24065,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-26,Yemen,249,49,10
 2020-05-26,Zambia,920,7,336
 2020-05-26,Zimbabwe,56,4,25
-2020-05-27,Afghanistan,12456,227,1138
+2020-05-27,Afghanistan,12459,228,1138
 2020-05-27,Albania,1050,33,812
 2020-05-27,Algeria,8857,623,5129
 2020-05-27,Andorra,763,51,676
@@ -24256,7 +24256,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-27,Yemen,256,53,10
 2020-05-27,Zambia,1057,7,779
 2020-05-27,Zimbabwe,132,4,25
-2020-05-28,Afghanistan,13036,235,1209
+2020-05-28,Afghanistan,13039,236,1209
 2020-05-28,Albania,1076,33,823
 2020-05-28,Algeria,8997,630,5277
 2020-05-28,Andorra,763,51,681
@@ -24447,7 +24447,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-28,Yemen,278,57,11
 2020-05-28,Zambia,1057,7,779
 2020-05-28,Zimbabwe,149,4,28
-2020-05-29,Afghanistan,13659,246,1259
+2020-05-29,Afghanistan,13662,247,1259
 2020-05-29,Albania,1099,33,851
 2020-05-29,Algeria,9134,638,5422
 2020-05-29,Andorra,764,51,684
@@ -24638,7 +24638,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-29,Yemen,283,65,11
 2020-05-29,Zambia,1057,7,779
 2020-05-29,Zimbabwe,149,4,28
-2020-05-30,Afghanistan,14525,249,1303
+2020-05-30,Afghanistan,14528,250,1303
 2020-05-30,Albania,1122,33,857
 2020-05-30,Algeria,9267,646,5549
 2020-05-30,Andorra,764,51,692
@@ -24829,7 +24829,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-30,Yemen,310,77,13
 2020-05-30,Zambia,1057,7,779
 2020-05-30,Zimbabwe,174,4,29
-2020-05-31,Afghanistan,15205,257,1328
+2020-05-31,Afghanistan,15208,258,1328
 2020-05-31,Albania,1137,33,872
 2020-05-31,Algeria,9394,653,5748
 2020-05-31,Andorra,764,51,694
@@ -25020,7 +25020,7 @@ isodate,country,confirmed,deaths,recovered
 2020-05-31,Yemen,323,80,14
 2020-05-31,Zambia,1057,7,779
 2020-05-31,Zimbabwe,178,4,29
-2020-06-01,Afghanistan,15750,265,1428
+2020-06-01,Afghanistan,15753,266,1428
 2020-06-01,Albania,1143,33,877
 2020-06-01,Algeria,9513,661,5894
 2020-06-01,Andorra,765,51,698
@@ -25211,7 +25211,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-01,Yemen,354,84,14
 2020-06-01,Zambia,1089,7,912
 2020-06-01,Zimbabwe,203,4,29
-2020-06-02,Afghanistan,16509,270,1450
+2020-06-02,Afghanistan,16512,274,1450
 2020-06-02,Albania,1164,33,891
 2020-06-02,Algeria,9626,667,6067
 2020-06-02,Andorra,844,51,733
@@ -25402,7 +25402,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-02,Yemen,399,87,15
 2020-06-02,Zambia,1089,7,912
 2020-06-02,Zimbabwe,206,4,29
-2020-06-03,Afghanistan,17267,294,1522
+2020-06-03,Afghanistan,17270,298,1522
 2020-06-03,Albania,1184,33,898
 2020-06-03,Algeria,9733,673,6218
 2020-06-03,Andorra,851,51,735
@@ -25593,7 +25593,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-03,Yemen,419,95,17
 2020-06-03,Zambia,1089,7,912
 2020-06-03,Zimbabwe,222,4,29
-2020-06-04,Afghanistan,18054,300,1585
+2020-06-04,Afghanistan,18057,304,1585
 2020-06-04,Albania,1197,33,898
 2020-06-04,Algeria,9831,681,6297
 2020-06-04,Andorra,852,51,738
@@ -25784,7 +25784,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-04,Yemen,453,103,17
 2020-06-04,Zambia,1089,7,912
 2020-06-04,Zimbabwe,237,4,31
-2020-06-05,Afghanistan,18969,309,1762
+2020-06-05,Afghanistan,18972,313,1762
 2020-06-05,Albania,1212,33,910
 2020-06-05,Algeria,9935,690,6453
 2020-06-05,Andorra,852,51,741
@@ -25975,7 +25975,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-05,Yemen,469,111,23
 2020-06-05,Zambia,1089,7,912
 2020-06-05,Zimbabwe,265,4,33
-2020-06-06,Afghanistan,19551,327,1830
+2020-06-06,Afghanistan,19554,331,1830
 2020-06-06,Albania,1232,34,925
 2020-06-06,Algeria,10050,698,6631
 2020-06-06,Andorra,852,51,741
@@ -26166,7 +26166,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-06,Yemen,482,111,23
 2020-06-06,Zambia,1089,7,912
 2020-06-06,Zimbabwe,279,4,33
-2020-06-07,Afghanistan,20342,357,1875
+2020-06-07,Afghanistan,20345,361,1875
 2020-06-07,Albania,1246,34,938
 2020-06-07,Algeria,10154,707,6717
 2020-06-07,Andorra,852,51,744
@@ -26357,7 +26357,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-07,Yemen,484,112,23
 2020-06-07,Zambia,1089,7,912
 2020-06-07,Zimbabwe,282,4,34
-2020-06-08,Afghanistan,20917,369,2171
+2020-06-08,Afghanistan,20920,373,2171
 2020-06-08,Albania,1263,34,945
 2020-06-08,Algeria,10265,715,6799
 2020-06-08,Andorra,852,51,751
@@ -26548,7 +26548,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-08,Yemen,496,112,23
 2020-06-08,Zambia,1200,10,912
 2020-06-08,Zimbabwe,287,4,46
-2020-06-09,Afghanistan,21459,384,2651
+2020-06-09,Afghanistan,21462,388,2651
 2020-06-09,Albania,1299,34,960
 2020-06-09,Algeria,10382,724,6951
 2020-06-09,Andorra,852,51,757
@@ -26739,7 +26739,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-09,Yemen,524,127,23
 2020-06-09,Zambia,1200,10,912
 2020-06-09,Zimbabwe,314,4,46
-2020-06-10,Afghanistan,22142,405,3013
+2020-06-10,Afghanistan,22146,409,3013
 2020-06-10,Albania,1341,34,980
 2020-06-10,Algeria,10484,732,7074
 2020-06-10,Andorra,852,51,759
@@ -26930,7 +26930,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-10,Yemen,560,129,23
 2020-06-10,Zambia,1200,10,912
 2020-06-10,Zimbabwe,320,4,49
-2020-06-11,Afghanistan,22890,426,3326
+2020-06-11,Afghanistan,22894,430,3326
 2020-06-11,Albania,1385,35,1001
 2020-06-11,Algeria,10589,741,7255
 2020-06-11,Andorra,852,51,780
@@ -27121,7 +27121,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-11,Yemen,591,136,23
 2020-06-11,Zambia,1200,10,912
 2020-06-11,Zimbabwe,332,4,51
-2020-06-12,Afghanistan,23546,446,3928
+2020-06-12,Afghanistan,23550,450,3928
 2020-06-12,Albania,1416,36,1034
 2020-06-12,Algeria,10698,751,7322
 2020-06-12,Andorra,853,51,781
@@ -27312,7 +27312,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-12,Yemen,632,139,28
 2020-06-12,Zambia,1321,10,1104
 2020-06-12,Zimbabwe,343,4,51
-2020-06-13,Afghanistan,24102,451,4201
+2020-06-13,Afghanistan,24106,455,4201
 2020-06-13,Albania,1464,36,1039
 2020-06-13,Algeria,10810,760,7420
 2020-06-13,Andorra,853,51,781
@@ -27503,7 +27503,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-13,Yemen,705,160,39
 2020-06-13,Zambia,1357,10,1104
 2020-06-13,Zimbabwe,356,4,54
-2020-06-14,Afghanistan,24766,471,4725
+2020-06-14,Afghanistan,24770,475,4725
 2020-06-14,Albania,1521,36,1044
 2020-06-14,Algeria,10919,767,7606
 2020-06-14,Andorra,853,51,781
@@ -27694,7 +27694,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-14,Yemen,728,164,53
 2020-06-14,Zambia,1358,11,1122
 2020-06-14,Zimbabwe,383,4,54
-2020-06-15,Afghanistan,25527,478,5164
+2020-06-15,Afghanistan,25531,482,5164
 2020-06-15,Albania,1590,36,1055
 2020-06-15,Algeria,11031,777,7735
 2020-06-15,Andorra,853,51,789
@@ -27885,7 +27885,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-15,Yemen,844,208,79
 2020-06-15,Zambia,1382,11,1142
 2020-06-15,Zimbabwe,387,4,54
-2020-06-16,Afghanistan,26310,491,5508
+2020-06-16,Afghanistan,26314,495,5508
 2020-06-16,Albania,1672,37,1064
 2020-06-16,Algeria,11147,788,7842
 2020-06-16,Andorra,854,52,789
@@ -28076,7 +28076,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-16,Yemen,885,214,91
 2020-06-16,Zambia,1405,11,1142
 2020-06-16,Zimbabwe,391,4,62
-2020-06-17,Afghanistan,26874,504,6158
+2020-06-17,Afghanistan,26878,508,6158
 2020-06-17,Albania,1722,38,1077
 2020-06-17,Algeria,11268,799,7943
 2020-06-17,Andorra,854,52,791
@@ -28267,7 +28267,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-17,Yemen,902,244,271
 2020-06-17,Zambia,1412,11,1142
 2020-06-17,Zimbabwe,401,4,63
-2020-06-18,Afghanistan,27532,546,7660
+2020-06-18,Afghanistan,27536,550,7660
 2020-06-18,Albania,1788,39,1086
 2020-06-18,Algeria,11385,811,8078
 2020-06-18,Andorra,855,52,792
@@ -28458,7 +28458,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-18,Yemen,909,248,273
 2020-06-18,Zambia,1416,11,1144
 2020-06-18,Zimbabwe,463,4,63
-2020-06-19,Afghanistan,27878,548,7962
+2020-06-19,Afghanistan,27882,552,7962
 2020-06-19,Albania,1838,42,1114
 2020-06-19,Algeria,11504,825,8196
 2020-06-19,Andorra,855,52,792
@@ -28649,7 +28649,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-19,Yemen,919,251,288
 2020-06-19,Zambia,1430,11,1194
 2020-06-19,Zimbabwe,479,4,63
-2020-06-20,Afghanistan,28424,569,8292
+2020-06-20,Afghanistan,28428,573,8292
 2020-06-20,Albania,1891,43,1126
 2020-06-20,Algeria,11631,837,8324
 2020-06-20,Andorra,855,52,792
@@ -28840,7 +28840,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-20,Yemen,922,254,328
 2020-06-20,Zambia,1430,11,1194
 2020-06-20,Zimbabwe,479,4,63
-2020-06-21,Afghanistan,28833,581,8764
+2020-06-21,Afghanistan,28837,585,8764
 2020-06-21,Albania,1962,44,1134
 2020-06-21,Algeria,11771,845,8422
 2020-06-21,Andorra,855,52,792
@@ -29031,7 +29031,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-21,Yemen,941,256,347
 2020-06-21,Zambia,1430,11,1194
 2020-06-21,Zimbabwe,489,6,64
-2020-06-22,Afghanistan,29157,598,8841
+2020-06-22,Afghanistan,29147,597,8841
 2020-06-22,Albania,1995,44,1159
 2020-06-22,Algeria,11920,852,8559
 2020-06-22,Andorra,855,52,796
@@ -29222,7 +29222,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-22,Yemen,967,257,350
 2020-06-22,Zambia,1430,11,1194
 2020-06-22,Zimbabwe,512,6,64
-2020-06-23,Afghanistan,29481,618,9260
+2020-06-23,Afghanistan,29471,617,9260
 2020-06-23,Albania,2047,45,1195
 2020-06-23,Algeria,12076,861,8674
 2020-06-23,Andorra,855,52,797
@@ -29413,7 +29413,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-23,Yemen,992,261,356
 2020-06-23,Zambia,1477,18,1213
 2020-06-23,Zimbabwe,525,6,64
-2020-06-24,Afghanistan,29640,639,9869
+2020-06-24,Afghanistan,29705,638,9869
 2020-06-24,Albania,2114,47,1217
 2020-06-24,Algeria,12248,869,8792
 2020-06-24,Andorra,855,52,797
@@ -29604,7 +29604,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-24,Yemen,1015,274,379
 2020-06-24,Zambia,1489,18,1223
 2020-06-24,Zimbabwe,530,6,123
-2020-06-25,Afghanistan,30175,675,10174
+2020-06-25,Afghanistan,30165,674,10174
 2020-06-25,Albania,2192,49,1250
 2020-06-25,Algeria,12445,878,8920
 2020-06-25,Andorra,855,52,797
@@ -29795,7 +29795,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-25,Yemen,1076,288,386
 2020-06-25,Zambia,1497,18,1223
 2020-06-25,Zimbabwe,551,6,128
-2020-06-26,Afghanistan,30451,683,10306
+2020-06-26,Afghanistan,30441,682,10306
 2020-06-26,Albania,2269,51,1298
 2020-06-26,Algeria,12685,885,9066
 2020-06-26,Andorra,855,52,799
@@ -29986,7 +29986,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-26,Yemen,1089,293,402
 2020-06-26,Zambia,1531,21,1233
 2020-06-26,Zimbabwe,561,6,135
-2020-06-27,Afghanistan,30616,703,10674
+2020-06-27,Afghanistan,30606,716,10674
 2020-06-27,Albania,2330,53,1346
 2020-06-27,Algeria,12968,892,9202
 2020-06-27,Andorra,855,52,799
@@ -30177,7 +30177,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-27,Yemen,1103,296,417
 2020-06-27,Zambia,1531,21,1233
 2020-06-27,Zimbabwe,567,6,142
-2020-06-28,Afghanistan,30967,721,12604
+2020-06-28,Afghanistan,30957,728,12604
 2020-06-28,Albania,2402,55,1384
 2020-06-28,Algeria,13273,897,9371
 2020-06-28,Andorra,855,52,799
@@ -30368,7 +30368,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-28,Yemen,1118,302,430
 2020-06-28,Zambia,1557,22,1311
 2020-06-28,Zimbabwe,567,6,142
-2020-06-29,Afghanistan,31238,733,13934
+2020-06-29,Afghanistan,31228,740,13934
 2020-06-29,Albania,2466,58,1438
 2020-06-29,Algeria,13571,905,9674
 2020-06-29,Andorra,855,52,799
@@ -30559,7 +30559,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-29,Yemen,1128,304,432
 2020-06-29,Zambia,1568,22,1311
 2020-06-29,Zimbabwe,574,7,152
-2020-06-30,Afghanistan,31517,746,14131
+2020-06-30,Afghanistan,31507,752,14131
 2020-06-30,Albania,2535,62,1459
 2020-06-30,Algeria,13907,912,9897
 2020-06-30,Andorra,855,52,799
@@ -30750,7 +30750,7 @@ isodate,country,confirmed,deaths,recovered
 2020-06-30,Yemen,1158,312,488
 2020-06-30,Zambia,1594,24,1329
 2020-06-30,Zimbabwe,591,7,162
-2020-07-01,Afghanistan,31836,774,15651
+2020-07-01,Afghanistan,31826,780,15651
 2020-07-01,Albania,2580,65,1516
 2020-07-01,Algeria,14272,920,10040
 2020-07-01,Andorra,855,52,799
@@ -30941,7 +30941,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-01,Yemen,1190,318,504
 2020-07-01,Zambia,1632,30,1348
 2020-07-01,Zimbabwe,605,7,166
-2020-07-02,Afghanistan,32022,807,16041
+2020-07-02,Afghanistan,32012,809,16041
 2020-07-02,Albania,2662,69,1559
 2020-07-02,Algeria,14657,928,10342
 2020-07-02,Andorra,855,52,800
@@ -31132,7 +31132,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-02,Yemen,1221,325,513
 2020-07-02,Zambia,1632,30,1348
 2020-07-02,Zimbabwe,617,7,173
-2020-07-03,Afghanistan,32324,819,17331
+2020-07-03,Afghanistan,32314,821,17331
 2020-07-03,Albania,2752,72,1592
 2020-07-03,Algeria,15070,937,10832
 2020-07-03,Andorra,855,52,800
@@ -31323,7 +31323,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-03,Yemen,1240,335,536
 2020-07-03,Zambia,1632,30,1348
 2020-07-03,Zimbabwe,625,7,176
-2020-07-04,Afghanistan,32672,826,19164
+2020-07-04,Afghanistan,32662,828,19164
 2020-07-04,Albania,2819,74,1637
 2020-07-04,Algeria,15500,946,11181
 2020-07-04,Andorra,855,52,800
@@ -31514,7 +31514,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-04,Yemen,1248,337,537
 2020-07-04,Zambia,1632,30,1348
 2020-07-04,Zimbabwe,698,8,181
-2020-07-05,Afghanistan,32951,864,19366
+2020-07-05,Afghanistan,32941,866,19366
 2020-07-05,Albania,2893,76,1657
 2020-07-05,Algeria,15941,952,11492
 2020-07-05,Andorra,855,52,800
@@ -31705,7 +31705,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-05,Yemen,1265,338,552
 2020-07-05,Zambia,1632,30,1348
 2020-07-05,Zimbabwe,716,8,181
-2020-07-06,Afghanistan,33190,898,20103
+2020-07-06,Afghanistan,33180,900,20103
 2020-07-06,Albania,2964,79,1702
 2020-07-06,Algeria,16404,959,11884
 2020-07-06,Andorra,855,52,800
@@ -31896,7 +31896,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-06,Yemen,1284,345,575
 2020-07-06,Zambia,1632,30,1348
 2020-07-06,Zimbabwe,734,9,197
-2020-07-07,Afghanistan,33384,920,20179
+2020-07-07,Afghanistan,33374,922,20179
 2020-07-07,Albania,3038,81,1744
 2020-07-07,Algeria,16879,968,12094
 2020-07-07,Andorra,855,52,800
@@ -32087,7 +32087,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-07,Yemen,1297,348,591
 2020-07-07,Zambia,1895,42,1348
 2020-07-07,Zimbabwe,787,9,201
-2020-07-08,Afghanistan,33594,936,20700
+2020-07-08,Afghanistan,33584,939,20700
 2020-07-08,Albania,3106,83,1791
 2020-07-08,Algeria,17348,978,12329
 2020-07-08,Andorra,855,52,802
@@ -32278,7 +32278,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-08,Yemen,1318,351,595
 2020-07-08,Zambia,1895,42,1348
 2020-07-08,Zimbabwe,885,9,206
-2020-07-09,Afghanistan,33908,957,20847
+2020-07-09,Afghanistan,33898,959,20847
 2020-07-09,Albania,3188,83,1832
 2020-07-09,Algeria,17808,988,12637
 2020-07-09,Andorra,855,52,802
@@ -32469,7 +32469,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-09,Yemen,1356,361,619
 2020-07-09,Zambia,1895,42,1348
 2020-07-09,Zimbabwe,885,9,206
-2020-07-10,Afghanistan,34194,971,20882
+2020-07-10,Afghanistan,34184,973,20882
 2020-07-10,Albania,3278,85,1875
 2020-07-10,Algeria,18242,996,13124
 2020-07-10,Andorra,855,52,803
@@ -32660,7 +32660,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-10,Yemen,1380,364,630
 2020-07-10,Zambia,1895,42,1348
 2020-07-10,Zimbabwe,942,13,320
-2020-07-11,Afghanistan,34366,994,21135
+2020-07-11,Afghanistan,34356,996,21135
 2020-07-11,Albania,3371,89,1881
 2020-07-11,Algeria,18712,1004,13124
 2020-07-11,Andorra,855,52,803
@@ -32851,7 +32851,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-11,Yemen,1389,365,642
 2020-07-11,Zambia,1895,42,1348
 2020-07-11,Zimbabwe,982,18,320
-2020-07-12,Afghanistan,34451,1010,21216
+2020-07-12,Afghanistan,34441,1012,21216
 2020-07-12,Albania,3454,93,1946
 2020-07-12,Algeria,19195,1011,13743
 2020-07-12,Andorra,855,52,803
@@ -33042,7 +33042,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-12,Yemen,1465,417,659
 2020-07-12,Zambia,1895,42,1412
 2020-07-12,Zimbabwe,985,18,328
-2020-07-13,Afghanistan,34455,1012,21254
+2020-07-13,Afghanistan,34595,1040,21254
 2020-07-13,Albania,3571,95,2014
 2020-07-13,Algeria,19689,1018,14019
 2020-07-13,Andorra,858,52,803
@@ -33233,7 +33233,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-13,Yemen,1498,424,675
 2020-07-13,Zambia,1895,42,1412
 2020-07-13,Zimbabwe,1034,19,343
-2020-07-14,Afghanistan,34740,1048,21454
+2020-07-14,Afghanistan,34730,1064,21454
 2020-07-14,Albania,3667,97,2062
 2020-07-14,Algeria,20216,1028,14295
 2020-07-14,Andorra,861,52,803
@@ -33424,7 +33424,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-14,Yemen,1516,429,685
 2020-07-14,Zambia,1895,42,1412
 2020-07-14,Zimbabwe,1064,20,343
-2020-07-15,Afghanistan,34994,1094,22456
+2020-07-15,Afghanistan,34984,1096,22456
 2020-07-15,Albania,3752,101,2091
 2020-07-15,Algeria,20770,1040,14792
 2020-07-15,Andorra,862,52,803
@@ -33615,7 +33615,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-15,Yemen,1526,433,694
 2020-07-15,Zambia,1895,42,1412
 2020-07-15,Zimbabwe,1089,20,395
-2020-07-16,Afghanistan,35070,1113,22824
+2020-07-16,Afghanistan,35060,1117,22824
 2020-07-16,Albania,3851,104,2137
 2020-07-16,Algeria,21355,1052,15107
 2020-07-16,Andorra,877,52,803
@@ -33806,7 +33806,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-16,Yemen,1552,438,695
 2020-07-16,Zambia,1895,42,1412
 2020-07-16,Zimbabwe,1362,23,425
-2020-07-17,Afghanistan,35229,1147,23151
+2020-07-17,Afghanistan,35219,1149,23151
 2020-07-17,Albania,3906,107,2214
 2020-07-17,Algeria,21948,1057,15430
 2020-07-17,Andorra,880,52,803
@@ -33997,7 +33997,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-17,Yemen,1576,440,695
 2020-07-17,Zambia,2810,109,1450
 2020-07-17,Zimbabwe,1420,24,438
-2020-07-18,Afghanistan,35301,1164,23273
+2020-07-18,Afghanistan,35279,1166,23273
 2020-07-18,Albania,4008,111,2264
 2020-07-18,Algeria,22549,1068,15744
 2020-07-18,Andorra,880,52,803
@@ -34188,7 +34188,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-18,Yemen,1581,443,701
 2020-07-18,Zambia,2980,120,1462
 2020-07-18,Zimbabwe,1478,25,439
-2020-07-19,Afghanistan,35475,1181,23634
+2020-07-19,Afghanistan,35453,1183,23634
 2020-07-19,Albania,4090,112,2311
 2020-07-19,Algeria,23084,1078,16051
 2020-07-19,Andorra,880,52,803
@@ -34379,7 +34379,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-19,Yemen,1606,445,712
 2020-07-19,Zambia,2980,120,1462
 2020-07-19,Zimbabwe,1611,25,472
-2020-07-20,Afghanistan,35526,1185,23741
+2020-07-20,Afghanistan,35493,1185,23741
 2020-07-20,Albania,4171,113,2352
 2020-07-20,Algeria,23691,1087,16400
 2020-07-20,Andorra,884,52,803
@@ -34570,7 +34570,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-20,Yemen,1619,447,714
 2020-07-20,Zambia,3326,128,1620
 2020-07-20,Zimbabwe,1713,26,472
-2020-07-21,Afghanistan,35615,1186,23741
+2020-07-21,Afghanistan,35605,1188,23741
 2020-07-21,Albania,4290,117,2397
 2020-07-21,Algeria,24278,1100,16646
 2020-07-21,Andorra,884,52,803
@@ -34761,7 +34761,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-21,Yemen,1629,456,741
 2020-07-21,Zambia,3386,128,1620
 2020-07-21,Zimbabwe,1820,26,488
-2020-07-22,Afghanistan,35727,1190,23924
+2020-07-22,Afghanistan,35717,1192,23924
 2020-07-22,Albania,4358,120,2463
 2020-07-22,Algeria,24872,1111,16983
 2020-07-22,Andorra,889,52,803
@@ -34952,7 +34952,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-22,Yemen,1640,458,751
 2020-07-22,Zambia,3583,128,1677
 2020-07-22,Zimbabwe,2034,26,510
-2020-07-23,Afghanistan,35928,1211,24550
+2020-07-23,Afghanistan,35918,1213,24550
 2020-07-23,Albania,4466,123,2523
 2020-07-23,Algeria,25484,1124,17369
 2020-07-23,Andorra,889,52,803
@@ -35143,7 +35143,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-23,Yemen,1654,461,762
 2020-07-23,Zambia,3789,134,1677
 2020-07-23,Zimbabwe,2124,28,510
-2020-07-24,Afghanistan,35981,1225,24602
+2020-07-24,Afghanistan,35978,1227,24602
 2020-07-24,Albania,4570,128,2608
 2020-07-24,Algeria,26159,1136,17369
 2020-07-24,Andorra,897,52,803
@@ -35334,7 +35334,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-24,Yemen,1674,469,779
 2020-07-24,Zambia,3856,136,1677
 2020-07-24,Zimbabwe,2296,32,514
-2020-07-25,Afghanistan,36036,1248,24793
+2020-07-25,Afghanistan,36026,1249,24793
 2020-07-25,Albania,4637,134,2637
 2020-07-25,Algeria,26764,1146,18076
 2020-07-25,Andorra,897,52,803
@@ -35525,7 +35525,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-25,Yemen,1674,474,780
 2020-07-25,Zambia,4328,139,1953
 2020-07-25,Zimbabwe,2434,34,518
-2020-07-26,Afghanistan,36157,1259,25180
+2020-07-26,Afghanistan,36147,1261,25180
 2020-07-26,Albania,4763,138,2682
 2020-07-26,Algeria,27357,1155,18088
 2020-07-26,Andorra,897,52,803
@@ -35716,7 +35716,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-26,Yemen,1681,479,797
 2020-07-26,Zambia,4481,139,2350
 2020-07-26,Zimbabwe,2512,34,518
-2020-07-27,Afghanistan,36263,1269,25198
+2020-07-27,Afghanistan,36253,1271,25198
 2020-07-27,Albania,4880,144,2745
 2020-07-27,Algeria,27973,1163,18837
 2020-07-27,Andorra,907,52,803
@@ -35907,7 +35907,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-27,Yemen,1691,483,833
 2020-07-27,Zambia,4552,140,2815
 2020-07-27,Zimbabwe,2704,36,542
-2020-07-28,Afghanistan,36368,1270,25358
+2020-07-28,Afghanistan,36358,1272,25358
 2020-07-28,Albania,4997,148,2789
 2020-07-28,Algeria,28615,1174,19233
 2020-07-28,Andorra,907,52,803
@@ -36098,7 +36098,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-28,Yemen,1703,484,840
 2020-07-28,Zambia,5002,142,3195
 2020-07-28,Zimbabwe,2817,40,604
-2020-07-29,Afghanistan,36471,1271,25389
+2020-07-29,Afghanistan,36463,1273,25389
 2020-07-29,Albania,5105,150,2830
 2020-07-29,Algeria,29229,1186,19592
 2020-07-29,Andorra,918,52,804
@@ -36289,7 +36289,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-29,Yemen,1711,485,849
 2020-07-29,Zambia,5249,146,3285
 2020-07-29,Zimbabwe,2879,41,887
-2020-07-30,Afghanistan,36542,1271,25471
+2020-07-30,Afghanistan,36532,1283,25471
 2020-07-30,Albania,5197,154,2883
 2020-07-30,Algeria,29831,1200,20082
 2020-07-30,Andorra,922,52,806
@@ -36480,7 +36480,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-30,Yemen,1726,487,856
 2020-07-30,Zambia,5555,149,3289
 2020-07-30,Zimbabwe,3092,53,924
-2020-07-31,Afghanistan,36675,1272,25509
+2020-07-31,Afghanistan,36665,1284,25509
 2020-07-31,Albania,5276,157,2952
 2020-07-31,Algeria,30394,1210,20537
 2020-07-31,Andorra,925,52,807
@@ -36671,7 +36671,7 @@ isodate,country,confirmed,deaths,recovered
 2020-07-31,Yemen,1728,493,862
 2020-07-31,Zambia,5963,151,3803
 2020-07-31,Zimbabwe,3169,67,1004
-2020-08-01,Afghanistan,36710,1283,25509
+2020-08-01,Afghanistan,36700,1285,25509
 2020-08-01,Albania,5396,161,2961
 2020-08-01,Algeria,30950,1223,20988
 2020-08-01,Andorra,925,52,807
@@ -36862,7 +36862,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-01,Yemen,1730,494,862
 2020-08-01,Zambia,6228,165,4130
 2020-08-01,Zimbabwe,3659,69,1011
-2020-08-02,Afghanistan,36710,1284,25510
+2020-08-02,Afghanistan,36701,1286,25510
 2020-08-02,Albania,5519,166,3018
 2020-08-02,Algeria,31465,1231,21419
 2020-08-02,Andorra,925,52,807
@@ -36951,7 +36951,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,Jamaica,894,12,743
 2020-08-02,Japan,39116,1013,25748
 2020-08-02,Jordan,1213,11,1099
-2020-08-02,Kazakhstan,92662,793,62511
+2020-08-02,Kazakhstan,96774,823,62511
 2020-08-02,Kenya,22053,369,8477
 2020-08-02,"Korea, South",14389,301,13280
 2020-08-02,Kosovo,8799,249,4863
@@ -37053,7 +37053,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-02,Yemen,1734,497,862
 2020-08-02,Zambia,6347,170,4493
 2020-08-02,Zimbabwe,3921,70,1016
-2020-08-03,Afghanistan,36747,1288,25669
+2020-08-03,Afghanistan,36737,1290,25669
 2020-08-03,Albania,5620,172,3031
 2020-08-03,Algeria,31972,1239,21901
 2020-08-03,Andorra,937,52,821
@@ -37142,7 +37142,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,Jamaica,905,12,743
 2020-08-03,Japan,40099,1018,26476
 2020-08-03,Jordan,1218,11,1131
-2020-08-03,Kazakhstan,93820,793,65132
+2020-08-03,Kazakhstan,98641,1109,65132
 2020-08-03,Kenya,22597,382,8740
 2020-08-03,"Korea, South",14423,301,13352
 2020-08-03,Kosovo,9049,256,4989
@@ -37244,7 +37244,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-03,Yemen,1734,499,863
 2020-08-03,Zambia,6580,171,4701
 2020-08-03,Zimbabwe,4075,80,1057
-2020-08-04,Afghanistan,36782,1288,25669
+2020-08-04,Afghanistan,36773,1290,25669
 2020-08-04,Albania,5750,176,3031
 2020-08-04,Algeria,32504,1248,22375
 2020-08-04,Andorra,939,52,825
@@ -37333,7 +37333,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,Jamaica,920,12,745
 2020-08-04,Japan,41347,1023,27187
 2020-08-04,Jordan,1224,11,1155
-2020-08-04,Kazakhstan,94882,1058,67031
+2020-08-04,Kazakhstan,100075,1109,67031
 2020-08-04,Kenya,23202,388,9327
 2020-08-04,"Korea, South",14456,302,13406
 2020-08-04,Kosovo,9274,269,5190
@@ -37435,7 +37435,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-04,Yemen,1760,506,863
 2020-08-04,Zambia,6793,173,5109
 2020-08-04,Zimbabwe,4221,81,1238
-2020-08-05,Afghanistan,36829,1294,25742
+2020-08-05,Afghanistan,36820,1296,25742
 2020-08-05,Albania,5889,182,3123
 2020-08-05,Algeria,33055,1261,22802
 2020-08-05,Andorra,939,52,825
@@ -37524,7 +37524,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,Jamaica,928,12,745
 2020-08-05,Japan,42686,1028,28020
 2020-08-05,Jordan,1231,11,1160
-2020-08-05,Kazakhstan,95942,1058,68871
+2020-08-05,Kazakhstan,102936,1109,68871
 2020-08-05,Kenya,23873,391,9930
 2020-08-05,"Korea, South",14499,302,13501
 2020-08-05,Kosovo,9492,284,5346
@@ -37626,7 +37626,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-05,Yemen,1763,508,894
 2020-08-05,Zambia,7022,176,5667
 2020-08-05,Zimbabwe,4221,81,1238
-2020-08-06,Afghanistan,36896,1298,25840
+2020-08-06,Afghanistan,36928,1301,25840
 2020-08-06,Albania,6016,188,3155
 2020-08-06,Algeria,33626,1273,23238
 2020-08-06,Andorra,944,52,828
@@ -37715,7 +37715,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,Jamaica,958,12,745
 2020-08-06,Japan,44167,1034,28858
 2020-08-06,Jordan,1232,11,1171
-2020-08-06,Kazakhstan,96922,1058,70680
+2020-08-06,Kazakhstan,105526,1109,70680
 2020-08-06,Kenya,24411,399,10444
 2020-08-06,"Korea, South",14519,303,13543
 2020-08-06,Kosovo,9688,300,5480
@@ -37817,7 +37817,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-06,Yemen,1768,508,898
 2020-08-06,Zambia,7164,199,5786
 2020-08-06,Zimbabwe,4339,84,1264
-2020-08-07,Afghanistan,37015,1307,25903
+2020-08-07,Afghanistan,37006,1310,25903
 2020-08-07,Albania,6151,189,3227
 2020-08-07,Algeria,34155,1282,23667
 2020-08-07,Andorra,955,52,839
@@ -37906,7 +37906,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,Jamaica,987,13,745
 2020-08-07,Japan,45764,1042,30241
 2020-08-07,Jordan,1237,11,1178
-2020-08-07,Kazakhstan,97829,1058,71609
+2020-08-07,Kazakhstan,107930,1109,71609
 2020-08-07,Kenya,25138,413,11118
 2020-08-07,"Korea, South",14562,304,13629
 2020-08-07,Kosovo,9869,303,5605
@@ -38008,7 +38008,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-07,Yemen,1796,512,907
 2020-08-07,Zambia,7486,200,6264
 2020-08-07,Zimbabwe,4451,102,1345
-2020-08-08,Afghanistan,37054,1312,25960
+2020-08-08,Afghanistan,37046,1315,25960
 2020-08-08,Albania,6275,193,3268
 2020-08-08,Algeria,34693,1293,24083
 2020-08-08,Andorra,955,52,839
@@ -38097,7 +38097,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,Jamaica,1003,13,745
 2020-08-08,Japan,47342,1042,31248
 2020-08-08,Jordan,1246,11,1178
-2020-08-08,Kazakhstan,98701,1058,72273
+2020-08-08,Kazakhstan,109939,1109,72273
 2020-08-08,Kenya,25837,418,11899
 2020-08-08,"Korea, South",14598,305,13642
 2020-08-08,Kosovo,10059,316,5802
@@ -38199,7 +38199,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-08,Yemen,1797,512,910
 2020-08-08,Zambia,7903,203,6431
 2020-08-08,Zimbabwe,4575,102,1416
-2020-08-09,Afghanistan,37054,1312,25960
+2020-08-09,Afghanistan,37083,1321,25960
 2020-08-09,Albania,6411,199,3342
 2020-08-09,Algeria,35160,1302,24506
 2020-08-09,Andorra,955,52,839
@@ -38288,7 +38288,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,Jamaica,1023,14,745
 2020-08-09,Japan,48782,1047,32867
 2020-08-09,Jordan,1252,11,1187
-2020-08-09,Kazakhstan,99442,1058,72523
+2020-08-09,Kazakhstan,111822,1109,72523
 2020-08-09,Kenya,26436,420,12961
 2020-08-09,"Korea, South",14626,305,13658
 2020-08-09,Kosovo,10247,328,5944
@@ -38390,7 +38390,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-09,Yemen,1804,515,913
 2020-08-09,Zambia,8085,235,6698
 2020-08-09,Zimbabwe,4649,104,1437
-2020-08-10,Afghanistan,37162,1328,26228
+2020-08-10,Afghanistan,37153,1329,26228
 2020-08-10,Albania,6536,200,3379
 2020-08-10,Algeria,35712,1312,24920
 2020-08-10,Andorra,963,52,839
@@ -38479,7 +38479,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,Jamaica,1031,14,745
 2020-08-10,Japan,49617,1052,33450
 2020-08-10,Jordan,1268,11,1187
-2020-08-10,Kazakhstan,100164,1058,73702
+2020-08-10,Kazakhstan,112722,1433,73702
 2020-08-10,Kenya,26928,423,13495
 2020-08-10,"Korea, South",14660,305,13729
 2020-08-10,Kosovo,10419,341,6058
@@ -38581,7 +38581,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-10,Yemen,1832,518,915
 2020-08-10,Zambia,8210,241,6802
 2020-08-10,Zimbabwe,4748,104,1524
-2020-08-11,Afghanistan,37269,1344,26415
+2020-08-11,Afghanistan,37260,1346,26415
 2020-08-11,Albania,6676,205,3480
 2020-08-11,Algeria,36204,1322,25263
 2020-08-11,Andorra,963,52,839
@@ -38670,7 +38670,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,Jamaica,1047,14,753
 2020-08-11,Japan,50302,1058,34136
 2020-08-11,Jordan,1283,11,1189
-2020-08-11,Kazakhstan,100855,1269,74677
+2020-08-11,Kazakhstan,113501,1433,74677
 2020-08-11,Kenya,27425,438,13867
 2020-08-11,"Korea, South",14714,305,13786
 2020-08-11,Kosovo,10590,354,6248
@@ -38772,7 +38772,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-11,Yemen,1831,523,915
 2020-08-11,Zambia,8275,241,7004
 2020-08-11,Zimbabwe,4818,104,1524
-2020-08-12,Afghanistan,37345,1354,26694
+2020-08-12,Afghanistan,37336,1356,26694
 2020-08-12,Albania,6817,208,3552
 2020-08-12,Algeria,36699,1333,25627
 2020-08-12,Andorra,977,53,855
@@ -38861,7 +38861,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,Jamaica,1065,14,753
 2020-08-12,Japan,51288,1066,34969
 2020-08-12,Jordan,1303,11,1215
-2020-08-12,Kazakhstan,101372,1269,76756
+2020-08-12,Kazakhstan,115615,1433,76756
 2020-08-12,Kenya,28104,456,14610
 2020-08-12,"Korea, South",14770,305,13817
 2020-08-12,Kosovo,10795,365,6411
@@ -38963,7 +38963,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-12,Yemen,1841,528,937
 2020-08-12,Zambia,8501,246,7233
 2020-08-12,Zimbabwe,4893,122,1620
-2020-08-13,Afghanistan,37424,1363,26714
+2020-08-13,Afghanistan,37422,1365,26714
 2020-08-13,Albania,6971,213,3616
 2020-08-13,Algeria,37187,1341,26004
 2020-08-13,Andorra,981,53,858
@@ -39052,7 +39052,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,Jamaica,1071,14,754
 2020-08-13,Japan,52471,1073,36191
 2020-08-13,Jordan,1320,11,1222
-2020-08-13,Kazakhstan,101848,1269,76756
+2020-08-13,Kazakhstan,117104,1433,76756
 2020-08-13,Kenya,28754,460,15100
 2020-08-13,"Korea, South",14873,305,13863
 2020-08-13,Kosovo,10988,373,6616
@@ -39154,7 +39154,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-13,Yemen,1847,528,949
 2020-08-13,Zambia,8663,246,7401
 2020-08-13,Zimbabwe,4990,128,1927
-2020-08-14,Afghanistan,37431,1363,26714
+2020-08-14,Afghanistan,37497,1370,26714
 2020-08-14,Albania,7117,219,3695
 2020-08-14,Algeria,37664,1351,26308
 2020-08-14,Andorra,989,53,863
@@ -39243,7 +39243,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Jamaica,1082,14,761
 2020-08-14,Japan,53818,1080,35498
 2020-08-14,Jordan,1329,11,1229
-2020-08-14,Kazakhstan,102287,1269,80716
+2020-08-14,Kazakhstan,118514,1433,80716
 2020-08-14,Kenya,29334,465,15298
 2020-08-14,"Korea, South",15039,305,13901
 2020-08-14,Kosovo,11130,381,6817
@@ -39345,7 +39345,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-14,Yemen,1858,528,1009
 2020-08-14,Zambia,9021,256,7586
 2020-08-14,Zimbabwe,5072,128,1998
-2020-08-15,Afghanistan,37551,1370,27166
+2020-08-15,Afghanistan,37542,1371,27166
 2020-08-15,Albania,7260,225,3746
 2020-08-15,Algeria,38133,1360,26644
 2020-08-15,Andorra,989,53,863
@@ -39434,7 +39434,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,Jamaica,1082,14,761
 2020-08-15,Japan,55051,1093,39439
 2020-08-15,Jordan,1339,11,1229
-2020-08-15,Kazakhstan,102696,1269,81558
+2020-08-15,Kazakhstan,119781,1480,81558
 2020-08-15,Kenya,29849,472,15970
 2020-08-15,"Korea, South",15318,305,13910
 2020-08-15,Kosovo,11275,390,6961
@@ -39536,7 +39536,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-15,Yemen,1858,528,1013
 2020-08-15,Zambia,9186,260,8065
 2020-08-15,Zimbabwe,5176,130,2047
-2020-08-16,Afghanistan,37596,1375,27166
+2020-08-16,Afghanistan,37590,1376,27166
 2020-08-16,Albania,7380,228,3794
 2020-08-16,Algeria,38583,1370,27017
 2020-08-16,Andorra,989,53,863
@@ -39625,7 +39625,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Jamaica,1113,14,764
 2020-08-16,Japan,56074,1103,40560
 2020-08-16,Jordan,1378,11,1236
-2020-08-16,Kazakhstan,103033,1269,82777
+2020-08-16,Kazakhstan,121161,1485,82777
 2020-08-16,Kenya,30120,474,16656
 2020-08-16,"Korea, South",15515,305,13917
 2020-08-16,Kosovo,11416,401,7191
@@ -39727,7 +39727,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-16,Yemen,1869,530,1013
 2020-08-16,Zambia,9343,260,8412
 2020-08-16,Zimbabwe,5261,132,2092
-2020-08-17,Afghanistan,37599,1375,27166
+2020-08-17,Afghanistan,37667,1378,27166
 2020-08-17,Albania,7499,230,3816
 2020-08-17,Algeria,39025,1379,27347
 2020-08-17,Andorra,1005,53,869
@@ -39816,7 +39816,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-17,Jamaica,1129,14,764
 2020-08-17,Japan,56717,1112,41591
 2020-08-17,Jordan,1398,11,1241
-2020-08-17,Kazakhstan,103300,1269,84445
+2020-08-17,Kazakhstan,121639,1487,84445
 2020-08-17,Kenya,30365,482,17160
 2020-08-17,"Korea, South",15761,306,13934
 2020-08-17,Kosovo,11545,410,7343
@@ -39918,7 +39918,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-17,Yemen,1882,535,1045
 2020-08-17,Zambia,9839,264,8575
 2020-08-17,Zimbabwe,5308,135,3848
-2020-08-18,Afghanistan,37599,1375,27166
+2020-08-18,Afghanistan,37710,1382,27166
 2020-08-18,Albania,7654,232,3871
 2020-08-18,Algeria,39444,1391,27653
 2020-08-18,Andorra,1005,53,869
@@ -40007,7 +40007,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-18,Jamaica,1146,14,770
 2020-08-18,Japan,57636,1135,42965
 2020-08-18,Jordan,1438,11,1243
-2020-08-18,Kazakhstan,103571,1415,86286
+2020-08-18,Kazakhstan,121973,1635,86286
 2020-08-18,Kenya,30636,487,17368
 2020-08-18,"Korea, South",16058,306,14006
 2020-08-18,Kosovo,11686,416,7562
@@ -40109,7 +40109,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-18,Yemen,1889,537,1052
 2020-08-18,Zambia,9981,264,8776
 2020-08-18,Zimbabwe,5378,141,4105
-2020-08-19,Afghanistan,37599,1375,27166
+2020-08-19,Afghanistan,37750,1384,27166
 2020-08-19,Albania,7812,234,3928
 2020-08-19,Algeria,39847,1402,27971
 2020-08-19,Andorra,1024,53,875
@@ -40198,7 +40198,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-19,Jamaica,1192,14,772
 2020-08-19,Japan,58728,1148,43786
 2020-08-19,Jordan,1482,11,1259
-2020-08-19,Kazakhstan,103815,1415,86450
+2020-08-19,Kazakhstan,123325,1646,86450
 2020-08-19,Kenya,31015,506,17612
 2020-08-19,"Korea, South",16346,307,14063
 2020-08-19,Kosovo,11848,425,7684
@@ -40300,7 +40300,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-19,Yemen,1892,539,1055
 2020-08-19,Zambia,10218,269,9126
 2020-08-19,Zimbabwe,5643,150,4442
-2020-08-20,Afghanistan,37856,1385,27681
+2020-08-20,Afghanistan,37852,1386,27681
 2020-08-20,Albania,7967,238,3986
 2020-08-20,Algeria,40258,1411,28281
 2020-08-20,Andorra,1024,53,875
@@ -40389,7 +40389,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-20,Jamaica,1290,15,788
 2020-08-20,Japan,59900,1157,45110
 2020-08-20,Jordan,1498,11,1261
-2020-08-20,Kazakhstan,104071,1415,87920
+2020-08-20,Kazakhstan,124356,1652,87920
 2020-08-20,Kenya,31441,516,17869
 2020-08-20,"Korea, South",16670,309,14120
 2020-08-20,Kosovo,12006,438,7929
@@ -40491,7 +40491,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-20,Yemen,1899,541,1058
 2020-08-20,Zambia,10372,274,9126
 2020-08-20,Zimbabwe,5745,151,4525
-2020-08-21,Afghanistan,37894,1385,28016
+2020-08-21,Afghanistan,37885,1386,28016
 2020-08-21,Albania,8119,240,4096
 2020-08-21,Algeria,40667,1418,28587
 2020-08-21,Andorra,1045,53,875
@@ -40580,7 +40580,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-21,Jamaica,1346,16,788
 2020-08-21,Japan,60949,1175,46264
 2020-08-21,Jordan,1532,11,1262
-2020-08-21,Kazakhstan,104313,1415,89712
+2020-08-21,Kazakhstan,125335,1658,89712
 2020-08-21,Kenya,31763,532,18157
 2020-08-21,"Korea, South",17002,309,14169
 2020-08-21,Kosovo,12168,448,8149
@@ -40682,7 +40682,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-21,Yemen,1906,542,1058
 2020-08-21,Zambia,10627,277,9126
 2020-08-21,Zimbabwe,5815,152,4587
-2020-08-22,Afghanistan,37953,1385,28016
+2020-08-22,Afghanistan,37944,1386,28016
 2020-08-22,Albania,8275,245,4184
 2020-08-22,Algeria,41068,1424,28874
 2020-08-22,Andorra,1045,53,875
@@ -40771,7 +40771,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-22,Jamaica,1346,16,788
 2020-08-22,Japan,61916,1179,47418
 2020-08-22,Jordan,1576,11,1268
-2020-08-22,Kazakhstan,104543,1415,91089
+2020-08-22,Kazakhstan,126243,1663,91089
 2020-08-22,Kenya,32118,542,18453
 2020-08-22,"Korea, South",17399,309,14200
 2020-08-22,Kosovo,12337,457,8346
@@ -40873,7 +40873,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-22,Yemen,1907,546,1066
 2020-08-22,Zambia,10831,279,9942
 2020-08-22,Zimbabwe,5893,153,4629
-2020-08-23,Afghanistan,37999,1387,28180
+2020-08-23,Afghanistan,37990,1388,28180
 2020-08-23,Albania,8427,250,4332
 2020-08-23,Algeria,41460,1435,29142
 2020-08-23,Andorra,1045,53,875
@@ -40962,7 +40962,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-23,Jamaica,1529,16,819
 2020-08-23,Japan,62658,1188,48319
 2020-08-23,Jordan,1609,12,1320
-2020-08-23,Kazakhstan,104718,1415,92598
+2020-08-23,Kazakhstan,127203,1671,92598
 2020-08-23,Kenya,32364,548,18670
 2020-08-23,"Korea, South",17665,309,14219
 2020-08-23,Kosovo,12448,467,8505
@@ -41064,7 +41064,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-23,Yemen,1911,553,1086
 2020-08-23,Zambia,11082,280,9942
 2020-08-23,Zimbabwe,5930,155,4872
-2020-08-24,Afghanistan,38054,1389,28360
+2020-08-24,Afghanistan,38045,1390,28360
 2020-08-24,Albania,8605,254,4413
 2020-08-24,Algeria,41858,1446,29369
 2020-08-24,Andorra,1060,53,877
@@ -41153,7 +41153,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-24,Jamaica,1612,16,819
 2020-08-24,Japan,63158,1201,49089
 2020-08-24,Jordan,1639,14,1335
-2020-08-24,Kazakhstan,104902,1415,93405
+2020-08-24,Kazakhstan,127462,1781,93405
 2020-08-24,Kenya,32557,554,18895
 2020-08-24,"Korea, South",17945,310,14286
 2020-08-24,Kosovo,12547,480,8657
@@ -41255,7 +41255,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-24,Yemen,1916,555,1090
 2020-08-24,Zambia,11148,280,10208
 2020-08-24,Zimbabwe,6070,155,4950
-2020-08-25,Afghanistan,38070,1397,28440
+2020-08-25,Afghanistan,38061,1398,28440
 2020-08-25,Albania,8759,259,4530
 2020-08-25,Algeria,42228,1456,29587
 2020-08-25,Andorra,1060,53,877
@@ -41344,7 +41344,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-25,Jamaica,1732,19,840
 2020-08-25,Japan,63888,1219,50092
 2020-08-25,Jordan,1716,14,1344
-2020-08-25,Kazakhstan,105075,1523,93990
+2020-08-25,Kazakhstan,127462,1781,93990
 2020-08-25,Kenya,32803,559,19055
 2020-08-25,"Korea, South",18265,312,14368
 2020-08-25,Kosovo,12683,488,8788
@@ -41446,7 +41446,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-25,Yemen,1924,557,1091
 2020-08-25,Zambia,11285,282,10400
 2020-08-25,Zimbabwe,6196,166,4961
-2020-08-26,Afghanistan,38113,1401,29042
+2020-08-26,Afghanistan,38103,1402,29042
 2020-08-26,Albania,8927,263,4633
 2020-08-26,Algeria,42619,1465,29886
 2020-08-26,Andorra,1098,53,893
@@ -41535,7 +41535,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-26,Jamaica,1804,19,846
 2020-08-26,Japan,64779,1230,51407
 2020-08-26,Jordan,1756,15,1355
-2020-08-26,Kazakhstan,105243,1523,94713
+2020-08-26,Kazakhstan,127462,1781,94713
 2020-08-26,Kenya,33016,564,19296
 2020-08-26,"Korea, South",18706,313,14461
 2020-08-26,Kosovo,12840,492,8942
@@ -41637,7 +41637,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-26,Yemen,1930,560,1097
 2020-08-26,Zambia,11376,282,10693
 2020-08-26,Zimbabwe,6251,179,5001
-2020-08-27,Afghanistan,38129,1401,29046
+2020-08-27,Afghanistan,38119,1402,29046
 2020-08-27,Albania,9083,266,4791
 2020-08-27,Algeria,43016,1475,30157
 2020-08-27,Andorra,1098,53,893
@@ -41726,7 +41726,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,Jamaica,1870,19,846
 2020-08-27,Japan,65653,1241,52542
 2020-08-27,Jordan,1801,15,1364
-2020-08-27,Kazakhstan,105408,1523,95253
+2020-08-27,Kazakhstan,127664,1781,100509
 2020-08-27,Kenya,33389,567,19368
 2020-08-27,"Korea, South",19077,316,14551
 2020-08-27,Kosovo,12981,498,9085
@@ -41828,7 +41828,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-27,Yemen,1933,562,1098
 2020-08-27,Zambia,11601,282,10840
 2020-08-27,Zimbabwe,6292,189,5010
-2020-08-28,Afghanistan,38140,1402,29059
+2020-08-28,Afghanistan,38130,1403,29059
 2020-08-28,Albania,9195,271,4923
 2020-08-28,Algeria,43403,1483,30436
 2020-08-28,Andorra,1124,53,902
@@ -41917,7 +41917,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-28,Jamaica,2011,19,888
 2020-08-28,Japan,66499,1251,53691
 2020-08-28,Jordan,1869,15,1367
-2020-08-28,Kazakhstan,105558,1523,95888
+2020-08-28,Kazakhstan,128618,1781,101144
 2020-08-28,Kenya,33630,567,19434
 2020-08-28,"Korea, South",19400,321,14765
 2020-08-28,Kosovo,13100,499,9239
@@ -42019,7 +42019,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-28,Yemen,1943,563,1107
 2020-08-28,Zambia,11779,283,10945
 2020-08-28,Zimbabwe,6388,195,5043
-2020-08-29,Afghanistan,38143,1402,29063
+2020-08-29,Afghanistan,38133,1403,29063
 2020-08-29,Albania,9279,275,5020
 2020-08-29,Algeria,43781,1491,30717
 2020-08-29,Andorra,1124,53,902
@@ -42108,7 +42108,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-29,Jamaica,2113,20,890
 2020-08-29,Japan,67353,1271,54883
 2020-08-29,Jordan,1893,15,1447
-2020-08-29,Kazakhstan,105684,1523,96135
+2020-08-29,Kazakhstan,130040,1781,101391
 2020-08-29,Kenya,33794,572,19590
 2020-08-29,"Korea, South",19699,323,14903
 2020-08-29,Kosovo,13215,508,9355
@@ -42210,7 +42210,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-29,Yemen,1946,563,1113
 2020-08-29,Zambia,11902,284,11092
 2020-08-29,Zimbabwe,6406,196,5056
-2020-08-30,Afghanistan,38162,1402,29089
+2020-08-30,Afghanistan,38155,1403,29089
 2020-08-30,Albania,9380,280,5139
 2020-08-30,Algeria,44146,1501,30978
 2020-08-30,Andorra,1124,53,902
@@ -42299,7 +42299,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-30,Jamaica,2357,21,890
 2020-08-30,Japan,67958,1285,55700
 2020-08-30,Jordan,1966,15,1468
-2020-08-30,Kazakhstan,105795,1523,96297
+2020-08-30,Kazakhstan,130673,1781,101553
 2020-08-30,Kenya,34057,574,19688
 2020-08-30,"Korea, South",19947,324,14973
 2020-08-30,Kosovo,13334,516,9473
@@ -42401,7 +42401,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-30,Yemen,1953,564,1123
 2020-08-30,Zambia,12025,287,11454
 2020-08-30,Zimbabwe,6412,196,5061
-2020-08-31,Afghanistan,38165,1402,29089
+2020-08-31,Afghanistan,38159,1403,29089
 2020-08-31,Albania,9513,284,5214
 2020-08-31,Algeria,44494,1510,31244
 2020-08-31,Andorra,1176,53,908
@@ -42490,7 +42490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-31,Jamaica,2459,21,890
 2020-08-31,Japan,68396,1298,56338
 2020-08-31,Jordan,2034,15,1508
-2020-08-31,Kazakhstan,105872,1523,96297
+2020-08-31,Kazakhstan,130673,1781,101553
 2020-08-31,Kenya,34201,577,19893
 2020-08-31,"Korea, South",20182,324,15198
 2020-08-31,Kosovo,13454,525,9595
@@ -42592,7 +42592,7 @@ isodate,country,confirmed,deaths,recovered
 2020-08-31,Yemen,1958,566,1131
 2020-08-31,Zambia,12097,288,11469
 2020-08-31,Zimbabwe,6497,202,5221
-2020-09-01,Afghanistan,38196,1406,29231
+2020-09-01,Afghanistan,38193,1407,29231
 2020-09-01,Albania,9606,290,5441
 2020-09-01,Algeria,44833,1518,31493
 2020-09-01,Andorra,1184,53,908
@@ -42681,7 +42681,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-01,Jamaica,2459,21,890
 2020-09-01,Japan,69023,1313,57503
 2020-09-01,Jordan,2097,15,1564
-2020-09-01,Kazakhstan,105944,1588,97371
+2020-09-01,Kazakhstan,131596,1815,102962
 2020-09-01,Kenya,34315,577,20211
 2020-09-01,"Korea, South",20449,326,15356
 2020-09-01,Kosovo,13601,533,9792
@@ -42783,7 +42783,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-01,Yemen,1962,570,1160
 2020-09-01,Zambia,12381,290,11479
 2020-09-01,Zimbabwe,6559,203,5241
-2020-09-02,Afghanistan,38243,1409,29315
+2020-09-02,Afghanistan,38243,1410,29315
 2020-09-02,Albania,9728,296,5582
 2020-09-02,Algeria,45158,1523,31746
 2020-09-02,Andorra,1199,53,909
@@ -42872,7 +42872,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-02,Jamaica,2683,24,898
 2020-09-02,Japan,69619,1327,58108
 2020-09-02,Jordan,2161,15,1610
-2020-09-02,Kazakhstan,106032,1588,97371
+2020-09-02,Kazakhstan,131695,1883,102962
 2020-09-02,Kenya,34493,581,20211
 2020-09-02,"Korea, South",20644,329,15529
 2020-09-02,Kosovo,13713,539,9923
@@ -42974,7 +42974,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-02,Yemen,1976,571,1175
 2020-09-02,Zambia,12415,292,11494
 2020-09-02,Zimbabwe,6638,206,5250
-2020-09-03,Afghanistan,38288,1409,29390
+2020-09-03,Afghanistan,38288,1410,29390
 2020-09-03,Albania,9844,301,5732
 2020-09-03,Algeria,45469,1529,32006
 2020-09-03,Andorra,1199,53,909
@@ -43063,7 +43063,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-03,Jamaica,2896,29,921
 2020-09-03,Japan,70278,1334,58200
 2020-09-03,Jordan,2233,15,1648
-2020-09-03,Kazakhstan,106121,1588,98585
+2020-09-03,Kazakhstan,132354,1889,104176
 2020-09-03,Kenya,34705,585,20644
 2020-09-03,"Korea, South",20842,331,15783
 2020-09-03,Kosovo,13791,548,10113
@@ -43165,7 +43165,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-03,Yemen,1979,571,1180
 2020-09-03,Zambia,12523,292,11562
 2020-09-03,Zimbabwe,6678,206,5263
-2020-09-04,Afghanistan,38304,1409,29713
+2020-09-04,Afghanistan,38304,1410,29713
 2020-09-04,Albania,9967,306,5882
 2020-09-04,Algeria,45773,1539,32259
 2020-09-04,Andorra,1215,53,928
@@ -43254,7 +43254,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-04,Jamaica,2964,30,922
 2020-09-04,Japan,70866,1352,60093
 2020-09-04,Jordan,2301,16,1676
-2020-09-04,Kazakhstan,106225,1588,98585
+2020-09-04,Kazakhstan,132924,1893,104176
 2020-09-04,Kenya,34884,589,21059
 2020-09-04,"Korea, South",21010,333,16009
 2020-09-04,Kosovo,13910,551,10300
@@ -43356,7 +43356,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-04,Yemen,1983,572,1194
 2020-09-04,Zambia,12639,292,11572
 2020-09-04,Zimbabwe,6837,206,5345
-2020-09-05,Afghanistan,38324,1409,30082
+2020-09-05,Afghanistan,38324,1410,30082
 2020-09-05,Albania,10102,312,5976
 2020-09-05,Algeria,46071,1549,32481
 2020-09-05,Andorra,1215,53,928
@@ -43445,7 +43445,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-05,Jamaica,3024,32,950
 2020-09-05,Japan,71467,1361,61099
 2020-09-05,Jordan,2353,16,1700
-2020-09-05,Kazakhstan,106301,1588,99018
+2020-09-05,Kazakhstan,133028,1893,104892
 2020-09-05,Kenya,35020,594,21158
 2020-09-05,"Korea, South",21177,334,16146
 2020-09-05,Kosovo,14027,556,10431
@@ -43547,7 +43547,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-05,Yemen,1983,572,1197
 2020-09-05,Zambia,12709,292,11668
 2020-09-05,Zimbabwe,6837,206,5345
-2020-09-06,Afghanistan,38398,1412,30537
+2020-09-06,Afghanistan,38398,1413,30537
 2020-09-06,Albania,10255,316,6106
 2020-09-06,Algeria,46364,1556,32745
 2020-09-06,Andorra,1215,53,928
@@ -43636,7 +43636,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-06,Jamaica,3103,33,958
 2020-09-06,Japan,71918,1366,61730
 2020-09-06,Jordan,2411,16,1756
-2020-09-06,Kazakhstan,106361,1588,99654
+2020-09-06,Kazakhstan,133924,1901,105611
 2020-09-06,Kenya,35103,597,21230
 2020-09-06,"Korea, South",21296,336,16297
 2020-09-06,Kosovo,14119,563,10546
@@ -43738,7 +43738,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-06,Yemen,1987,572,1200
 2020-09-06,Zambia,12776,295,11674
 2020-09-06,Zimbabwe,6837,206,5345
-2020-09-07,Afghanistan,38494,1415,30557
+2020-09-07,Afghanistan,38494,1416,30557
 2020-09-07,Albania,10406,319,6186
 2020-09-07,Algeria,46653,1562,32985
 2020-09-07,Andorra,1261,53,934
@@ -43827,7 +43827,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-07,Jamaica,3183,34,974
 2020-09-07,Japan,72213,1377,62190
 2020-09-07,Jordan,2478,17,1817
-2020-09-07,Kazakhstan,106425,1588,99893
+2020-09-07,Kazakhstan,134123,1902,105850
 2020-09-07,Kenya,35205,599,21310
 2020-09-07,"Korea, South",21432,341,16636
 2020-09-07,Kosovo,14204,568,10643
@@ -43929,7 +43929,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-07,Yemen,1989,573,1201
 2020-09-07,Zambia,12836,295,11748
 2020-09-07,Zimbabwe,7298,210,5455
-2020-09-08,Afghanistan,38520,1418,30715
+2020-09-08,Afghanistan,38520,1419,30715
 2020-09-08,Albania,10553,321,6239
 2020-09-08,Algeria,46938,1571,33183
 2020-09-08,Andorra,1261,53,934
@@ -44018,7 +44018,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-08,Jamaica,3323,36,992
 2020-09-08,Japan,72724,1398,62936
 2020-09-08,Jordan,2581,19,1885
-2020-09-08,Kazakhstan,106498,1634,99893
+2020-09-08,Kazakhstan,134203,1903,106069
 2020-09-08,Kenya,35356,599,21483
 2020-09-08,"Korea, South",21588,344,17023
 2020-09-08,Kosovo,14301,568,10782
@@ -44120,7 +44120,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-08,Yemen,1994,576,1203
 2020-09-08,Zambia,12952,297,11787
 2020-09-08,Zimbabwe,7388,218,5477
-2020-09-09,Afghanistan,38544,1420,31048
+2020-09-09,Afghanistan,38544,1421,31048
 2020-09-09,Albania,10704,322,6284
 2020-09-09,Algeria,47216,1581,33379
 2020-09-09,Andorra,1301,53,938
@@ -44209,7 +44209,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-09,Jamaica,3437,38,1019
 2020-09-09,Japan,73264,1412,63734
 2020-09-09,Jordan,2659,19,1919
-2020-09-09,Kazakhstan,106584,1634,100248
+2020-09-09,Kazakhstan,134726,1950,106424
 2020-09-09,Kenya,35460,607,21557
 2020-09-09,"Korea, South",21743,346,17360
 2020-09-09,Kosovo,14377,574,10926
@@ -44311,7 +44311,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-09,Yemen,1999,576,1209
 2020-09-09,Zambia,13112,300,11839
 2020-09-09,Zimbabwe,7429,222,5542
-2020-09-10,Afghanistan,38572,1420,31129
+2020-09-10,Afghanistan,38572,1421,31129
 2020-09-10,Albania,10860,324,6346
 2020-09-10,Algeria,47488,1591,33562
 2020-09-10,Andorra,1301,53,938
@@ -44400,7 +44400,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-10,Jamaica,3511,40,1019
 2020-09-10,Japan,73916,1416,64489
 2020-09-10,Jordan,2739,20,1981
-2020-09-10,Kazakhstan,106661,1634,100409
+2020-09-10,Kazakhstan,135159,1951,107014
 2020-09-10,Kenya,35603,612,22047
 2020-09-10,"Korea, South",21919,350,17616
 2020-09-10,Kosovo,14446,581,11033
@@ -44502,7 +44502,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-10,Yemen,2003,580,1211
 2020-09-10,Zambia,13214,300,11899
 2020-09-10,Zimbabwe,7453,222,5635
-2020-09-11,Afghanistan,38606,1420,31154
+2020-09-11,Afghanistan,38606,1421,31154
 2020-09-11,Albania,11021,327,6443
 2020-09-11,Algeria,47752,1599,33723
 2020-09-11,Andorra,1344,53,943
@@ -44591,7 +44591,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-11,Jamaica,3511,40,1019
 2020-09-11,Japan,74558,1428,65244
 2020-09-11,Jordan,2945,21,2084
-2020-09-11,Kazakhstan,106729,1634,100409
+2020-09-11,Kazakhstan,135589,1952,107051
 2020-09-11,Kenya,35793,616,22442
 2020-09-11,"Korea, South",22055,355,18029
 2020-09-11,Kosovo,14496,586,11150
@@ -44693,7 +44693,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-11,Yemen,2007,582,1211
 2020-09-11,Zambia,13323,306,11899
 2020-09-11,Zimbabwe,7479,224,5660
-2020-09-12,Afghanistan,38641,1420,31234
+2020-09-12,Afghanistan,38641,1421,31234
 2020-09-12,Albania,11185,330,6494
 2020-09-12,Algeria,48007,1605,33875
 2020-09-12,Andorra,1344,53,943
@@ -44782,7 +44782,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-12,Jamaica,3623,40,1072
 2020-09-12,Japan,75206,1441,65934
 2020-09-12,Jordan,3062,22,2156
-2020-09-12,Kazakhstan,106803,1634,100615
+2020-09-12,Kazakhstan,135964,1954,107257
 2020-09-12,Kenya,35969,619,22771
 2020-09-12,"Korea, South",22176,358,18226
 2020-09-12,Kosovo,14566,589,11272
@@ -44884,7 +44884,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-12,Yemen,2009,582,1211
 2020-09-12,Zambia,13466,312,12007
 2020-09-12,Zimbabwe,7508,224,5675
-2020-09-13,Afghanistan,38716,1420,31638
+2020-09-13,Afghanistan,38716,1421,31638
 2020-09-13,Albania,11353,334,6569
 2020-09-13,Algeria,48254,1612,34037
 2020-09-13,Andorra,1344,53,943
@@ -44973,7 +44973,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-13,Jamaica,3771,42,1149
 2020-09-13,Japan,75646,1448,66524
 2020-09-13,Jordan,3314,24,2206
-2020-09-13,Kazakhstan,106855,1634,100627
+2020-09-13,Kazakhstan,136384,1955,107269
 2020-09-13,Kenya,36157,622,23067
 2020-09-13,"Korea, South",22285,363,18489
 2020-09-13,Kosovo,14637,596,11435
@@ -45075,7 +45075,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-13,Yemen,2011,583,1212
 2020-09-13,Zambia,13539,312,12260
 2020-09-13,Zimbabwe,7526,224,5678
-2020-09-14,Afghanistan,38772,1425,32073
+2020-09-14,Afghanistan,38772,1427,32073
 2020-09-14,Albania,11520,338,6615
 2020-09-14,Algeria,48496,1620,34204
 2020-09-14,Andorra,1438,53,945
@@ -45164,7 +45164,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-14,Jamaica,3933,44,1161
 2020-09-14,Japan,75914,1455,66901
 2020-09-14,Jordan,3528,26,2255
-2020-09-14,Kazakhstan,106920,1634,100627
+2020-09-14,Kazakhstan,136513,1962,107269
 2020-09-14,Kenya,36205,624,23243
 2020-09-14,"Korea, South",22391,367,18878
 2020-09-14,Kosovo,14692,600,11585
@@ -45266,7 +45266,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-14,Yemen,2013,583,1215
 2020-09-14,Zambia,13720,320,12380
 2020-09-14,Zimbabwe,7531,224,5690
-2020-09-15,Afghanistan,38815,1426,32098
+2020-09-15,Afghanistan,38815,1428,32098
 2020-09-15,Albania,11672,340,6668
 2020-09-15,Algeria,48734,1632,34385
 2020-09-15,Andorra,1438,53,945
@@ -45355,7 +45355,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-15,Jamaica,4042,46,1163
 2020-09-15,Japan,76446,1463,66901
 2020-09-15,Jordan,3677,26,2311
-2020-09-15,Kazakhstan,106984,1671,101267
+2020-09-15,Kazakhstan,136586,1965,107909
 2020-09-15,Kenya,36301,634,23364
 2020-09-15,"Korea, South",22504,367,19310
 2020-09-15,Kosovo,14763,601,11784
@@ -45457,7 +45457,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-15,Yemen,2016,583,1219
 2020-09-15,Zambia,13819,324,12590
 2020-09-15,Zimbabwe,7576,224,5783
-2020-09-16,Afghanistan,38855,1436,32503
+2020-09-16,Afghanistan,38855,1438,32503
 2020-09-16,Albania,11816,343,6733
 2020-09-16,Algeria,48966,1645,34517
 2020-09-16,Andorra,1483,53,1054
@@ -45546,7 +45546,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-16,Jamaica,4164,46,1180
 2020-09-16,Japan,76997,1481,68110
 2020-09-16,Jordan,3852,26,2349
-2020-09-16,Kazakhstan,107056,1671,101455
+2020-09-16,Kazakhstan,137058,2003,108097
 2020-09-16,Kenya,36301,634,23364
 2020-09-16,"Korea, South",22657,372,19543
 2020-09-16,Kosovo,14839,604,11949
@@ -45648,7 +45648,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-16,Yemen,2019,583,1221
 2020-09-16,Zambia,13887,326,12869
 2020-09-16,Zimbabwe,7598,224,5823
-2020-09-17,Afghanistan,38872,1436,32505
+2020-09-17,Afghanistan,38872,1438,32505
 2020-09-17,Albania,11948,347,6788
 2020-09-17,Algeria,49194,1654,34675
 2020-09-17,Andorra,1483,53,1054
@@ -45737,7 +45737,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-17,Jamaica,4374,51,1225
 2020-09-17,Japan,77488,1490,68827
 2020-09-17,Jordan,4131,26,2415
-2020-09-17,Kazakhstan,107134,1671,101610
+2020-09-17,Kazakhstan,137393,2006,108252
 2020-09-17,Kenya,36576,642,23611
 2020-09-17,"Korea, South",22783,377,19771
 2020-09-17,Kosovo,14882,607,12188
@@ -45839,7 +45839,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-17,Yemen,2022,585,1221
 2020-09-17,Zambia,13928,326,13029
 2020-09-17,Zimbabwe,7633,224,5841
-2020-09-18,Afghanistan,38883,1437,32576
+2020-09-18,Afghanistan,38897,1439,32576
 2020-09-18,Albania,12073,353,6831
 2020-09-18,Algeria,49413,1659,34818
 2020-09-18,Andorra,1564,53,1164
@@ -45928,7 +45928,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-18,Jamaica,4571,55,1264
 2020-09-18,Japan,78061,1500,69468
 2020-09-18,Jordan,4344,29,2511
-2020-09-18,Kazakhstan,107199,1671,101822
+2020-09-18,Kazakhstan,137713,2008,108464
 2020-09-18,Kenya,36724,646,23709
 2020-09-18,"Korea, South",22893,378,19970
 2020-09-18,Kosovo,14939,611,12325
@@ -46030,7 +46030,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-18,Yemen,2024,585,1221
 2020-09-18,Zambia,14022,329,13207
 2020-09-18,Zimbabwe,7647,224,5883
-2020-09-19,Afghanistan,38919,1437,32576
+2020-09-19,Afghanistan,38919,1439,32576
 2020-09-19,Albania,12226,358,6888
 2020-09-19,Algeria,49623,1665,34923
 2020-09-19,Andorra,1564,53,1164
@@ -46119,7 +46119,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-19,Jamaica,4758,60,1327
 2020-09-19,Japan,78662,1504,70051
 2020-09-19,Jordan,4540,30,2672
-2020-09-19,Kazakhstan,107262,1671,101877
+2020-09-19,Kazakhstan,138013,2009,108519
 2020-09-19,Kenya,36829,646,23777
 2020-09-19,"Korea, South",22975,383,20158
 2020-09-19,Kosovo,15002,614,12451
@@ -46221,7 +46221,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-19,Yemen,2026,585,1221
 2020-09-19,Zambia,14070,330,13365
 2020-09-19,Zimbabwe,7672,225,5914
-2020-09-20,Afghanistan,39044,1441,32576
+2020-09-20,Afghanistan,39044,1443,32576
 2020-09-20,Albania,12385,362,6940
 2020-09-20,Algeria,49826,1672,35047
 2020-09-20,Andorra,1564,53,1164
@@ -46310,7 +46310,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-20,Jamaica,4988,67,1350
 2020-09-20,Japan,79142,1508,70604
 2020-09-20,Jordan,4779,30,2844
-2020-09-20,Kazakhstan,107307,1671,101941
+2020-09-20,Kazakhstan,138348,2014,108583
 2020-09-20,Kenya,36981,648,23887
 2020-09-20,"Korea, South",23045,385,20248
 2020-09-20,Kosovo,15063,614,12570
@@ -46412,7 +46412,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-20,Yemen,2026,586,1227
 2020-09-20,Zambia,14131,330,13365
 2020-09-20,Zimbabwe,7683,225,5924
-2020-09-21,Afghanistan,39074,1444,32576
+2020-09-21,Afghanistan,39074,1446,32576
 2020-09-21,Albania,12535,364,6995
 2020-09-21,Algeria,50023,1679,35180
 2020-09-21,Andorra,1681,53,1199
@@ -46501,7 +46501,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-21,Jamaica,5143,70,1407
 2020-09-21,Japan,79462,1518,70970
 2020-09-21,Jordan,5045,32,3527
-2020-09-21,Kazakhstan,107374,1671,102064
+2020-09-21,Kazakhstan,138455,2015,108706
 2020-09-21,Kenya,37079,650,23949
 2020-09-21,"Korea, South",23106,388,20441
 2020-09-21,Kosovo,15142,615,12674
@@ -46603,7 +46603,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-21,Yemen,2028,586,1235
 2020-09-21,Zambia,14175,331,13629
 2020-09-21,Zimbabwe,7683,225,5924
-2020-09-22,Afghanistan,39096,1445,32576
+2020-09-22,Afghanistan,39096,1447,32576
 2020-09-22,Albania,12666,367,7042
 2020-09-22,Algeria,50214,1689,35307
 2020-09-22,Andorra,1681,53,1199
@@ -46692,7 +46692,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-22,Jamaica,5270,75,1444
 2020-09-22,Japan,79773,1519,71214
 2020-09-22,Jordan,5679,33,3707
-2020-09-22,Kazakhstan,107450,1699,102064
+2020-09-22,Kazakhstan,138542,2016,108706
 2020-09-22,Kenya,37218,659,24147
 2020-09-22,"Korea, South",23216,388,20650
 2020-09-22,Kosovo,15208,615,12815
@@ -46794,7 +46794,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-22,Yemen,2028,586,1240
 2020-09-22,Zambia,14389,331,13629
 2020-09-22,Zimbabwe,7711,226,5979
-2020-09-23,Afghanistan,39145,1446,32610
+2020-09-23,Afghanistan,39145,1448,32610
 2020-09-23,Albania,12787,370,7139
 2020-09-23,Algeria,50400,1698,35428
 2020-09-23,Andorra,1753,53,1203
@@ -46883,7 +46883,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-23,Jamaica,5395,76,1444
 2020-09-23,Japan,80009,1525,71547
 2020-09-23,Jordan,6042,35,3812
-2020-09-23,Kazakhstan,107529,1699,102323
+2020-09-23,Kazakhstan,138982,2044,108965
 2020-09-23,Kenya,37348,664,24253
 2020-09-23,"Korea, South",23341,393,20832
 2020-09-23,Kosovo,15270,616,12900
@@ -46985,7 +46985,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-23,Yemen,2029,586,1245
 2020-09-23,Zambia,14443,332,13629
 2020-09-23,Zimbabwe,7725,227,6007
-2020-09-24,Afghanistan,39170,1451,32619
+2020-09-24,Afghanistan,39170,1453,32619
 2020-09-24,Albania,12921,370,7239
 2020-09-24,Algeria,50579,1703,35544
 2020-09-24,Andorra,1753,53,1203
@@ -47074,7 +47074,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-24,Jamaica,5588,77,1490
 2020-09-24,Japan,80490,1540,72066
 2020-09-24,Jordan,6591,36,3937
-2020-09-24,Kazakhstan,107590,1699,102360
+2020-09-24,Kazakhstan,139289,2045,109002
 2020-09-24,Kenya,37489,669,24334
 2020-09-24,"Korea, South",23455,395,20978
 2020-09-24,Kosovo,15333,616,12987
@@ -47176,7 +47176,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-24,Yemen,2029,586,1250
 2020-09-24,Zambia,14491,332,13643
 2020-09-24,Zimbabwe,7752,227,6043
-2020-09-25,Afghanistan,39186,1451,32619
+2020-09-25,Afghanistan,39186,1453,32619
 2020-09-25,Albania,13045,373,7309
 2020-09-25,Algeria,50754,1707,35654
 2020-09-25,Andorra,1836,53,1263
@@ -47265,7 +47265,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-25,Jamaica,5723,80,1496
 2020-09-25,Japan,81054,1544,73016
 2020-09-25,Jordan,7211,39,4035
-2020-09-25,Kazakhstan,107659,1699,102530
+2020-09-25,Kazakhstan,139581,2046,109172
 2020-09-25,Kenya,37707,682,24504
 2020-09-25,"Korea, South",23516,399,21166
 2020-09-25,Kosovo,15379,617,13088
@@ -47367,7 +47367,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-25,Yemen,2029,587,1255
 2020-09-25,Zambia,14515,332,13643
 2020-09-25,Zimbabwe,7787,227,6057
-2020-09-26,Afghanistan,39192,1453,32635
+2020-09-26,Afghanistan,39192,1455,32635
 2020-09-26,Albania,13153,375,7397
 2020-09-26,Algeria,50914,1711,35756
 2020-09-26,Andorra,1836,53,1263
@@ -47456,7 +47456,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-26,Jamaica,5854,88,1624
 2020-09-26,Japan,81703,1547,73677
 2020-09-26,Jordan,8061,43,4131
-2020-09-26,Kazakhstan,107723,1699,102666
+2020-09-26,Kazakhstan,139882,2046,129631
 2020-09-26,Kenya,37871,689,24581
 2020-09-26,"Korea, South",23611,401,21248
 2020-09-26,Kosovo,15425,619,13165
@@ -47558,7 +47558,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-26,Yemen,2030,587,1260
 2020-09-26,Zambia,14612,332,13727
 2020-09-26,Zimbabwe,7803,227,6067
-2020-09-27,Afghanistan,39227,1453,32642
+2020-09-27,Afghanistan,39227,1455,32642
 2020-09-27,Albania,13259,377,7397
 2020-09-27,Algeria,51067,1714,35860
 2020-09-27,Andorra,1836,53,1263
@@ -47647,7 +47647,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-27,Jamaica,6017,89,1706
 2020-09-27,Japan,82186,1549,73677
 2020-09-27,Jordan,8492,45,4222
-2020-09-27,Kazakhstan,107775,1699,102736
+2020-09-27,Kazakhstan,140175,2048,129701
 2020-09-27,Kenya,38115,691,24621
 2020-09-27,"Korea, South",23661,406,21292
 2020-09-27,Kosovo,15472,622,13278
@@ -47749,7 +47749,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-27,Yemen,2030,587,1266
 2020-09-27,Zambia,14641,332,13784
 2020-09-27,Zimbabwe,7812,227,6106
-2020-09-28,Afghanistan,39233,1455,32642
+2020-09-28,Afghanistan,39239,1458,32642
 2020-09-28,Albania,13391,380,7629
 2020-09-28,Algeria,51213,1719,35962
 2020-09-28,Andorra,1966,53,1265
@@ -47838,7 +47838,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-28,Jamaica,6170,93,1741
 2020-09-28,Japan,82484,1561,74495
 2020-09-28,Jordan,9226,51,4359
-2020-09-28,Kazakhstan,107833,1699,102805
+2020-09-28,Kazakhstan,140265,2049,129770
 2020-09-28,Kenya,38168,700,24681
 2020-09-28,"Korea, South",23699,407,21470
 2020-09-28,Kosovo,15520,625,13420
@@ -47940,7 +47940,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-28,Yemen,2031,587,1266
 2020-09-28,Zambia,14660,332,13821
 2020-09-28,Zimbabwe,7816,228,6112
-2020-09-29,Afghanistan,39254,1458,32746
+2020-09-29,Afghanistan,39254,1460,32746
 2020-09-29,Albania,13518,384,7732
 2020-09-29,Algeria,51368,1726,36063
 2020-09-29,Andorra,1966,53,1265
@@ -48029,7 +48029,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-29,Jamaica,6408,101,1770
 2020-09-29,Japan,83022,1568,74962
 2020-09-29,Jordan,10049,57,4496
-2020-09-29,Kazakhstan,107908,1725,102874
+2020-09-29,Kazakhstan,140333,2050,129839
 2020-09-29,Kenya,38378,707,24740
 2020-09-29,"Korea, South",23812,413,21590
 2020-09-29,Kosovo,15574,625,13492
@@ -48131,7 +48131,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-29,Yemen,2031,587,1275
 2020-09-29,Zambia,14715,332,13937
 2020-09-29,Zimbabwe,7837,228,6122
-2020-09-30,Afghanistan,39268,1458,32789
+2020-09-30,Afghanistan,39268,1460,32789
 2020-09-30,Albania,13649,387,7847
 2020-09-30,Algeria,51530,1736,36174
 2020-09-30,Andorra,2050,53,1432
@@ -48220,7 +48220,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-30,Jamaica,6482,107,1867
 2020-09-30,Japan,83591,1575,75522
 2020-09-30,Jordan,11825,61,4626
-2020-09-30,Kazakhstan,107979,1725,102937
+2020-09-30,Kazakhstan,140707,2078,129902
 2020-09-30,Kenya,38529,711,24908
 2020-09-30,"Korea, South",23889,415,21666
 2020-09-30,Kosovo,15620,625,13554
@@ -48322,7 +48322,7 @@ isodate,country,confirmed,deaths,recovered
 2020-09-30,Yemen,2034,587,1286
 2020-09-30,Zambia,14759,332,13959
 2020-09-30,Zimbabwe,7838,228,6303
-2020-10-01,Afghanistan,39285,1458,32842
+2020-10-01,Afghanistan,39285,1460,32842
 2020-10-01,Albania,13806,388,8077
 2020-10-01,Algeria,51690,1741,36282
 2020-10-01,Andorra,2050,53,1432
@@ -48411,7 +48411,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-01,Jamaica,6555,111,1991
 2020-10-01,Japan,84244,1580,76081
 2020-10-01,Jordan,13101,69,4752
-2020-10-01,Kazakhstan,108044,1725,103028
+2020-10-01,Kazakhstan,140958,2080,129993
 2020-10-01,Kenya,38713,711,24908
 2020-10-01,"Korea, South",23952,416,21733
 2020-10-01,Kosovo,15663,627,13677
@@ -48513,7 +48513,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-01,Yemen,2039,587,1297
 2020-10-01,Zambia,14802,333,13961
 2020-10-01,Zimbabwe,7850,228,6312
-2020-10-02,Afghanistan,39290,1458,32842
+2020-10-02,Afghanistan,39290,1460,32842
 2020-10-02,Albania,13965,389,8342
 2020-10-02,Algeria,51847,1749,36385
 2020-10-02,Andorra,2110,53,1540
@@ -48602,7 +48602,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-02,Jamaica,6704,116,2112
 2020-10-02,Japan,84768,1591,76700
 2020-10-02,Jordan,13650,79,4929
-2020-10-02,Kazakhstan,108106,1725,103110
+2020-10-02,Kazakhstan,141256,2082,130447
 2020-10-02,Kenya,38923,725,25114
 2020-10-02,"Korea, South",24027,420,21787
 2020-10-02,Kosovo,15705,627,13731
@@ -48704,7 +48704,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-02,Yemen,2040,589,1307
 2020-10-02,Zambia,14830,333,13980
 2020-10-02,Zimbabwe,7858,228,6322
-2020-10-03,Afghanistan,39297,1462,32842
+2020-10-03,Afghanistan,39297,1464,32842
 2020-10-03,Albania,14117,392,8536
 2020-10-03,Algeria,51995,1756,36482
 2020-10-03,Andorra,2110,53,1540
@@ -48793,7 +48793,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-03,Jamaica,6795,119,2345
 2020-10-03,Japan,85345,1594,76700
 2020-10-03,Jordan,14749,88,5101
-2020-10-03,Kazakhstan,108177,1725,103205
+2020-10-03,Kazakhstan,141484,2083,130542
 2020-10-03,Kenya,39184,728,25426
 2020-10-03,"Korea, South",24091,421,21845
 2020-10-03,Kosovo,15758,630,13787
@@ -48895,7 +48895,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-03,Yemen,2041,589,1320
 2020-10-03,Zambia,14974,333,14094
 2020-10-03,Zimbabwe,7885,228,6327
-2020-10-04,Afghanistan,39341,1462,32852
+2020-10-04,Afghanistan,39341,1464,32852
 2020-10-04,Albania,14266,396,8675
 2020-10-04,Algeria,52136,1760,36578
 2020-10-04,Andorra,2110,53,1540
@@ -48984,7 +48984,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-04,Jamaica,6895,120,2460
 2020-10-04,Japan,85746,1598,77851
 2020-10-04,Jordan,15640,101,5240
-2020-10-04,Kazakhstan,108236,1725,103277
+2020-10-04,Kazakhstan,141748,2083,130614
 2020-10-04,Kenya,39427,731,25659
 2020-10-04,"Korea, South",24164,422,21886
 2020-10-04,Kosovo,15814,630,13856
@@ -49086,7 +49086,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-04,Yemen,2041,591,1320
 2020-10-04,Zambia,15052,333,14187
 2020-10-04,Zimbabwe,7888,228,6359
-2020-10-05,Afghanistan,39422,1466,32879
+2020-10-05,Afghanistan,39422,1468,32879
 2020-10-05,Albania,14410,400,8825
 2020-10-05,Algeria,52270,1768,36672
 2020-10-05,Andorra,2370,53,1615
@@ -49175,7 +49175,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-05,Jamaica,7012,120,2635
 2020-10-05,Japan,86027,1602,78071
 2020-10-05,Jordan,17464,110,5292
-2020-10-05,Kazakhstan,108296,1725,103367
+2020-10-05,Kazakhstan,141844,2085,130874
 2020-10-05,Kenya,39449,735,27035
 2020-10-05,"Korea, South",24239,422,22083
 2020-10-05,Kosovo,15855,633,13929
@@ -49277,7 +49277,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-05,Yemen,2041,592,1323
 2020-10-05,Zambia,15089,334,14306
 2020-10-05,Zimbabwe,7898,228,6424
-2020-10-06,Afghanistan,39486,1467,32977
+2020-10-06,Afghanistan,39486,1469,32977
 2020-10-06,Albania,14568,403,8965
 2020-10-06,Algeria,52399,1768,36763
 2020-10-06,Andorra,2370,53,1615
@@ -49366,7 +49366,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-06,Jamaica,7109,123,2674
 2020-10-06,Japan,86540,1609,78521
 2020-10-06,Jordan,19001,122,5386
-2020-10-06,Kazakhstan,108362,1746,103465
+2020-10-06,Kazakhstan,141904,2085,130972
 2020-10-06,Kenya,39586,743,27331
 2020-10-06,"Korea, South",24353,425,22334
 2020-10-06,Kosovo,15889,635,14051
@@ -49468,7 +49468,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-06,Yemen,2047,593,1327
 2020-10-06,Zambia,15170,335,14313
 2020-10-06,Zimbabwe,7915,229,6440
-2020-10-07,Afghanistan,39548,1469,33045
+2020-10-07,Afghanistan,39548,1471,33045
 2020-10-07,Albania,14730,407,9115
 2020-10-07,Algeria,52520,1771,36857
 2020-10-07,Andorra,2568,53,1715
@@ -49557,7 +49557,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-07,Jamaica,7191,126,2700
 2020-10-07,Japan,87039,1614,79123
 2020-10-07,Jordan,20200,131,5575
-2020-10-07,Kazakhstan,108454,1746,103604
+2020-10-07,Kazakhstan,142239,2107,131111
 2020-10-07,Kenya,39907,748,31659
 2020-10-07,"Korea, South",24422,427,22463
 2020-10-07,Kosovo,15938,638,14143
@@ -49659,7 +49659,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-07,Yemen,2049,593,1328
 2020-10-07,Zambia,15224,335,14342
 2020-10-07,Zimbabwe,7919,229,6441
-2020-10-08,Afghanistan,39616,1470,33058
+2020-10-08,Afghanistan,39616,1472,33058
 2020-10-08,Albania,14899,411,9215
 2020-10-08,Algeria,52658,1783,36958
 2020-10-08,Andorra,2568,54,1715
@@ -49748,7 +49748,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-08,Jamaica,7273,128,2732
 2020-10-08,Japan,87679,1617,79674
 2020-10-08,Jordan,21517,144,5777
-2020-10-08,Kazakhstan,108561,1746,103758
+2020-10-08,Kazakhstan,142597,2108,131330
 2020-10-08,Kenya,40178,751,31710
 2020-10-08,"Korea, South",24476,428,22569
 2020-10-08,Kosovo,15971,638,14189
@@ -49850,7 +49850,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-08,Yemen,2050,593,1329
 2020-10-08,Zambia,15301,335,14365
 2020-10-08,Zimbabwe,7951,229,6446
-2020-10-09,Afghanistan,39693,1472,33058
+2020-10-09,Afghanistan,39693,1474,33058
 2020-10-09,Albania,15066,413,9304
 2020-10-09,Algeria,52804,1789,37067
 2020-10-09,Andorra,2696,55,1814
@@ -49939,7 +49939,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-09,Jamaica,7363,132,3102
 2020-10-09,Japan,88267,1623,80140
 2020-10-09,Jordan,22763,166,5906
-2020-10-09,Kazakhstan,108663,1746,103910
+2020-10-09,Kazakhstan,142945,2110,131482
 2020-10-09,Kenya,40620,755,31876
 2020-10-09,"Korea, South",24548,430,22624
 2020-10-09,Kosovo,16050,641,14250
@@ -50041,7 +50041,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-09,Yemen,2051,593,1329
 2020-10-09,Zambia,15339,336,14439
 2020-10-09,Zimbabwe,7994,229,6474
-2020-10-10,Afghanistan,39703,1473,33064
+2020-10-10,Afghanistan,39703,1475,33064
 2020-10-10,Albania,15231,416,9406
 2020-10-10,Algeria,52940,1795,37170
 2020-10-10,Andorra,2696,55,1814
@@ -50130,7 +50130,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-10,Jamaica,7559,138,3142
 2020-10-10,Japan,88962,1626,80798
 2020-10-10,Jordan,23998,181,6045
-2020-10-10,Kazakhstan,108757,1746,103980
+2020-10-10,Kazakhstan,143280,2111,131552
 2020-10-10,Kenya,41158,760,31876
 2020-10-10,"Korea, South",24606,432,22693
 2020-10-10,Kosovo,16130,645,14282
@@ -50232,7 +50232,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-10,Yemen,2051,595,1329
 2020-10-10,Zambia,15415,337,14541
 2020-10-10,Zimbabwe,8010,230,6492
-2020-10-11,Afghanistan,39799,1477,33114
+2020-10-11,Afghanistan,39799,1479,33114
 2020-10-11,Albania,15399,420,9500
 2020-10-11,Algeria,53072,1801,37170
 2020-10-11,Andorra,2696,55,1814
@@ -50321,7 +50321,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,Jamaica,7718,139,3162
 2020-10-11,Japan,89400,1628,81266
 2020-10-11,Jordan,24926,191,6101
-2020-10-11,Kazakhstan,108831,1746,104041
+2020-10-11,Kazakhstan,143632,2113,131613
 2020-10-11,Kenya,41546,766,32000
 2020-10-11,"Korea, South",24703,433,22729
 2020-10-11,Kosovo,16179,647,14335
@@ -50423,7 +50423,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-11,Yemen,2052,595,1329
 2020-10-11,Zambia,15458,337,14599
 2020-10-11,Zimbabwe,8011,230,6504
-2020-10-12,Afghanistan,39870,1479,33118
+2020-10-12,Afghanistan,39870,1481,33118
 2020-10-12,Albania,15570,424,9585
 2020-10-12,Algeria,53325,1809,37382
 2020-10-12,Andorra,2995,57,1928
@@ -50512,7 +50512,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-12,Jamaica,7813,146,3237
 2020-10-12,Japan,89652,1631,81552
 2020-10-12,Jordan,26073,207,6219
-2020-10-12,Kazakhstan,108901,1746,104203
+2020-10-12,Kazakhstan,143740,2114,131879
 2020-10-12,Kenya,41619,777,32000
 2020-10-12,"Korea, South",24805,434,22863
 2020-10-12,Kosovo,16247,648,14368
@@ -50614,7 +50614,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-12,Yemen,2052,596,1329
 2020-10-12,Zambia,15549,345,14682
 2020-10-12,Zimbabwe,8021,230,7627
-2020-10-13,Afghanistan,39928,1480,33308
+2020-10-13,Afghanistan,39928,1482,33308
 2020-10-13,Albania,15752,429,9675
 2020-10-13,Algeria,53399,1818,37492
 2020-10-13,Andorra,2995,57,1928
@@ -50703,7 +50703,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-13,Jamaica,7910,146,3303
 2020-10-13,Japan,90153,1635,82063
 2020-10-13,Jordan,28127,225,6361
-2020-10-13,Kazakhstan,108984,1768,104346
+2020-10-13,Kazakhstan,143814,2116,132055
 2020-10-13,Kenya,41937,787,31340
 2020-10-13,"Korea, South",24889,438,23030
 2020-10-13,Kosovo,16345,649,14405
@@ -50805,7 +50805,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-13,Yemen,2053,596,1329
 2020-10-13,Zambia,15587,345,14783
 2020-10-13,Zimbabwe,8036,230,7632
-2020-10-14,Afghanistan,39994,1481,33354
+2020-10-14,Afghanistan,39994,1483,33354
 2020-10-14,Albania,15955,434,9762
 2020-10-14,Algeria,53584,1827,37603
 2020-10-14,Andorra,3190,59,2011
@@ -50894,7 +50894,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-14,Jamaica,7989,151,3431
 2020-10-14,Japan,90694,1646,82576
 2020-10-14,Jordan,30550,257,6466
-2020-10-14,Kazakhstan,109094,1768,104525
+2020-10-14,Kazakhstan,144218,2141,132503
 2020-10-14,Kenya,42541,797,31428
 2020-10-14,"Korea, South",24988,439,23082
 2020-10-14,Kosovo,16425,650,14455
@@ -50996,7 +50996,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-14,Yemen,2053,596,1329
 2020-10-14,Zambia,15616,345,14850
 2020-10-14,Zimbabwe,8055,231,7640
-2020-10-15,Afghanistan,40026,1481,33447
+2020-10-15,Afghanistan,40026,1483,33447
 2020-10-15,Albania,16212,439,9864
 2020-10-15,Algeria,53777,1827,37603
 2020-10-15,Andorra,3190,59,2011
@@ -51085,7 +51085,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-15,Jamaica,8067,160,3481
 2020-10-15,Japan,91402,1650,83272
 2020-10-15,Jordan,33009,282,6565
-2020-10-15,Kazakhstan,109202,1768,104801
+2020-10-15,Kazakhstan,144328,2141,132861
 2020-10-15,Kenya,43143,805,31508
 2020-10-15,"Korea, South",25035,441,23180
 2020-10-15,Kosovo,16502,650,14514
@@ -51187,7 +51187,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-15,Yemen,2053,596,1329
 2020-10-15,Zambia,15659,346,14899
 2020-10-15,Zimbabwe,8075,231,7669
-2020-10-16,Afghanistan,40073,1485,33516
+2020-10-16,Afghanistan,40088,1487,33516
 2020-10-16,Albania,16501,443,9957
 2020-10-16,Algeria,53998,1841,37856
 2020-10-16,Andorra,3377,59,2057
@@ -51276,7 +51276,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-16,Jamaica,8132,162,3653
 2020-10-16,Japan,92044,1664,83882
 2020-10-16,Jordan,34548,310,6692
-2020-10-16,Kazakhstan,109302,1768,104921
+2020-10-16,Kazakhstan,144761,2144,133039
 2020-10-16,Kenya,43580,813,31648
 2020-10-16,"Korea, South",25108,443,23258
 2020-10-16,Kosovo,16606,652,14556
@@ -51378,7 +51378,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-16,Yemen,2055,596,1335
 2020-10-16,Zambia,15659,346,14899
 2020-10-16,Zimbabwe,8099,231,7673
-2020-10-17,Afghanistan,40141,1488,33561
+2020-10-17,Afghanistan,40141,1490,33561
 2020-10-17,Albania,16774,448,10001
 2020-10-17,Algeria,54203,1846,37971
 2020-10-17,Andorra,3377,59,2057
@@ -51467,7 +51467,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-17,Jamaica,8195,168,3653
 2020-10-17,Japan,92670,1670,84461
 2020-10-17,Jordan,36053,330,6773
-2020-10-17,Kazakhstan,109406,1768,105001
+2020-10-17,Kazakhstan,145019,2148,133166
 2020-10-17,Kenya,44196,825,31752
 2020-10-17,"Korea, South",25199,444,23312
 2020-10-17,Kosovo,16754,652,14612
@@ -51569,7 +51569,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-17,Yemen,2055,596,1336
 2020-10-17,Zambia,15789,346,14927
 2020-10-17,Zimbabwe,8110,231,7673
-2020-10-18,Afghanistan,40200,1492,33614
+2020-10-18,Afghanistan,40200,1494,33614
 2020-10-18,Albania,17055,451,10071
 2020-10-18,Algeria,54402,1856,38088
 2020-10-18,Andorra,3377,59,2057
@@ -51658,7 +51658,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-18,Jamaica,8274,171,3859
 2020-10-18,Japan,93098,1672,84461
 2020-10-18,Jordan,37573,345,6912
-2020-10-18,Kazakhstan,109508,1768,105001
+2020-10-18,Kazakhstan,145320,2149,133208
 2020-10-18,Kenya,44881,832,31857
 2020-10-18,"Korea, South",25275,444,23368
 2020-10-18,Kosovo,16891,653,14661
@@ -51760,7 +51760,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-18,Yemen,2056,597,1338
 2020-10-18,Zambia,15853,346,15005
 2020-10-18,Zimbabwe,8147,231,7678
-2020-10-19,Afghanistan,40287,1497,33760
+2020-10-19,Afghanistan,40287,1499,33760
 2020-10-19,Albania,17350,454,10167
 2020-10-19,Algeria,54616,1865,38215
 2020-10-19,Andorra,3623,62,2273
@@ -51849,7 +51849,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-19,Jamaica,8321,173,3951
 2020-10-19,Japan,93408,1676,85310
 2020-10-19,Jordan,38937,380,7006
-2020-10-19,Kazakhstan,109623,1768,105145
+2020-10-19,Kazakhstan,145473,2150,133368
 2020-10-19,Kenya,45076,839,32084
 2020-10-19,"Korea, South",25333,447,23466
 2020-10-19,Kosovo,17009,656,14711
@@ -51951,7 +51951,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-19,Yemen,2056,597,1338
 2020-10-19,Zambia,15897,346,15031
 2020-10-19,Zimbabwe,8159,232,7683
-2020-10-20,Afghanistan,40357,1499,33790
+2020-10-20,Afghanistan,40369,1501,33790
 2020-10-20,Albania,17651,458,10225
 2020-10-20,Algeria,54829,1873,38346
 2020-10-20,Andorra,3623,62,2273
@@ -52040,7 +52040,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-20,Jamaica,8374,174,4002
 2020-10-20,Japan,93895,1679,85867
 2020-10-20,Jordan,40972,414,7123
-2020-10-20,Kazakhstan,109766,1796,105301
+2020-10-20,Kazakhstan,145603,2155,133540
 2020-10-20,Kenya,45647,842,32522
 2020-10-20,"Korea, South",25424,450,23584
 2020-10-20,Kosovo,17139,657,14782
@@ -52142,7 +52142,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-20,Yemen,2057,597,1338
 2020-10-20,Zambia,15982,346,15038
 2020-10-20,Zimbabwe,8187,233,7692
-2020-10-21,Afghanistan,40510,1501,33824
+2020-10-21,Afghanistan,40510,1503,33824
 2020-10-21,Albania,17948,462,10341
 2020-10-21,Algeria,55081,1880,38482
 2020-10-21,Andorra,3811,63,2470
@@ -52231,7 +52231,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-21,Jamaica,8445,174,4016
 2020-10-21,Japan,94515,1686,86429
 2020-10-21,Jordan,43620,443,7223
-2020-10-21,Kazakhstan,109907,1796,105385
+2020-10-21,Kazakhstan,145966,2184,133703
 2020-10-21,Kenya,46144,858,32760
 2020-10-21,"Korea, South",25543,453,23647
 2020-10-21,Kosovo,17263,657,14831
@@ -52333,7 +52333,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-21,Yemen,2057,597,1344
 2020-10-21,Zambia,16000,346,15168
 2020-10-21,Zimbabwe,8215,236,7725
-2020-10-22,Afghanistan,40626,1505,33831
+2020-10-22,Afghanistan,40626,1507,33831
 2020-10-22,Albania,18250,465,10395
 2020-10-22,Algeria,55357,1888,38618
 2020-10-22,Andorra,3811,63,2470
@@ -52422,7 +52422,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-22,Jamaica,8600,179,4095
 2020-10-22,Japan,95134,1697,87022
 2020-10-22,Jordan,46441,481,7340
-2020-10-22,Kazakhstan,110086,1796,105493
+2020-10-22,Kazakhstan,146288,2186,133856
 2020-10-22,Kenya,47212,870,33050
 2020-10-22,"Korea, South",25698,455,23717
 2020-10-22,Kosovo,17422,657,14889
@@ -52524,7 +52524,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-22,Yemen,2057,597,1344
 2020-10-22,Zambia,16035,346,15168
 2020-10-22,Zimbabwe,8242,236,7742
-2020-10-23,Afghanistan,40687,1507,34010
+2020-10-23,Afghanistan,40687,1509,34010
 2020-10-23,Albania,18556,469,10466
 2020-10-23,Algeria,55630,1897,38788
 2020-10-23,Andorra,4038,69,2729
@@ -52613,7 +52613,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-23,Jamaica,8638,182,4156
 2020-10-23,Japan,95868,1706,87600
 2020-10-23,Jordan,48930,508,7449
-2020-10-23,Kazakhstan,110250,1796,105566
+2020-10-23,Kazakhstan,146653,2187,133956
 2020-10-23,Kenya,47843,884,33421
 2020-10-23,"Korea, South",25775,457,23834
 2020-10-23,Kosovo,17591,659,14974
@@ -52715,7 +52715,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-23,Yemen,2060,599,1354
 2020-10-23,Zambia,16095,346,15179
 2020-10-23,Zimbabwe,8257,236,7771
-2020-10-24,Afghanistan,40768,1511,34023
+2020-10-24,Afghanistan,40768,1513,34023
 2020-10-24,Albania,18858,473,10548
 2020-10-24,Algeria,55880,1907,38932
 2020-10-24,Andorra,4038,69,2729
@@ -52804,7 +52804,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-24,Jamaica,8670,186,4209
 2020-10-24,Japan,96599,1710,88138
 2020-10-24,Jordan,50750,540,7508
-2020-10-24,Kazakhstan,110402,1796,105618
+2020-10-24,Kazakhstan,146982,2189,134060
 2020-10-24,Kenya,48790,896,33876
 2020-10-24,"Korea, South",25836,457,23869
 2020-10-24,Kosovo,17757,661,15029
@@ -52906,7 +52906,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-24,Yemen,2060,599,1360
 2020-10-24,Zambia,16117,348,15179
 2020-10-24,Zimbabwe,8269,236,7785
-2020-10-25,Afghanistan,40833,1514,34129
+2020-10-25,Afghanistan,40833,1516,34129
 2020-10-25,Albania,19157,477,10654
 2020-10-25,Algeria,56143,1914,39095
 2020-10-25,Andorra,4038,69,2729
@@ -52995,7 +52995,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-25,Jamaica,8714,188,4282
 2020-10-25,Japan,97095,1716,88610
 2020-10-25,Jordan,53087,579,7508
-2020-10-25,Kazakhstan,110542,1796,105675
+2020-10-25,Kazakhstan,147297,2189,134117
 2020-10-25,Kenya,49721,902,34209
 2020-10-25,"Korea, South",25955,457,23905
 2020-10-25,Kosovo,17943,663,15083
@@ -53097,7 +53097,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-25,Yemen,2060,599,1360
 2020-10-25,Zambia,16117,348,15179
 2020-10-25,Zimbabwe,8276,237,7797
-2020-10-26,Afghanistan,40937,1518,34150
+2020-10-26,Afghanistan,40937,1520,34150
 2020-10-26,Albania,19445,480,10705
 2020-10-26,Algeria,56419,1922,39273
 2020-10-26,Andorra,4325,72,2957
@@ -53186,7 +53186,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-26,Jamaica,8749,192,4303
 2020-10-26,Japan,97503,1721,89031
 2020-10-26,Jordan,55055,624,7508
-2020-10-26,Kazakhstan,110684,1796,105766
+2020-10-26,Kazakhstan,147463,2190,134297
 2020-10-26,Kenya,49997,920,34429
 2020-10-26,"Korea, South",26043,460,23981
 2020-10-26,Kosovo,17943,663,15083
@@ -53288,7 +53288,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-26,Yemen,2060,599,1360
 2020-10-26,Zambia,16200,348,15445
 2020-10-26,Zimbabwe,8303,242,7797
-2020-10-27,Afghanistan,41032,1523,34217
+2020-10-27,Afghanistan,41032,1525,34217
 2020-10-27,Albania,19729,487,10808
 2020-10-27,Algeria,56706,1931,39444
 2020-10-27,Andorra,4410,72,3029
@@ -53377,7 +53377,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-27,Jamaica,8787,196,4347
 2020-10-27,Japan,98146,1726,89465
 2020-10-27,Jordan,58855,668,7508
-2020-10-27,Kazakhstan,110832,1825,105883
+2020-10-27,Kazakhstan,147615,2191,134431
 2020-10-27,Kenya,50833,934,34832
 2020-10-27,"Korea, South",26146,461,24073
 2020-10-27,Kosovo,17943,663,15083
@@ -53479,7 +53479,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-27,Yemen,2060,599,1364
 2020-10-27,Zambia,16243,348,15481
 2020-10-27,Zimbabwe,8315,242,7804
-2020-10-28,Afghanistan,41145,1529,34237
+2020-10-28,Afghanistan,41145,1531,34237
 2020-10-28,Albania,20040,493,10893
 2020-10-28,Algeria,57026,1941,39635
 2020-10-28,Andorra,4517,72,3144
@@ -53568,7 +53568,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-28,Jamaica,8851,198,4379
 2020-10-28,Japan,98877,1731,90118
 2020-10-28,Jordan,61942,700,7508
-2020-10-28,Kazakhstan,111100,1825,106059
+2020-10-28,Kazakhstan,148037,2221,134675
 2020-10-28,Kenya,51851,934,35258
 2020-10-28,"Korea, South",26271,462,24168
 2020-10-28,Kosovo,18626,673,15290
@@ -53670,7 +53670,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-28,Yemen,2061,599,1366
 2020-10-28,Zambia,16285,348,15559
 2020-10-28,Zimbabwe,8320,242,7845
-2020-10-29,Afghanistan,41268,1532,34239
+2020-10-29,Afghanistan,41268,1534,34239
 2020-10-29,Albania,20315,499,11007
 2020-10-29,Algeria,57332,1949,39635
 2020-10-29,Andorra,4567,73,3260
@@ -53759,7 +53759,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-29,Jamaica,8927,202,4429
 2020-10-29,Japan,99674,1748,90624
 2020-10-29,Jordan,65385,740,7508
-2020-10-29,Kazakhstan,111492,1825,106187
+2020-10-29,Kazakhstan,148479,2222,134846
 2020-10-29,Kenya,52612,964,35604
 2020-10-29,"Korea, South",26385,463,24227
 2020-10-29,Kosovo,18626,673,15290
@@ -53861,7 +53861,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-29,Yemen,2062,599,1366
 2020-10-29,Zambia,16325,348,15585
 2020-10-29,Zimbabwe,8349,242,7864
-2020-10-30,Afghanistan,41334,1533,34258
+2020-10-30,Afghanistan,41334,1535,34258
 2020-10-30,Albania,20634,502,11097
 2020-10-30,Algeria,57651,1956,40014
 2020-10-30,Andorra,4665,75,3377
@@ -53950,7 +53950,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-30,Jamaica,9005,205,4442
 2020-10-30,Japan,100450,1756,91184
 2020-10-30,Jordan,69306,772,7600
-2020-10-30,Kazakhstan,111953,1825,106310
+2020-10-30,Kazakhstan,149066,2224,134997
 2020-10-30,Kenya,53797,981,35876
 2020-10-30,"Korea, South",26511,464,24311
 2020-10-30,Kosovo,19328,678,15429
@@ -54052,7 +54052,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-30,Yemen,2062,599,1366
 2020-10-30,Zambia,16415,349,15600
 2020-10-30,Zimbabwe,8362,242,7884
-2020-10-31,Afghanistan,41425,1536,34321
+2020-10-31,Afghanistan,41425,1538,34321
 2020-10-31,Albania,20875,509,11189
 2020-10-31,Algeria,57942,1964,40201
 2020-10-31,Andorra,4756,75,3475
@@ -54141,7 +54141,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-31,Jamaica,9094,206,4510
 2020-10-31,Japan,101327,1769,89765
 2020-10-31,Jordan,72607,829,7600
-2020-10-31,Kazakhstan,112418,1825,106400
+2020-10-31,Kazakhstan,149699,2226,135110
 2020-10-31,Kenya,55192,981,35876
 2020-10-31,"Korea, South",26635,466,24357
 2020-10-31,Kosovo,19328,678,15429
@@ -54243,7 +54243,7 @@ isodate,country,confirmed,deaths,recovered
 2020-10-31,Yemen,2063,599,1366
 2020-10-31,Zambia,16432,349,15680
 2020-10-31,Zimbabwe,8367,243,7894
-2020-11-01,Afghanistan,41501,1536,34326
+2020-11-01,Afghanistan,41501,1538,34326
 2020-11-01,Albania,21202,518,11246
 2020-11-01,Algeria,58272,1973,40395
 2020-11-01,Andorra,4825,75,3475
@@ -54332,7 +54332,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-01,Jamaica,9131,208,4617
 2020-11-01,Japan,101943,1776,92250
 2020-11-01,Jordan,75866,866,7740
-2020-11-01,Kazakhstan,112860,1825,106514
+2020-11-01,Kazakhstan,150380,2227,135301
 2020-11-01,Kenya,55877,1013,37194
 2020-11-01,"Korea, South",26732,468,24395
 2020-11-01,Kosovo,19328,678,15429
@@ -54434,7 +54434,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-01,Yemen,2063,600,1366
 2020-11-01,Zambia,16480,349,15733
 2020-11-01,Zimbabwe,8374,243,7927
-2020-11-02,Afghanistan,41633,1541,34342
+2020-11-02,Afghanistan,41633,1544,34342
 2020-11-02,Albania,21523,527,11367
 2020-11-02,Algeria,58574,1980,40577
 2020-11-02,Andorra,4888,75,3548
@@ -54523,7 +54523,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-02,Jamaica,9257,210,4637
 2020-11-02,Japan,102431,1787,92673
 2020-11-02,Jordan,81743,913,7858
-2020-11-02,Kazakhstan,113309,1857,106716
+2020-11-02,Kazakhstan,150863,2227,135535
 2020-11-02,Kenya,56601,1027,37442
 2020-11-02,"Korea, South",26807,472,24510
 2020-11-02,Kosovo,20179,688,15611
@@ -54625,7 +54625,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-02,Yemen,2063,601,1375
 2020-11-02,Zambia,16543,349,15733
 2020-11-02,Zimbabwe,8389,245,7939
-2020-11-03,Afghanistan,41728,1544,34355
+2020-11-03,Afghanistan,41728,1547,34355
 2020-11-03,Albania,21904,532,11473
 2020-11-03,Algeria,58979,1980,40577
 2020-11-03,Andorra,4910,75,3627
@@ -54714,7 +54714,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-03,Jamaica,9296,214,4666
 2020-11-03,Japan,103309,1794,93133
 2020-11-03,Jordan,86576,967,7993
-2020-11-03,Kazakhstan,113741,1857,106893
+2020-11-03,Kazakhstan,151321,2261,135729
 2020-11-03,Kenya,57093,1039,37846
 2020-11-03,"Korea, South",26925,474,24616
 2020-11-03,Kosovo,20999,705,15722
@@ -54816,7 +54816,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-03,Yemen,2063,601,1375
 2020-11-03,Zambia,16661,349,15763
 2020-11-03,Zimbabwe,8410,246,7942
-2020-11-04,Afghanistan,41814,1548,34362
+2020-11-04,Afghanistan,41814,1551,34362
 2020-11-04,Albania,22300,536,11578
 2020-11-04,Algeria,59527,1999,41001
 2020-11-04,Andorra,5045,75,3734
@@ -54905,7 +54905,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-04,Jamaica,9326,215,4704
 2020-11-04,Japan,103928,1799,93564
 2020-11-04,Jordan,91234,1029,8188
-2020-11-04,Kazakhstan,114235,1857,107139
+2020-11-04,Kazakhstan,152022,2262,136038
 2020-11-04,Kenya,58587,1051,38381
 2020-11-04,"Korea, South",27050,475,24735
 2020-11-04,Kosovo,21545,714,15829
@@ -55007,7 +55007,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-04,Yemen,2063,601,1375
 2020-11-04,Zambia,16698,349,15819
 2020-11-04,Zimbabwe,8427,248,7967
-2020-11-05,Afghanistan,41935,1554,34440
+2020-11-05,Afghanistan,41935,1557,34440
 2020-11-05,Albania,22721,543,11696
 2020-11-05,Algeria,60169,2011,41244
 2020-11-05,Andorra,5135,75,3858
@@ -55096,7 +55096,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-05,Jamaica,9373,217,4745
 2020-11-05,Japan,104964,1806,94376
 2020-11-05,Jordan,95864,1069,8336
-2020-11-05,Kazakhstan,114826,1857,107339
+2020-11-05,Kazakhstan,152725,2263,136275
 2020-11-05,Kenya,59595,1072,39193
 2020-11-05,"Korea, South",27195,476,24821
 2020-11-05,Kosovo,22206,720,15921
@@ -55198,7 +55198,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-05,Yemen,2063,601,1375
 2020-11-05,Zambia,16770,349,15827
 2020-11-05,Zimbabwe,8444,248,7975
-2020-11-06,Afghanistan,41975,1554,34440
+2020-11-06,Afghanistan,41975,1557,34440
 2020-11-06,Albania,23210,549,11861
 2020-11-06,Algeria,60800,2024,41510
 2020-11-06,Andorra,5135,75,3858
@@ -55287,7 +55287,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-06,Jamaica,9426,218,4801
 2020-11-06,Japan,106136,1810,95010
 2020-11-06,Jordan,101248,1136,8506
-2020-11-06,Kazakhstan,115439,1857,107530
+2020-11-06,Kazakhstan,153547,2263,136544
 2020-11-06,Kenya,60704,1093,40131
 2020-11-06,"Korea, South",27284,477,24910
 2020-11-06,Kosovo,22934,732,15981
@@ -55389,7 +55389,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-06,Yemen,2067,602,1375
 2020-11-06,Zambia,16819,349,15862
 2020-11-06,Zimbabwe,8471,250,7983
-2020-11-07,Afghanistan,42033,1556,34446
+2020-11-07,Afghanistan,42033,1559,34446
 2020-11-07,Albania,23705,557,12002
 2020-11-07,Algeria,61381,2036,41783
 2020-11-07,Andorra,5319,75,4043
@@ -55478,7 +55478,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-07,Jamaica,9472,218,4878
 2020-11-07,Japan,107439,1815,95703
 2020-11-07,Jordan,104802,1181,8629
-2020-11-07,Kazakhstan,116162,1857,107668
+2020-11-07,Kazakhstan,154321,2265,136747
 2020-11-07,Kenya,61769,1103,41019
 2020-11-07,"Korea, South",27427,478,24968
 2020-11-07,Kosovo,22934,732,15981
@@ -55580,7 +55580,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-07,Yemen,2070,602,1375
 2020-11-07,Zambia,16908,349,15873
 2020-11-07,Zimbabwe,8498,251,7995
-2020-11-08,Afghanistan,42092,1558,34458
+2020-11-08,Afghanistan,42159,1565,34458
 2020-11-08,Albania,24206,559,12092
 2020-11-08,Algeria,62051,2048,42037
 2020-11-08,Andorra,5383,75,4248
@@ -55669,7 +55669,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-08,Jamaica,9506,221,4934
 2020-11-08,Japan,108394,1821,96430
 2020-11-08,Jordan,109321,1233,8808
-2020-11-08,Kazakhstan,116772,1857,107843
+2020-11-08,Kazakhstan,155220,2266,136981
 2020-11-08,Kenya,62488,1111,41931
 2020-11-08,"Korea, South",27553,480,25029
 2020-11-08,Kosovo,22934,732,15981
@@ -55771,7 +55771,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-08,Yemen,2070,602,1375
 2020-11-08,Zambia,16954,349,15950
 2020-11-08,Zimbabwe,8531,253,8005
-2020-11-09,Afghanistan,42297,1574,34721
+2020-11-09,Afghanistan,42297,1577,34721
 2020-11-09,Albania,24731,571,12203
 2020-11-09,Algeria,62693,2062,42325
 2020-11-09,Andorra,5437,75,4332
@@ -55860,7 +55860,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-09,Jamaica,9542,221,4952
 2020-11-09,Japan,109191,1834,96684
 2020-11-09,Jordan,114986,1295,9033
-2020-11-09,Kazakhstan,117336,1857,108169
+2020-11-09,Kazakhstan,155876,2266,137307
 2020-11-09,Kenya,63244,1130,42659
 2020-11-09,"Korea, South",27653,485,25160
 2020-11-09,Kosovo,24792,768,16226
@@ -55962,7 +55962,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-09,Yemen,2071,605,1394
 2020-11-09,Zambia,16971,349,16011
 2020-11-09,Zimbabwe,8561,254,8023
-2020-11-10,Afghanistan,42463,1577,34954
+2020-11-10,Afghanistan,42463,1580,34954
 2020-11-10,Albania,25294,579,12353
 2020-11-10,Algeria,63446,2077,42626
 2020-11-10,Andorra,5477,75,4405
@@ -56051,7 +56051,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-10,Jamaica,9573,224,4987
 2020-11-10,Japan,110487,1840,98487
 2020-11-10,Jordan,120982,1386,9249
-2020-11-10,Kazakhstan,117904,1857,108387
+2020-11-10,Kazakhstan,156451,2267,137590
 2020-11-10,Kenya,64588,1154,43095
 2020-11-10,"Korea, South",27799,487,25266
 2020-11-10,Kosovo,25388,773,16362
@@ -56153,7 +56153,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-10,Yemen,2071,605,1394
 2020-11-10,Zambia,16997,350,16019
 2020-11-10,Zimbabwe,8610,255,8040
-2020-11-11,Afghanistan,42609,1581,34967
+2020-11-11,Afghanistan,42609,1584,34967
 2020-11-11,Albania,25801,590,12493
 2020-11-11,Algeria,64257,2093,42980
 2020-11-11,Andorra,5567,75,4488
@@ -56242,7 +56242,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-11,Jamaica,9581,225,4995
 2020-11-11,Japan,112011,1847,98305
 2020-11-11,Jordan,126401,1467,9416
-2020-11-11,Kazakhstan,118491,1899,108632
+2020-11-11,Kazakhstan,157261,2267,137918
 2020-11-11,Kenya,65804,1180,43626
 2020-11-11,"Korea, South",27942,487,25404
 2020-11-11,Kosovo,26121,777,16499
@@ -56344,7 +56344,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-11,Yemen,2071,605,1394
 2020-11-11,Zambia,17036,350,16070
 2020-11-11,Zimbabwe,8667,255,8046
-2020-11-12,Afghanistan,42795,1591,35024
+2020-11-12,Afghanistan,42795,1594,35024
 2020-11-12,Albania,26211,598,12574
 2020-11-12,Algeria,65108,2111,42980
 2020-11-12,Andorra,5616,75,4585
@@ -56433,7 +56433,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-12,Jamaica,9634,225,5043
 2020-11-12,Japan,113655,1854,99282
 2020-11-12,Jordan,132086,1547,9564
-2020-11-12,Kazakhstan,119129,1899,108958
+2020-11-12,Kazakhstan,158036,2311,138309
 2020-11-12,Kenya,66723,1203,44040
 2020-11-12,"Korea, South",28133,488,25537
 2020-11-12,Kosovo,26888,785,16685
@@ -56535,7 +56535,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-12,Yemen,2071,605,1394
 2020-11-12,Zambia,17056,350,16102
 2020-11-12,Zimbabwe,8696,255,8060
-2020-11-13,Afghanistan,42969,1595,35036
+2020-11-13,Afghanistan,42969,1598,35036
 2020-11-13,Albania,26701,605,12667
 2020-11-13,Algeria,65975,2124,43779
 2020-11-13,Andorra,5725,75,4675
@@ -56624,7 +56624,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-13,Jamaica,9723,227,5168
 2020-11-13,Japan,115360,1864,100197
 2020-11-13,Jordan,136555,1618,9729
-2020-11-13,Kazakhstan,119833,1899,109275
+2020-11-13,Kazakhstan,158853,2314,138691
 2020-11-13,Kenya,68193,1228,44872
 2020-11-13,"Korea, South",28338,492,25636
 2020-11-13,Kosovo,27851,798,16862
@@ -56726,7 +56726,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-13,Yemen,2072,605,1394
 2020-11-13,Zambia,17093,350,16134
 2020-11-13,Zimbabwe,8765,257,8090
-2020-11-14,Afghanistan,43035,1605,35067
+2020-11-14,Afghanistan,43035,1608,35067
 2020-11-14,Albania,27233,612,12767
 2020-11-14,Algeria,66819,2139,44199
 2020-11-14,Andorra,5725,75,4675
@@ -56815,7 +56815,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-14,Jamaica,9780,229,5228
 2020-11-14,Japan,117113,1865,101162
 2020-11-14,Jordan,141305,1704,9879
-2020-11-14,Kazakhstan,120463,1899,109643
+2020-11-14,Kazakhstan,159756,2315,139128
 2020-11-14,Kenya,69273,1228,44872
 2020-11-14,"Korea, South",28546,493,25691
 2020-11-14,Kosovo,27851,798,16862
@@ -56917,7 +56917,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-14,Yemen,2072,605,1394
 2020-11-14,Zambia,17097,350,16137
 2020-11-14,Zimbabwe,8786,257,8096
-2020-11-15,Afghanistan,43240,1617,35092
+2020-11-15,Afghanistan,43240,1620,35092
 2020-11-15,Albania,27830,623,12889
 2020-11-15,Algeria,67679,2154,44633
 2020-11-15,Andorra,5872,76,4747
@@ -57006,7 +57006,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-15,Jamaica,9884,231,5248
 2020-11-15,Japan,118611,1874,91954
 2020-11-15,Jordan,143678,1772,10067
-2020-11-15,Kazakhstan,121051,1899,109944
+2020-11-15,Kazakhstan,160612,2317,139500
 2020-11-15,Kenya,70245,1269,45766
 2020-11-15,"Korea, South",28769,494,25759
 2020-11-15,Kosovo,29117,822,17305
@@ -57108,7 +57108,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-15,Yemen,2072,605,1394
 2020-11-15,Zambia,17123,353,16137
 2020-11-15,Zimbabwe,8829,257,8096
-2020-11-16,Afghanistan,43403,1626,35137
+2020-11-16,Afghanistan,43468,1635,35137
 2020-11-16,Albania,28432,631,13453
 2020-11-16,Algeria,68589,2168,45148
 2020-11-16,Andorra,5914,76,4830
@@ -57197,7 +57197,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-16,Jamaica,9929,231,5330
 2020-11-16,Japan,119557,1883,102810
 2020-11-16,Jordan,149539,1843,10311
-2020-11-16,Kazakhstan,121653,1899,110382
+2020-11-16,Kazakhstan,161850,2319,139962
 2020-11-16,Kenya,70804,1287,46244
 2020-11-16,"Korea, South",28998,494,25860
 2020-11-16,Kosovo,29805,833,17541
@@ -57299,7 +57299,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-16,Yemen,2078,605,1406
 2020-11-16,Zambia,17187,353,16400
 2020-11-16,Zimbabwe,8897,257,8116
-2020-11-17,Afghanistan,43628,1638,35160
+2020-11-17,Afghanistan,43681,1641,35160
 2020-11-17,Albania,29126,637,13804
 2020-11-17,Algeria,69591,2186,45148
 2020-11-17,Andorra,5951,76,4965
@@ -57388,7 +57388,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-17,Jamaica,9959,231,5338
 2020-11-17,Japan,121247,1895,103778
 2020-11-17,Jordan,155993,1909,90267
-2020-11-17,Kazakhstan,122335,1899,110835
+2020-11-17,Kazakhstan,162555,2320,140469
 2020-11-17,Kenya,71729,1302,47262
 2020-11-17,"Korea, South",29311,496,25973
 2020-11-17,Kosovo,29805,833,17541
@@ -57490,7 +57490,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-17,Yemen,2081,607,1410
 2020-11-17,Zambia,17243,353,16473
 2020-11-17,Zimbabwe,8945,260,8164
-2020-11-18,Afghanistan,43851,1645,35295
+2020-11-18,Afghanistan,43924,1648,35295
 2020-11-18,Albania,29837,646,14216
 2020-11-18,Algeria,70629,2206,46326
 2020-11-18,Andorra,6018,76,5055
@@ -57579,7 +57579,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-18,Jamaica,10019,233,5369
 2020-11-18,Japan,123477,1908,104837
 2020-11-18,Jordan,163926,1969,94896
-2020-11-18,Kazakhstan,123097,1945,111172
+2020-11-18,Kazakhstan,163585,2366,140891
 2020-11-18,Kenya,72686,1313,49878
 2020-11-18,"Korea, South",29654,498,26098
 2020-11-18,Kosovo,31215,860,18347
@@ -57681,7 +57681,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-18,Yemen,2083,607,1417
 2020-11-18,Zambia,17280,356,16495
 2020-11-18,Zimbabwe,8981,261,8184
-2020-11-19,Afghanistan,44228,1650,35350
+2020-11-19,Afghanistan,44177,1653,35350
 2020-11-19,Albania,30623,657,14565
 2020-11-19,Algeria,71652,2224,46962
 2020-11-19,Andorra,6066,76,5127
@@ -57770,7 +57770,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-19,Jamaica,10088,235,5407
 2020-11-19,Japan,125859,1920,106074
 2020-11-19,Jordan,169395,2053,100280
-2020-11-19,Kazakhstan,123888,1945,111483
+2020-11-19,Kazakhstan,164578,2368,141297
 2020-11-19,Kenya,74145,1330,50658
 2020-11-19,"Korea, South",30017,501,26263
 2020-11-19,Kosovo,32022,874,19024
@@ -57872,7 +57872,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-19,Yemen,2086,608,1428
 2020-11-19,Zambia,17350,356,16591
 2020-11-19,Zimbabwe,9046,265,8195
-2020-11-20,Afghanistan,44443,1661,35370
+2020-11-20,Afghanistan,44363,1666,35370
 2020-11-20,Albania,31459,672,15055
 2020-11-20,Algeria,72755,2236,47581
 2020-11-20,Andorra,6142,76,5239
@@ -57961,7 +57961,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-20,Jamaica,10151,235,5432
 2020-11-20,Japan,128285,1930,107521
 2020-11-20,Jordan,174335,2116,103834
-2020-11-20,Kazakhstan,124710,1945,111895
+2020-11-20,Kazakhstan,165558,2369,141764
 2020-11-20,Kenya,75193,1349,50984
 2020-11-20,"Korea, South",30403,503,26365
 2020-11-20,Kosovo,32877,885,19772
@@ -58063,7 +58063,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-20,Yemen,2090,608,1434
 2020-11-20,Zambia,17373,356,16606
 2020-11-20,Zimbabwe,9120,265,8229
-2020-11-21,Afghanistan,44503,1675,35422
+2020-11-21,Afghanistan,44503,1678,35422
 2020-11-21,Albania,32196,685,15469
 2020-11-21,Algeria,73774,2255,48183
 2020-11-21,Andorra,6207,76,5290
@@ -58152,7 +58152,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-21,Jamaica,10240,237,5481
 2020-11-21,Japan,130871,1932,108981
 2020-11-21,Jordan,178161,2172,108353
-2020-11-21,Kazakhstan,125466,1945,112292
+2020-11-21,Kazakhstan,166468,2370,142252
 2020-11-21,Kenya,76404,1366,51352
 2020-11-21,"Korea, South",30733,505,26466
 2020-11-21,Kosovo,33588,904,20493
@@ -58254,7 +58254,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-21,Yemen,2093,608,1441
 2020-11-21,Zambia,17394,356,16659
 2020-11-21,Zimbabwe,9172,265,8235
-2020-11-22,Afghanistan,44706,1687,35934
+2020-11-22,Afghanistan,44706,1690,35934
 2020-11-22,Albania,32761,699,15842
 2020-11-22,Algeria,74862,2272,48794
 2020-11-22,Andorra,6256,76,5358
@@ -58343,7 +58343,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-22,Jamaica,10284,238,5505
 2020-11-22,Japan,133034,1943,110273
 2020-11-22,Jordan,183429,2236,114018
-2020-11-22,Kazakhstan,126182,1945,112806
+2020-11-22,Kazakhstan,167341,2372,142865
 2020-11-22,Kenya,77372,1380,51507
 2020-11-22,"Korea, South",31004,509,26539
 2020-11-22,Kosovo,34295,914,21043
@@ -58445,7 +58445,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-22,Yemen,2099,608,1448
 2020-11-22,Zambia,17424,357,16701
 2020-11-22,Zimbabwe,9220,268,8250
-2020-11-23,Afghanistan,44988,1695,35976
+2020-11-23,Afghanistan,44988,1702,35976
 2020-11-23,Albania,33556,716,16230
 2020-11-23,Algeria,75867,2294,49421
 2020-11-23,Andorra,6304,76,5405
@@ -58534,7 +58534,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-23,Jamaica,10343,239,5518
 2020-11-23,Japan,134554,1949,111343
 2020-11-23,Jordan,188410,2302,120014
-2020-11-23,Kazakhstan,126182,1945,112806
+2020-11-23,Kazakhstan,167385,2372,142892
 2020-11-23,Kenya,77785,1392,51903
 2020-11-23,"Korea, South",31353,510,26722
 2020-11-23,Kosovo,34940,926,21396
@@ -58636,7 +58636,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-23,Yemen,2107,609,1459
 2020-11-23,Zambia,17454,357,16701
 2020-11-23,Zimbabwe,9308,273,8288
-2020-11-24,Afghanistan,45280,1712,36122
+2020-11-24,Afghanistan,45174,1715,36122
 2020-11-24,Albania,34300,735,16666
 2020-11-24,Algeria,77000,2309,50070
 2020-11-24,Andorra,6351,76,5503
@@ -58725,7 +58725,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-24,Jamaica,10422,243,5572
 2020-11-24,Japan,135786,1963,112385
 2020-11-24,Jordan,192996,2380,125433
-2020-11-24,Kazakhstan,127580,1945,114347
+2020-11-24,Kazakhstan,168803,2373,144463
 2020-11-24,Kenya,78512,1409,52709
 2020-11-24,"Korea, South",31735,513,26825
 2020-11-24,Kosovo,35549,939,21746
@@ -58827,7 +58827,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-24,Yemen,2114,609,1467
 2020-11-24,Zambia,17466,357,16707
 2020-11-24,Zimbabwe,9398,274,8297
-2020-11-25,Afghanistan,45490,1725,36145
+2020-11-25,Afghanistan,45384,1728,36145
 2020-11-25,Albania,34944,743,17031
 2020-11-25,Algeria,78025,2329,50712
 2020-11-25,Andorra,6428,76,5542
@@ -58916,7 +58916,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-25,Jamaica,10488,247,5623
 2020-11-25,Japan,137735,1983,114569
 2020-11-25,Jordan,198021,2442,131181
-2020-11-25,Kazakhstan,128400,1990,114821
+2020-11-25,Kazakhstan,169827,2422,145028
 2020-11-25,Kenya,79322,1417,52974
 2020-11-25,"Korea, South",32318,515,26950
 2020-11-25,Kosovo,36253,948,22137
@@ -59018,7 +59018,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-25,Yemen,2124,611,1474
 2020-11-25,Zambia,17535,357,16755
 2020-11-25,Zimbabwe,9508,274,8336
-2020-11-26,Afghanistan,45716,1737,36232
+2020-11-26,Afghanistan,45600,1737,36232
 2020-11-26,Albania,35600,753,17352
 2020-11-26,Algeria,79110,2352,51334
 2020-11-26,Andorra,6534,76,5649
@@ -59107,7 +59107,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-26,Jamaica,10541,248,5721
 2020-11-26,Japan,140225,1996,116222
 2020-11-26,Jordan,203021,2509,135650
-2020-11-26,Kazakhstan,129213,1990,115384
+2020-11-26,Kazakhstan,170808,2424,145673
 2020-11-26,Kenya,80102,1427,53526
 2020-11-26,"Korea, South",32887,516,27103
 2020-11-26,Kosovo,37028,963,22690
@@ -59209,7 +59209,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-26,Yemen,2137,612,1484
 2020-11-26,Zambia,17553,357,16779
 2020-11-26,Zimbabwe,9623,274,8397
-2020-11-27,Afghanistan,45839,1740,36295
+2020-11-27,Afghanistan,45723,1740,36295
 2020-11-27,Albania,36245,771,17755
 2020-11-27,Algeria,80168,2372,51946
 2020-11-27,Andorra,6610,76,5710
@@ -59298,7 +59298,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-27,Jamaica,10600,250,5829
 2020-11-27,Japan,142778,2028,117709
 2020-11-27,Jordan,207601,2570,140400
-2020-11-27,Kazakhstan,130039,1990,116044
+2020-11-27,Kazakhstan,171795,2429,146406
 2020-11-27,Kenya,81656,1441,54125
 2020-11-27,"Korea, South",33375,522,27349
 2020-11-27,Kosovo,37792,975,23274
@@ -59400,7 +59400,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-27,Yemen,2148,614,1491
 2020-11-27,Zambia,17569,357,16845
 2020-11-27,Zimbabwe,9714,275,8470
-2020-11-28,Afghanistan,45966,1752,36709
+2020-11-28,Afghanistan,45844,1752,36709
 2020-11-28,Albania,36790,787,18152
 2020-11-28,Algeria,81212,2393,52568
 2020-11-28,Andorra,6610,76,5710
@@ -59489,7 +59489,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-28,Jamaica,10669,251,5953
 2020-11-28,Japan,145457,2042,120103
 2020-11-28,Jordan,210709,2626,142710
-2020-11-28,Kazakhstan,130865,1990,116187
+2020-11-28,Kazakhstan,172805,2430,146549
 2020-11-28,Kenya,82605,1445,54399
 2020-11-28,"Korea, South",33824,523,27542
 2020-11-28,Kosovo,38431,989,23754
@@ -59576,7 +59576,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-28,Trinidad and Tobago,6630,118,5732
 2020-11-28,Tunisia,94980,3153,69226
 2020-11-28,Turkey,578347,13373,396227
-2020-11-28,US,13244417,266047,5023063
+2020-11-28,US,13244687,266047,5023063
 2020-11-28,Uganda,19944,201,8944
 2020-11-28,Ukraine,728834,12485,350189
 2020-11-28,United Arab Emirates,166502,569,153449
@@ -59591,7 +59591,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-28,Yemen,2160,615,1498
 2020-11-28,Zambia,17589,357,16925
 2020-11-28,Zimbabwe,9822,275,8472
-2020-11-29,Afghanistan,46215,1763,36731
+2020-11-29,Afghanistan,46116,1774,36731
 2020-11-29,Albania,37625,798,18481
 2020-11-29,Algeria,82221,2410,53204
 2020-11-29,Andorra,6712,76,5794
@@ -59680,7 +59680,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-29,Jamaica,10709,256,6066
 2020-11-29,Japan,147515,2057,121735
 2020-11-29,Jordan,214307,2694,148572
-2020-11-29,Kazakhstan,131659,1990,116461
+2020-11-29,Kazakhstan,173763,2433,146955
 2020-11-29,Kenya,83316,1452,54975
 2020-11-29,"Korea, South",34201,526,27653
 2020-11-29,Kosovo,39057,1005,24427
@@ -59782,7 +59782,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-29,Yemen,2177,617,1504
 2020-11-29,Zambia,17608,357,16983
 2020-11-29,Zimbabwe,9822,275,8472
-2020-11-30,Afghanistan,46498,1774,36788
+2020-11-30,Afghanistan,46274,1795,36788
 2020-11-30,Albania,38182,810,18849
 2020-11-30,Algeria,83199,2431,53809
 2020-11-30,Andorra,6745,76,5873
@@ -59871,7 +59871,7 @@ isodate,country,confirmed,deaths,recovered
 2020-11-30,Jamaica,10763,257,6219
 2020-11-30,Japan,148962,2076,127289
 2020-11-30,Jordan,219430,2751,155026
-2020-11-30,Kazakhstan,132348,1990,116863
+2020-11-30,Kazakhstan,174563,2433,147425
 2020-11-30,Kenya,83618,1469,55344
 2020-11-30,"Korea, South",34652,526,27885
 2020-11-30,Kosovo,39596,1016,25001
@@ -59973,3 +59973,194 @@ isodate,country,confirmed,deaths,recovered
 2020-11-30,Yemen,2191,619,1510
 2020-11-30,Zambia,17647,357,16998
 2020-11-30,Zimbabwe,9950,276,8482
+2020-12-01,Afghanistan,46717,1797,36907
+2020-12-01,Albania,39014,822,19384
+2020-12-01,Algeria,84152,2447,54405
+2020-12-01,Andorra,6790,76,5940
+2020-12-01,Angola,15251,350,7932
+2020-12-01,Antigua and Barbuda,142,4,130
+2020-12-01,Argentina,1432570,38928,1263251
+2020-12-01,Armenia,135967,2193,110365
+2020-12-01,Australia,27923,908,25606
+2020-12-01,Austria,285489,3325,227497
+2020-12-01,Azerbaijan,125602,1433,76897
+2020-12-01,Bahamas,7543,163,5934
+2020-12-01,Bahrain,87137,341,85357
+2020-12-01,Bangladesh,467225,6675,383224
+2020-12-01,Barbados,278,7,255
+2020-12-01,Belarus,138219,1166,115587
+2020-12-01,Belgium,579212,16786,0
+2020-12-01,Belize,5854,148,3151
+2020-12-01,Benin,3015,43,2839
+2020-12-01,Bhutan,414,0,386
+2020-12-01,Bolivia,144810,8963,122495
+2020-12-01,Bosnia and Herzegovina,89085,2727,53724
+2020-12-01,Botswana,10742,34,7912
+2020-12-01,Brazil,6386787,173817,5712305
+2020-12-01,Brunei,151,3,145
+2020-12-01,Bulgaria,148775,4188,53000
+2020-12-01,Burkina Faso,2931,68,2644
+2020-12-01,Burma,92189,1972,71343
+2020-12-01,Burundi,689,1,575
+2020-12-01,Cabo Verde,10816,106,10366
+2020-12-01,Cambodia,329,0,304
+2020-12-01,Cameroon,24487,441,22177
+2020-12-01,Canada,387052,12229,309557
+2020-12-01,Central African Republic,4918,63,1924
+2020-12-01,Chad,1700,102,1532
+2020-12-01,Chile,552864,15430,528034
+2020-12-01,China,92993,4743,87051
+2020-12-01,Colombia,1324792,36934,1217647
+2020-12-01,Comoros,613,7,586
+2020-12-01,Congo (Brazzaville),5774,94,4988
+2020-12-01,Congo (Kinshasa),12859,335,11663
+2020-12-01,Costa Rica,140172,1731,87721
+2020-12-01,Cote d'Ivoire,21334,132,20981
+2020-12-01,Croatia,131342,1861,108231
+2020-12-01,Cuba,8381,136,7658
+2020-12-01,Cyprus,10883,49,2057
+2020-12-01,Czechia,528474,8407,455177
+2020-12-01,Denmark,82470,846,65275
+2020-12-01,Diamond Princess,712,13,659
+2020-12-01,Djibouti,5680,61,5587
+2020-12-01,Dominica,85,0,63
+2020-12-01,Dominican Republic,144302,2333,115530
+2020-12-01,Ecuador,193673,13501,169804
+2020-12-01,Egypt,116303,6666,102816
+2020-12-01,El Salvador,39130,1120,35839
+2020-12-01,Equatorial Guinea,5156,85,5009
+2020-12-01,Eritrea,577,0,498
+2020-12-01,Estonia,12497,121,7536
+2020-12-01,Eswatini,6442,122,6017
+2020-12-01,Ethiopia,110554,1709,74917
+2020-12-01,Fiji,42,2,33
+2020-12-01,Finland,25462,399,16800
+2020-12-01,France,2275429,52821,167915
+2020-12-01,Gabon,9214,60,9066
+2020-12-01,Gambia,3743,123,3607
+2020-12-01,Georgia,139343,1303,117560
+2020-12-01,Germany,1094678,17177,769380
+2020-12-01,Ghana,51667,323,50547
+2020-12-01,Greece,107470,2517,23074
+2020-12-01,Grenada,41,0,30
+2020-12-01,Guatemala,122774,4178,111574
+2020-12-01,Guinea,13119,76,12045
+2020-12-01,Guinea-Bissau,2441,44,2327
+2020-12-01,Guyana,5423,151,4436
+2020-12-01,Haiti,9296,233,8023
+2020-12-01,Holy See,27,0,15
+2020-12-01,Honduras,108253,2918,48073
+2020-12-01,Hungary,221073,4977,64802
+2020-12-01,Iceland,5413,27,5187
+2020-12-01,India,9499413,138122,8932647
+2020-12-01,Indonesia,543975,17081,454879
+2020-12-01,Iran,975951,48628,677963
+2020-12-01,Iraq,554767,12306,484570
+2020-12-01,Ireland,72798,2069,23364
+2020-12-01,Israel,338127,2877,324449
+2020-12-01,Italy,1620901,56361,784595
+2020-12-01,Jamaica,10810,258,6364
+2020-12-01,Japan,150976,2109,125304
+2020-12-01,Jordan,223617,2802,162959
+2020-12-01,Kazakhstan,175565,2434,148043
+2020-12-01,Kenya,84169,1474,55610
+2020-12-01,"Korea, South",35163,526,28065
+2020-12-01,Kosovo,40117,1026,25586
+2020-12-01,Kuwait,142992,881,137625
+2020-12-01,Kyrgyzstan,73178,1275,64711
+2020-12-01,Laos,39,0,26
+2020-12-01,Latvia,17687,210,1806
+2020-12-01,Lebanon,129455,1033,83034
+2020-12-01,Lesotho,2137,44,1278
+2020-12-01,Liberia,1595,83,1343
+2020-12-01,Libya,83417,1196,54209
+2020-12-01,Liechtenstein,1286,16,1110
+2020-12-01,Lithuania,62515,519,15077
+2020-12-01,Luxembourg,35129,330,26156
+2020-12-01,MS Zaandam,9,2,0
+2020-12-01,Madagascar,17341,251,16657
+2020-12-01,Malawi,6028,185,5465
+2020-12-01,Malaysia,67169,363,56311
+2020-12-01,Maldives,13049,47,11968
+2020-12-01,Mali,4762,160,3241
+2020-12-01,Malta,9975,141,7748
+2020-12-01,Marshall Islands,4,0,1
+2020-12-01,Mauritania,8710,177,7764
+2020-12-01,Mauritius,505,10,463
+2020-12-01,Mexico,1122362,106765,829817
+2020-12-01,Moldova,108863,2323,95918
+2020-12-01,Monaco,617,3,559
+2020-12-01,Mongolia,812,0,358
+2020-12-01,Montenegro,35849,504,24637
+2020-12-01,Morocco,359844,5915,310193
+2020-12-01,Mozambique,15770,131,13778
+2020-12-01,Namibia,14416,151,13600
+2020-12-01,Nepal,233452,1529,216594
+2020-12-01,Netherlands,536129,9518,7017
+2020-12-01,New Zealand,2060,25,1963
+2020-12-01,Nicaragua,5838,161,4225
+2020-12-01,Niger,1586,75,1219
+2020-12-01,Nigeria,67838,1176,63430
+2020-12-01,North Macedonia,62945,1792,40188
+2020-12-01,Norway,36591,334,17998
+2020-12-01,Oman,123908,1430,115441
+2020-12-01,Pakistan,403311,8166,345365
+2020-12-01,Panama,167311,3098,145518
+2020-12-01,Papua New Guinea,669,7,597
+2020-12-01,Paraguay,83479,1771,58949
+2020-12-01,Peru,963605,35966,893061
+2020-12-01,Philippines,432925,8418,398782
+2020-12-01,Poland,999924,17599,597589
+2020-12-01,Portugal,300462,4577,220877
+2020-12-01,Qatar,139001,238,136306
+2020-12-01,Romania,479634,11530,360934
+2020-12-01,Russia,2302062,40050,1787962
+2020-12-01,Rwanda,5948,49,5544
+2020-12-01,Saint Kitts and Nevis,22,0,19
+2020-12-01,Saint Lucia,259,2,138
+2020-12-01,Saint Vincent and the Grenadines,85,0,80
+2020-12-01,San Marino,1650,46,1334
+2020-12-01,Sao Tome and Principe,996,17,934
+2020-12-01,Saudi Arabia,357623,5907,347176
+2020-12-01,Senegal,16107,333,15627
+2020-12-01,Serbia,183437,1652,0
+2020-12-01,Seychelles,183,0,162
+2020-12-01,Sierra Leone,2413,74,1838
+2020-12-01,Singapore,58228,29,58139
+2020-12-01,Slovakia,107183,868,68859
+2020-12-01,Slovenia,77135,1490,55476
+2020-12-01,Solomon Islands,17,0,5
+2020-12-01,Somalia,4451,113,3417
+2020-12-01,South Africa,792299,21644,732531
+2020-12-01,South Sudan,3111,61,2954
+2020-12-01,Spain,1656444,45511,150376
+2020-12-01,Sri Lanka,24532,122,17817
+2020-12-01,Sudan,18045,1255,10369
+2020-12-01,Suriname,5319,117,5197
+2020-12-01,Sweden,260758,6798,0
+2020-12-01,Switzerland,330874,4940,250200
+2020-12-01,Syria,7973,422,3624
+2020-12-01,Taiwan*,679,7,568
+2020-12-01,Tajikistan,12231,86,11640
+2020-12-01,Tanzania,509,21,183
+2020-12-01,Thailand,4026,60,3822
+2020-12-01,Timor-Leste,30,0,30
+2020-12-01,Togo,2997,64,2515
+2020-12-01,Trinidad and Tobago,6685,120,5807
+2020-12-01,Tunisia,96769,3260,70851
+2020-12-01,Turkey,668957,13936,409320
+2020-12-01,US,13721304,270642,5226581
+2020-12-01,Uganda,21035,205,9044
+2020-12-01,Ukraine,765117,12962,370677
+2020-12-01,United Arab Emirates,170149,576,155667
+2020-12-01,United Kingdom,1647230,59148,3589
+2020-12-01,Uruguay,6024,78,4483
+2020-12-01,Uzbekistan,73276,611,70534
+2020-12-01,Vanuatu,1,0,0
+2020-12-01,Venezuela,102621,901,97562
+2020-12-01,Vietnam,1351,35,1195
+2020-12-01,West Bank and Gaza,88004,747,65938
+2020-12-01,Western Sahara,10,1,8
+2020-12-01,Yemen,2197,619,1514
+2020-12-01,Zambia,17665,357,17059
+2020-12-01,Zimbabwe,10129,277,8643
