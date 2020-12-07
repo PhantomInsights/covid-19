@@ -137,8 +137,6 @@ def convert():
 
                     CLASIFICACION_FINAL_DICT[str(row[0].value)] = row_value
 
-            CLASIFICACION_FINAL_DICT["8"] = "CASO DE COVID-19 CONFIRMADO POR ASOCIACIÓN CLÍNICA EPIDEMIOLÓGICA"
-            CLASIFICACION_FINAL_DICT["9"] = "NA"
 
             # Entidades Federativas
             sheet = workbook["Catálogo de ENTIDADES"]
@@ -187,6 +185,7 @@ def convert():
                 row["TIPO_PACIENTE"] = TIPO_PACIENTE_DICT[row["TIPO_PACIENTE"]]
                 row["NACIONALIDAD"] = NACIONALIDAD_DICT[row["NACIONALIDAD"]]
                 row["RESULTADO_LAB"] = RESULTADO_LAB_DICT[row["RESULTADO_LAB"]]
+                row["RESULTADO_ANTIGENO"] = RESULTADO_LAB_DICT[row["RESULTADO_ANTIGENO"]]
                 row["CLASIFICACION_FINAL"] = CLASIFICACION_FINAL_DICT[row["CLASIFICACION_FINAL"]]
 
                 # Yes or No fields.
@@ -196,7 +195,8 @@ def convert():
                 row["EMBARAZO"] = SI_NO_DICT[row["EMBARAZO"]]
                 row["HABLA_LENGUA_INDIG"] = SI_NO_DICT[row["HABLA_LENGUA_INDIG"]]
                 row["INDIGENA"] = SI_NO_DICT[row["INDIGENA"]]
-                # row["TOMA_MUESTRA"] = SI_NO_DICT[row["TOMA_MUESTRA"]]
+                row["TOMA_MUESTRA_LAB"] = SI_NO_DICT[row["TOMA_MUESTRA_LAB"]]
+                row["TOMA_MUESTRA_ANTIGENO"] = SI_NO_DICT[row["TOMA_MUESTRA_ANTIGENO"]]
                 row["DIABETES"] = SI_NO_DICT[row["DIABETES"]]
                 row["EPOC"] = SI_NO_DICT[row["EPOC"]]
                 row["ASMA"] = SI_NO_DICT[row["ASMA"]]
