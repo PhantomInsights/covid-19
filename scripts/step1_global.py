@@ -49,7 +49,7 @@ def main():
     with open("global_data.csv", "w", encoding="utf-8", newline="") as other_file:
 
         # Initialize the data list with the header row.
-        data_list = data_list = [
+        data_list = [
             ["isodate", "country", "confirmed", "deaths", "recovered"]]
 
         # Iterate over our data dict and pass the values to the data list.
