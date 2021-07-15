@@ -1480,6 +1480,6 @@ And that's it for this dataset. We got some really interesting insights from som
 
 Getting clean data is not always easy and can discourage people from doing their own analysis. That's why I wanted to shore these scripts with you so you can accelerate your workflow and get interesting insights.
 
-I hope you have enjoyed the examples for tahles and plots, you are always welcome to experiment and ask your questions in the issues tab.
+I hope you have enjoyed the examples for tables and plots, you are always welcome to experiment and ask your questions in the issues tab.
 
 [![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=20521425)
